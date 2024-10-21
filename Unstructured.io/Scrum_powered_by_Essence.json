@@ -1,0 +1,4618 @@
+[
+    {
+        "type": "Header",
+        "element_id": "abe3bf3d2fbac50f1253bda5231339dc",
+        "text": "ACM SIGSOFT Software Engineering Notes",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "PageNumber",
+        "element_id": "160bd98ed8c6818a332063e273b8b720",
+        "text": "Page 1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "43136bcd9c9911cefd034199cc8bd90d",
+        "text": "January 2016 Volume 41 Number 1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "ad17b9ed88b79283fdf0d39479250609",
+        "text": "Check for Updates.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "463debfe3520690c71336bd764149416",
+        "text": "Scrum Powered by Essence",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0628c0ae3fc161b1ec214706ee245ced",
+        "text": "June Sung Park",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b2681bb1d687d0f7d94bb4530408f67f",
+        "text": "Industrial and Systems Engineering Department",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9bec00addfc42e891d5671efed9553e3",
+        "text": "Korea Advanced Institute of Science and",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1fe333f68bf1508e9495616c73888291",
+        "text": "Technology",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "eeb5aecdad0169b6220917ceb607baa6",
+        "text": "Daejeon, Korea",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fce6c8ded1675c5985f86f775da4cf06",
+        "text": "82-10-9107-5661",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a50a70aa8f2e1b9f4baf10becfcc8c63",
+        "text": "june.park@kaist.ac.kr",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4e20fea797b979264ec2cc70e3dc70b4",
+        "text": "Paul E. McMahon",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fd3ff46e7be9f60e96ea2ebfc8b473bd",
+        "text": "PEM Systems",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5f82c62984b60dc38deb48e12290c510",
+        "text": "Binghamton, NY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "89dfd4776a96a0901da768e058a6c40e",
+        "text": "1- 607-798-7740",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "71a671d0367660d713cd4c948fabe63b",
+        "text": "pemcmahon1@gmail.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cdb40b7ee1b74c770dedc8efd4f3d33f",
+        "text": "Barry Myburgh Jo\u2019burg Centre for Software Engineering (JCSE), School of Electrical and Information Engineering University of the Witwatersrand Johannesburg, South Africa 27-11-717-6308",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1b7cd97add91e22d9eab707ec0bb432c",
+        "text": "barry.myburgh@gmail.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "463debfe3520690c71336bd764149416",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "20ebc2705e6ffd1aea65c5fb207da308",
+        "text": "DOI: 10.1145/2853073.2853088 http://doi.acm.org/10.1145/2853073.2853088",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7ecfad21ca8a6c30ad74fd6278b3de4f",
+        "text": "ABSTRACT",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ae69952033e4341235fb1ff879dc17e4",
+        "text": "This paper shows how Scrum project management practice can be described using Essence kernel and language which has recently been adopted as an official Object Management Group standard for creating and enacting software engineering methods. Practical benefits of using Essence as a common foundation for defining software engineering practices are demonstrated. These practical benefits include the ability to compare practices, assess potential gaps, make needed practice improvements, and assemble select practices into a coherent method to benefit the project team. In addition, by providing practical checklists, as opposed to conceptual discussions, the Essence-powered practice becomes something the team uses on a daily basis. This is a fundamental difference from traditional approaches, which tend to overemphasize method description as opposed to method use.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "7ecfad21ca8a6c30ad74fd6278b3de4f",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "4e5bc253ee9812f1ea7d9a8b80eaeedd",
+        "text": "Categories and Subject Descriptors",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "064dd90d18ae2aabf490c11a82a92176",
+        "text": "K.6.3 [Computing Milieux]: Management of Computing and Information Systems \u2013 software process",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "4e5bc253ee9812f1ea7d9a8b80eaeedd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "03c5a0349951e042035fc7bb5030522e",
+        "text": "General Terms",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3b3e8de0622673d440567a5b24b1a0f7",
+        "text": "Management, Standardization, Languages",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "03c5a0349951e042035fc7bb5030522e",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "2c5a98960a682ff2cfdbda4f19383987",
+        "text": "Keywords",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "951b9b0612393c6ea9511c1f3e7606d9",
+        "text": "Essence kernel, Essence language, software engineering method, software engineering practice, Scrum project management",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "2c5a98960a682ff2cfdbda4f19383987",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "764338e0bcbf9fd1d144ead8c08073e9",
+        "text": "1. INTRODUCTION",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5c62465fbedcbd7c101d990f268e335d",
+        "text": "Software engineering has evolved since the 1960s from structured methods, to information engineering methods, object-oriented methods, unified methods, then to agile methods, to name just the most well-known ones. According to [1], 32 software engineering methods emerged during the last 20 years. However, there has been no globally agreed, common foundation that is shared across all the software engineering methods. As a result, it is difficult to compare those methods, to learn new methods, and combine them to address the specific need of a particular project.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "764338e0bcbf9fd1d144ead8c08073e9",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fe3327ce54e9c4bcc04f2ac3835f1f52",
+        "text": "Essence kernel has been developed by a community of software engineering experts called SEMAT [2] , and adopted by the Object Management Group as a standard for providing common elements, language and framework for describing software engineering methods [3]. Essence provides a simple way to compose a method for a specific project from practices written in common notation (i.e., Essence kernel and language) as shown in Figure 1 [3]. A practice here means a systematic and repeatable way of working which addresses a specific aspect of software development effort. Essence can be used to define all types of lifecycle model\u2014from the most lightweight agile lifecycle through more formal iterative lifecycles to the most formal and traditional waterfall lifecycles.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "764338e0bcbf9fd1d144ead8c08073e9",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4cd96f999bda0d06261ef5506d53a2b9",
+        "text": "It is important to understand that Essence is not an alternative to any method or set of practices, such as Scrum. Essence contains no practices, but rather it is a framework on which existing or new practices can be described, compared and improved.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "764338e0bcbf9fd1d144ead8c08073e9",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "63f2efb5d8f9811a3520b875f60880d4",
+        "text": "Methods",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7f01ebcd38dd600ad5595a0e936cc6e7",
+        "text": "are composed of",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "63f2efb5d8f9811a3520b875f60880d4",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "26a1e4b63beb55a2c9a070abe0db8089",
+        "text": "Practices",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "289e1e3d37ed6b83053d27162b3d2f77",
+        "text": "are defined in terms of",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "26a1e4b63beb55a2c9a070abe0db8089",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "561d2d0634588c29654149592efc5365",
+        "text": "are described using",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "26a1e4b63beb55a2c9a070abe0db8089",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d9c544426244c0ef6cdbd4e6b094f6eb",
+        "text": "The Kernel",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "bacd010df5c6fe284638efc35ed4774c",
+        "text": "'\u2014\u2014",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "d9c544426244c0ef6cdbd4e6b094f6eb",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "677aeb64556ff50d0087260f79d4c134",
+        "text": "The Language",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8ade0ecc24d0440505d2c56366c8d3f2",
+        "text": "Figure 1. Method Architecture",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "677aeb64556ff50d0087260f79d4c134",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "5e182e2604faae5e14a3179add499185",
+        "text": "2. LITERATURE AND CASE STUDIES",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "477324578d3f8fbc7ec9d3bb04ed95a4",
+        "text": "The features, applications and values of Essence are discussed extensively in [4, 5]. They showed how Essence kernel can be used to determine where the project state is and where to go next regardless of specific practices employed in the project. [6] discusses how Essence can improve competitive advantages of software businesses\u2014both the software product business and the professional IT service business. It shows how Essence can enable adaptive and agile composition and enactment of software engineering methods in the face of ever increasing volatility and uncertainty of software business environments. [7, 8, 9] discuss how Essence-based project planning and control can add value to agile practices. The added value includes: to allow a project team to compare and select the best practices for the project; to evaluate the completeness of a set of practices selected for the project; to measure the project progress and health; and to easily and safely change the set of practices as the need arises.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5e182e2604faae5e14a3179add499185",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cd02440fccfd2ec7a4551a7639ddcc0f",
+        "text": "A number of case studies have been reported where Essence-based software engineering and project management were applied with success. Red Hat Architect Team have been using Essence to help standardize its approach to engagements [10]. They are using alpha state cards in project planning, which provide consistent language and measurable objectives with which to access the current state, or articulate next steps and goals. They created a dashboard website to record and report the current alpha states of engagement projects, which facilitated high-level project governance. Essence was also used to build the Red Hat Architectural Framework which provides a framework to collate and index established approaches: techniques, activities, practices and methods. This enables consultants to find suitable approaches when seeking to achieve goals expressed in terms of Essence. Red Hat also applies Essence to analyzing existing methods and developing more rounded practices. This type of analysis has proven useful in finding the",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5e182e2604faae5e14a3179add499185",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "8549e461992ac806037380e66d300515",
+        "text": "ACM SIGSOFT Software Engineering Notes",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "PageNumber",
+        "element_id": "8a84bb3697790c2c233ed6e44d07e192",
+        "text": "Page 2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "7b2b4f4097e25d45179c2ec0ead2dfc9",
+        "text": "January 2016 Volume 41 Number 1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f86050fd2635ddcbd20afded263dc57a",
+        "text": "holes in existing processes and reworking a process to support a progressive state-based model that is easier to track and apply.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7b2b4f4097e25d45179c2ec0ead2dfc9",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "65d6a85877ecf915b4a4cb46c192ad6e",
+        "text": "Fujitsu UK has been using Essence, in particular alpha state checklists, in iteration planning with customers [11, 12]. They also used Essence to analyze, compare, standardize and integrate various Design and Build Methodologies (such as Architecture DBM, Applications DBM, Infrastructure DBM, Service DBM, etc.). With all the disruptive changes occurring in IT today including cloud, mobile, big data and IoT, Fujitsu felt they needed a common framework to standardize their methodologies and applied the Essence kernel successfully to that end. The methodologies were further improved so that quality assurance involved checking alpha states rather than activity completions. Fujitsu has 165 thousand employees across most geographies in the world. Fujitsu is now working on developing a common set of global standard methodologies and processes using the Essence as the common framework.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7b2b4f4097e25d45179c2ec0ead2dfc9",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0ae3514bb7465764ee91978636266b77",
+        "text": "The reader is referred to [13, 14, 15, 16] to find how a large insurance company (Munich Re) and a Chinese global telecommunications equipment vendor are applying Essence to their software engineering endeavors. [17, 18, 19] show how a research institution (SINTEF) and universities (Carnegie Mellon University and National University of Columbia) used Essence to improve research and education of software engineering.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7b2b4f4097e25d45179c2ec0ead2dfc9",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "eaf3f7f6c27ffc5887a3226ee8e84287",
+        "text": "3. ESSENCE KERNEL",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7b2b4f4097e25d45179c2ec0ead2dfc9",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "63466ecd07843c2205a2d3e96333c0e4",
+        "text": "Essence kernel contains essential elements that should be addressed in every software engineering endeavor. The kernel elements have 3 categories: alphas, activity spaces and competencies [3]. As shown in Figure 2, there are 7 alphas (Figure 2A)\u2014stakeholder, opportunity, requirements, software system, work, way of working and team\u2014and 15 activity spaces (2B) and 6 competencies (2C). Alphas, activity spaces and competencies are grouped in 3 areas of concern: customer, solution and endeavor.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "eaf3f7f6c27ffc5887a3226ee8e84287",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f0e52ebc8009638c15f1d413b8946dbd",
+        "text": "3.1 Essence Alpha and State Checklist",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7b2b4f4097e25d45179c2ec0ead2dfc9",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7a38c37e7d1744966fc0716357b2e1ac",
+        "text": "Alphas are manifested by work products. Each alpha has a set of states. As shown in Figure 3, the opportunity alpha may be in one of six states over the lifecycle of a software engineering endeavor. If, for example, Product Vision\u2014a work product in Scrum practice\u2014is mapped to the opportunity alpha, Product Vision is deemed to go through the states listed in Figure 3. Essence also provides a checklist for each alpha state as illustrated in Figure 3. Cards can be used to recall the kernel elements. Figure 3 shows two types of cards\u2014alpha definition card and alpha state detail card. Note that the checklist in an alpha state detail card shows an abbreviated version of the full checklist specified in [3].",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "f0e52ebc8009638c15f1d413b8946dbd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "acfbdc591885138e55721f6ce5d08436",
+        "text": "Cpporminity <provide tzkenolders ED Customer) ., = oS W <perfarsand plens Teann ) P Endeavour",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "4089493b418fdcda40d89094373ff6f6",
+        "text": "Figure 2A. Essence Alphas",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "6d8c2f72d28ea39be1a46986a551322b",
+        "text": "== e = = = e = = Understand Ensure Stakeholder Customer Possibliries Stakeholder Needs UsetheSystem e e e ey y ) i i i i i e B sy = Endeavour Preparctodo Coordinate Supportthe Team TrackProgress Stop the Work the Work Actvity",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "1cc0ec9bbeb6a9e8c4c76c5fb2d1de75",
+        "text": "Figure 2B. Essence Activity Spaces",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "ba9c6631fa4b355ced8f01fa565ad9a9",
+        "text": "2~ Stakeholder Customer Representation Endeavour Leadership Management",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7cb5655cc501146c1a07a56d89233508",
+        "text": "Figure 2C. Essence Competencies",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "03dc63e54fe1b55ba02c3c0f90018bad",
+        "text": "Figure 2. Essence Kernel Elements",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "7825535f3264caff776f738b24789624",
+        "text": "() Opportunity | The set of circumstances that makes & Identified appropdateto develop or change a saftvare system Solution Needed B Agood opportundy is identified addressingtheneed fora software- Value Established based soluion Agood opportundy has established value Agood opportunty has a software- based solution that can be produced quickly and cheaply Addressed Agood opportunty creaes a tangble beneft BenefitAccrued i",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "457c74a592ed8f9826bad82fb13d4df6",
+        "text": "|(\") opportunity + The value of a successful solution established \u00bb Impactof solution on stakeholders understood + Value of software system undersiood",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d5e834a4f67d542c5a925cd2e8c4c9b9",
+        "text": "Figure 3. Essence Alpha State and State Checklist",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7e8002512bc838fbcb27af291feb8ce8",
+        "text": "3.2 Essence Activity Space and Goal State",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fa9b0ad481abb28c95e25a7b5664b6e1",
+        "text": "Activity spaces are realized by one or more activities in a practice. Each activity may create or update one or more work products. For example, the understand the requirements activity space could be viewed as being realized by the release planning activity when using Scrum practice. Release planning produces a product backlog (work product), and this could be viewed as a manifest of the requirements alpha.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7e8002512bc838fbcb27af291feb8ce8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3e560ecc54dd2275c70a8cd32fe3cae0",
+        "text": "Activities within a given activity space in an area of concern changes the states of some alphas in the same area. Figure 4 shows, based on Essence 1.0 [3], the alpha states that should typically be achieved by each activity space. We will call them the goal states of an activity space. For instance, the goal states of the explore possibilities activity space include: stakeholder::recognized, opportunity::identified, opportunity::solution needed, and opportunity::value established. The goal states of an activity can be determined as a subset of the goal states of the activity spaces in which the activity is contained.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7e8002512bc838fbcb27af291feb8ce8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "a8db8256528bb3dca97b44d00fcb3898",
+        "text": "ACM SIGSOFT Software Engineering Notes",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "PageNumber",
+        "element_id": "1c3030cfeb782358e2d937aa3cd413a5",
+        "text": "Page 3",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "9dd7d012745140b710bcc557bbb723f7",
+        "text": "January 2016 Volume 41 Number 1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0a122fb491c571134d89dc888573482d",
+        "text": "We can observe in Figure 4 that an activity space sometimes transforms an alpha to a new state over one or more intermediate states: e.g., the understand the requirements activity space transforms the requirements alpha from a null state to the coherent state through two intermediate states: conceived and bounded. When an activity space drives an alpha to go through multiple states, the checklist to verify achievement of the activity space\u2019s goal states should cumulatively contain all the checkpoints corresponding to those multiple states. The activity space checklist to verify achievement of the entire goal states of an activity space is obtained by the union of the checklist for every alpha affected by the activity space.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9dd7d012745140b710bcc557bbb723f7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "af47597e7ae2ee7af6004235c156d3bd",
+        "text": "It should be noted that the activity space-alpha state relationships suggested in Essence 1.0 [3] (and shown in Figure 4) should be regarded as just a guideline. They will need to be tailored to address specific project situations. The Essence specification itself will evolve over coming years. The systematic procedure presented in Section 4 for describing a practice based on the Essence kernel is, however, still valid independent of any change to the activity space-alpha state relationships and alpha state checklists.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9dd7d012745140b710bcc557bbb723f7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "0bd98398a213fa9f4c811df7bb71770e",
+        "text": "Opportunity Stakeholder Alpha States Activity Spaces Identified Explore Possibilties Understand Stakeholder Needs Ensure Stakeholder Satisfaction Use the System",
+        "metadata": {
+            "text_as_html": "<table><thead><tr><th rowspan=\"2\">Alpha States Activity Spaces</th><th colspan=\"5\">Opportunity</th><th colspan=\"5\">Stakeholder</th></tr><tr><th></th><th>led Solution</th><th></th><th>Viable</th><th>Addressed</th><th>Represented</th><th>Involved</th><th>In Agreement</th><th>Satisfied for Deployment</th><th>Satisfied in Use</th></tr></thead><tbody><tr><td colspan=\"11\">Explore Possibilities. e</td></tr><tr><td colspan=\"11\">Understand Stakeholder Needs</td></tr><tr><td colspan=\"11\">Ensure Stakeholder Satisfaction E S</td></tr><tr><td>Use the System</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9dd7d012745140b710bcc557bbb723f7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2f767661886579800946a44ffb38bc30",
+        "text": ".4A4 \u00e9ustomer",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9dd7d012745140b710bcc557bbb723f7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "87529a095ca9da3932bbd19f84b5cf56",
+        "text": "4A. Customer Area",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9dd7d012745140b710bcc557bbb723f7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "28aff1e7805576f944819e73751a18be",
+        "text": "Requirement Software System Alpha States - 1 > Activity Spaces Usable Acceptable \u00e9 Demonstrabl Understand the requirements Shape the System _- Implement the System Test the System Dploy the System Operate the System",
+        "metadata": {
+            "text_as_html": "<table><thead><tr><th rowspan=\"2\">Activity Spaces</th><th colspan=\"6\">Requirement</th><th colspan=\"6\">Software System</th></tr><tr><th>Conceived</th><th>%</th><th>Coherent</th><th>%</th><th>Addressed</th><th>%</th><th>Architecture Selected</th><th>%</th><th>i</th><th></th><th>\u00e9</th><th>Retired</th></tr></thead><tbody><tr><td colspan=\"13\">Understand the requirements</td></tr><tr><td colspan=\"13\">Shape the System mm EE =</td></tr><tr><td colspan=\"13\">Implement the System</td></tr><tr><td colspan=\"13\">Test the System \u2014</td></tr><tr><td colspan=\"13\">Dploy the System SEsEmmm=m</td></tr><tr><td>Operate the System</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "87529a095ca9da3932bbd19f84b5cf56",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c99beb51354997b109c9b0369dbbc386",
+        "text": "4E >Solbutjor.1 Ar\u00e9a",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9dd7d012745140b710bcc557bbb723f7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b21711460ac30b8b1ebb2e5c80eed475",
+        "text": "4B. Solution Area",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9dd7d012745140b710bcc557bbb723f7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "cd166a01bd150d22ecdd229d76d908fa",
+        "text": "Team Work - Wayof Working. Alpha States H ed ed se Activity Spaces \u00a2 \u00a3 Collabor Performing Adjourned 8 _: \u00a7 Prepareto Do the Work Coordinate Activity \" \" S Support the Team Track Progress Stop the Work -",
+        "metadata": {
+            "text_as_html": "<table><thead><tr><th rowspan=\"2\">%</th><th colspan=\"5\">Team</th><th colspan=\"4\"></th><th colspan=\"6\">Way of Working</th></tr><tr><th></th><th>Formed</th><th>Collaborating</th><th>Performing</th><th>Adjourned</th><th>Started</th><th>Under Control</th><th>Concluded</th><th>Closed</th><th>Pri Estal</th><th>Foundation Established</th><th>In Use</th><th>In Place</th><th>Working Well</th><th>Retired</th></tr></thead><tbody><tr><td colspan=\"16\">Prepare to Do the Work</td></tr><tr><td colspan=\"16\">Coordinate Actmity</td></tr><tr><td colspan=\"16\">Support e Team</td></tr><tr><td colspan=\"16\">Track Progress \\ |</td></tr><tr><td>Stop the Work</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "b21711460ac30b8b1ebb2e5c80eed475",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7b4eddb308bf1a4e13b9a3fed0275595",
+        "text": "4C. Endeavor Area",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "b21711460ac30b8b1ebb2e5c80eed475",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "5fcc0288c717f9409608655cdceaac5d",
+        "text": "Figure 4. Goal States of Activity Spaces",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9dd7d012745140b710bcc557bbb723f7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "bdadfad95162c3ee155210bb7427ec11",
+        "text": "4. DESCRIPTION OF SCRUM PRACTICE USING ESSENCE KERNEL",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9dd7d012745140b710bcc557bbb723f7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "381e0729d5ddc8cc1a31794ca58d5d14",
+        "text": "Scrum and its variants are the most popular agile project management practices today. According to [20], 72% of about 4000 software practitioners surveyed used Scrum (54%), Scrum/XP hybrid (11%) or Scrumban (7%). There is a rich literature and web content on Scrum practice [21, 22, 23, 24]. We consider the following elements to comprise",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "bdadfad95162c3ee155210bb7427ec11",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8afd3f66c0d8f34c7bae1807323eb1a7",
+        "text": "the Scrum practice which will be translated into Essence kernel and language: Stakeholder, Product Envisioning, Product Vision, Release Planning, Product Backlog, Scrum Team, Product Owner, Scrum Master, Development Team, Sprint, Sprint Planning, Sprint Backlog, Task Board, Daily Scrum, Definition of Done, Work Remaining, Burndown Chart, Sprint Review, Sprint Retrospective and Product Increment. Definitions of those terms can be found in [21, 24].",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "bdadfad95162c3ee155210bb7427ec11",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "62e156e1226d522d33542484d3e60873",
+        "text": "Like other software engineering practices, Scrum practice has been textually described using a set of unique terminologies with a few graphical aids and tools (such as Task Board, Burndown Chart) to facilitate the understanding and enforcement of its ceremonies. The OMG Essence specification [3] includes an example that illustrates an Essence-based description of Scrum practice. The same Essence-based description of Scrum was compared with a SPEM 2.0-based description of Scrum in [17] to demonstrate the fundamental difference between Essence and SPEM 2.0. A key difference was found to be the notion of alpha with alpha states and the usage of states to help assess progress and provide planning guidance. However, neither [3] nor [17] explained how a practice can be systematically translated into an Essence-based description. To the best of the authors\u2019 knowledge this is the first time in literature that a robust procedure is presented for converting any software engineering practice into an Essence-based description.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "bdadfad95162c3ee155210bb7427ec11",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1bff51d56bb5d04242e342228c068fbc",
+        "text": "Only alphas in the Essence kernel were used for evaluating the health of project progress in [4, 5]. Using only alphas was sufficient to evaluate the progress and health in a practice-agnostic way. However, to describe a practice using Essence kernel, we use all types of kernel elements\u2014 alphas, activity spaces and competencies\u2014as well as patterns in this paper. We use all of them because existing practices are mostly defined in terms of activities (such as Sprint Planning), work products (such as Sprint Backlog) and roles (such as Development Team), which manifest activity spaces, alphas and role patterns, respectively. A pattern in the Essence language is a named structure made up of several Essence elements [3]. The role pattern associates practice activities, work products and competencies such that role R possesses competencies C to be able to perform activities A to produce work products W.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "bdadfad95162c3ee155210bb7427ec11",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d89e7be0f9d8be1721f467469528aeda",
+        "text": "We apply the Activity-State Mapping Algorithm (Figure 5) presented in [25, 26] to assign practice activities to activity spaces, and to specify alpha states and checklists as the criteria to check the health and progress of each practice activity. By mapping practice activities to activity spaces, one can obtain the goal states for each practice activity based on Figure 4, and the Essence-provided checklists associated with each goal state. This supports the augmentation of existing practices with quality gates and governance procedures.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "bdadfad95162c3ee155210bb7427ec11",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f55357cebdf9ced730c630063066f54a",
+        "text": "Step 1: Determine the set of activities to be performed in executing a chosen practice.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9dd7d012745140b710bcc557bbb723f7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3ba7083b54e6591348c42b7380ca3d45",
+        "text": "Step 2: Repeat for each activity listed in Step 1.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "f55357cebdf9ced730c630063066f54a",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bb02f2dd0f3715c12f1488335c18f898",
+        "text": "Step 2.1: Assign the activity to a set of activity spaces.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "f55357cebdf9ced730c630063066f54a",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ee6e645ca6d066918a57fa8342fc0084",
+        "text": "Step 2.2: Merge the goal states of the chosen set of activity spaces so as to generate the candidate goal states of the activity. (See Figure 4.) Determine the goal states of the activity as a subset of the candidate goal states.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "f55357cebdf9ced730c630063066f54a",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2cd7f59ddb3b3d26f4be7a9f37652ca5",
+        "text": "Step 2.3: Collect all the checkpoints corresponding to the goal states of the activity listed in Step 2.2.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "f55357cebdf9ced730c630063066f54a",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "736d437fc37ce8fd2fae09c79c4c24a2",
+        "text": "Step 2.4: Determine the activity checklist for the activity as a subset of the checkpoints collected in 2.3. (Note that the activity checklist is a subset of the union of activity space checklists for the activity spaces to which the activity was assigned.)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "f55357cebdf9ced730c630063066f54a",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7940f3ee55b1e998553390daa32fea66",
+        "text": "Figure 5. Activity-State Mapping Algorithm",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9dd7d012745140b710bcc557bbb723f7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "c888694fad2d30650b70ec2c0e6f5a65",
+        "text": "ACM SIGSOFT Software Engineering Notes",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "PageNumber",
+        "element_id": "2a9441ec71eb366af768bb99be53a92d",
+        "text": "Page 4",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "d857751eb98d3b140f59eb1001ae3476",
+        "text": "January 2016 Volume 41 Number 1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d3226ea9f7bf5d9a94f56737ce201a4d",
+        "text": "4.1 Scrum Work Product to Alpha Mapping",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "07a51e4d2111a7b29a1c302c5b14ab64",
+        "text": "Figure 6 shows an example of the mapping between the set of work products from Scrum practice and the set of Essence alphas.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d3226ea9f7bf5d9a94f56737ce201a4d",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9de076b9dfa6be12dfe31a18f810e166",
+        "text": "Software System",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ae115cb27e53ba809295d170a805bb1f",
+        "text": "Product Vison Product Backlog Product Increment",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "83ae79cbe398f30ea100439a3beb597b",
+        "text": "Sprint Backig",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "388b46039e089ee853f692da36c82c83",
+        "text": "Team",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7f2b7b4868e59ddb3301d77e1c692d85",
+        "text": "\u2018Scrum Team",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "708c729524f4c01a7b55a34f38ed6cd2",
+        "text": "Work",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9d9dcff5f0e69cd333bfb61e6e5a8334",
+        "text": "ReleasePlan",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "cd1ad31ebb2349a324c77267626826b5",
+        "text": "SprintPlan",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7f2d558fc6b4b02cb580ae32d92be6b3",
+        "text": "TaskBoard",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "008bb4701a0982afb735384ac8f3d667",
+        "text": "Lot",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "cdc6e097a03dfc0916fbd75f0e95f984",
+        "text": "Wayof Working",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "371de0c768c52847aaf3fb455a35c323",
+        "text": "G",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "7c06906705a2ee83cc04a41274162115",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "371de0c768c52847aaf3fb455a35c323",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "29346fc7e535c2eeaa11bbf85064cf3c",
+        "text": "Definition of Done Scrum Guide Product Owner",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "769fa9f9fefd90cd959c4af288e12585",
+        "text": "Burndown Chart",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "1e42cbdc3debb588acb64de718c28345",
+        "text": "Figure 6. Mapping of Scrum Work Products to Essence Alphas",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d7b2c3219c728bf298ba2bcdad8749f8",
+        "text": "In this example, the Product Vision in Scrum practice manifests the stakeholder and opportunity alphas in Essence, which articulates the stakeholders\u2019 needs and the reason for creating the software system. The Product Backlog developed based on the Product Vision manifests the requirements alpha, which specifies what the software system should do to address the opportunities and satisfy the stakeholders. The Sprint Backlog is modeled as a sub-alpha of the Product Backlog. An alpha may contain a collection of other alphas. Together, these sub-alphas contribute to and drive the state of the superordinate alpha [3]. The Release Plan and Task Board are work products manifesting the work alpha, i.e., efforts put in order to build the software system successfully. The Sprint Plan, Work Remaining and Burndown Chart are modeled as sub-alphas. The definition of roles such as Product Owner, Scrum Master and Development Team is a major discriminant that sets Scrum practice apart from other practices. The roles of the Scrum Team members are defined using the role pattern as explained above.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "1e42cbdc3debb588acb64de718c28345",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "25322508b96ddfd5b5e04e3da5b2b001",
+        "text": "It should be noted that Scrum work products relate to all 7 alphas. This means that Scrum practice is a well-balanced practice in so far as the work products address all important dimensions of the project. If it were not, for instance, for the Sprint Retrospective, the state of the way of working alpha might not progress from an Essence perspective.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "1e42cbdc3debb588acb64de718c28345",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7636e2f360062fec401a6849a823ce20",
+        "text": "4.2 Scrum Activity to Activity Space Mapping",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d857751eb98d3b140f59eb1001ae3476",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9b02f153c7c3d3519a4099c23d79178b",
+        "text": "Figure 7 shows the mapping of the set of activities in Scrum practice to the set of activity spaces in Essence kernel. Directed lines in Figure 7 that connect Scrum activities with each other are called activity associations in Essence [3]. Activity association represents an \u201cend-before-start\u201d association (viz., sequence flow).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "7636e2f360062fec401a6849a823ce20",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "252718911f480e1615f413ce55ab3b40",
+        "text": "Out of 15 activity spaces only 9 are addressed by Scrum practice. Unaddressed activity spaces are: shape the system, implement the system, deploy the system, stop the work, use the system, and operate the system. The partial coverage of activity spaces stems from the fact that Scrum practice focuses on the management of product and project, and does not provide guidance for development techniques such as requirement modeling, architecture design, coding and testing. Another limitation of Scrum practice is that it does not address the full life cycle of software delivery. It lacks guidance for release, transition and operation endeavors. Therefore, organizations often combine Scrum practice with other complementary practices such as agile modeling [27], agile",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "7636e2f360062fec401a6849a823ce20",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fe8dd060260ff5e527a6b35d3522152b",
+        "text": "architecture design [28], extreme programming (XP) [29, 30], release and transition processes, asset reuse, etc. [28, 31] One of key advantages in mapping the practices to Essence kernel is the visibility it brings to potential gaps as we see in this section.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "7636e2f360062fec401a6849a823ce20",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "d68864eb5033f41fec9ed8ce0ab7ec22",
+        "text": "Explore Possi ities Understand the Coordinate Activity i Support the Team Test the System Ensure $mk\u00e9Ma Track Progress Rety Sprint . e",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "0101c1a2fb4856a6585723591fdecd55",
+        "text": "Figure 7. Mapping of Scrum Activities to Essence Activity Spaces",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2ac5d800f162e64bdafe8d6d987bfd1e",
+        "text": "In Figure 7, the Product Envisioning activity is mapped to two activity spaces: explore possibilities and understand stakeholder needs. Likewise, the Release Planning and Sprint Review activities each realizes multiple activity spaces. On the other hand, multiple activities including Daily Scrum, Sprint Review and Sprint Retrospective are mapped to the track progress activity space. As such, the activity-to-activity-space mapping is many-to-many.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "0101c1a2fb4856a6585723591fdecd55",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c75cd8ba462e40645229296f7263511a",
+        "text": "When an activity tries to realize multiple activity spaces, one may suspect that the given practice lacks a detailed guideline for that activity. Product Envisioning alone indeed requires a host of critical activities such as market analysis, competition analysis, key features selection, value proposition, financial projection, risk identification, etc. The Scrum practice does not go into details about those activities and the Product Owner will need to resort to other practices such as software product management (SPM) practices to deal with them. The same holds for Release Planning. The Product Owner may well want to combine some activities in the SPM discipline to deal with target market segmentation, internal and external positioning, non-functional requirements, product architecture, pricing, etc. On the other hand, Scrum requires several activities such as Daily Scrum, Sprint Review and Sprint Retrospective for the track progress activity space. This confirms that Scrum puts emphasis on project planning and tracking and provides guidelines at a detail level.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "0101c1a2fb4856a6585723591fdecd55",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "42b5e8fd51f4750d63297de8e7254d68",
+        "text": "In Figure 8, different roles in Scrum practice are associated with Essence competencies (Figure 2C). As Scrum Teams are self-directed teams, Developers need to possess leadership and management competencies as well.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "0101c1a2fb4856a6585723591fdecd55",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "995d6a5f5512a15a76302fe7b85c3586",
+        "text": "Stakeholder Representation <is capable of Product Owner <is capable of Leadership Management <is capable of Scrum Master Analysis Development <is capable of Developer Testing",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c5e8077a9205ad38dbc58192da91c32e",
+        "text": "Figure 8. Mapping of Scrum Roles to Essence Competencies",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "6b6696dff75dae1be4f9ca9ec8f7bf8a",
+        "text": "ACM SIGSOFT Software Engineering Notes",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "PageNumber",
+        "element_id": "2070fabd66102f5750045b55a96a51b5",
+        "text": "Page 5",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "74d0d4f865bef60a7ec0d009d4707e04",
+        "text": "January 2016 Volume 41 Number 1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "60ab8594f17597bd3496b3fe17ce89d5",
+        "text": "It should be noted that there is not a single way to represent a practice, such as Scrum, in Essence. As an example, Sprint Planning could be mapped to the prepare to do the work, or the coordinate activity, or the support the team activity space, or any combination of them. The value of this exercise, regardless of how you choose to conduct this mapping, is the discussion that ensues within each organization related to potential gaps and subsequent practice improvement decisions.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b416197be72710abe878e82c095f141d",
+        "text": "4.3 Essence-Powered Scrum Diagram",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "024efeed439b8df464a2a3a7cc0915ee",
+        "text": "Figure 9 summarizes an Essence-powered practice in what we call an Essence-Powered Practice Diagram. The lines with the \u201c<produce\u201d label represent the relationship regarding which Scrum activities (Figure 7) produce which work products (Figure 6). The diagram also shows the assignment of activities to activity spaces. The abacus diagram on the right and the activity space column (third column) in Figure 9 reflect the",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "b416197be72710abe878e82c095f141d",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b49868b08320d0a7ea822d5f882b7b3d",
+        "text": "relationships between activity spaces and alpha states as described in Figure 4. For example, the ensure stakeholder satisfaction activity space should move the stakeholder and opportunity alphas to the states of satisfied for deployment and addressed, respectively.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "b416197be72710abe878e82c095f141d",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0e1254505e0a3c578b8147f42360b961",
+        "text": "By assigning each Scrum activity to appropriate activity spaces, one can obtain a comprehensive checklist (Figure 5) that can be used to evaluate if the activity is making healthy progress or has moved the project to a desirable target state. This is one of the real benefits that derives from describing Scrum using the Essence kernel.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "b416197be72710abe878e82c095f141d",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b0dd1a83e0779abb540bcd6e543eefaa",
+        "text": "It should be noted, however, that activities don\u2019t necessarily stop when targeted alpha states are achieved; instead they may continue to ensure the team does not fall back. The project may even regress to former states as project conditions change.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "b416197be72710abe878e82c095f141d",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b4b1384fc54da53bf005a2d8fb8b66db",
+        "text": "Stakeholder",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8539ea95588120b3acf57e6aabb4964d",
+        "text": "Opportunity",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "3cd974527547909a059a4879ffebbb0c",
+        "text": "Requirement",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "51fb4528be2ce8ce3157b7fb6a533d61",
+        "text": "Software",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "07b0cbe19fbe6470eb3d70699ab794df",
+        "text": "System",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "29f6915a294d2f7a54d23dc729846259",
+        "text": "(ED",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a9710a3f53a1498484a6893c6d210a57",
+        "text": "Way of",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "685f164f2938ff882bc0d890ed72b4ef",
+        "text": "Working",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "61896b888edf1b0a950b4746a3b70b09",
+        "text": "=X",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9b0d719bbea441fc5a28ab90a069460b",
+        "text": "Explore",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "79d9858ae4c695fabe5665cea915b400",
+        "text": "Reconized",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "058ab97762f4aed0714572c179e28b60",
+        "text": "Identified",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a16703edddedf325137ec2c83f34930e",
+        "text": "i",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "3b395cb88e834598814e11dc86d3b124",
+        "text": "<produce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9d9802d75327fdb4bb49d50b49c9e170",
+        "text": "Product",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "3708e9777a4bd62fba8367b9ae612737",
+        "text": "Envisioning",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "19c16d7c7c97d12b3f2b241f87dc4877",
+        "text": "Possibilities",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "fc03ca1ca71d9ee75030ce514d768634",
+        "text": "Understand",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "bb0994de06ee4f400b6a6e6f572611ad",
+        "text": "Represented",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "53085bcbd5924e7e0c48a8ddcbc04d0f",
+        "text": "Involved",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "fb92055a1e54ee7b6755ed7470c1ddab",
+        "text": "Solution Needed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7102a1c42a38a31ed3c94df2fdd0b650",
+        "text": "Value Estab.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "2cc870eaec2fcec58b25f2f12c516dde",
+        "text": "Stakeholder",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d6a403f9b4fcfd897190d90acef2efcb",
+        "text": "In Agreement",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "33860b359ab77fbe824022101ef8d046",
+        "text": "Viable",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "1dd867ef307e62183af851e8df490f18",
+        "text": "Needs",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "1a886759e935be3098d616e0b61aff2a",
+        "text": "Release Plan",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "af844b48b126d0c81125f796e55babc0",
+        "text": "Product",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "87597e3886bd441dfc5f0c3b928d619a",
+        "text": "Backlog",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "34d7018265b7df30da4a4c1ad8edb49c",
+        "text": "Scrum Team",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9047cd75717e5694f845a836710fd6a9",
+        "text": "<produce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b041e125bf8a0a02b05782d176504c4f",
+        "text": "<produce\u2014\u2014",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "96d86f83ca045f34f192d5630102c85b",
+        "text": "<produce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d733c66bb43eff66a1ed03c22bf28755",
+        "text": "f-<produce:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c0e7df3fe21d86611c42d1a06570ec63",
+        "text": "Release",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "406d1f4aa7734ae76920c4ec04dd77a2",
+        "text": "Planning",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "eb459fab63be1c8e466453a1813ab3cf",
+        "text": "<produce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7d730477d94f23fe9198dfda67b9ff2c",
+        "text": "<produce\u2014",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "394b0ffe16ee76ead61f98d5beb54f0a",
+        "text": "Understand",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "1ab0ada441e767341d30ed0da26fd494",
+        "text": "the",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d4d58e54608a722ed3b208732f6c2bce",
+        "text": "Requirements",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "77059cdaa3394f4c8ff08dd73e731cd8",
+        "text": "Prepare to Do",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "340685ca07f5ebd641cfb7a864a493cf",
+        "text": "the Work",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "5bf40d0cdd9300616ea6a95d158032b0",
+        "text": "Conceived",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e058e8d39ef5c8a96a9e1e202d46e8a0",
+        "text": "Bounded",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a460b6c3fc7004256168669862caf21e",
+        "text": "Selected",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b30c398b2feec92a225e3b49faab9d68",
+        "text": "Principles Estab.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f074cdb3b37902d5861a1a03689db8a4",
+        "text": "Foundation Estab.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f0db47c7bf46c84b8b1d71899105c00e",
+        "text": "Initiated",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f4c289cb1c973849d54a46a920f3750a",
+        "text": "Prepared",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "41f9e5eece15eceae2eae818b750fcc0",
+        "text": "Understand",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9069168ca8ca761e7d7f88172ee118f8",
+        "text": "the",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7b9c448ef93f7322bead8eaac67dbd3f",
+        "text": "Coherent",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c70a921fce9be05a73aa364c5d62fbb5",
+        "text": "Sprint Plan",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7e65a83edd093efb19b4dd88ba1fe8fb",
+        "text": "<produce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b95c955b0dec2713b5349b07ae280772",
+        "text": "[-<produce.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ae57b219757075754bcdb4b12de161f5",
+        "text": "Sprint",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "62b303310c9864ca679c4b341fcba586",
+        "text": "Planning",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6b2c39ad6d1ebaac093e8dca0e94e520",
+        "text": "Requirements",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "287152ff576bdd013b90f39d91e3455a",
+        "text": "HHHH",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "018ca95ef82a0316a7e5ad249da4252d",
+        "text": "Coordinate",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "04f1fde68b193690b7cac1d4581c2e31",
+        "text": "Activity",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "1a81d70287d0be725aa5c42e6669e0cc",
+        "text": "(_Formed )",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a9b2c8cb3db94f1556ad0c2112021c99",
+        "text": "Started",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "4baa5ac231290a7a4235535232c245cf",
+        "text": "(",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "a9b2c8cb3db94f1556ad0c2112021c99",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "9c292efbf7ff7cb13449da3f6a3809e2",
+        "text": "(",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "a9b2c8cb3db94f1556ad0c2112021c99",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "57305adff0f0b0215879b279a6328884",
+        "text": "Task Board",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8a7faf1ef591899fff70d18c2abef9d9",
+        "text": "Work",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "278c04495946373e93ac3e9e3020b194",
+        "text": "Remaining",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7072f925e54c336807e69da40ecd3fe9",
+        "text": "<produce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8db829d3ee66f17b18177f2f9b66f370",
+        "text": "<produce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "edfc9e7f807683535dc2e7217a2a8c31",
+        "text": "|-<produce\u2014{",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "0dbda3115d7e2bcc51ad039d6f62c9f7",
+        "text": "Daily Scrum",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "af853ccc7f5199992ba872afde1320e1",
+        "text": "Support the",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c804e9a5d349d9e380e1b3cda4063263",
+        "text": "Team",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "cdeeb205bbcce48ff94e01fcd415cdf4",
+        "text": "Collaborating",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "aa7e84386c37c40982f5ae749a12ed31",
+        "text": "I",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b982822d655537a3cb1b0663f0b23c5c",
+        "text": "In Place",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "4629b389284692ad06d042e97d5f2d89",
+        "text": "Burndown",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "49f6bc6f891d1c6fc0a3135b20c988bb",
+        "text": "Chart",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "539d4a8d7317bf806cc80834a3f12005",
+        "text": "<produce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "2069a642e5c7464ee1d451f0bf536c81",
+        "text": "Track",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "33d486e531d8146e3f39798f02f2e48d",
+        "text": "Progress",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b8f555a5c63e7a6d27c5f36664d4ebc3",
+        "text": "Performing",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "704a89a61af3c8c32b69d4f974e5ac38",
+        "text": "Under Control",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9c62c448bf0979b7ac34c76ba9bbf640",
+        "text": "Test the",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "af0068066dd41e85f9e686858e4c9774",
+        "text": "system",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "080f01522131e7a389efb4932a6cf6f4",
+        "text": "Ready",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a1776a8552416b92231f90743249f78a",
+        "text": "Product",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c3da190e37aca85f8753436a583ddd08",
+        "text": "Increment",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "034df72f076fa656c530c7dce52d64ca",
+        "text": "<produce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c047afbbed9ffe8e2a15e8a09cf26d48",
+        "text": "f-<produce:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "0c207867b2f53d00720e175033722d9f",
+        "text": "Sprint Review",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "959ce8fcaaf7135df8c9030512945a12",
+        "text": "Ensure",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "aeacb4e01c728292658af5583ffb1c19",
+        "text": "Stakeholder",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d713cef73a910d829948aa7709696673",
+        "text": "Satisfaction",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ec8b8b3dc99ee1a07bf7cb2432cc6da2",
+        "text": "Satisfied for",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9b9c83e3b79ce2714a26664accb3d9ea",
+        "text": "Deployment",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "28f4d4ccc8be9b3fd762f5480f26dc4b",
+        "text": "Addressed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "588a45cffdc7e55bf9aa22039b20eb01",
+        "text": "Track",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "0752eebdda2328b89930c4bb2dfacc72",
+        "text": "Progress",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "dd6895056fcdbf3c6c77d74208dc5374",
+        "text": "Working Well",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "599c55f39cbb8b5f4f3bf4d5cecaa22e",
+        "text": "Concluded",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c5ce8e4a3d9006474b126ebf8489059f",
+        "text": "Definition of",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "279a4f88ea41a944e32b43dbb8c3398c",
+        "text": "Done",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "daf5d374c1d6d4024578c9f7dcd3bb7e",
+        "text": "| _",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "279a4f88ea41a944e32b43dbb8c3398c",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "73a4edf01749a012a3e4d25c1e63ffe2",
+        "text": "<produce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a87f09923b9eba4954e20d7b426df226",
+        "text": "Sprint",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e5a36e9a47db397e97eaa562b3dbd850",
+        "text": "Retrospective",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ddd57686f37401f0fd4dc1d0e5843a9e",
+        "text": "Scrum Guide",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "775f2b1db70aae7a38a93ae2e60cc4d5",
+        "text": "<produce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "81305c3566520c289929e5e693b7dee5",
+        "text": "N",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "f9d842e2b176afb5b605ab4f6b011bd4",
+        "text": "/",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "81305c3566520c289929e5e693b7dee5",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f85935a8091f634d54047b150595e0d1",
+        "text": "Figure 9. Essence-Powered Scrum Practice",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a0c272d4108102b56bf02378f0a7bab7",
+        "text": "4.4 Scrum Activity Definition Card and Activity Checklist",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "74d0d4f865bef60a7ec0d009d4707e04",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4181e38b09e16f2cafcfcafaffa72a52",
+        "text": "Figure 10 illustrates an activity definition card for the Release Planning activity. The card identifies the initial states and the goal states of the activity. The Release Planning activity may start when the stakeholder and opportunity alphas have reached the in agreement and viable states, respectively. When the activity fulfills its goal, the requirements, team, way of working and work alphas should reach the coherent, selected, foundation established and prepared states, respectively. The card also indicates that the Product Owner possessing the competency of stakeholder representation should conduct the Release Planning activity.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "a0c272d4108102b56bf02378f0a7bab7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "70ec84052478a2e34ed2a5bd1aecbbda",
+        "text": "Figure 11 shows the checklist for the coherent state of the requirements alpha, as an example, which can be consulted while the Release Planning activity is in progress and when it is done. This checklist was compiled by aggregating the checkpoints Requirements::Conceived, Requirements::Bounded Requirements::Coherent states that are provided in Essence [3]. for and",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "a0c272d4108102b56bf02378f0a7bab7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b33f4a587216ad667934171d8d1c8095",
+        "text": "An activity checklist can be produced by aggregating the checklists for the goal states of the activity. For example, the checklist for the Release Planning activity is given by the collection of the checklists for coherent state of the requirements alpha, the selected state of the team alpha, the foundation established state of the way of working alpha and the prepared state of the work alpha, as shown in Figure 12.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "a0c272d4108102b56bf02378f0a7bab7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "5c53311970135d1a6af08c2d307d183b",
+        "text": "ACM SIGSOFT Software Engineering Notes",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "PageNumber",
+        "element_id": "c6d7d79c71226428e8cae398a3ec5a70",
+        "text": "Page 6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "99639421e94c82cd93f91912317867d1",
+        "text": "January 2016 Volume 41 Number 1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "f72acb5bd5037affcbc268847a26b09c",
+        "text": "Release Planning Scrum Practice Work Products: | Stakeholder [ In Agreement l | Opportunity Representation = svakmo:\u2019m luct Owner e = Release Plan Requirement ) Team (| Wway of working | Work (_ Foundation Established | Scrum Team Sl 0 |",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8b9f9333ab5d59e234e7f84fbab9084f",
+        "text": "Figure 10. Activity Definition Card for Release Planning in Scrum",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "e63a63db0563172069987345be6d10fa",
+        "text": "(:] Requirement The initial set of stakeholders agrees that a system is to be produced. . The stakeholders that will use the new system are identified. The stakeholders that will fund the initial work on the new system are identified. There is a clear opportunity for the new system to address. The stakeholders involved in developing the new system are identified. The stakeholders agree on the purpose of the new system. P It is clear what success is for the new system. The stakeholders have a shared understanding of the extent of the proposed solution. The way the requirements will be described is agreed upon. The mechanisms for managing the requirements are in place. The prioritization scheme is clear. Constraints are identified and considered. c e e e e Assumptions are clearly stated. The requirements are captured and shared with the team and the stakeholders. The origin of the requirements is clear. The rationale behind the requirements is clear. B Conflicting requirements are identified and attended to. The requirements communicate the essential characteristics of the system to be delivered. The most important usage scenarios for the system can be explained. The priority of the requirements is clear. SiEeiieite; The impact of implementing the requirements is understood. The team understands what has to be delivered and agrees to deliver it.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "3e4e2e2899823c11bcf7f4cd1f3250ba",
+        "text": "Figure 11. Alpha State Checklist",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "922c6e4a9d4bd2e2c76215c736e08978",
+        "text": ") Requirement",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "7a50e543d36b9205b9b4e7b6eb779a61",
+        "text": "|",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "922c6e4a9d4bd2e2c76215c736e08978",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8153d140c7a71f855d31b224e05f0c6c",
+        "text": "Team",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6591368eada1640eb33c38a6e2e29bf4",
+        "text": "Sebected",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "2a419805902de218e02ff1a20c919055",
+        "text": "| Way of Working Foundation Established",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "17ed36e8a4ba3b7e273bd4b4e9b223c7",
+        "text": "o",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "3bd6c795c674f9b5e3aa4d785de217e8",
+        "text": "\u2014\u2014",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "17ed36e8a4ba3b7e273bd4b4e9b223c7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "709e169feb62c165ba5d45a601c5ce34",
+        "text": "Figure 12. Activity Checklist",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6bb57bbd20c8ba0863cf8f645f9570f8",
+        "text": "Other software engineering practices can be described using Essence kernel in the same manner as shown in this section for Scrum practice. In general, given the roles, activities and work products defined in a practice, we can associate the roles with Essence competencies, activities with activity spaces, and work products with alphas. We can then construct the Essence-powered practice as shown in Figure 9, where the goal states for each activity and its associated work products are specified. Based on Figure 9, we can generate the activity definition card for each activity performed in a practice as shown in Figure 10, together with the activity checklist as illustrated in Figure 12.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "709e169feb62c165ba5d45a601c5ce34",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "63efce63f0b7e0900ee992066a5003f8",
+        "text": "The activity definition cards provide concise reminders and cues for team members as they go about their daily tasks. By providing practical checklists, as opposed to conceptual discussions, the Essence-powered practice becomes something the team uses on a daily basis. This is a fundamental difference from traditional approaches, which tend to overemphasize method description as opposed to method use, and tend to be consulted only by people new to the team. The project method",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "709e169feb62c165ba5d45a601c5ce34",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "add7845872d16ae0e86513dcff921f12",
+        "text": "assembled from Essence-powered practices becomes a small deck of cards in their pockets, which team members can easily pull out to discuss the current project state, work assignments and collaboration among them. Teams can also discuss areas of improvement by referring to the cards and their associated checklists. [5, 32]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "709e169feb62c165ba5d45a601c5ce34",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+        "text": "5. CONCLUDING REMARKS",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f044cd4654e1da5db635bb98b7ed571d",
+        "text": "The motivation behind using Essence comes from the pain points shared by software engineering practitioners today.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "89b5962b2282e644d3e305cd68e22eb0",
+        "text": "A large number of software engineering practices (such as use case analysis, test-driven development, scrum project management to name a few) are available, but each in different notation.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "61d048e97725bf61a2df84a2660f5d24",
+        "text": "Learning a new software engineering practice is difficult even if one already knows other similar practices.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "32c502cd35c3dbef98feddcc0c8466ce",
+        "text": "Practices do not provide developer-friendly forms of guidelines and checklists so as to be consulted in daily activity planning and tracking.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8c0c2b61f5cd5bb10abca7cb24a99b0e",
+        "text": "In the absence of multidimensional checklists that ensure the health of a project from all aspects throughout its lifecycle, developers often overlook some of the aspects, ending up with a software system not delivering promised values to the stakeholders.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "97d54a35b6283e562ed8bf8cd248d581",
+        "text": "It is difficult to compare, select and integrate different practices into a streamlined method for a software engineering project.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1ab5ea94c2e0a0b5cabf44e5d4e008a6",
+        "text": "It is also difficult to build an enterprise method architecture in a company that requires a variety of standardized methods and practices for software engineering for different product lines and service lines.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "aa1264c9f43cf54f463a854741ba129e",
+        "text": "Benefits that derive from describing Scrum practice (or any other practice) using Essence kernel are manifold:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c9a95b9ea5103fb8bb8b9f39af15e176",
+        "text": "Using Essence-provided alpha state checklists and activity checklists, the Scrum Team can evaluate their progress and early detect systemic problems (such as increasing technical debt, loss of stakeholder support, dysfunctional team work, etc.) [4, 5, 7, 8, 9, 32]. The key measure of progress of the native Scrum practice is the amount of working software the team produces and the speed with which the team produces it. Essence-provided alpha state checklists and activity checklists complement these measures by providing other views of the progress and health of the project [10, 12, 15, 16].",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "89c02a426bef271b343af19c3b22ead9",
+        "text": "The mapping of Scrum activities and work products to Essence kernel elements allows the Scrum Team to find deficiencies in the breadth and depth of the Scrum practice in use [6, 26, 33]. For instance, the team may add some agile modeling practice [27] to better clarify Product Backlog Items during the Release Planning for a large and complex problem domain; add some agile architecture practice [28] to satisfy the architecture selected state of the software system alpha; or add extreme programming practices [29] to better enforce the implement the system and test the system activity spaces [16, 30].",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "34bed656421c1fddac243a9a9ff0d9f7",
+        "text": "When the team adds other practices to the Scrum practice, it can first describe all the selected practices using Essence kernel and then systematically assemble them into a coherent project method [26, 33]. Describing each practice using the common Essence kernel allows the team to find gaps, overlaps, conflicts and complements among selected practices so that the team may integrate them into a well-formed method [10, 12, 15, 16].",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "58638ca1b1b4b40d853b5722ae867457",
+        "text": "If the Scrum Team carefully adjusts the activity-to-activity-space mapping taking into consideration the team\u2019s competency and learning curve. For example, if the team is new to Scrum, it may map the Sprint Planning activity to the coordinate activity activity space in initial sprints, and later to the support the team activity space, as it gains more experience and better capability [33]. The support the team activity space requires the project to reach more challenging",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "44688e2c3d1abb507d3e9ec13dd123b8",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "8e14c5c1450794b34d3aaf0bf936b1dd",
+        "text": "ACM SIGSOFT Software Engineering Notes",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "PageNumber",
+        "element_id": "5e947faa794b160acd4a35cd54db3c0e",
+        "text": "Page 7",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "38e477acd227362b34a66456b8ce5a8a",
+        "text": "January 2016 Volume 41 Number 1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f5ab9c78c258d8bec3bba45dcbea5d1b",
+        "text": "states of the team, work and way of working alphas, thereby improving the team productivity (see Figure 4C).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "38e477acd227362b34a66456b8ce5a8a",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c1bae84f163d07152067876395c7d533",
+        "text": "Different teams in an organization may apply different variations of Scrum mixing different sets of other practices such as agile modeling, XP, Kanban, Unified Process, etc. By describing all the practices and methods using the common Essence kernel, the organization can establish and maintain an enterprise method architecture [34]. An Essence-based enterprise method architecture helps the organization find common practices across teams, lets them share and collaboratively improve common practices, learn other teams\u2019 new successful practices, train new employees relevant practices depending on their roles, and enable employees to quickly adapt to their new team\u2019s specific method [10, 12, 15, 16]. The organization thus becomes a truly learning organization.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "38e477acd227362b34a66456b8ce5a8a",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1da10d0cfb6a28c5abd55b8a90cde28f",
+        "text": "It becomes easier to manage a large project consisting of multiple teams using different sets of practices. Such a large project can consolidate different practices into a single streamlined method for the entire project and check its progress using the common Essence kernel and checklists. Furthermore, an organization with an Essence- based method architecture can monitor and control, perhaps with an integrated dashboard, the health and progress of every ongoing project using the common set of alpha state checklists [10]. Essence kernel provides a structure and mechanism for progress monitoring, retrospectives, risk management and project steering in a holistic, simple, lightweight, non-prescriptive and method-agnostic fashion [18].",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "38e477acd227362b34a66456b8ce5a8a",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "349fac0b0c7cc293340e289a77a9650e",
+        "text": "6. ACKNOWLEDGMENT AND CAVEAT",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "38e477acd227362b34a66456b8ce5a8a",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f8c1ee73202a26c9ffffbb1f4ba90f2f",
+        "text": "This work was supported by ICT R&D program of MSIP/IITP in Korea [14-824-10-003: Development of Cloud Services for Software Engineering Method Enactment Based on the OMG Essence Standard]. The authors thank Pekka Abrahamsson, Ivar Jacobson, Svante Lidman and Roly Stimson, and an anonymous associate editor of ACM SIGSOFT SEN for helpful comments that improved the paper.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "349fac0b0c7cc293340e289a77a9650e",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4f08ca6d4b072693523b0aded21add03",
+        "text": "The authors are members of SEMAT and some of them are members of the OMG Essence Revision Task Force. However, the content of this paper does not represent the official views or policies of SEMAT (Software Engineering Method and Theory) nor of OMG (Object Management Group).",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "349fac0b0c7cc293340e289a77a9650e",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9bd24130635c6f030c89f9c62342a9cd",
+        "text": "7. REFERENCES",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "38e477acd227362b34a66456b8ce5a8a",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3bb05ffbff5ff56231219a2b576f37d3",
+        "text": "[1] Kennaley, M. 2010. SDLC 3.0: Beyond a Tacit Understanding of Agile, Fourth Medium Press.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "47fe3f874f67fb092accb185076ecc18",
+        "text": "[2] Park, J. S., Jacobson, I., Myburgh, B., Johnson, P., and McMahon, P. E. 2014. SEMAT Yesterday, Today and Tomorrow. SEMAT. DOI=http://semat.org/wp-content/uploads/2014/12/SEMAT- Yesterday-Today-and-Tomorrow-v1.0.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "52b61f01397c0a4e3910a8e39035a334",
+        "text": "[3] Object Management Group, 2014. Essence\u2014Kernel and Language for Software Engineering Methods 1.0. DOI=http://www.omg.org/ spec/Essence/.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7a51debe5253470dac7b3c6f3ed62a52",
+        "text": "[4] Jacobson, I., Ng, P. W., McMahon, P. E., Spence, I., and Lidman, S. 2012. The essence of software engineering: the SEMAT kernel. Communications of the ACM 55 (Dec. 2012), 42-29.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "882d67c0822b20d468f5f4a9a6b8b13b",
+        "text": "[5] Jacobson, I., Ng, P. W., McMahon, P. E., Spence, I., and Lidman, S. 2013. The Essence of Software Engineering: Applying the SEMAT Kernel, Addison-Wesley.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ea8248a1825287d0faa2019256fad533",
+        "text": "[6] Park, J. S. 2015. Software engineering in the context of business systems\u2014how Essence can help. In Software Engineering in the Systems Context, I. Jacobson and H. Lawson, Ed. College Publications, London.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a757f7700dcc1e8112e5d2cfbe94329c",
+        "text": "[7] Jacobson, I., Spence, I., and Ng, P. W. 2013. Agile and SEMAT\u2014 perfect partners. Communications of the ACM 56 (Nov. 2013) 53- 59.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "590c3529ebb2f98badc646a75d123535",
+        "text": "[8] Jacobson, I., Ng, P. W., Spence. I., and McMahon, P. E. 2014. Major-league SEMAT\u2014why should an executive care? Communications of the ACM 57 (April 2014) 44-50.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "17791a1ddaa4d75297a4bdfea586a3ab",
+        "text": "[9] Jacobson, I. and Seidewitz, E. 2014. A new software engineering. Communications of the ACM 57 (Dec. 2014) 36-41.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "32b2699b35aa473e71de0f1ffdaa2c1e",
+        "text": "[10] Seymour, E. 2015. We all have different ways to do things and that\u2019s OK. In Essence-in-Practice Conference (Berlin, June 18, 2015). OMG Technical Meeting. DOI=http://www.omg.org/news/ meetings/tc/berlin-15/special-events/essence-presentations/ seymour.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7390fda93928d748ca1ad976739547ff",
+        "text": "[11] Cunningham, D. 2013. Enabling Fujitsu\u2019s industrialized delivery of application services. In Essence Information Day (Berlin, June 20, 2013). OMG Technical Meeting. DOI=http://www.omg.org/news/ meetings/tc/berlin-13/special-events/essence-pdfs/S7- Cunningham.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8a0e3e5fb394637b4e2dd0004d2a4518",
+        "text": "[12] Nadin, S. 2015. Using Essence to deliver together: practical experience at Fujitsu. In Essence-in-Practice Conference (Berlin, June 18, 2015). OMG Technical Meeting. DOI= http://www.omg.org/news/meetings/tc/berlin-15/special-events/ essence-presentations/ nadin.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "78b210de028ee8b2d2d4da15b3f4130d",
+        "text": "[13] Perkens-Golomb, B. 2013. Applying SEMAT concepts at Munich Re: personal reflections. In Essence Information Day (Berlin, June 20, 2013). OMG Technical Meeting. DOI=http://www.omg.org/ news/meetings/tc/berlin-13/special-events/essence-pdfs/ S6_Burkhard.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "64f6fc9d7d6371106dd4975eb22fbeba",
+        "text": "[14] McDonough, A. 2014. Munich Re and Essence\u2013kernel and language for software engineering methods: a case study. OMG. DOI= http://www.omg.org/news/whitepapers/Munich_Re_Essence_Case _Study-2014-12-01_JP.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "91b6f4ee7d10b13654ebba2b13402939",
+        "text": "[15] Perkens-Golomb, B. 2015. Successful utilization of ESSENCE at Munich Re. In Essence-in-Practice Conference (Berlin, June 18, 2015). OMG Technical Meeting. DOI=http://www.omg.org/news/ meetings/tc/berlin-15/special-events/essence-presentations/ perkens-golomb.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a4840265e73d776cb91079456d62d1d4",
+        "text": "[16] Ivar Jacobson International, 2014. Asian telecommunications equipment vendor successfully achieves rapid and sustainable agile transformation. DOI=http://www.ivarjacobson.com/uploadedFiles/ Pages/Knowledge_Centre/Resources/Case_Studies/Resources/Asia nTelecomm1.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2d9601f96ef161a5f7002bb15a2f61cf",
+        "text": "[17] Elves\u00e6ter, B., Benguria, G., and Ilieva, S. 2013. A comparison of the Essence 1.0 and SPEM 2.0 specifications for software engineering methods. In Proceedings of the 3rd Workshop on Process-Based Approaches to Model-Driven Engineering (Montpellier, France, July 2, 2013). DOI=http://dl.acm.org/ citation.cfm?id=2489835.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b07786f96fac25198c2288508b438fcb",
+        "text": "[18] P\u00e9raire, C. and Sedano, T. 2014. State-based monitoring and goal- driven project steering: field study of the SEMAT Essence framework. In Proceedings of the 36th International Conference on Software Engineering (Hyderabad, India, May 31-June 7, 2014). DOI=http://dl.acm.org/ citation.cfm?id=2591155.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "24b385156703acec1c5c029c61b39778",
+        "text": "[19] Zapata, C. and Jacobson, I. 2014. A first course in software engineering method and theory. DYNA 81 (Jan./Feb. 2014) National University of Columbia. DOI=http://www.scielo.org.co/ scielo.php?pid=S0012-73532014000100026&script=sci_arttext.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "85c3061805bb7b5315cddb0b0d0d9ce7",
+        "text": "[20] VersionOne, 2012. 7th Annual State of Agile Development Survey. DOI=https://www.versionone.com/pdf/7th-Annual-State-of-Agile- Development-Survey.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "87f65f92d0d08734c3868ca60943cc7b",
+        "text": "[21] Schwaber, K. 2004. Agile Project Management with Scrum, Microsoft Press, Redmond.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "671a25c68aa01bacb99b5e0d4b1ae7ef",
+        "text": "[22] Scrum.org. 2015. DOI=https://www.scrum.org/.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "16e3ec61ae37d1b37f796915ec71dab4",
+        "text": "[23] Scrum Alliance. 2015. DOI=http://www.scrumalliance.org/.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "9bd24130635c6f030c89f9c62342a9cd",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "e0960aaee68f7406bdc891748d188a44",
+        "text": "ACM SIGSOFT Software Engineering Notes",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "PageNumber",
+        "element_id": "ce5f02fc3bc170ee897d61a1419d383d",
+        "text": "Page 8",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "Header",
+        "element_id": "386c439a8f46cc75415d6965d17e78d7",
+        "text": "January 2016 Volume 41 Number 1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "742a0168c18807e01de958270683210a",
+        "text": "[24] Schwaber, K. and Sutherland, J. 2015. Scrum Guide. DOI= https://www.scrum.org/Scrum-Guide.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f8be82f579f00879564e3349bc6f2e22",
+        "text": "[25] Park, J. S. 2015. Essence-based goal-driven adaptive software engineering. In Proceedings of the IEEE/ACM 4th SEMAT Workshop on General Theory of Software Engineering (GTSE) (Florence, Italy, May 18, 2015). DOI=http://dl.acm.org/ citation.cfm?id=2820176.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "009294d4eb5f10c14b90a2be7e6b1e76",
+        "text": "[26] Park, J. S. 2015. Essence-powered Scrum: a generic approach to describing practices using Essence kernel and language. In Essence- in-Practice Conference (Berlin, June 18, 2015). OMG Technical Meeting. DOI=http://www.omg.org/news/meetings/tc/berlin-15/ special-events/essence-presentations/park.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f5ad86760ba57ed84cc9646583e2bf2b",
+        "text": "[27] Ambler, S. 2015. Agile Modeling\u2014Effective Practices for Modeling and Documentation. DOI= http://www.agilemodeling.com/.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f5544a1ea8d939738ad0407ef2404cfe",
+        "text": "[28] Leffingwell, D. 2015. Scaled Agile Framework. DOI=http:// scaledagileframework.com/.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "98f429ad6c4545bfcd2a88d02fda71db",
+        "text": "[29] Beck, K. and Andres, C. 2005. Extreme Programming Explained, Addison-Wesley, Boston.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ced3d6e3e8553e20730f826253d9c8d3",
+        "text": "[30] Williams, L., Brown, G., Meltzer, A., and Nagappan, N. 2011. Scrum + engineering practices: experiences of three Microsoft teams. In Proceedings of the 2011 International Symposium on",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "20412baca73518f295005be9db51f6ed",
+        "text": "Empirical Software Engineering and Measurement (ESEM). (Banff, Canada, Sept. 22-23, 2011). DOI=http://dl.acm.org/citation.cfm? id=2083397.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "36103aae7955a9d782401395f7b90547",
+        "text": "[31] Ambler, S. and Lines, M. 2011. Disciplined Agile Delivery: An Introduction, IBM Software, Somers, NY. DOI=http:// www.disciplinedagiledelivery.com/.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5c768cbf340e03066bcc5574d8f876fb",
+        "text": "[32] McMahon, P. E. 2014. 15 Fundamentals for Higher Performance in Software Development, Leanpub.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c577bc2184a14716d9f5bee5def7fc51",
+        "text": "[33] Park, J. S. 2014. Essence-based adaptive software engineering. In the 4th International Conference on Emerging Applications of Information Technology (EAIT). (Kolkata, India, Dec. 19, 2014). Computer Society of India. DOI=https://sites.google.com/ site/csieait/home; http://www.scribd.com/doc/251364248/Essence- Tutorial-JP.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6e418b3b62f36d91447c17f6e0b4b21b",
+        "text": "[34] Park, J. S. 2013. Essence kernel-based enterprise method architecture. In Essence Information Day (Berlin, June 20, 2013). OMG Technical Meeting. DOI=http://www.omg.org/news/ meetings/tc/berlin-13/special-events/essence-pdfs/S5-Park.pdf.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "386c439a8f46cc75415d6965d17e78d7",
+            "filename": "Scrum_powered_by_Essence.pdf"
+        }
+    }
+]

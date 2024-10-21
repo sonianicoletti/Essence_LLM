@@ -1,0 +1,4297 @@
+[
+    {
+        "type": "Title",
+        "element_id": "f0d9720e5007fb99aaa2eb5cc01ff731",
+        "text": "Alpha State Card Games",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a66bd3bfb3f243a11cbcfffe24580a3d",
+        "text": "INSTRUCTIONAL GUIDE SEVEN GAMES",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "75a56cc30a44011f19e56f1c8740d249",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "c8a69f0bc687af0126bd3c21ee9125a9",
+        "text": "AR AcoBSON",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "9236657d8ff0beccc3ff2969501cddd0",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "701f9a8476c287b424a89532ee25e797",
+        "text": "INTRODUCTION",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d3c71708e27a06499c00d4a4a23e7bb8",
+        "text": "This instructional guide provides a brief introduction to the Alphas and presents seven different games that can be played with the Alpha State Cards by software development teams.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "701f9a8476c287b424a89532ee25e797",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9488067d0e31db920a8835e5095032e7",
+        "text": "What are Alphas?",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9e1dabfc77ecd318c777f3d069278791",
+        "text": "Essence is a standard that defines the smallest set of concepts that are common to all software projects, aiming to help teams assess the health of their software endeavor and to improve their way of work- ing. The Essence Kernel manifests itself in practical tools and assets such as Alpha State Cards. Alphas represent key performance indicators for a software development project. They are entirely method, life-cycle, process, practice and even philosophy independent, so it doesn\u2019t matter what your personal belief system is - they can apply to any type of software project.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "9488067d0e31db920a8835e5095032e7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "77e779f66cc521db565395766f156f33",
+        "text": "The use of the Alphas, and the Alpa State Cards, has many benefits for individuals, teams and organiza- tions. These include helping you to:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "9488067d0e31db920a8835e5095032e7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "119d417e86666175028132a8983d02ec",
+        "text": "Understand where you are",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "9488067d0e31db920a8835e5095032e7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0db02e468f4d82f5f6222cd936ce6b55",
+        "text": "Understand what needs to be addressed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "9488067d0e31db920a8835e5095032e7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "62bd37c6f66accccf09a0c6fe56bada0",
+        "text": "Track progress and health",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "9488067d0e31db920a8835e5095032e7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "33d68a3df3c7a710e4b75f49e218db33",
+        "text": "Keep projects in balance and avoid catastrophic failures",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "9488067d0e31db920a8835e5095032e7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9d0c2e3244b49e0d83cf9c39516252a8",
+        "text": "Form good sprint goals and other objectives",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "9488067d0e31db920a8835e5095032e7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e102f2482f034a48a9de22001834669b",
+        "text": "Define practice independent checkpoints, milestones and lifecycles",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b2d3cf472b3bb8b64fe06ec42ebddf85",
+        "text": "The Alphas are incredibly powerful as they:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "e102f2482f034a48a9de22001834669b",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8ce83b382d33311ba7d9d80eac9d7911",
+        "text": "1) capture the key concepts involved in software engineering.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "e102f2482f034a48a9de22001834669b",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ad1235844a39bdc9aa41845f84a01a0e",
+        "text": "2) allow the progress and health of any software engineering endeavour to be tracked and assessed.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "e102f2482f034a48a9de22001834669b",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cd541f692a0f8b479129bc6c0621a940",
+        "text": "3) provide the common ground for the definition of software engineering methods and practices.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "e102f2482f034a48a9de22001834669b",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f444b8c7c39c83f7f339e82ab9d0c042",
+        "text": "To read more about the Alphas, please refer to the Alpha State Card Reference Guide found under White Papers at www.ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "e102f2482f034a48a9de22001834669b",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c9e65885e4418868e1ff0e3f52f494d3",
+        "text": "Alpha State Card Games",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ae8372081789998b619734a3bd56da2d",
+        "text": "We typically use them on a wall or whiteboard to visually display where we are and what we want to focus on next.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "c9e65885e4418868e1ff0e3f52f494d3",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7d403f254ed65907e81904a14e52303f",
+        "text": "Have a go yourself - this guide provides a selection of games that you can play to help your team and add a new dimension to your workshops. They include:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "c9e65885e4418868e1ff0e3f52f494d3",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3a26afdd3f480f388a2761fa8a21c6bf",
+        "text": "Progress Poker, Chase the State, Objective Go, Checkpoint Construction, Lifecycle Layout, Milestone Mapping, Health Monitoring",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "c9e65885e4418868e1ff0e3f52f494d3",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "acd5c8908afab6e506e07c1309d387d0",
+        "text": "0 IVAR JACOBSON INTERNATIONAL",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "04ce00d4fa3bc070c2f7f9c04600c8f3",
+        "text": "L 4",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "24bbb7c01624716120204de978d08701",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "bb3d7754251568b75e911cec6df31bdf",
+        "text": "JACOBSON 0 IVAR INTERNATIONAL",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "28f5702005383123772d85ebc8b335f3",
+        "text": "Alpha State Card Game: Progress Poker",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c3ecd63e506bdd1889e35278bbc6d0f4",
+        "text": "Object of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e6e91b6ac792a041d57e28dc71a6da10",
+        "text": "Variations",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a591cbc13154e3d2b7abc7ad7ac40402",
+        "text": "The game can also be played with only one set of cards:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "e6e91b6ac792a041d57e28dc71a6da10",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1fe93d68c1c3e506bf79eff0736ffd81",
+        "text": "Team members may have different opinions on where they are, or where they need to go next. The idea behind Progress Poker is simple. Individual Alphas are presented for assessment. After a period of discussion, each participant chooses from his or her own deck the numbered card that represents his or her estimate of the state that the Alpha is currently in. All estimates are kept private until each participant has chosen a card. At that time, all estimates are revealed and discussion can begin again.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "e6e91b6ac792a041d57e28dc71a6da10",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "21481738b542d837e23ffc0a6b37f9a9",
+        "text": "1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "e6e91b6ac792a041d57e28dc71a6da10",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fdacc3ac0e43d9f35d989cad43d7b921",
+        "text": "Lay the state cards for the Alpha under consideration out on the table, in order, in front of the players.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "e6e91b6ac792a041d57e28dc71a6da10",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "172aada23fbf4b972d6b039fc0d8b829",
+        "text": "Each player considers the set of states and identifies the state that they believe the Alpha to be in.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "e6e91b6ac792a041d57e28dc71a6da10",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4a683dbdea6783ebfa44d8123e08fea6",
+        "text": "Use this game to determine the state of any particular Alpha.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "e6e91b6ac792a041d57e28dc71a6da10",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4a63aed22445a8c9690546b1e6d6a8b9",
+        "text": "The players then simultaneously raise their hands with the correct number of fingers raised to indicate the state they have selected. A closed fist is used to indicate the sixth state.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "e6e91b6ac792a041d57e28dc71a6da10",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ba9a3f04cd121518c3929e7d10c2cf26",
+        "text": "Number of Players",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "dd16bad1704c19701294f84727984cc1",
+        "text": "If all players have selected the same state card then there is consensus.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "ba9a3f04cd121518c3929e7d10c2cf26",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "68fe364455f053bee6f27f7cd3072ad1",
+        "text": "Any, but typically teams of 3 to 9 will be the most effective.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "ba9a3f04cd121518c3929e7d10c2cf26",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "5c9f854703db59a93331a93737576379",
+        "text": "5.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "ba9a3f04cd121518c3929e7d10c2cf26",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bd283982937096da19a58c1e1686bc73",
+        "text": "If the selected cards are different then the players with the least and most advanced states explain their reasoning.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "ba9a3f04cd121518c3929e7d10c2cf26",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9db5d92d8502478f342511cac64c1078",
+        "text": "Equipment Needed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4f7aff0d9c64047882dcfdebc690a29e",
+        "text": "Repeat from 3 until consensus emerges",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9db5d92d8502478f342511cac64c1078",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "793a7ebaa5c006a024da5222cd68ee54",
+        "text": "Essential: 1 set of Alpha State Cards for each player",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9db5d92d8502478f342511cac64c1078",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "637ab926c5f1adc61a7955a3bbfec426",
+        "text": "Or without the cards at all. As for the previous variation but in this case each player has a copy of the Reference Guide to consult when identifying the appropriate state.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9db5d92d8502478f342511cac64c1078",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "72308f2452291c2e2a14e74243f7b0d6",
+        "text": "Optional: An Alpha State Card Reference Guide",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "9db5d92d8502478f342511cac64c1078",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e726525e7d93ed4fa82eb31badebc5c7",
+        "text": "Duration of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "aa88350a7765392ab2703b35833e80e9",
+        "text": "2 \u2013 10 minutes.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "e726525e7d93ed4fa82eb31badebc5c7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8637fa163ccdfe60ca7b00de3551a441",
+        "text": "How to Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "fd7f3356d006ff31b53c3158466cdac0",
+        "text": "Strategy",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "00323a572342ddf343cb3280322a9e12",
+        "text": "Progress Poker is a good way to come to a consensus without spending too much time on any one topic. It allows, or forces, people to voice their opinions, thoughts and concerns. Pick the Alphas of concern to the group and focus on them. This game can be used in conjunction with \u201cChase the State\u201d to determine the overall state of any software development effort. Once the current state of an Alpha is known then the next state to be achieved is obvious.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "fd7f3356d006ff31b53c3158466cdac0",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "793fe3f6fd00bef0bb594a6d6c225586",
+        "text": "Each player is given a set of state cards for the Alpha under consideration.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "fd7f3356d006ff31b53c3158466cdac0",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5c4dbeefb5da3e80b8aa37a0932c367f",
+        "text": "The Alpha card for the Alpha under consideration is placed in the center of the table.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "fd7f3356d006ff31b53c3158466cdac0",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fb89bd3462cd4d3bf97b7d6d92c89913",
+        "text": "3. Each player selects the state card that he or she thinks best represents the current state of the Alpha.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "fd7f3356d006ff31b53c3158466cdac0",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b6c2ec0d744381ed69bf50f656d19d87",
+        "text": "S e",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "557b6a9a522297788c1126bc7b0e6647",
+        "text": "All members put their selected state card face down on the table.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "b6c2ec0d744381ed69bf50f656d19d87",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b93d34a5cc6875aaee67b902d46079ff",
+        "text": "g",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "b6c2ec0d744381ed69bf50f656d19d87",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "00db016bb9a787caa213adc9793cc3a2",
+        "text": "e",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "b6c2ec0d744381ed69bf50f656d19d87",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b645f4843871ea623a574f6d7912e1c5",
+        "text": "5. When all are ready, they turn the state card face up.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "b6c2ec0d744381ed69bf50f656d19d87",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5142130f93fa8662d8a58ee01ed053dc",
+        "text": "If all players have selected the same state card then there is consensus.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "b6c2ec0d744381ed69bf50f656d19d87",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4d174938cbf476b6a64a082b33051aa9",
+        "text": "7. If the selected cards are different then the players with the least and most advanced states explain their reasoning.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "b6c2ec0d744381ed69bf50f656d19d87",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "794158249414c5d8638e591ab91ddbcf",
+        "text": "8. Repeat from 3 until consensus emerges",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "b6c2ec0d744381ed69bf50f656d19d87",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "60ce6f1f9e033f8b2a0e4bf36e714159",
+        "text": "= o s C S o] =T -",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1c4acf057990bd784f740eef732044a4",
+        "text": "&",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "be3b651805405e6ba9b85dfad0b3b11c",
+        "text": "=",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6b4d74a6a1a15c406ed1383ce870e374",
+        "text": "oy, Q",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "8cedaa96b025143514ef771b244cc79a",
+        "text": "\u201c~.. S N",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "6b4d74a6a1a15c406ed1383ce870e374",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cefff43a1887e2e6e5df64dd107f5df9",
+        "text": "= -",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "6b4d74a6a1a15c406ed1383ce870e374",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "66df8b6b1fa466138d39ff1e39716407",
+        "text": "Optional step: @ state 6 then the players might want to consider the full checklists found in the Reference Guide.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "6b4d74a6a1a15c406ed1383ce870e374",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "1ac0138f1aadf403bd2fba6b121f35dc",
+        "text": "www.ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "2b277ba0467146c31188315616fb37fb",
+        "text": "Copyright \u00a9 2013 Ivar Jacobson International",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "9720517f4f4d9f27ce691d2b0bc806e5",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "1a1afd4729e9678d3882c0553b8b3888",
+        "text": "JACOBSON 0 IVAR INTERNATIONAL",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7873e3f080043378a1c3b02b37980137",
+        "text": "Alpha State Card Game: Chase the State",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b932680b6d831ec702f79f5897b5f099",
+        "text": "Object of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fe45ab0f45db06453bd822d808f580ad",
+        "text": "Often when developing software teams lose sight of the big picture, and don\u2019t truly understand where they are.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "b932680b6d831ec702f79f5897b5f099",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b1c8bd74fdcea684913429580b8f9989",
+        "text": "Variations",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "19d8d1840fbd7beeaacded5265d2871d",
+        "text": "The game can also be played by turning the cards over as the states are achieved. This enables the game to be played on a smaller surface.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "b1c8bd74fdcea684913429580b8f9989",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1a651b4c36d7262cae5fa92ee25d4af4",
+        "text": "This fast, structured retrospective enables a team to quickly understand where they are with regards to their software development. It does it in a holistic fashion that will complement any other progress measures in use, whether they are burn-ups, burn-downs or some form of earned value. It takes the blinkers off and forces the team to review all aspects of software development.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "b1c8bd74fdcea684913429580b8f9989",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "3e1b126246d52eea5095aa30064ced93",
+        "text": "Strategy",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "31b01b610da2a27aa580298643acffb3",
+        "text": "The goal of this game is to quickly find out where the team thinks it is.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "3e1b126246d52eea5095aa30064ced93",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2da5f29bf1f9811773da3d9f06d98de6",
+        "text": "One strategy is to do two passes:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "3e1b126246d52eea5095aa30064ced93",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "afa002f7f39dc9cb4a7c1a285b59adb0",
+        "text": "Use this game to determine the state of your software development efforts.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "3e1b126246d52eea5095aa30064ced93",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "6cd8e3bf4fdf68c4a9e23136cca034ac",
+        "text": "1.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "3e1b126246d52eea5095aa30064ced93",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3777b7b6d1409cba17d5a26ea6a1f264",
+        "text": "First pass \u2013 just intuitively reflect on each card with the team. Don\u2019t worry too much about the detail of the checklist items on the cards.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "3e1b126246d52eea5095aa30064ced93",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b9f8ef575f9b305aa3affe72472e8660",
+        "text": "Number of Players",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "e24f2069e080dee2d79c721d23717df7",
+        "text": "2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "b9f8ef575f9b305aa3affe72472e8660",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9b95c821fd6f6a91300c4581815b3d2c",
+        "text": "Second pass \u2013 working backwards check off the individual items on the check lists.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "b9f8ef575f9b305aa3affe72472e8660",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ff2e5583b5e3a6d6d532afbce15dc5f7",
+        "text": "Any, but typically small teams will be the most effective.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "b9f8ef575f9b305aa3affe72472e8660",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b2a8aa0f720d9939004b872cffb4b99a",
+        "text": "Equipment Needed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1c43999d10817205062041723f00edbd",
+        "text": "Essential: 1 set of Alpha State Cards",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "b2a8aa0f720d9939004b872cffb4b99a",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "336f47993c2dbc28cd290f1d7a6cfdd0",
+        "text": "Optional: An Alpha State Card Reference Guide for each player",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "b2a8aa0f720d9939004b872cffb4b99a",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d804a47a44ddc59a307be6ada18277ec",
+        "text": "Duration of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3269255c8e76035e6b0ee24dabed7b9a",
+        "text": "Up to 30 minutes, the further into the development the team are the longer the game will take as there will be more states to be considered.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "d804a47a44ddc59a307be6ada18277ec",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "89657dad3a6ff3c13f84c41fcb6683d5",
+        "text": "How to Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "d4aa009feb59d36f6c317557a2af4bf4",
+        "text": "1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "89657dad3a6ff3c13f84c41fcb6683d5",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6de9b927443bdfee8987a78a260105f0",
+        "text": "Lay out the cards for each Alpha in a row on the table with the first state on the left and the final state on the right.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "89657dad3a6ff3c13f84c41fcb6683d5",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "aaadd17387590fda095ead8ca99ad94e",
+        "text": "2. Starting with the first state of the first Alpha, walkthrough the checklist and ask the players if the team has achieved the state.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "89657dad3a6ff3c13f84c41fcb6683d5",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "da722162b2d507a18526d7eb51f2a646",
+        "text": "3. If the state has been achieved move the state card to the left. Continue with the next state until you reach a state that the team has not yet achieved, or you run out of states.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "89657dad3a6ff3c13f84c41fcb6683d5",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "270cc523e6dfaeae1285d97471f3fd3e",
+        "text": "4. If it is not clear which state one of the Alphas is in then a quick round of Progress Poker can be used to help reach consensus.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "89657dad3a6ff3c13f84c41fcb6683d5",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "2d47e27fee546bb62f746a049fcf95ba",
+        "text": "e",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "691136ca974f5399383de72cbcb76eb6",
+        "text": "Um0",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "be083d4a803c00ce77dd2cc9c61a0f14",
+        "text": "s | =",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "691136ca974f5399383de72cbcb76eb6",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "ec34fb5fe944f9b09a7936feed9f261e",
+        "text": "\u2014",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "691136ca974f5399383de72cbcb76eb6",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c958395ff9a34fde522e62030ee4ffc3",
+        "text": "e",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "0cd9cb1eaca3f1298552ddf3bb46cd14",
+        "text": "BT Civem Cinm Co\u2014 -",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2ac1adc752162e58e21c9c310d5fd374",
+        "text": "5. Repeat for all Alphas.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "45e45b9a82dc6d3b62202ddf9d7aa7de",
+        "text": "www.ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a8a56ca6f992bd49d7779217397b405f",
+        "text": "Copyright \u00a9 2013 Ivar Jacobson International",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b7e0281af29c79bb82b8a3f4fe4c650c",
+        "text": "JACOBSON 0 IVAR INTERNATIONAL",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "06f16b126bbac54b103956eaef9d23f6",
+        "text": "Alpha State Card Game: Objective Go",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f467e6b82d49aa45de20f0ffc721d3c0",
+        "text": "Object of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0cbfaa5db9197adbf4b2ccca929ba790",
+        "text": "Teams sometimes neglect to consider the overall health of their endeavor when setting the objectives for the next time period.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "f467e6b82d49aa45de20f0ffc721d3c0",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a1c9da452e9d1c3868e875d3c0e43edf",
+        "text": "The idea behind Objective Go is simple \u2013 use the states of the Alphas as an aide memoir when considering where to go next. After establishing where the team is by playing \u201cChase the State\u201d, candidate objectives can be identified by considering and selecting from the remaining states.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "f467e6b82d49aa45de20f0ffc721d3c0",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b8324c0e2d1cffdde5dc9dd52e08e7d7",
+        "text": "Use this game to identify high-level goals and objectives for your team.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "f467e6b82d49aa45de20f0ffc721d3c0",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "07f99fbdf578a3161e9fbedb2e7f2fbd",
+        "text": "Number of Players",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a33a043ed0854e6b4e13a95338fe6dcb",
+        "text": "1 to 15.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "07f99fbdf578a3161e9fbedb2e7f2fbd",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6683b0ad02fa1ee239902cd613f31f64",
+        "text": "Equipment Needed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9f4b8340779ea6e68e51baba84b1fa79",
+        "text": "1 set of Alpha State Cards.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "6683b0ad02fa1ee239902cd613f31f64",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b0679cb626b71bfa3fe319298ae2b06a",
+        "text": "Duration of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6cf4b46ec03c32eb47756c81aa7e2038",
+        "text": "15 \u2013 30 minutes.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "b0679cb626b71bfa3fe319298ae2b06a",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "fc40201cba9519725629de988d2f07db",
+        "text": "== \u2014 ] \u2014 [ [ [\u2014 e (= == = SN j < (LGN G s =; e L - -",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "43a979fdf75e11c90e2161a52d211486",
+        "text": "www.ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "3dff8288bc346c53376856cbe669adaf",
+        "text": "How to Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2d81eb34c57f74dcebcc17922253824b",
+        "text": "1. Determine where you are by playing \u201cChase the State\u201d. The end result should be that the states already achieved have been moved to the left and those remaining to be achieved moved to the right.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "3dff8288bc346c53376856cbe669adaf",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5fafe2e66ae3fc5a75ce47ea1844c16c",
+        "text": "For each Alpha consider whether or not the current state is appropriate and whether or not it should be explicitly advanced during the next time period.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "3dff8288bc346c53376856cbe669adaf",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b4550499881f0cca3f9e8c00207347f3",
+        "text": "3. For each state change under consideration consider which of the check list items remain to be achieved and discuss what it would take to achieve them.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "3dff8288bc346c53376856cbe669adaf",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ee87c8a25ccaf563972f6a23b25afc15",
+        "text": "4. Where the team agrees to advance the state during the time period under consideration move the state into the middle. Rotate the card 90 degrees if the state is to act as stretch goal or if the team believes that the time period is too short to enable the state to be fully achieved.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "3dff8288bc346c53376856cbe669adaf",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d70ed7f6ffda4f9e571ce5ec33561eb2",
+        "text": "Variations",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5e44a0f695f00a66cbd85318a2f494f6",
+        "text": "None that we have thought of \u2013 yet!",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "d70ed7f6ffda4f9e571ce5ec33561eb2",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "94b12eaac222ae5ca03099d079f51bf7",
+        "text": "Strategy",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7a68e8b5b2fd42d5f8ca11ba362e72a5",
+        "text": "Objective Go is a simple way to ensure that a team\u2019s objectives are balanced and that important aspects of software development are not overlooked when setting the teams short and long term objectives.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "94b12eaac222ae5ca03099d079f51bf7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a5161e0417a5dad533123d2bbb008db3",
+        "text": "Be careful not to take on too much or expect the states to be progressed too quickly. Many of the state changes will take time to achieve but making the objective clear will accelerate the team\u2019s progress and make sure that all the aspects of software development are given the attention they deserve.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "94b12eaac222ae5ca03099d079f51bf7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7e47e1c35985db2c4b3aba758191b2a1",
+        "text": "Copyright \u00a9 2013 Ivar Jacobson International",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c7d5573f3bf3c3d67fe91231348da180",
+        "text": "JACOBSON 0 IVAR INTERNATIONAL",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8671292df634bd332af01848a1dc856c",
+        "text": "Alpha State Card Game: Checkpoint Construction",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f0ac73ac79b8db854e399da551ec9d3e",
+        "text": "Object of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "66b9e46d857ea7f80a18034555623903",
+        "text": "Defining important check points in the conception, evolution, funding or deployment of a software system can be difficult to do in a practice-independent way. This often leads to checkpoints that focus on the way the team does its work and the documentation it produces rather than the results that it achieves. The use of the Alpha State Cards to define check points makes the checkpoints result focused, light-weight and practice independent. It also enables them to be used by any and all teams regardless of the development approach they are using.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f0ac73ac79b8db854e399da551ec9d3e",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a70653164b0c9923498fffb7a47bade7",
+        "text": "Use this game to define practice independent checkpoints with automatically generated practice independent checklists.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f0ac73ac79b8db854e399da551ec9d3e",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "dd9c25dfc53839db4fd1ceb9dfca1dce",
+        "text": "Number of Players",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4a87393677d55e20e2541baa8721b468",
+        "text": "3-10.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "dd9c25dfc53839db4fd1ceb9dfca1dce",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "608639db43859aa463316ae33540e277",
+        "text": "Equipment Needed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7d1c91c94156a6560d0fc8e3a06c3254",
+        "text": "Essential: 1 set of Alpha State Cards",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "608639db43859aa463316ae33540e277",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "507868149666dd49c00f1235aa3f3ece",
+        "text": "Optional: An Alpha State Card Reference Guide",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "608639db43859aa463316ae33540e277",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f8b92a24932589a662d8930c9e968bb7",
+        "text": "Duration of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b483d425230c16e8eca7845ebce62980",
+        "text": "5 \u2013 15 minutes.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c570529e8ad210af4d764b850b6519d1",
+        "text": "How to Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "df72c7356906a614787b36e82c741a46",
+        "text": "The players assume one of two roles when playing this game:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4c7f76902ea3a6884b2cdbd5323ae1dc",
+        "text": "Facilitator: leads the game and the resulting discussions",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4863a88fd6acb859c2ef725e84dfdac6",
+        "text": "Contributor: plays the game with the facilitator",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b3108b1cd651118ca4ded4585939f684",
+        "text": "The game is set up by the facilitator and played in two rounds.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "dc9ec185bb3d7d1f782af846084d1d46",
+        "text": "Set Up:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "2eb0d6fc4b1dd282c46a37f7e6c52f1c",
+        "text": "1 2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d1a3f5be5b4c218ae607d55dbe214ba1",
+        "text": "The facilitator lays out the Alpha State cards on the table in front of the team.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ab899c8fd1a74ec8c463be05200e5bc8",
+        "text": "The facilitator stands up and describes the check point to be constructed.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "f6b5fe4fc8452d9d30f8eed546c476f7",
+        "text": "3",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b2bcbdcc5f3d199cf85498459950ac63",
+        "text": "The team names the checkpoint.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6517ab38f3b74e8982cdcfffaf3c119f",
+        "text": "Continued over the page...",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "f8b92a24932589a662d8930c9e968bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "13e31ea654ebec5b8f3d4f762f03133c",
+        "text": "www.ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "524e98c60e790e56c20d428c3b882f28",
+        "text": "How to Play\u2026continued",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5e1c9d73a2e35aaf0ca200f42596798f",
+        "text": "Round 1 \u2013 Select the Alphas that will be inspected at the checkpoint:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "47512e6b314f68c79c3003f5792e9834",
+        "text": "4. Each player considers the set of Alphas and notes down which of them they believe should be checked at the checkpoint",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "79e4aae4faffa3795fe73db2724759c5",
+        "text": "The facilitator selects the first Alpha.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b172ebc06a57f7f11bb68f8161dc85ac",
+        "text": "6. Using \u201cthumbs up / thumbs down\u201d the players indicate whether or not they believe the Alpha should be part of the checkpoint.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "83598502fa70e372d4a7c581d00e9504",
+        "text": "7. Where there isn\u2019t a unanimous vote, on whether or not the Alpha should be included in the checkpoint, the facilitator selects one player from each camp to explain their reasoning and then the team votes again.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "42a2e952bb85340dc0c445dc48add687",
+        "text": "8. Repeat step 7 until consensus emerges or the facilitator steps in to close-down the discussion and accept the majority vote.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "df5df70f226751e2f6ceb96f26e6e645",
+        "text": "If the Alpha is not selected it is removed from the table.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6ae1b0c021bfb082e593525ca18660b4",
+        "text": "10. The facilitator repeats steps 5 to 8 until all the Alphas have been considered.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "98876111c71e0ed96a5bb384a75061d4",
+        "text": "Round 2 \u2013 Checkpoint definition:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "27948ac1f7b8abed780d27031dc50a74",
+        "text": "11. The facilitator lays out the Alpha state cards, for the selected Alphas, in rows on the table with the first state on the left and the final state on the right.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e19156f8ea1881613e590d339038b516",
+        "text": "12. Each player considers the set of states and, without informing the other players, identifies the state that they believe the Alpha needs to be in to pass the checkpoint.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "57dc17b7c919632cc8c2451241818bc0",
+        "text": "13. The players then simultaneously raise their hands with the correct number of fingers raised to indicate the state they have selected. A closed fist is used to indicate the sixth state.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ad7d1583a06c44c2edd43d0585e21169",
+        "text": "If all players have selected the same state then there is consensus.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "92bf63fbb8cb7e06293c6fb30246e1d4",
+        "text": "14",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8835b13c80aad9fd72b95d0f983beb54",
+        "text": "If the selected states are different then the players with the least and most advanced states explain their reasoning.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "7e4d3523fbe798b6059c0179328a67dd",
+        "text": "15",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "455962175b37d152e7904f917aae5afe",
+        "text": "16. Repeat from 12 until consensus emerges",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d9930afd3c58813c0c4f5555e534a0b8",
+        "text": "17. The facilitator removes all the other cards to the left and right of the selected state from the row.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "903d83dab80cdd4d153720e5bd896a2a",
+        "text": "18. Once the state is identified then the facilitator leads a review of the checklist items to 1) identify whether or not the individual checklist items are appropriate and 2) identify any additional checklist items need to be added. This allows the generic checklist provided by the cards to be tailored to the specific context within which the check point will be applied.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "61cc302e9431c8ec47697a3c7873865d",
+        "text": "19. Add any additional checklist items to the card.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "524e98c60e790e56c20d428c3b882f28",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "099586f37e35af4836068e47b522a3f2",
+        "text": "Strategy",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "abe7f2c9b375afe52875f62315bf7596",
+        "text": "Checkpoint Construction is a great way to analyze any of the organizationally defined checkpoints, phase gates, or pre-defined lifecycle milestones such as Decision to Fund, Initial Operational Capability, or Ready to Release. Focus on those checkpoints that are integral to the governance and/or quality assurance of your software development activities.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "099586f37e35af4836068e47b522a3f2",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e50e29eafb4e03793f345edf44da3049",
+        "text": "Copyright \u00a9 2013 Ivar Jacobson International",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8d999fb51fefe6dec8e0e026df69f030",
+        "text": "JACOBSON 0 IVAR INTERNATIONAL",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "216c52a432f879631140cfcc6d57e58d",
+        "text": "Alpha State Card Game: Lifecycle Layout",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "afe52b8a29cc8a2e600aa885810fc3ca",
+        "text": "Object of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9c0c06ffa9dd47d9570615dfbff3cc6f",
+        "text": "Organizations often require teams to use a standard software development or application management lifecycle. Often these are defined in a way that overly restricts the freedom of the development teams, and focus on the specific work products to be produced rather than the results or state to be achieved. Using the Alpha State cards this can be done in a lightweight, result focused way that is independent of the practice that the team selects to achieve the goals.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "afe52b8a29cc8a2e600aa885810fc3ca",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f847c5a53c30c81661bd1be17b484753",
+        "text": "Use this game to visualize your software development lifecycle to form a starting point for team planning.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "afe52b8a29cc8a2e600aa885810fc3ca",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "de6f6ee388fd3428b7cc88193f6d97cd",
+        "text": "Number of Players",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ff92f91cd798d1f6cbc363c8fdb71021",
+        "text": "3-10.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "de6f6ee388fd3428b7cc88193f6d97cd",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "260fd359d293391146b8ed3da3350a43",
+        "text": "Equipment Needed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "72a47761447e67a8838a309a59922665",
+        "text": "1 set of Alpha State Cards.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "260fd359d293391146b8ed3da3350a43",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "79aa07d7c70961e956078254fe46fa54",
+        "text": "Duration of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "71d442059e5b2ed5d3441d5b7b4e6efd",
+        "text": "15 \u2013 30 minutes.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "79aa07d7c70961e956078254fe46fa54",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "bcb978d0de4c36dcf76a5478cf0a1268",
+        "text": "How to Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2eaa8e6a3be56a4b7f761fc903808ad9",
+        "text": "This is a composite game involving several rounds of Checkpoint Construction to define a series of checkpoints that represent the review points in the lifecycle. In this case though all Alphas must be considered.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "bcb978d0de4c36dcf76a5478cf0a1268",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "56d55fcb5dbda4bd3a3da0e92cb2cb2f",
+        "text": "The players assume one of two roles when playing this game:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "bcb978d0de4c36dcf76a5478cf0a1268",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0b7d42abf98a9a0ffc619d657b56dcb4",
+        "text": "Facilitator: leads the game and the resulting discussions",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "bcb978d0de4c36dcf76a5478cf0a1268",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3ce16b9c914686538693091181dc5e74",
+        "text": "Contributor: plays the game with the facilitator",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "bcb978d0de4c36dcf76a5478cf0a1268",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2dc8a4ed20b2f87a77305205ad1bff35",
+        "text": "The game is set up by the facilitator and played in over a number of rounds.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "bcb978d0de4c36dcf76a5478cf0a1268",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "28f29e427e388605a921e29e8938ec31",
+        "text": "Set Up:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "bcb978d0de4c36dcf76a5478cf0a1268",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2d3b135753819c69a5422152bc091710",
+        "text": "The facilitator lays out the Alpha State cards on the table in front of the team.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "bcb978d0de4c36dcf76a5478cf0a1268",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "e5c19871a6ea7d6d13f0569254254b40",
+        "text": "1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "bcb978d0de4c36dcf76a5478cf0a1268",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "95df0f92bd23cf97b4e20327cc778b83",
+        "text": "2. The facilitator stands up and describes the lifecycle to be constructed, clearly identifying the point at which the lifecycle starts and any checkpoints inherent in the proposed lifecycle.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "bcb978d0de4c36dcf76a5478cf0a1268",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e85c49eaa3ae4daf388ab2e99ad0f4eb",
+        "text": "Continued over the page...",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "bcb978d0de4c36dcf76a5478cf0a1268",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "64e8b8627bac3cf48cfba74b824995ad",
+        "text": "www.ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d62a74c51e347bf3e594ed5e136af9bb",
+        "text": "How to Play\u2026continued",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "43ec1298ef7cccd75c6bc8cabd4fb547",
+        "text": "Round 1 \u2013 Define the start of the lifecycle:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "d62a74c51e347bf3e594ed5e136af9bb",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8aab2108eb5bdcef1e1694d1c12b51a2",
+        "text": "3. The facilitator leads the team through a game of Checkpoint Construction to establish the starting point / entry criteria for the lifecycle.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "d62a74c51e347bf3e594ed5e136af9bb",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "47691e6e8cfe667faee4ce43e8e8dfae",
+        "text": "The state cards subsequent to the starting point / entry criteria are then moved to the right. Make sure that there is clear white space left between the two sets of cards.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "d62a74c51e347bf3e594ed5e136af9bb",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "638d5da501a3a55d63fb8ba122991d4e",
+        "text": "4",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "d62a74c51e347bf3e594ed5e136af9bb",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fe3c4c45337cde09d5258fd0a0cbe158",
+        "text": "For each state to be achieved at the checkpoint review whether or not it is mandatory or just recommended. In this case mandatory means that the lifecycle could not be started if the state is not achieved. If the state is not mandatory rotate the card 90 degrees to indicate that it is a \u201cnice-to-have\u201d.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "d62a74c51e347bf3e594ed5e136af9bb",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d979112d2708715fc7c1144959eae547",
+        "text": "Rounds 2-N \u2013 Define the remaining checkpoints that make up the lifecycle:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "d62a74c51e347bf3e594ed5e136af9bb",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5efef37ec0a08a4ad62163aef95bd7da",
+        "text": "The facilitator leads the team through a game of Checkpoint Construction to establish the exit criteria for the next checkpoint in the lifecycle.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "d62a74c51e347bf3e594ed5e136af9bb",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "472bc0a79ff24b77206108774476654e",
+        "text": "The state cards to be achieved after the checkpoint is reached are moved to the right. Make sure that there is clear white space left between the two sets of cards.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "d62a74c51e347bf3e594ed5e136af9bb",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "eaa6e1d93fe7e45ba0e1e855f141e8c7",
+        "text": "Tidy up the state cards that represent the checkpoint (those left in the middle) so that the right hand edges of all the final states to be achieved at the milestone are aligned.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "d62a74c51e347bf3e594ed5e136af9bb",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f35fc6a1ddf3753aa7b73257e4a3d308",
+        "text": "For each state to be achieved at the checkpoint review whether or not it is mandatory or just recommended. In this case mandatory means that the lifecycle could not be started if the state is not achieved. If the state is not mandatory rotate the card 90 degrees to indicate that it is a \u201cnice-to-have\u201d.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "d62a74c51e347bf3e594ed5e136af9bb",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "075a6c1180b63eba1112de65de961686",
+        "text": "Final Round:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "74144458b45cff43f3b40f919f73443b",
+        "text": "10. Review the lifecycle as a whole and adjust as necessary.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "075a6c1180b63eba1112de65de961686",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8d31438813a11507207d1698de13d802",
+        "text": "Variations",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "20fbdc7c1811dae9144a4465412c2c4d",
+        "text": "The game can be simplified by preparing a simple game board out of flip chart paper. Stick two or three sheets of flip chart paper together to form an extra long sheet. .Divide the paper by drawing a number of equally spaced lines to represent the checkpoints and / or phases in your lifecycle. The cards can then be aligned with these pre-drawn lines to layout your lifecycle.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "8d31438813a11507207d1698de13d802",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c92cfa8364a85730be992f38941dfbd7",
+        "text": "Strategy",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "99b3b8308954da1ec4fb1584ae1c6d0c",
+        "text": "This is a variation on the game Checkpoint Construction where instead of just identifying a single checkpoint the team uses the cards to identify a series of checkpoints to define a specific lifecycle, or variation on a lifecycle. Unlike Checkpoint Construction all of the Alphas must be considered at every checkpoint.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "c92cfa8364a85730be992f38941dfbd7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "df192717d0faacf209ed5f099d4d17ff",
+        "text": "Copyright \u00a9 2013 Ivar Jacobson International",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "0e1c22ffbeb970e49909e2968732d8c0",
+        "text": "JACOBSON 0 IVAR INTERNATIONAL",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9bd235e42bf403963ca60d3725061d9e",
+        "text": "Alpha State Card Game: Milestone Mapping",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e2e5c98e1fc99f15ed224680962e1175",
+        "text": "Object of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e77a1299815ab0acfa850c92cef76204",
+        "text": "When given a major piece of development work teams may want to identify some intermediate milestones to help improve their estimates and plans. This is particularly useful when the development involves high levels of innovation such as new teams, new ways of working, new technologies, new business domains, or new business partners.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "e2e5c98e1fc99f15ed224680962e1175",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a0b549368500fbaf9648c771defd56d8",
+        "text": "Use this game to visualize your milestones and form a light-weight roadmap for your software development.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "e2e5c98e1fc99f15ed224680962e1175",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ad55966cd2b92895313f11c2ede35eb7",
+        "text": "Number of Players",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6dc0b2b5a5dc62aa1713b58b4235d120",
+        "text": "Any, but typically teams of 3 to 9 will be the most effective.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "ad55966cd2b92895313f11c2ede35eb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6df6b1424127f510f29f4b219cdea108",
+        "text": "Equipment Needed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5204511c99aa3f6e2cc97988d53a321f",
+        "text": "1 set of Alpha State Cards.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "6df6b1424127f510f29f4b219cdea108",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b80f9204b63eb349040e2972e627aa3e",
+        "text": "Duration of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "163ad83c74dbd8cb92d23ddabbce2fbc",
+        "text": "15 \u2013 45 minutes.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "b80f9204b63eb349040e2972e627aa3e",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "d78fcfec01d8445cb30d14929e9c7374",
+        "text": "In Development In Production Befre Approval e o s =] % - == {S\u2014 \u2014 = {\u2014\u2014} .- - - A Skinny Usable System System A Decision ToFund Available Available Decision To GoLive",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b71c3be138e644748fc44e57cc9e5745",
+        "text": "How to Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5bd58b9093809702afa193abd0bdc1ff",
+        "text": "1. Determine where you are by playing \u201cChase the State\u201d. The end result should be that the states already achieved have been moved to the left and clearly separated from those remaining to be achieved.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "b71c3be138e644748fc44e57cc9e5745",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cdae248e8869f1a12afdd3987c6dd172",
+        "text": "2. Start with the next milestone to be reached.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "b71c3be138e644748fc44e57cc9e5745",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "af03edea144ed08e30d04b75b3b72a13",
+        "text": "For each Alpha identify the state that the Alpha should be in when the milestone is achieved:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "b71c3be138e644748fc44e57cc9e5745",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "082ee0c4ba9710c73a16d826c919d8ed",
+        "text": "a.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "265ec06c7254a4ab46fd96e78aba6a7e",
+        "text": "If the state is not the final state of the Alpha move all the remaining state cards to the right",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "082ee0c4ba9710c73a16d826c919d8ed",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8fa9fcc378d521df9314dea2446c5103",
+        "text": "If the state at the next milestone is the same as the current state move all the Alpha states cards to the right.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "082ee0c4ba9710c73a16d826c919d8ed",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bae336a0104d0d2953bd095297ac0ef9",
+        "text": "Tidy up the state cards that represent the milestone (those left in the middle) so that the right hand edges of all the final states to be achieved at the milestone are aligned.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "082ee0c4ba9710c73a16d826c919d8ed",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "aac237bd78c3110ae5065d5172e97a44",
+        "text": "For each state to be achieved by the milestone, review whether or not it is mandatory or just recommended. In this case mandatory means that the milestone would be failed if the state is not achieved. If the state is not mandatory rotate the card 90 degrees to indicate that it is a \u201cnice-to-have\u201d.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "082ee0c4ba9710c73a16d826c919d8ed",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fc3945b2f2aabebc9a994c7cc57f5743",
+        "text": "6. Repeat steps 3 to 5 for all subsequent milestones.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "082ee0c4ba9710c73a16d826c919d8ed",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0a4e1944f9512c4e8405a3c28c96c216",
+        "text": "7. Review the set of milestones as a whole and adjust to balance the work to be done against the proposed time-table.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "082ee0c4ba9710c73a16d826c919d8ed",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "729019f0b29f628af9d2a3b0e23ed319",
+        "text": "Variations",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6200b65f9c381dda3d251e601844895d",
+        "text": "None that we have thought of \u2013 yet!",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "729019f0b29f628af9d2a3b0e23ed319",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "4022465f12e1db7e9131db85297a77f6",
+        "text": "Strategy",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c4d96a02a62eef04e89f8fd1dd162163",
+        "text": "This is a variation on the game Objective Go where instead of just identifying the next objective the team uses the cards to identify a series of milestones for inclusion in their project or release plan.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "4022465f12e1db7e9131db85297a77f6",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "213beca19d629b7051365e62b0986402",
+        "text": "www.ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d26893bacfc0475d4d264b351d4d942b",
+        "text": "Copyright \u00a9 2013 Ivar Jacobson International",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c69b1ff480dc58ed44b1f19023599efa",
+        "text": "JACOBSON 0 IVAR INTERNATIONAL",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "633096fcc793ea1d0bd5a0e08ba10352",
+        "text": "Alpha State Card Game: Health Monitoring",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b1dfba44d50913f00a510aa153f8978a",
+        "text": "Object of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fa196e1f7d1371fd827e8216315f4655",
+        "text": "Information radiators are a great way to help everyone understand what is going on, what is important, and how the team is progressing. The Alpha State Cards can be used to create a simple, intuitive state board that helps a team monitor its progress and health. Use this game to visually track the health of your endeavor regardless of the practices or method being used.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "b1dfba44d50913f00a510aa153f8978a",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "61d6c6d6b176a52206a12b75d663786b",
+        "text": "Number of Players",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a23fb62f312c8f93fe90b0e4131bbcb5",
+        "text": "3-10.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "61d6c6d6b176a52206a12b75d663786b",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "83b7922c2247738d8f28bfaf19bb6794",
+        "text": "Equipment Needed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "48a6c968784c9e84f080cd8059194e6f",
+        "text": "1 set of Alpha State Cards",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "83b7922c2247738d8f28bfaf19bb6794",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f396015c0724e465fa694302619a7d57",
+        "text": "A \u201cboard\u201d to mount the cards on",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "83b7922c2247738d8f28bfaf19bb6794",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "eb76478d110c3802da40c174f16f5671",
+        "text": "Duration of Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e0c9b155f9e54c2ace45c6b0ca031b2b",
+        "text": "Set Up: Up to 30 minutes.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "eb76478d110c3802da40c174f16f5671",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "94731b9f77ab120af4f06944a4c99e4f",
+        "text": "Update: 30 minutes every 2 weeks",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "eb76478d110c3802da40c174f16f5671",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f47a9eef00f8e563723321cb51b3528d",
+        "text": "Overall: the board is in play until the work is completed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "eb76478d110c3802da40c174f16f5671",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "058061e2fbaab9ce0c06f1e8c8bf59b3",
+        "text": "How to Play",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "762ac82d410aafeed8824e6e638df990",
+        "text": "This is a composite game that involves setting up a permanent state board as shown below and 1) playing \u201cChase the State\u201d to set the initial state and then 2) regularly revisiting the board to keep the state visualization up to date.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "058061e2fbaab9ce0c06f1e8c8bf59b3",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "71c27a803fbf534395b505596e348b67",
+        "text": ".",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "058061e2fbaab9ce0c06f1e8c8bf59b3",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "d8f417bd86f544ae0258c76d054f7c4f",
+        "text": "P=| #=] =) =3 [ b e | e e ) =] = M e R e L el S = oxee U == = - R one =",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "5ec846b4b7fd510116c1edb46ca23543",
+        "text": "www.ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+        "text": "How to Play\u2026continued",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "94f8f18f3e25918558b48e526ed086f7",
+        "text": "Setting up the board:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6f60d0795f3307faa00aa9ddbf6b86f1",
+        "text": "1. Using a white board or two sheets of flip chart paper set up the full deck of cards as shown above, with all state cards on the far right.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "aa2ed9da2e44e04664bf5af3130c1937",
+        "text": "2. Play \u201cChase the State\u201d to establish the current state of the development. Moving the completed states to the left of the board.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3c2d5c514c6e0e6e7f7ab0f8c0172f87",
+        "text": "Keeping the board up to date",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "56cc7e17210ae60032b8ebddda8bfe83",
+        "text": "3. At regular periods, possibly as part of the daily stand up, a retrospective or completing a piece of work the team should check off the check list items on the cards and whenever a state is completed move it to the left of the board.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b01eaa9cd393719550ede63c97201a9b",
+        "text": "Highlighting areas of concern:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5e3ee31f42c3ab342dfb4e5f58249ff0",
+        "text": "4. At regular periods, typically as part of a retrospective, the team should evaluate how healthy they think each Alpha is.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "0a61692f4de60a7218e2c04bcf143598",
+        "text": "5",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8d7ec10dd7307d68454513a705869476",
+        "text": "If the team thinks an Alpha is healthy and in appropriate state, adorn the alpha card with a green sticker or sticky note.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "166814a23e67174afce1041dcf906bd7",
+        "text": "If the team thinks an Alpha is unhealthy or in an inappropriate state, adorn the alpha card with a red sticker or sticky note. If a sticky note is used write the reason why the team thinks the Alpha is unhealthy onto it.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b0529d762f803a78667d98884f732dff",
+        "text": "If the team can\u2019t agree whether or not the Alpha is healthy then adorn the Alpha card with an orange sticker or sticky note. If a sticky note is used write the reasons why the team thinks the Alpha isn\u2019t healthy on it.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f5d85b5e9e462a1666bb13669e958553",
+        "text": "Showing the next objective:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "9ae293e899d54fdeec08373ac9790c09",
+        "text": "8",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c0928fec10966a691763cc637bf1f1d5",
+        "text": "If desired the team can highlight their next objective by playing \u201cObjective Go\u201d using the cards on the board and positioning the target states in the middle between those achieved and those remaining.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "58dd2b4a4f75bc01d2e3da92f7cd0bb7",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ecf9b30cd4de5e586880f32ed4ab4951",
+        "text": "Variations",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c62026748298b1ec29996d3cad5b6025",
+        "text": "The game can be combined with the results of other games to do:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "ecf9b30cd4de5e586880f32ed4ab4951",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f670fae01a7a8f0393a2b535c24685d9",
+        "text": "Checkpoint Checking \u2013 at any time the state shown on the board can be compared against any applicable checkpoint that has been defined by playing \u201cCheckpoint Construction\u201d.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "ecf9b30cd4de5e586880f32ed4ab4951",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4ebdd42f5733d2d3602859c836faaa22",
+        "text": "Lifecycle Tracking \u2013 at any time the state on the board can be compared against any applicable lifecycle that has been defined by playing \u201cLifecycle Layout\u201d.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "ecf9b30cd4de5e586880f32ed4ab4951",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e6102a68ddb04fc53d9c273590a12c10",
+        "text": "Milestone Tracking - at any time the state on the board can be compared against any applicable milestones that have been defined by playing \u201cMilestone Mapping\u201d.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "ecf9b30cd4de5e586880f32ed4ab4951",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8fd98a98c4986246dca80caddde30385",
+        "text": "Strategy",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b874ef3c62b22678f6b4a752782963d3",
+        "text": "This game builds on the results of many of the other games to provide teams with a simple intuitive information radiator showing the progress and health of the development effort.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "8fd98a98c4986246dca80caddde30385",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f63fda26a7d12c6cd8b190aeeb4e719b",
+        "text": "Copyright \u00a9 2013 Ivar Jacobson International",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "daf8827d03aa82ec13c72d554e4eda7f",
+        "text": "T",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "049f78694cc24fdb4d9a3150b6289dfb",
+        "text": "IVAR JACOBSON",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e09a854f12b2e6c3461a9050a3659ab1",
+        "text": "INTERNATIONAL",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "4894f43ae68e421dff83e3a1f0b9c7f1",
+        "text": "About Ivar Jacobson International",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "02a6744350abf783ba3c80f22a199d71",
+        "text": "IJI is a global services company providing high quality consulting, coaching and training solutions for customers seeking the benefits of enterprise - scale agile software development.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "4894f43ae68e421dff83e3a1f0b9c7f1",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f91a82edcf53132c7b4d5316a73fa32c",
+        "text": "We are passionate about improving the performance of software development teams, and maximizing the delivery of business value through technology.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "4894f43ae68e421dff83e3a1f0b9c7f1",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "975cbe3db9c10dcbc6b05254793983b1",
+        "text": "Whether you are looking to transform a single project or program or your entire organization with lean and agile practices, we have solutions to suit your needs.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "4894f43ae68e421dff83e3a1f0b9c7f1",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "495d1f665d9eef987969ee8b813137e5",
+        "text": "www.ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "4894f43ae68e421dff83e3a1f0b9c7f1",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6158342d306bab0f46759f35aa0102d1",
+        "text": "Sweden",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d48cb912f193b32eb7f68a3219e38728",
+        "text": "+46 8 515 10 174 info-se@ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "6158342d306bab0f46759f35aa0102d1",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "444e2371f6fc8a9484ecfb90fdf808cd",
+        "text": "United Kingdom",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ae42e6fdac92bc9b296683cb9862c4e2",
+        "text": "+44 (0)207 953 9784 info-uk@ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "444e2371f6fc8a9484ecfb90fdf808cd",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ebc3a9d853e7a75ec5ed2ca5aae0d033",
+        "text": "Asia",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a2530697afc828a14b96749a60f4c5ff",
+        "text": "+8610 82486030 info-asia@ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "ebc3a9d853e7a75ec5ed2ca5aae0d033",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c0ed7d82618e5f80c205755a9560dbbf",
+        "text": "Americas",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cd0997ed9a8fbb864cd868fab43477f7",
+        "text": "+1 703 434 3344",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "c0ed7d82618e5f80c205755a9560dbbf",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "537fb3e77eff1ac4f06f4bd50d494359",
+        "text": "info-usa@ivarjacobson.com",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "c0ed7d82618e5f80c205755a9560dbbf",
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9f567eb3e4a30bfab8c775c951eb6d1c",
+        "text": "Copyright 2015 Ivar Jacobson International, All Rights Reserved.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Alpha_State_Card_Games.pdf"
+        }
+    }
+]

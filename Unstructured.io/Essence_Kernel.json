@@ -1,0 +1,4847 @@
+[
+    {
+        "type": "Title",
+        "element_id": "928d190d72195f50aa7942c40d5a77a3",
+        "text": "Essence Kernel",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "42fe2b8a595c45375cd3eaaed105de5c",
+        "text": "Kristian Sandahl",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "adf4cc72784734a50b434c56832c3a04",
+        "text": "h.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d49c1dba0f8c885768d4b4c035237978",
+        "text": "LINKOPING UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ac4cf3dc4b1581617fd25e3bbbed82df",
+        "text": "Software Engineering Method And Theory",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c4acd4cd3967a13d5855f86c717dd842",
+        "text": "\u2022 A common ground for software engineering",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "ac4cf3dc4b1581617fd25e3bbbed82df",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ba3bf53e45df2d7973d938a952d50357",
+        "text": "\u2022 Moving away from SE methods \u201cfashion\u201d industry.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "ac4cf3dc4b1581617fd25e3bbbed82df",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b73c9becc0fb551208617a4033fe2206",
+        "text": "\u2022 Founded in 2009 by:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "ac4cf3dc4b1581617fd25e3bbbed82df",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f72fd467c14dd3b1329ca5100529b839",
+        "text": "\u2013 Ivar Jacobson",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "ac4cf3dc4b1581617fd25e3bbbed82df",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bab002986cfc39adb4e6043aa0a8db98",
+        "text": "\u2013 Bertrand Meyer",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "ac4cf3dc4b1581617fd25e3bbbed82df",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2da719de1225fd8a517b5b363ba5b980",
+        "text": "\u2013 Richard Soley",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "ac4cf3dc4b1581617fd25e3bbbed82df",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "051790813f3f0e5a57d9b62767cd34c7",
+        "text": "\u2022 OMG Standard under the name Essence",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "ac4cf3dc4b1581617fd25e3bbbed82df",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2a8e4aa5447fff247e78cd85a62918e6",
+        "text": "\u2022 The SEMAT Kernel \u2013 manifestation of the common ground",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "ac4cf3dc4b1581617fd25e3bbbed82df",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "1dbca95c2ba04bf8f7ae8516912e98d3",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "97e42da915b0ea4fe474d0955706227e",
+        "text": "The Kernel",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4d975f410f7c254a7394219917dc907a",
+        "text": "\u2022 comprises the central elements for all SE methods;",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "97e42da915b0ea4fe474d0955706227e",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9d98d808d758c32b01e8a129f77928b9",
+        "text": "\u2022 provides a common language for comparing, applying, and improving methods;",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "97e42da915b0ea4fe474d0955706227e",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "461d423dc803b64abe02598271de4025",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "97e42da915b0ea4fe474d0955706227e",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e4537d6d35dbe95269cd4f35a2763c29",
+        "text": "supports progress monitoring;",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "97e42da915b0ea4fe474d0955706227e",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9278c08959a41d0395b3787877720c5f",
+        "text": "\u2022 works in small- and large-scale projects;",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "97e42da915b0ea4fe474d0955706227e",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7c084300b103d1c998294ebd97cdf772",
+        "text": "\u2022 works for well documented and less documented projects;",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "97e42da915b0ea4fe474d0955706227e",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9be29d490ca141ba9a2dab3883681b49",
+        "text": "\u2022 comes with a language and tool for developing practices.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "97e42da915b0ea4fe474d0955706227e",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c98af9a74a84adb6b1e5d7b3b2a9afd5",
+        "text": "\u2022 Uptake in China, Russia, South Africa, Japan, Silicon Valley, Florida, Mexico, Germany",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "97e42da915b0ea4fe474d0955706227e",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "3a1940ca63d21b559adb7903c5ccd0fe",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a77fae19e37b46afa6dd15aa3a8233b6",
+        "text": "What\u2019s in it for us?",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "97b9a5677275d0e226f3cf0e38124e48",
+        "text": "\u2022 It is highly probable that this will be used much more in the future.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "a77fae19e37b46afa6dd15aa3a8233b6",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b7d12fe2f58c2d7913bf7cf252b085df",
+        "text": "\u2022 By focusing on the Essentials, the project groups have more freedom and responsibility.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "a77fae19e37b46afa6dd15aa3a8233b6",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "03b8b429ce5553d3308fc75c698b06ec",
+        "text": "\u2022 Our students will not become \u201cmethodists\u201d.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "a77fae19e37b46afa6dd15aa3a8233b6",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1ea76192033836cde07d3bef85f9b93c",
+        "text": "\u2022 Taught in TDDE46 Software quality.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "a77fae19e37b46afa6dd15aa3a8233b6",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "e2bce6f6b6ded96dcf41525771015328",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "905e7d8f13ca7f79b415b2097d3e2faf",
+        "text": "Areas of concern",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5753d4c9a59721a0e792ec191494e57a",
+        "text": "Use and exploitation of the system",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "905e7d8f13ca7f79b415b2097d3e2faf",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a9c809a47fb206123a0da1fe6db2b8ec",
+        "text": "Specification and development",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "905e7d8f13ca7f79b415b2097d3e2faf",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "65f7f462b228733742e5d24c98028a97",
+        "text": "The team and approach of work",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "905e7d8f13ca7f79b415b2097d3e2faf",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "65bf81944537e9880f3dc685696b4a1a",
+        "text": "Customer Endeavor",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "445ecd9ea369fa9a970270a5330b135c",
+        "text": "h.v LINKOPING UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6aaf820f8500b7e74c5a7bd3ae050e28",
+        "text": "What is an ALPHA?",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "807d7db438998de3a239e7c2d555f222",
+        "text": "\u2022 Alpha is an acronym for an Abstract-Level Progress Health Attribute.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "6aaf820f8500b7e74c5a7bd3ae050e28",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a698e80c1e53ab293239ff745aa5f744",
+        "text": "\u2022 A critical indicator of things that are most important to monitor and progress.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "6aaf820f8500b7e74c5a7bd3ae050e28",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "a64d9086e5ea8c2689baa907aadd5518",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "49532d5b98c07557dcc725f4dfde4831",
+        "text": "The Kernel ALPHAs",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "48cd71133b8ef00340e5dac49a518189",
+        "text": "Opportumty < provide Stakeholders \u00e9% uoo asn TN Solution I A L s N QQ Endeavor oo\u00ae e < performs and plans Work Team 0(/,0,@8 pp\\\\es",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "47c41a134b1a903c75e43e61c4ce5bda",
+        "text": "LINKOPING h. UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a1bf334570c619a2ceaad767503ec9f7",
+        "text": "Brief explanation",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "30f106e58095cd70a0681c593f9f972e",
+        "text": "A reason for developing the system. Ex: user need An agent affected by the system Ex: Customer, project team Customer < provide Stakehols ders ;; T o , \u2122 %{q, What the system must do. The system of hardware, data, Ex: Store data, be usable nt and software items. Ex: a TV AN Endeavor o= < performs and plans Work Team Activity performed. gbl%e P Ex: Testa GUI. The people engaged in the project. Ex: group 4 Tailored set of practices. Ex: TDD, Kick-off meeting",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8906241af0d537ac5dc95f869e05b8bf",
+        "text": "A reason for developing the system. Ex: user need",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "217c4e058871a0076152f4afe3256e6c",
+        "text": "LINKOPING h. UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d9222725bbae215c5feaa3c9ba3c5cac",
+        "text": "The structure of an ALPHA",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "e4b64f9309a039b24ac83feb53b4de84",
+        "text": "An Alpha Checklist State \u2014\u2014\u2014 O State | 5 O XXXXXXXXXXXX XXX XXX r O XXXXXXXXXXX O XXXXXXXXXXXX State 0 State b O XXXXXXXXXXXX XXX XXX O XXXXXXXXXXX State O XXXXXXXXXXXX 0 State A4 O XXXXXXXXXXXXXXXXXX State O XXXXXXXXXXX O XXXXXXXXXXXX N o State N",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c2a0716ebbc1689c2baa2a3f950ac330",
+        "text": "An Alpha",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "7876dd43abd50517392859cccbb03b9f",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "51552ad93e3faf803482300ecbd981de",
+        "text": "Requirements\u2013 one of the alphas",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "2249abecacb1527460f0d621b1612c8b",
+        "text": "_ < provide | Opportunity Stakeholders L Set up to address > \\y; 6310& {O Solution < SaBhoo) o ee%% N i A 3@ Requirements Software <fulfils System Acceptable i i 2 o \"produces @ Br L / \\\\< spoddns Addressed Work < performs and plans Team 0 90,0% Z aPV\\\\eS",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "cae1b585ae50859df95289f3720fdb6a",
+        "text": "What the software system must do to address the opportunity and satisfy the stakeholders.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "c9700e08a5eb090be45382361c8bf545",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "36b763db2b12efc5dc8eda0c7212122c",
+        "text": "Requirements \u2013 states",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "5a9df66a372a049c65009a08dc00cd5a",
+        "text": "Conceived \\ \u2018o Bounded Coherent Acceptable Addressed @ Fullfilled |",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1e34fa78dfb36ecc46e8ecc3535c2dd6",
+        "text": "The need for a new system has been agreed.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e7ff7e014fe7a56e04aa1bbbd1dff1ec",
+        "text": "The purpose and theme of the new system are cileatr.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "e6abda2429756e81ed1aee8667d771fa",
+        "text": "The requirements provide a coherent description of the essential characteristics of the new system.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c150b28d979afa046430c3aa28397245",
+        "text": "The requirements describe a system that is acceptable to the stakeholders.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "29a6e2540e9bd42ef753abebad2019c4",
+        "text": "Enough of the requirements have been addressed to satisfy the need for a new system in a way that is acceptable to the stakeholders.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fa625eb058056b73702b73785f93e531",
+        "text": "The requirements have been addressed to fully satisfy the need for a new system.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "25c4176bd1b1851cfa6d2c89e3be0345",
+        "text": "h.v LINKOPING UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9c20778d317ae1d1fbf9709c5e3a37d2",
+        "text": "Checklist for requirements states",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "8622ba08adfe9dd151ffd924a5376a54",
+        "text": "[, o Conceived e",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "adc23206431ccbf179b4d081d9db3d27",
+        "text": "The initial set of stakeholders agrees that a system is to be produced.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5838a857a0dcb631561c769f8a423215",
+        "text": "The stakeholders that will use the new system are identified.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "f1204288b4cd0d6080630767f760c26f",
+        "text": "The stakeholders that will fund the initial work on the new system are identified.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5b4d4d7ad97d0dea97ba6a8f087596fd",
+        "text": "There is a clear opportunity for the new system to address.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "d2fd824b683e11b1495e1ae7b46e26cb",
+        "text": "0",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Footer",
+        "element_id": "25176a863f888f3b07d0d664a8d90ebe",
+        "text": "Applying Essence in Practice / Essence Workshop / 20 June 2013",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "099cbc3474ad94f9a7c256d0ead4f6f0",
+        "text": "h.v LINKOPING UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b2c0bffb2792009a6bde045683cf8067",
+        "text": "Checklist for requirements states",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "9777e224d3ffa30393cae18dd563a1e8",
+        "text": "o The stakeholders involved in developing the new system are identified. The stakeholders agree on the purpose of the new system. Bounded It is clear what success is for the new system. The stakeholders have a shared understanding of the extent of the proposed solution. The way the requirements will be described is agreed upon. The mechanisms for managing the requirements are in place. The prioritization scheme is clear. Constraints are identified and \u00a2 ered E Assumptions are clearl ated.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "bc53388ab36b140a5078b3c35c6cca74",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f549c70c5b29cc75fd406d7c7d01df47",
+        "text": "Software system",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "9a1106980e89e17e70245602ca12128e",
+        "text": "An architecture has been selectedthat addresses the key technical risks and any applicable organizational constraints. An executable version of the system is available that Demonstrable demonstratesthe architecture is fit for purpose and supports functional and non-functional testing. Usahle he system is usable and demonstrates all of the quality characteristics required of an operational system. he system (as a whole)has been accepted for Ready deploymentin alive environment. Operational The system isin usein a live environment. Retired The system is nolonger supported. 0000 0",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "456f7f6ca869def83d75e9ab2dca3a19",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "1a0486cc52f3c58dff73b15dfd7ee1a8",
+        "text": "Stakeholders",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "660b9f7532c621cc30c6c422f38b77f2",
+        "text": "The stakeholders have been identified. The mechanisms forinvolving the stakeholders are agreed andthe stakeholder representatives have been appointed. The stakeholder representatives are actively involvedin the work and fulfilling their responsibilities. In The stakeholder representatives are in agreement. Agreement Stakeholders Satisfied for The minimal expectations of the stakeh older representatives have been Deployment achieved. Satisfied in The system meets or exceeds the minimal stakeh older expectations. Use",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "fc3fdb00428f0fce5196977efc78fe9b",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f021690823930eb291de7e40a33f150d",
+        "text": "Opportunity",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "3e3af26310abe55cb5cdb1f9a0ea36bd",
+        "text": "Acommercial, social or business opportunity has been identified that could be addressed by a software-based solution. Solution The needfor a software-based solution has been Needed confirmed. Value Thevalue of a successful solution has been established. Established Itis agreed that a solution can be produced quickly and cheaply enough to successfully addressthe opportunity. Opportunity Asolution has been produ ced that demon strably addresses the opportunity. Benefit The operational use or sale of the solution is creating Accrued tangible benefits.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "6889b57493f62c0d1bbcf56db168d8cc",
+        "text": "LINKOPING Il.il UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "5061e1b600dc0a3467c745cca3ab7386",
+        "text": "Team",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "8c2ce08fbabe3e655e6660db43d20e2f",
+        "text": "Theteam\u2019s mission s clearandthe know-how needed to growthe teamis in place. Theteamhas been populatedwith enough committed people to start the mission The team members are workingtogetheras one unit. TEAM Theteamis working effectively and efficiently. Theteamis no longer accountable for carrying outits mission.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "374e6b37c1e723a8c97bba5feb326f66",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "bc0a7d7b644651ac8f4967465a33ba79",
+        "text": "Work",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "8e3717be6534280877dd2b9c4a5c44d1",
+        "text": "Work has been requested. All pre-conditions for starting the work h ave been met. Thework is proceeding. Thework is goingwell, risks are under control and produ ctivity Work levels are sufficientto achieve a satisfactory result. Thework to producethe results has been concluded. All remaining housekeeping tasks have been completed andthework has been officially closed.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "cc64e23644fe0f28375e7359562dc22f",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6312e54b99fe86203bd3e3eaf1dce2b1",
+        "text": "Way of Working",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 19,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "8828e3d2797f2e076e71f75326621a53",
+        "text": "The principles, and constraints, that shape the way-of-working Principles are established. Established Foundation The key practices, andtools, that form the foundation of the Established way of working are selected and ready for use. In Use Some members of the team are using, and adapting, the way-of-working. i All team members are usingthe way-of-workingto accomplish theirtasks. The way-of-workingis workingwell forthe team. Way-of-Working Theway-of-workingisnolongerin use by the team.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 19,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "5b12427abe66c7f83cf2c9647fddf34f",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 19,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "8f5f2577debc68fc8185e0fe9f08df2d",
+        "text": "[ [l",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "1ebb308e73be649a3d3eacc1c211c193",
+        "text": "What is the real situation",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "dbccebf710e2881320c2111f8479f63c",
+        "text": "= The need for a new systemis Cleer = Users are identfied = |nitial sponsors are identified ST",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "c2c7914c8ae45b594ad4db1f9d903ce1",
+        "text": "* Architecture selected that address key technical risks * Criteria for selecting architecture agreed * Platforms, technologies, languages selected * Buy, build, reuse decisions made ST",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "22f9fe0eb96453653678497acf5854a8",
+        "text": "Work [ oo ] * Work initiator known * Work constraints clear * Sponsorship and funding model clear * Priority of work clear BT .",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "542c31ba6f6362d94a377cb8027af15c",
+        "text": "Team * Team's mission is clear * Team knows how to grow to achieve mission * Required competencies are identified * Team size is determined Lus",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "c8e1152f7e467ce3aae320e03ecec208",
+        "text": "* The purpose and extent of the system are agreed * Success criteria are clear * Mechanisms for handling requirements are agreed * Constraints and assumptions identified ST",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "a2c925e48f083744fc2f0a17484c4905",
+        "text": "A * System is usable and has desired quality characteristics * System can be operated by users * Functionality and performance have been tested and accepted * Defect levels acceptable * Release content known",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "102a77be4ba5ef4c863ea926f8776f3c",
+        "text": "Work * Cost & effort estimated * Funding and resources to start work in place * Acceptance criteria understood * Governance procedures agreed * Risk exposure understood = Dependencies clear",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "b84beab0631a57ea6027611169dbcb4f",
+        "text": "Team * Team has enough resources to start the mission * Team organization & individual responsibilities understood * Members know how to perform work s",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "c79cd9dcea5d43a0f4471f26625eafd9",
+        "text": "| o * The big picture is clear and shared by all involved * Important usage scenarios explained * Priorities are clear * Conflicts are addressed * Impact is understood L s ]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "528902332dfd09376fa778a92f27ce0a",
+        "text": "Demonstrable I * Key architecture characteristics demonstrated * Relevant stakeholders agree architecture is appropriate * Critical interface and system configurations exercised I",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "827e80c3f2a1bb5aaeb2c7a541fc034a",
+        "text": "E% * Development work has started * Work progress is monitored * Work broken down into actionable items with clear definition of done * Team members are accepting and progressing work items",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "de0571148e2779974e9d465158d2ab55",
+        "text": "CX Team Collaborating * Members working as one unit * Communication is open and honest * Members focused on team mission * Success of team ahead of personal objectives s",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "2e3ff3c69888f123b79e80e66d57d480",
+        "text": "* Requirements describe a solution acceptable to the stakeholders * The rate of change to agreed requirements is low * Value is clear ST",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "cd755c99c125329ec4208edaa6f3300a",
+        "text": "Ready I \u00ab User documentation available + Stakeholder representatives accept system \u00ab Stakeholder representatives want to make system operational",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "bef2bd3b9a69b842d3d4a9847f125887",
+        "text": "[ Work Under Control * Work going well, risks being managed * Unplanned work & re-work under control * Work items completed within estimates * Measures tracked",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "50e07f9cd3f22d3b6fcd7a05ac39761b",
+        "text": "Team * Team working efficiently and effectively * Adapts to changing context * Produce high quality output * Minimal backtracking and re- work * Waste continually eliminated L ws",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "08ac11132e3803f4d9759a31f85aafe7",
+        "text": "* Enough requirements are implemented for the system to be acceptable * Stakeholders agree the system is worth making operational L se ]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "5dc4b31cb9a50a3efab02c4a2775a5f4",
+        "text": "* System in use in operational environment * System available to intended users * At least one example of system is fully operational * System supported to agreed service levels L s ]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "fa37894adc83935d4e83afaed2101650",
+        "text": "Work * Work to produce results have been finished * Work results are being achieved * The clienthas accepted the resulting software system",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "b7ec9883bbbe4989a37201910e1faa09",
+        "text": "Team * Team no longer accountable * Responsibilities handed over * Members available for other assignment L ss",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "e5d0be2afafed8cb0cd3d2cc3f8b5745",
+        "text": "* The system fully satisfies the requirements and the need * There are no outstanding requirements items preventing completion L ee ]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "f2054e5c281e1dd009a95e24972b8fd7",
+        "text": "* System no longer supported * Updates to system will no longer be produced * System has been replaced or discontinued. L ee ]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "93f3f9dd3c5799b0caa34cc684ef4033",
+        "text": "Work * All remaining housekeeping tasks completed, and work officially closed * Everything has been archived * Lessons learned and metrics made available",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c9e1d2637f3b6d139d0e60f8baf1a616",
+        "text": "Plan: Determine Current State",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "6c676a3277618da17c3f43db22a9daa3",
+        "text": "= The need for a new systemis Cleer = Users are identfied = |nitial sponsors are identified ST",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "26aeda000cd0fb3e4e250afda72d55a1",
+        "text": "* The purpose and extent of the system are agreed * Success criteria are clear * Mechanisms for handling requirements are agreed * Constraints and assumptions identified ST",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d921cf1b584109675ae570059d076e1b",
+        "text": "e",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c1e4cf259b88a84505ff9bef9fa918f1",
+        "text": "Architecture Selected",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "d921cf1b584109675ae570059d076e1b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "007d084f17b6c5b3b25d1637698b4920",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "d921cf1b584109675ae570059d076e1b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "49a6faae1e67864506db546d7a760079",
+        "text": "Architecture selected that address key technical risks",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "d921cf1b584109675ae570059d076e1b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "315acf3c05c3b59edfd727c1cd15beb3",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "d921cf1b584109675ae570059d076e1b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "917bd20fc31a39555ba2391ce01f6f3a",
+        "text": "Criteria for selecting architecture agreed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "d921cf1b584109675ae570059d076e1b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "c47d922b115a3abeb84a3c2abf712a6d",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "d921cf1b584109675ae570059d076e1b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "0566b2eb65bbf4081b2027dd5fe957b8",
+        "text": "Platforms, technologies, languagrs selected",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "d921cf1b584109675ae570059d076e1b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "95c7737d8ac38ab8ac1bbe87c96ea49a",
+        "text": "\u00ab",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "d921cf1b584109675ae570059d076e1b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c27aff08daaba73112c62ed401bdb681",
+        "text": "Buy, \u00a5 me",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "d921cf1b584109675ae570059d076e1b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ba88d744320eabf4ad94c338eceee230",
+        "text": "i, reuse decisions",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "d921cf1b584109675ae570059d076e1b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c7b043682f233d3860e495e533299749",
+        "text": "r",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ea04182800717d62df2b66826c7bbc01",
+        "text": "R",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "3811834693f2bd30d1c8d2975a6db9fb",
+        "text": "* System is usable and has desired quality characteristics * System can be operated by users * Functionality and performance have been tested and accepted * Defect levels acceptable * Release content known",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "2c02e41d2cc3501149c7cd769672494b",
+        "text": "Achieved",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6a41fbe8486b0935b15fd7b3166ef119",
+        "text": "ator known",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "2c02e41d2cc3501149c7cd769672494b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "638c2c1e8ecdc4adfdc3447f8be6ab6c",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "2c02e41d2cc3501149c7cd769672494b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "17b318cae209a35a9d8565b1136e9416",
+        "text": "Cost & effort estimated",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "2c02e41d2cc3501149c7cd769672494b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "19664ca29e5cabdc99f54df69a77254b",
+        "text": "istraints clear",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "2e56a0cfc4b21de0636791f2f745414a",
+        "text": "Spo, thip and funding model clear * Priority of work clear",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "19664ca29e5cabdc99f54df69a77254b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "71ea7ce8b3d02386b541a5c6e9cd45f5",
+        "text": "Funding and resources to start work in place",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "19664ca29e5cabdc99f54df69a77254b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "5b9432b09cd71bb93e77609c16100c08",
+        "text": "Acceptance criteria understood",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "19664ca29e5cabdc99f54df69a77254b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "f7b2e90f550c7b59dbfb9a551db9c039",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "19664ca29e5cabdc99f54df69a77254b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2d0aeaae4a2d36aafba633e617ba5c3c",
+        "text": "Governance procedures agreed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "19664ca29e5cabdc99f54df69a77254b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "6ec4117acf56a9d140c5da8c3e052791",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "19664ca29e5cabdc99f54df69a77254b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "43a809a77b72450c196754343100a0ff",
+        "text": "Risk exposure understood",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "88a17cfcca6d61621e0be1a7b4f34a44",
+        "text": "Dependencies clear",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "43a809a77b72450c196754343100a0ff",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "3f30cc688dc596023ec843a6fa5e04f2",
+        "text": "1/6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "43a809a77b72450c196754343100a0ff",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "11ed581511e85223a1d686e0bf35bf14",
+        "text": "2/6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "43a809a77b72450c196754343100a0ff",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "3dae531803188e7f6f57581c5287796c",
+        "text": "CX Team Seeded * Team's mission is clear * Team knows how to grow to achieve mission * Required competencies are identified * Team size is determined 115",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "1c34d14d0eaaad2491e004efcf67fd11",
+        "text": "CX Team I * Team has enough resources to start the mission * Team organization & individual responsibilities understood * Members know how to perform work 2/5",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "e9da7eb4a58dff27fa9107bd6e181c73",
+        "text": "o * The big picture is clear and shared by all involved * Important usage scenarios explained * Priorities are clear * Conflicts are addressed * Impact is understood I",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "c006471f2cb867eed394403662392cae",
+        "text": "Demonstrable I = Key architecture characteristics demonstrated = Relevant stakeholders agree architecture is appropriate * Critical interface and system configurations exercised I",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "1d4240ef88c78467eb8680dbc6467123",
+        "text": "E% * Development work has started * Work progress is monitored * Work broken down into actionable items with clear definition of done * Team members are accepting and progressing work items 3/6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "81e9e039933a005c839d571cfda7eb44",
+        "text": "CX Team Collaborating J * Members working as one unit * Communication is open and honest * Members focused on team mission * Success of team ahead of personal objectives 315",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "e9615e067b9da035b958b79ec31981bb",
+        "text": "* Requirements describe a solution acceptable to the stakeholders * The rate of change to agreed requirements is low * Value is clear ST",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "3b886e26f6c0f501debfa6e5ca40c93b",
+        "text": "\u00ab User documentation available + Stakeholder representatives accept system \u00ab Stakeholder representatives want to make system operational",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "20944a65cf02fdf21cb234471fcc0d05",
+        "text": "* Enough requirements are * implemented for the system to be acceptable * * Stakeholders agree the system is worth making operational L se ]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "ea08f4d58ea29de6f80d75d3e9393376",
+        "text": "! * The system fully satisfies the requirements and the need * There are no outstanding requirements items preventing completion I",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "7467d25166d6014a8c812e4d324a8d03",
+        "text": "* System in use in operational environment * System available to intended users * At least one example of system is fully operational * System supported to agre service levels",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "2a953110930fe996d558aaf1c9e23b0b",
+        "text": "I",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "30a5e3eaa83d6361ed766bb6ec96b1ef",
+        "text": "Retired",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "2a953110930fe996d558aaf1c9e23b0b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "652a7b3d5737411c3f1fdb01725d2304",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "2a953110930fe996d558aaf1c9e23b0b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ffbfa3704fd8dd2543454384c8d7a781",
+        "text": "System no longer supported",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "2a953110930fe996d558aaf1c9e23b0b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "a113156e49f624ced11ce12567a07156",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "2a953110930fe996d558aaf1c9e23b0b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "69056e23a6abdc55de6dec824d0e6909",
+        "text": "Updates to system will no longer be produced",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "2a953110930fe996d558aaf1c9e23b0b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "2cc96e3738cacf2bd6daff756321bc4b",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "2a953110930fe996d558aaf1c9e23b0b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a198b313f62b5a4502fa4f07b28c92de",
+        "text": "System has been replaced or discontinued.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "2a953110930fe996d558aaf1c9e23b0b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "1283dfdc6e3b408ea7db1f92bd7df7e0",
+        "text": "I",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9073760d322e3e9344459cd387cc8ed3",
+        "text": "Not Achieved",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "925018bf4a63de6909393dc9a1098fab",
+        "text": "\u2018Nork Closed U\\ * All remaining housekeeping tasks completed, and work officially closed * Everything has been archived Lessons learned and metrics made available",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "9073760d322e3e9344459cd387cc8ed3",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "87e7ac7ef2198fe3ef7aaf758d953d3a",
+        "text": "Work going well, risks being managed * Unplanned work & re-work under control",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "9073760d322e3e9344459cd387cc8ed3",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "afa421d2059584b42943f8e440899135",
+        "text": "Work items completed within",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "9073760d322e3e9344459cd387cc8ed3",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "879fd9a1c8068b5b59326a8e0903d843",
+        "text": "estimates",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "c023a89b135aeb1e6cbcbf7014313adc",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "879fd9a1c8068b5b59326a8e0903d843",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "adda60f2e2b290f1c8ec10ef1329b50c",
+        "text": "Measures tracked",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "879fd9a1c8068b5b59326a8e0903d843",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "8b3cf663c8c925c25b601cbefecbf761",
+        "text": "4/6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "879fd9a1c8068b5b59326a8e0903d843",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "77c8043a5e0b226af87900bcd17c728d",
+        "text": "CX Team Performing ! * Team working efficiently and effectively * Adapts to changing context * Produce high quality output * Minimal backtracking and re- work * Waste continually eliminated 4/5",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "ff5829d5083bef1103d9ff4134be678a",
+        "text": "Work to produce results h been finished",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "a70a30b4adfa04cb6779190d24d70a58",
+        "text": "Work results are being ac * The clienthas accepted tl resulting software system",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "36160db88ef711e4e60d694c633589ed",
+        "text": "5/6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "1bd3778463bebe64af9cf785a5131dc6",
+        "text": "0O Team Adjourned ! * Team no longer accountable * Responsibilities handed over * Members available for other assignment 515",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "1db43595eb418e6e097e269ce1c65494",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "0535282740268e572e5c670758332437",
+        "text": "6/6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "47e7d35f29f74e3863d0d4741a3e5101",
+        "text": "Identify States by Applying State Cards",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "4a16caec569c51b7f5d6934935bfb813",
+        "text": "= The need for a new systemis Cleer = Users are identfied = |nitial sponsors are identified ST",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "0141886ad4e7e01a7b396f0527c120cd",
+        "text": "* Architecture selected that address key technical risks * Criteria for selecting architecture agreed * Platforms, technologies, languages selected * Buy, build, reuse decisions made ST",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "e2d157b0622e0597587266824cf8b4bc",
+        "text": "Work [ oo ] * Work initiator known * Work constraints clear * Sponsorship and funding model clear * Priority of work clear",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "c053a2a0a42f6cf5fb6a05236d6f4594",
+        "text": "Team @ * Team's mission is clear * Team knows how to grow to achieve mission * Required competencies are identified * Team size is determined s",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "bd419478de949daa7ccf482f016f5103",
+        "text": "* The purpose and extent of the system are agreed * Success criteria are clear * Mechanisms for handling requirements are agreed * Constraints and assumptions identified",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "1b81209f46540b61b7a9100e7dd615aa",
+        "text": "hy Usable * System is usable and has desired quality characteristics * System can be operated by users * Functionality and performance have been tested and accepted * Defect levels acceptable * Release content known |",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "4ab59f1536dfa96e8949004cfef07407",
+        "text": "Prepared I% * Cost & effort estimated * Funding and resources to start work in place * Acceptance criteria understood * Governance procedures agreed * Risk exposure understood * Dependencies clear H",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "a0a9db46772b3621b18360748d8358a3",
+        "text": "* Team has enough resources to start the mission * Team organization & individual responsibilities understood * Members know how to perform work s",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "292038967772c1bb32b89343aeb1a0be",
+        "text": "o * The big picture is clear and shared by all involved * Important usage scenarios explained * Priorities are clear * Conflicts are addressed * Impact is understood L s ]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "bf82dc8b2aeffc04ab63712a5a94e624",
+        "text": "[ Work E * Development work has started * Work progress is monitored * Work broken down into actionable items with clear definition of done * Team members are accepting and progressing work items",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "b23bf62b159c63b8fbdbb3921d09fbd0",
+        "text": "CX Team Collaborating * Members working as one unit * Communication is open and honest * Members focused on team mission * Success of team ahead of personal objectives s",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "f71ba6302d270e95ab6fae2a532712bb",
+        "text": "* Requirements describe a solution acceptable to the stakeholders * The rate of change to agreed requirements is low * Value is clear ST",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "692285dcb6e6f9d85aa3cf5c8a45a9de",
+        "text": "* Key architecture characteristics demonstrated * Relevant stakeholders agree architecture is appropriate * Critical interface and system configurations exercised L2 ]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "75d2675da67c3e4e32837e10d04784cf",
+        "text": "\u00ab User documentation available + Stakeholder representatives accept system \u00ab Stakeholder representatives want to make system operational ST",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "d9ddca1b2e8e64987c0f662670b168e8",
+        "text": "[ Work * Work going well, risks being managed * Unplanned work & re-work under control * Work items completed within estimates * Measures tracked",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "694946f3ab6662d9988a04f5c2159452",
+        "text": "Team * Team working efficiently and effectively * Adapts to changing context * Produce high quality output * Minimal backtracking and re- work * Waste continually eliminated L ws",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "8489295ae30ee4b66865d2c63eb3390b",
+        "text": "* Enough requirements are implemented for the system to be acceptable * Stakeholders agree the system is worth making operational L se ]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "c481b1fb134fe5f7db73247da4dc2636",
+        "text": "* System in use in operational environment * System available to intended users * At least one example of system is fully operational * System supported to agreed service levels L s ]",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "b567feb756c148d3d358ec5a608f4e06",
+        "text": "Work * Work to produce results have been finished * Work results are being achieved * The clienthas accepted the resulting software system",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "6f54bc593a598f8066643a88dc5c1778",
+        "text": "Team * Team no longer accountable * Responsibilities handed over * Members available for other assignment L ss",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "aef71b74eb8ebe83f29b8d65b784b8b6",
+        "text": "! * The system fully satisfies the requirements and the need * There are no outstanding requirements items preventing completion I",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "26e5caed4e4e0ac5474e62b2c7eac323",
+        "text": "Retired I * System no longer supported * Updates to system will no longer be produced * System has been replaced or discontinued. I",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "4bb7e77e11f29dc51428076f703044dd",
+        "text": "Closed I% * All remaining housekeeping tasks completed, and work officially closed * Everything has been archived * Lessons learned and metrics made available 6/6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "1f45c5287fb4bce894b6eeb3b3b09de2",
+        "text": "Tasks and Sub-Alphas",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "22b567beddc1763932439080a9b4fd75",
+        "text": "Objectives",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b38e6ee3a81880cdff1fccf5899a1cf7",
+        "text": "(D( Way of Working",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fd244cda6baa4224bf4e4bf424e04713",
+        "text": "Working Well \u2018working sasaedgs",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "parent_id": "b38e6ee3a81880cdff1fccf5899a1cf7",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "16c8ec3c5f07d7958c230d97bf3f412e",
+        "text": "is working well",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "parent_id": "b38e6ee3a81880cdff1fccf5899a1cf7",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6693cee9281396720c84e6bccde66cb2",
+        "text": "making",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "parent_id": "b38e6ee3a81880cdff1fccf5899a1cf7",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "63aa8212a8afad5c97acab6390a398a7",
+        "text": "9 about them ol \u2018support way of",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "parent_id": "b38e6ee3a81880cdff1fccf5899a1cf7",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "40ca5b79ce5d0f2532eef5c4fface427",
+        "text": "5/6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "parent_id": "b38e6ee3a81880cdff1fccf5899a1cf7",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9950482af871887b651ac6d3d2f2dc70",
+        "text": "CX Software System",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a28004732f1df961c67409b6fd17799f",
+        "text": "Usable",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "407bb213198c7b64156184a6e5c0d3ec",
+        "text": "sy",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c18924c270cc8e412571ef1c657b3613",
+        "text": "bie and h",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d4212fbf1ce84dddd6b4ddd9c0db6ae5",
+        "text": "stics.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "3fb77ebaf559e2d7074e8f916f7c8c05",
+        "text": "sy",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d3edc529d92a4e3d364188435cba345c",
+        "text": "by",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b9affd7110b40eba82ac148342c78980",
+        "text": "and performs",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f570719a10f668d604adef26002d235f",
+        "text": "\u00e9",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "54b027ee4cd746e19bf0950566ebe547",
+        "text": "3/6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "parent_id": "f570719a10f668d604adef26002d235f",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "86510e65c29906778f63a965e4027599",
+        "text": "(\") Requirements",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "bcb98c85551672f1ea437309fb315a7b",
+        "text": "Addressed",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "dc9d082305df655ba319c487809e132b",
+        "text": "5/6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "parent_id": "bcb98c85551672f1ea437309fb315a7b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "075951f68b995544ef64bb15bcd77a64",
+        "text": "To Do",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "3a996043d39afd057a3760361fa296de",
+        "text": "Doing",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "aff986f33b3082dc324a4ede6ee855ed",
+        "text": "Done",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "83de9cc0bba1af09513bd3904203240a",
+        "text": "Task 1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "67f35710a2a9da51b39d3afd54c79c22",
+        "text": "Task 2",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ca87931ec70d953986ed1394c3ce38db",
+        "text": "Set up test environment",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e4197111b2602491e66ae0d3b1eda974",
+        "text": "Task 3",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "dc3515726af4a4c568862566175722e1",
+        "text": "|",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "parent_id": "e4197111b2602491e66ae0d3b1eda974",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "a39e614ce89534d833d63d891c0a6b8d",
+        "text": "Complete Requirement-Item A",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "309adbd11d4ec639e335251ad637eef8",
+        "text": "Task4",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "91150f255bdf504f0dff04e2f24cae41",
+        "text": "|",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "parent_id": "309adbd11d4ec639e335251ad637eef8",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c6b687dbacd160dbc9fb16d80ab871cc",
+        "text": "Complete Requirement-Item B",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "7541aeb828bcf37b4721be7158cc845c",
+        "text": "Task 5",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "5ed6d964e48a76e2d930d69162603587",
+        "text": "Complete Requirement-Item C",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "f9657434d18429ea54a211c19cec8c54",
+        "text": "Task 7",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9d694d803fb9c23a238aa4f1e07b5f93",
+        "text": "Task 8",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b6219cbabdabe61bc0927e59fe1f4012",
+        "text": "Task 9",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "80cd95c80fef47a3b02ec9e5dcb77d17",
+        "text": "Complete more",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6cf2afc3158bb22e8f52b024b4cec210",
+        "text": "Requirement-Items",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "87166471fdabef10629a2cbdaaf12e26",
+        "text": "Task 6",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "c67ad61f90a56731af2d3a4588e9a018",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "723bf777b9e88922fab56162ddbabb57",
+        "text": "Exercise: How would you like your life-cycle?",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "5388dc8ce949c30ac1bdd9956dfb04af",
+        "text": "Prestu",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "fb8843828ae8e203185ce30fefad84c0",
+        "text": "dy",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "cf20cced800bdf6217ab94b411b4e105",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "2c5d833493cf59d0894003f20a0420fb",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8112c63c8dccf92ccd0b9094f6ea33fa",
+        "text": "Iterati",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "af6136d957e2aa7a192d5eb70a923f9b",
+        "text": "on1",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "35e25c3165f323329a44b68bd0b89b7c",
+        "text": "[",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "d8455ec26f999fc3e66f6af1e3e18f04",
+        "text": ")",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "244433fab61300d29fa325133465d693",
+        "text": "Ce",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "748ecfc43ddc80e97ee9c0695c8661cd",
+        "text": "() work [ e |",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "665b90bee89b39edf1c082985853453f",
+        "text": ",,,,,",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "748ecfc43ddc80e97ee9c0695c8661cd",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "878f2f7420c1b50244ed62d7113ddfc9",
+        "text": "epanden",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "748ecfc43ddc80e97ee9c0695c8661cd",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "b6758c535adf8f70842aed192d0b173b",
+        "text": "()",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "748ecfc43ddc80e97ee9c0695c8661cd",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "352e011cd54872659794584911b00d8c",
+        "text": "Team",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "748ecfc43ddc80e97ee9c0695c8661cd",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "5f4b7cda397047be65091e0c3c3dc12b",
+        "text": "Lws",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4f61eaa0f1c6187a436810915268db95",
+        "text": "Iterati",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "5f4b7cda397047be65091e0c3c3dc12b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "a5f0417e374d45b9b6accda8c0aeacce",
+        "text": "()",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "5f4b7cda397047be65091e0c3c3dc12b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4d71e9b6a2f55a7bca55bde3b256a42a",
+        "text": "Team",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "5f4b7cda397047be65091e0c3c3dc12b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "68370aec87d5969fcd8236fd6075dade",
+        "text": "(T",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ee36498e44b1147787be7fdd57fe7d72",
+        "text": "Performing",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "68370aec87d5969fcd8236fd6075dade",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "4a36696a554166a206945db54fa33663",
+        "text": "C e",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "bbbfcab6e5d150d0708d871ea7579e70",
+        "text": ")",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "4a36696a554166a206945db54fa33663",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fe3086d3f55a24a05895288bd76700ca",
+        "text": "Iterati on3",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "4a36696a554166a206945db54fa33663",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "c34988fb040d470e8896dda970cc6fe4",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9efe3bb45e9cda9e66f62516ad7ab1d9",
+        "text": "We will use the gym system example",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "216f851205ddded21e4fc5288434c84e",
+        "text": "h.v LINKOPING UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "9a72e1a642dce9eafa98a34a329ba526",
+        "text": "Activity spaces: things to do",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 25,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "02c65011e6fa16a047efbf29e432ad5f",
+        "text": "\u2014\u2014\u2014\u2014 - \u2014\u2014\u2014\u2014 - \u2014\u2014\u2014 - - -\u2014\u2014\u2014 - - \u2014\u2014 Explore Understand Ensure Stakeholder Usethe System Possibilities Stakeholder Needs Satisfaction - oo TS, BRI, SR, ) y y 9 E- \u00a7 y i \u2014\u2014 Preparetodo Coordinate Supportthe Team Track Progress Stop the Work the Work Activity",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 25,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "43ae2d88a9642e923da297ee42a1c57c",
+        "text": "LINKOPING h. UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 25,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "811c1d3bcddee506a44fbbe59103cd3b",
+        "text": "Classification of concrete Activities",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "46bb85311b6dd633b973ff1ece1ea6fb",
+        "text": "\u2022 From earlier practice and/or theoretical studies",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "parent_id": "811c1d3bcddee506a44fbbe59103cd3b",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "20c6e44be1be744d824d981ecaa072c1",
+        "text": "TETES, TEEET T ST W o joo el holder Needs e Stakeholder = e ee T Do oS T T e Understanat Y RNy Wy N il e Implementthe Foaeay B T poaeey the System teSystem thesystem the Syste) L M L g the Team L L",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "df530332ee0e134517afab854c011cfc",
+        "text": "\u2014 : : \u2014\u2014",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6980e4cd227cfcfe91c35a6d567ca12e",
+        "text": "o",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "5678f4c767e77da0840e2de21c88edba",
+        "text": "== \\\\",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "parent_id": "6980e4cd227cfcfe91c35a6d567ca12e",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b9a31125807fb04a419e04d788633d83",
+        "text": "Understand",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "c7677fc388b7e9079b32c5c5043b9a33",
+        "text": "requirements",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "68e6f3b7c344c110b2b2566ade8726cd",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "parent_id": "c7677fc388b7e9079b32c5c5043b9a33",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "4941787ca54221f6598519bda07f17ff",
+        "text": "",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "parent_id": "c7677fc388b7e9079b32c5c5043b9a33",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "393bf41d57efa598a466bcb292a93c7e",
+        "text": "4",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "parent_id": "c7677fc388b7e9079b32c5c5043b9a33",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "UncategorizedText",
+        "element_id": "989006f48f186e2c9996e982248e5386",
+        "text": "4",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "parent_id": "c7677fc388b7e9079b32c5c5043b9a33",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "bec0fd69f53470d73be23c44b8313f5f",
+        "text": "\u2022 Some are specified in a document",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "parent_id": "c7677fc388b7e9079b32c5c5043b9a33",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "a7e95092f37450f41ba13e6483fea68e",
+        "text": "\u2022 Some are specified on a card",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "parent_id": "c7677fc388b7e9079b32c5c5043b9a33",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d04a869c7b4e7a397d32fe11444a3f66",
+        "text": "\u2022 Some are just mentioned",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "parent_id": "c7677fc388b7e9079b32c5c5043b9a33",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "04409608b87e44e226f68738664b146a",
+        "text": "\u2022 Some are unspoken, common-ware",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "parent_id": "c7677fc388b7e9079b32c5c5043b9a33",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "a07b697cf4d4d15c310331fe680ed2e8",
+        "text": "h.v LINKOPING UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "015bb27dddea7b5d1784d5d325696297",
+        "text": "Identify",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "8aa5e3a6029466dee3102d0ebef552e4",
+        "text": "Use-cases",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 26,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "dd22acdeb62564f6c3d2b528cadfc881",
+        "text": "Kernel competencies",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 27,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "d6b854b13c8a2de5d87c48f09f5f0d7e",
+        "text": "A",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 27,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "26d826d96438df212d4084ae0c1bdbda",
+        "text": "Stakeholder Representation",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 27,
+            "parent_id": "d6b854b13c8a2de5d87c48f09f5f0d7e",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "09bf59d0792a9efdac9785559a459642",
+        "text": "Representation A W",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 27,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "726ce90ffb6bb3c7e56cccfcd8fa37b9",
+        "text": "A",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 27,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "e19f2a36e5d5c8dbd15f7cede2d024c3",
+        "text": "W",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 27,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9d7a957109430cca69b229e0e3274ccb",
+        "text": "Management",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 27,
+            "parent_id": "e19f2a36e5d5c8dbd15f7cede2d024c3",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "050986550cc257b3e5585dc1f40fba15",
+        "text": "Leadership",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 27,
+            "parent_id": "e19f2a36e5d5c8dbd15f7cede2d024c3",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "fc1565b7e59e98fc03716b00efe0b2de",
+        "text": "LINKOPING h. UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 27,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "69a7d904f382ebc427088dd2e8ce50e3",
+        "text": "Levels of competencies",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 28,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "a2d126bb7cd240df0fa499aa9b7fdcb6",
+        "text": "* Development The ability to design and program effective software systems following the standards and norms agreed by the team. womes \u00ae e * e X Applies * w4 %",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 28,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2dec789457080f9d6c0ee2b26bcac86e",
+        "text": "Assists Demonstrates a basic understanding of the con- cepts and can follow instructions.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 28,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c03ee3f043133d9f3f7b59e2cf880c5b",
+        "text": "Applies Able to apply the concepts in simple contexts by routinely applying the experience gained so far. Masters Able to apply the concepts in most contexts and has the experience to work without supervision. Adapts Able to apply judgment on when and how to apply the concepts to more complex contexts. Can enable others to apply the concepts.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 28,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "50a7e18d989415bb5c28a4312e1a6c2a",
+        "text": "Innovates A recognized expert, able to extend the concepts to new contexts and inspire others.",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 28,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "d17d5ff1a1cf2fea9b87d6398dadb45b",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 28,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "bae40b5c40ea031c2fd3bb1bb6be472d",
+        "text": "Practical usage",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 29,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "fe590ef8bf866e6ba34948e8c45ea14f",
+        "text": "\u2022 Make a rating of competency levels needed for the roles",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 29,
+            "parent_id": "bae40b5c40ea031c2fd3bb1bb6be472d",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "08aab6fcc5ed358592545d2f89393493",
+        "text": "\u2022 Make an (honest) individual rating",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 29,
+            "parent_id": "bae40b5c40ea031c2fd3bb1bb6be472d",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "8d2ee8d9ca61fc2fd692125171aa6f40",
+        "text": "\u2022 Assign the best-fit roles",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 29,
+            "parent_id": "bae40b5c40ea031c2fd3bb1bb6be472d",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "c5f54ece57639b38fe9cf54f383625f4",
+        "text": "\u2022 Make a gap analysis",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 29,
+            "parent_id": "bae40b5c40ea031c2fd3bb1bb6be472d",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "535d90e488d28811d3cd728e6b5dc185",
+        "text": "\u2022 Develop an education plan",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 29,
+            "parent_id": "bae40b5c40ea031c2fd3bb1bb6be472d",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "92f929380f34718c92f3e5172318ec82",
+        "text": "Development Leadership",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 29,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "90b63c3a594a188d9d8574815af17768",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 29,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "5a6fec782c7224b87fa8e49437c98a03",
+        "text": "Work product",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 30,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "b361e469d80bf9b3ca31ef0fcc3ca730",
+        "text": "Good code that not only implements requirements, but also in a self-explanatary way. T A L i . | Code Explained [ Describes: ! Software System M P",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 30,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "bf51b2d963829d74ba999cc8cd44882e",
+        "text": "LINKOPING h. UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 30,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "42a19bfb634489ed852031265416b094",
+        "text": "Snap-shot of relations between elements",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 31,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "f1e600f9189a35b5eb31ba960e42cc10",
+        "text": "< fulfills - Software System Requirements provides input Qa\u2018)\u2018?\u2018: is progressed by > & \\ W Development _qqures D produces > CI Write Code Code x Testing",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 31,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "a196d93e26e39180e6d59c0fa4c6d2c0",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 31,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "ee51c0d503c97920f497b7935a27eb00",
+        "text": "Exercise: Essentializing a practice",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 32,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "175fc048e342d6435418a21a0650da37",
+        "text": "\u2022 A repeatable approach to doing something with a specific purpose in mind",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 32,
+            "parent_id": "ee51c0d503c97920f497b7935a27eb00",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "1fbf26a2ed25c2cf34cda88f87934192",
+        "text": "\u2022 Identify elements",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 32,
+            "parent_id": "ee51c0d503c97920f497b7935a27eb00",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "b9e500cdfa1ce25bfd185dd3f55859bf",
+        "text": "\u2022 Identify things to watch, the alphas",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 32,
+            "parent_id": "ee51c0d503c97920f497b7935a27eb00",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "9c25815db9c980939aed361bdcebf241",
+        "text": "\u2022 Draft relationships",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 32,
+            "parent_id": "ee51c0d503c97920f497b7935a27eb00",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "30653efb3d6bd528082ce65f1b0cc79b",
+        "text": "\u2022 Add details",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 32,
+            "parent_id": "ee51c0d503c97920f497b7935a27eb00",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "2e0caa31782524e94ca5bb32d6ac4cf9",
+        "text": "\u2022 Produce cards",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 32,
+            "parent_id": "ee51c0d503c97920f497b7935a27eb00",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "958e78d522ec7ff71769e2cfffa646df",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 32,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "6546b592f54e5195f61114f3e7a8f510",
+        "text": "Example: User story",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 33,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "f335509c720fe8a089496c334600187c",
+        "text": "Requirements {trom lzmel) Described by Virified By User Story Story Card Test Caze - - - - Splitting User Stories i Find Prepare : Accept | User Stories User Story Y :Userinw ! I.Inder!'.ta'id the I\ufb01emiremnu T e - Test the System \"~ \u2014\u2014",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 33,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "6e9fdb086f074d63b809a53b1da5b5ba",
+        "text": "h.v LINKOPING UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 33,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "73de9ef6c62c34b559df36955777897d",
+        "text": "Patterns describe (complex) solutions to typical problems",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 34,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "3bb3aec4a32b62d33f18bac74e24d07f",
+        "text": "\u2022 Structure, e.g. organization of working space",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 34,
+            "parent_id": "73de9ef6c62c34b559df36955777897d",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "226902631202f65686c0c5784c785fe3",
+        "text": "Resources, e.g. tools",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 34,
+            "parent_id": "73de9ef6c62c34b559df36955777897d",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "8d74af5d1180a188e4f0797023fab4eb",
+        "text": "Roles, e.g programmer",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 34,
+            "parent_id": "73de9ef6c62c34b559df36955777897d",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "5ba58b9901e0aac9cca84d537732ba06",
+        "text": "\u2022 Checkpoints, e.g. a mile stone",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 34,
+            "parent_id": "73de9ef6c62c34b559df36955777897d",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "1704d259d11a3886f57780052808c2db",
+        "text": "=l",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 34,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "45196445cd342a8bce81f99c4c298b89",
+        "text": "name",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 34,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "e880789886fa2dd3ccc8544b0aeb847b",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 34,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "54953d4d897a3d4da51c2fdaaf5e2be8",
+        "text": "Example of a role pattern card",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 35,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "f12c036e4cd140a3cd0e1258488a1668",
+        "text": "Role Practice =1 Programmer <Role> A programmer implements the i software system based on the Source code requirements by producing software source code and executables. i Build [====\\ |Implementthe\\ System 7 | PR \u2014\u2014 [=\u2014===\\ Test the \\ System i - -",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 35,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "ad764a5ab6eff8f2c5ebc4e021ef3729",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 35,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "2df3b2b4c348ecdfb217b1acf3921809",
+        "text": "Exercise: Describe the practice of having a kick-off meeting",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 36,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "851c66e4409b7a77272a6f8fe8d7677c",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 36,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "80d3ab615adc070e5554994eb7f0cf46",
+        "text": "Exercise: Describe the practice of automated unit testing",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 37,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "e602687ae69fd71d8ab8a2fe79210ae9",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 37,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Title",
+        "element_id": "b45822fee2a4ff668f45f0898d0d9d59",
+        "text": "Good links",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 38,
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "ListItem",
+        "element_id": "0ea9c6171b8b5eccd30f65b81ab705c6",
+        "text": "Material:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 38,
+            "parent_id": "b45822fee2a4ff668f45f0898d0d9d59",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "de446a307efaa2d3beec26ae8e44268b",
+        "text": "http://www.software-engineering- essentialized.com/home",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 38,
+            "parent_id": "b45822fee2a4ff668f45f0898d0d9d59",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "646b533a93417133469f8dfdf706090d",
+        "text": "The standard:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 38,
+            "parent_id": "b45822fee2a4ff668f45f0898d0d9d59",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "d93d2ece56ffe8d456925d5086f74237",
+        "text": "https://www.omg.org/spec/Essence/",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 38,
+            "parent_id": "b45822fee2a4ff668f45f0898d0d9d59",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "4f9406655eb0417eaddcd3b60b9bab81",
+        "text": "\u2022 Browse the library of Essence 365:",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 38,
+            "parent_id": "b45822fee2a4ff668f45f0898d0d9d59",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "ab159653b00b5b2b8bded57c670fc16c",
+        "text": "https://practicelibrary.ivarjacobson.com/start (read-only, requires login)",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 38,
+            "parent_id": "b45822fee2a4ff668f45f0898d0d9d59",
+            "filename": "Essence_Kernel.pdf"
+        }
+    },
+    {
+        "type": "Image",
+        "element_id": "96f3506baf151b5e3f8e24bbbc853400",
+        "text": "LINKOPING h.v UNIVERSITY",
+        "metadata": {
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 38,
+            "filename": "Essence_Kernel.pdf"
+        }
+    }
+]
