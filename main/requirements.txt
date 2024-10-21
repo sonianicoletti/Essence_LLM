@@ -9,8 +9,9 @@ pip install pytest
 pip install boto3
 pip install unstructued-client
 pip install markdown
+pip install Flask
 
-Requirements:
+# Requirements:
 python-dotenv==1.0.1 # For reading environment variables stored in .env file
 langchain==0.2.2
 langchain-community==0.2.3

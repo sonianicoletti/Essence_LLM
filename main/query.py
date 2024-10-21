@@ -12,7 +12,7 @@ MODEL_NAME = "gemini-1.5-pro"
 # 100 token = 70 English words
 # gemini-1.0-pro: 30k + 2k = 32k tokens context window
 # gemini-1.5-pro: input 2M, output 8k tokens (5600 words)
-TEMPERATURE = 0.1 # from 0.0 to 2.0: lower -> less creative, higher -> more creative
+TEMPERATURE = 1.0 # from 0.0 to 2.0: lower -> less creative, higher -> more creative
 
 def signal_handler(sig, frame):
     print('\nThank you for using Essence Coach :)')
@@ -57,12 +57,18 @@ def generate_answer(prompt):
     ),)
     return answer.text
 
-while True:
-    print("-------------------------------------------------------------")
-    print("What would you like to ask?")
-    query = input("Query: ") 
-    context = get_relevant_context_from_db(query)  
-    prompt = generate_rag_prompt(query=query, context=context)
-    answer = generate_answer(prompt=prompt)
+#while True:
+ #   print("-------------------------------------------------------------")
+ #   print("What would you like to ask?")
+ #   query = input("Query: ") 
+ #   context = get_relevant_context_from_db(query)  
+ #   prompt = generate_rag_prompt(query=query, context=context)
+ #   answer = generate_answer(prompt=prompt)
     # print("CONTEXT: " + context)
-    print("ANSWER: " + answer)
+ #   print("ANSWER: " + answer)
+
+def process_query(user_input):
+    context = get_relevant_context_from_db(user_input)  
+    prompt = generate_rag_prompt(query=user_input, context=context)
+    answer = generate_answer(prompt=prompt)
+    return answer
