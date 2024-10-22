@@ -6,8 +6,9 @@ from langchain_chroma import Chroma
 import google.generativeai as genai
 
 GEMINI_API_KEY = "AIzaSyCYBOykSOL_ToRpPJ81VWxS2bgIEb56PtE"
-K = 3 # number of results you need to retrieve (each result is an embedding)  
-MODEL_NAME = "gemini-1.5-pro"
+K = 3 # number of results you need to retrieve (each result is an embedding) 
+EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2" 
+GENERATIVE_MODEL_NAME = "gemini-1.5-pro"
 # 1 token = +-4 characters
 # 100 token = 70 English words
 # gemini-1.0-pro: 30k + 2k = 32k tokens context window
@@ -37,7 +38,7 @@ def generate_rag_prompt(query, context):
 
 def get_relevant_context_from_db(query):
     context = ""
-    embedding_function = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2", model_kwargs={'device': 'cpu'})
+    embedding_function = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME, model_kwargs={'device': 'cpu'})
     vector_db = Chroma(persist_directory="./chroma_db", embedding_function=embedding_function)
     search_results = vector_db.similarity_search(query, k=K)
     # Use enumerate to include i in the loop
@@ -48,27 +49,27 @@ def get_relevant_context_from_db(query):
 
 def generate_answer(prompt):
     genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel(model_name=MODEL_NAME)
+    model = genai.GenerativeModel(model_name=GENERATIVE_MODEL_NAME)
     answer = model.generate_content(prompt,
     generation_config=genai.types.GenerationConfig(
         candidate_count=1,
         max_output_tokens=8000,
-        temperature=1.0,
+        temperature=TEMPERATURE,
     ),)
     return answer.text
-
-#while True:
- #   print("-------------------------------------------------------------")
- #   print("What would you like to ask?")
- #   query = input("Query: ") 
- #   context = get_relevant_context_from_db(query)  
- #   prompt = generate_rag_prompt(query=query, context=context)
- #   answer = generate_answer(prompt=prompt)
-    # print("CONTEXT: " + context)
- #   print("ANSWER: " + answer)
 
 def process_query(user_input):
     context = get_relevant_context_from_db(user_input)  
     prompt = generate_rag_prompt(query=user_input, context=context)
     answer = generate_answer(prompt=prompt)
     return answer
+
+""" while True:
+    print("-------------------------------------------------------------")
+    print("What would you like to ask?")
+    query = input("Query: ") 
+    context = get_relevant_context_from_db(query)  
+    prompt = generate_rag_prompt(query=query, context=context)
+    answer = generate_answer(prompt=prompt)
+    print("CONTEXT: " + context)
+    print("ANSWER: " + answer) """

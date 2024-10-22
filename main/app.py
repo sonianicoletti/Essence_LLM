@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify, render_template
-from query import process_query  # Import the function from query.py
+from main.gemini_rag import process_query  # Import the function from gemini_rag.py
 
 app = Flask(__name__)
 
