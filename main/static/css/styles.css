@@ -1,34 +1,171 @@
+/* Color Variables */
+:root {
+    --background-color: rgb(22, 25, 36);
+    --text-color: #ffffff;
+    --container-background: #101a37;
+    --box-shadow-color: rgba(0, 0, 0, 0.2);
+    --chatbox-background: #21242f;
+    --border-color: #181b23;
+    --user-message-bg: #323d67;
+    --bot-message-bg: #272c3e;
+    --input-background: #303545;
+    --send-button-bg: #4361EE;
+    --send-button-hover-bg: #3655e0;
+    --scrollbar-thumb-bg: #666;
+    --scrollbar-track-bg: #333;
+}
+
+/* General body styling */
 body {
-    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
-    margin: 0;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    text-align: center;
 }
+
+/* Styling for the heading and paragraph */
+h1, p {
+    margin: 10px 0;
+}
+
+/* Chat container */
+#chat-container {
+    width: 900px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 10px;
+    background-color: var(--container-background);
+    box-shadow: 0 4px 8px var(--box-shadow-color);
+    margin-top: 20px;
+}
+
+/* Chatbox styling */
 #chatbox {
-    border: 1px solid #ccc;
-    width: 300px;
-    height: 400px;
+    flex-grow: 1;
+    padding: 20px;
     overflow-y: auto;
-    padding: 10px;
-    background-color: white;
+    border-bottom: 2px solid var(--border-color);
+    background-color: var(--chatbox-background);
+    display: flex;
+    flex-direction: column;
 }
+
+/* Chat message styles */
+.message {
+    max-width: 70%;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+    word-wrap: break-word;
+}
+
+/* User message on the right */
+.user-message {
+    align-self: flex-end;
+    background-color: var(--user-message-bg);
+    color: var(--text-color);
+    border-bottom-right-radius: 0;
+    text-align: start;
+}
+
+/* Bot message on the left */
+.bot-message {
+    align-self: flex-start;
+    background-color: var(--bot-message-bg);
+    color: var(--text-color);
+    border-bottom-left-radius: 0;
+    text-align: start;
+}
+
+/* Input area styling */
 #input-area {
-    margin-top: 10px;
+    display: flex;
+    padding: 20px;
+    border-top: 2px solid var(--border-color);
+    background-color: var(--chatbox-background);
 }
-input[type="text"] {
-    width: 80%;
+
+#input-area input[type="text"] {
+    flex-grow: 1;
     padding: 10px;
-    border: 1px solid #ccc;
     border-radius: 5px;
-}
-button {
-    padding: 10px;
     border: none;
-    background-color: #28a745;
-    color: white;
+    outline: none;
+    background-color: var(--input-background);
+    color: var(--text-color);
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+/* Send button styling */
+#input-area button {
+    padding: 10px 20px;
+    border: none;
     border-radius: 5px;
+    background-color: var(--send-button-bg);
+    color: var(--text-color);
+    font-size: 16px;
     cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#input-area button:hover {
+    background-color: var(--send-button-hover-bg);
+}
+
+/* Scrollbar styling */
+#chatbox::-webkit-scrollbar {
+    width: 8px;
+}
+
+#chatbox::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-thumb-bg);
+    border-radius: 5px;
+}
+
+#chatbox::-webkit-scrollbar-track {
+    background-color: var(--scrollbar-track-bg);
+}
+
+/* Loading indicator (three dots) */
+.typing-indicator {
+    display: inline-block;
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+.typing-indicator span {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    margin: 0 2px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    animation: typing 1.2s infinite ease-in-out;
+}
+
+.typing-indicator span:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.typing-indicator span:nth-child(3) {
+    animation-delay: 0.4s;
+}
+
+@keyframes typing {
+    0%, 80%, 100% {
+        transform: scale(0);
+    } 
+    40% {
+        transform: scale(1);
+    }
 }

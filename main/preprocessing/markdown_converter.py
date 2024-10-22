@@ -44,8 +44,8 @@ def json_to_markdown(json_folder_path, output_folder_path):
             print(f"Markdown file created at: {output_markdown_path}")
 
 # Specify the path to the JSON folder and the output Markdown folder
-json_folder_path = "../data/json/"
-output_folder_path = "../output/"
+json_folder_path = "../../data/json/"
+output_folder_path = "../../output/"
 
 # Call the function to convert JSON to Markdown
 json_to_markdown(json_folder_path, output_folder_path)
