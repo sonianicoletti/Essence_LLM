@@ -51,8 +51,11 @@ async function sendMessage() {
         // Remove the loading indicator
         chatbox.removeChild(loadingIndicator);
 
-        // Display bot message in chatbox on the left
-        chatbox.innerHTML += `<div class="message bot-message">${data.response}</div>`;
+        // Use `marked` to parse the markdown and convert it to HTML
+        const markdownResponse = marked.parse(data.response);
+
+        // Display bot message in chatbox on the left with parsed HTML
+        chatbox.innerHTML += `<div class="message bot-message">${markdownResponse}</div>`;
         chatbox.scrollTop = chatbox.scrollHeight;  // Scroll to the bottom
     } catch (error) {
         console.error('Error fetching the chatbot response:', error);
@@ -69,6 +72,7 @@ async function sendMessage() {
         sendButton.classList.remove('disabled');
     }
 }
+
 
 // Detect 'Enter' key press and send message
 const inputField = document.getElementById('user-input');

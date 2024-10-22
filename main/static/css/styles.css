@@ -99,6 +99,10 @@ a {
     text-align: start;
 }
 
+.bot-message p {
+    margin: 0;
+}
+
 /* Error message styling for bot response */
 .error-message {
     color: var(--text-color); 

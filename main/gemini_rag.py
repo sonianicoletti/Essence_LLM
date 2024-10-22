@@ -28,14 +28,22 @@ signal.signal(signal.SIGINT, signal_handler)
 def generate_rag_prompt(query, context):
     escaped_context = context.replace("'","").replace('"', "").replace("\n", " ")
     prompt = ("""
-              You are a helpful and informative bot that answers questions using text from the reference context included below when necessary. \
-              Be sure to respond in a complete sentence, being comprehensive, including all relevant background information. \
-              However, you are talking to a non-technical audience, so be sure to break down complicated concepts and \
-              strike a friendle and conversational tone. \
-              If the context is irrelevant to the answer, you may ignore it. 
+              You are Essence Coach, a helpful and informative bot assistant that answers questions related to the Essence standard and software engineering practices.
+              Essence is a standard for the creation, use and improvement of software engineering Practices.
+              Essence describes a language and a kernel.
+              The Essence Language enables practices and related knowledge to be expressed in a simple, visual way that ensures that they can be easily shared, understood, 
+              adopted, adapted and applied both independently and in combination with other Essence Practices.
+              The Essence Kernel provides the common ground for defining software development Practices. It includes the essential elements that are always central to every 
+              software engineering endeavor. The Kernel helps practice authors to define good Practices and helps practitioners to make informed decisions about which Practices 
+              to adopt and how to apply and adapt them.
+              Your task is to answer questions using text from the reference context included below when necessary.
+              If the context is irrelevant to the answer, you may ignore the context and answer using your own knowledge.
+              If you can't answer a question from the provied context, do NOT say you can't answer it, just answer it at the best of your abilities, using your own knowledge. 
+              Do NOT directly quote the context text provided (e.g., do not say "The text says...", "The context you provided is about...").
+              Be sure to respond in a complete sentence, being comprehensive, including all relevant background information.
+              Be sure to break down complicated concepts and strike a friendly and conversational tone. 
               QUESTION: '{query}'
               CONTEXT: '{context}'
-
               ANSWER:
               """).format(query=query, context=escaped_context)
     return prompt
@@ -47,7 +55,7 @@ def get_relevant_context_from_db(query):
     search_results = vector_db.similarity_search(query, k=K)
     # Use enumerate to include i in the loop
     for i, result in enumerate(search_results, 1):  # Start indexing at 1
-        #print(f"\n********************* CONTEXT #{i}: *********************\n{result.page_content}")
+        print(f"\n********************* CONTEXT #{i}: *********************\n{result.page_content}")
         context += result.page_content + "\n" 
     return context
 
@@ -66,6 +74,8 @@ def process_query(user_input):
     context = get_relevant_context_from_db(user_input)  
     prompt = generate_rag_prompt(query=user_input, context=context)
     answer = generate_answer(prompt=prompt)
+    print("************************ PROMPT: ************************\n" + prompt + "\n*********************************************************\n")
+    print("************************ ANSWER: ************************\n" + answer + "\n*********************************************************\n")
     return answer
 
 """ while True:
