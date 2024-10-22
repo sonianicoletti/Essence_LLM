@@ -4,8 +4,12 @@ import sys
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 import google.generativeai as genai
+from dotenv import load_dotenv
 
-GEMINI_API_KEY = "AIzaSyCYBOykSOL_ToRpPJ81VWxS2bgIEb56PtE"
+# Load environment variables from .env file
+load_dotenv()
+
+GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
 K = 3 # number of results you need to retrieve (each result is an embedding) 
 EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2" 
 GENERATIVE_MODEL_NAME = "gemini-1.5-pro"
