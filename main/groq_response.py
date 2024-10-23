@@ -7,7 +7,7 @@ load_dotenv()
 
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 # MODEL_NAME = "llama3-70b-8192" # Limit: 6000 tokens per request
-MODEL_NAME = "llama-3.1-70b-versatile" # Limit: 128k tokens per request
+MODEL_NAME = "llama-3.1-70b-versatile" # Limit: 18k tokens per chat
 MAX_TOKENS = 1000
 TEMPERATURE = 1.2
 
@@ -39,21 +39,29 @@ system_prompt = {
 chat_history = [system_prompt]
 
 def process_query_groq(user_input):
-    context = get_relevant_context_from_db(user_input) 
-    prompt = user_input + "\n" + "CONTEXT: " + context
-    chat_history.append({"role": "user", "content": prompt})
-    response = client.chat.completions.create(model=MODEL_NAME,
-                                            messages=chat_history,
-                                            max_tokens=MAX_TOKENS,
-                                            temperature=TEMPERATURE)
-    # Append the response to the chat history
-    chat_history.append({
-        "role": "assistant",
-        "content": response.choices[0].message.content
-    })
-    answer = response.choices[0].message.content
-    print("************************ PROMPT: ************************\n" + prompt + "\n*********************************************************\n")
-    print("************************ ANSWER: ************************\n" + answer + "\n*********************************************************\n")
+    try:
+        context = get_relevant_context_from_db(user_input) 
+        prompt = user_input + "\n" + "CONTEXT: " + context
+        chat_history.append({"role": "user", "content": prompt})
+        response = client.chat.completions.create(model=MODEL_NAME,
+                                                messages=chat_history,
+                                                max_tokens=MAX_TOKENS,
+                                                temperature=TEMPERATURE)
+        # Append the response to the chat history
+        chat_history.append({
+            "role": "assistant",
+            "content": response.choices[0].message.content
+        })
+        answer = response.choices[0].message.content
+    
+    except Exception as e:
+        print(e)
+        if "rate_limit_exceeded" in str(e):
+            answer = "ERROR: TOKEN LIMIT EXCEEDED"
+            chat_history.clear()
+        else:
+            answer = "ERROR: GENERAL PROCESSING ERROR"
+
     return answer
 
 """ while True:

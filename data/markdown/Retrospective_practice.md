@@ -4,7 +4,9 @@ Use the Agile Retrospective practice to gather insight into a period of activity
 
 It includes basic instructions on the performance of retrospectives and a catalogue or useful techniques that can be use to keep the retrospectives focused, productive and entertaining.
 
-This documents contains 
+Make incremental improvements to the way of working through regular, repeated retrospectives.
+
+The retrospective practice, in Essence, creates one activity which is Hold a Retrospective, one alpha which is Improvement, a few patterns which are Feedback, Mad Sad Glad, 5 whys, 4 Ls, Where are we, one work product which is the Action List and two competencies which are Leadership level 2 and management level 2.
 
 ## Contents
 
@@ -27,7 +29,7 @@ This documents contains
 Agile Retrospectives – Ester Derby .....
 
 
-# Hold Retrospective (Activity)
+# Hold Retrospective (Activity of Retrospective Practice)
 Agile Retrospectives
 
 ## On Entry
@@ -72,7 +74,7 @@ A list of actions the team agrees to implement in the next period
 Parent: Undefined
 Sub-activities: None
 
-# Hold Retrospective: Workshop Checklist (Activity)
+# Hold Retrospective: Workshop Checklist (Activity of Retrospective Practice)
 
 Agile Retrospectives
 
@@ -147,7 +149,7 @@ Are the team members committed to taking action?
 - [ ] Have the actions been prioritized?
 - [ ] Do all the actions have owners committed to driving them forward?
 
-# Five Whys (Pattern)
+# Five Whys (Pattern of Retrospective Practice)
 
 A (serious) game to play during retrospectives.
 
@@ -192,7 +194,7 @@ A simple technique that enables a team to quickly generate insights.
 ## Resources:
 - None
 
-# MAD, SAD, GLAD (Pattern)
+# MAD, SAD, GLAD (Pattern of Retrospective Practice)
 
 A (serious) game to play during retrospectives.
 
@@ -237,7 +239,7 @@ A simple technique that enables a team to quickly gather data about potential is
 ## Resources:
 - None
 
-# Where are we? (Pattern)
+# Where are we? (Pattern of Retrospective Practice)
 
 A (serious) game to play during retrospectives.
 
@@ -286,7 +288,7 @@ A SEMAT game that helps a team to understand where they are and contrast this wi
 - Alpha State Card Games: Chase the State
 - Essence Quick Reference Guide
 
-# The 4L’s: Liked, Learned, Lacked, Longed For (Pattern)
+# The 4L’s: Liked, Learned, Lacked, Longed For (Pattern of Retrospective Practice)
 
 A (serious) game to play during retrospectives.
 
@@ -336,7 +338,7 @@ We ***longed*** for more sharing.
 ## Resources:
 - http://www.ebgconsulting.com/blog/the-4l’s-a-retrospective-technique/
 
-# Action List (Work Product)
+# Action List (Work Product of Retrospective Practice)
 
 Agile Retrospective
 
@@ -368,6 +370,12 @@ Each actions should be:
 ## Output from:
 - Hold Retrospective
 
-# Other patterns that could be added:
+# Other patterns that could be added to the of Retrospective Practice
+Other than:
+- Mad, Sad, Glad
+- 5 Whys
+- 4 Ls
+- Where Are We?
+These are two more (Essence) patterns that can be added to Retrospectives:
 - SEMAT Method SWOT
 - Speedboat / Sailing Ship

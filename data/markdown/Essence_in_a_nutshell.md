@@ -16,7 +16,7 @@ I wish I could have written a shorter but still meaningful paper at this level. 
 
 When writing I also had to balance the space talking about “what this new thing Essence is” and “why should I care”. I had to talk about the “killer” use cases to a deep enough level to make them understandable without being overly salesy. I am not sure that I have succeeded. My explanations may not be enough to be understandable, maybe they are too abstract. The use cases can easily be downplayed. For instance when I talk about ‘Creating a systematic learning organization’ it is easy to dismiss it and say “we already have one”. However, I hope it works well to create questions and stimulate good discussions. 
 
-## 1.0 What is Essence?
+# 1.0 What is Essence?
 
 “Essence doesn’t attempt to be an alternative to any existing method. Instead, it is designed to just make them better.”
 
@@ -58,7 +58,7 @@ For individual teams, Essence allows them to find the best practices for their p
 
 There are other aspects to Essence and many more ways in which it can improve delivery. But its core value is that it describes a universal common ground that is true for all types of software development.
 
-## 2.0 Who uses Essence?
+# 2.0 Who uses Essence?
 
 The primary or target users of Essence are teams, teams of teams, organizations and their leaders. 
 
@@ -66,7 +66,7 @@ However, there are many more users that Essence addresses, such as the practitio
 
 As of the end of 2022, our focus has been to support teams, in particular software development teams, and their organizations and leadership. For a large organization these are the most critical users – the number of teams are large, and the organization needs to have a long-term sustainable governance while also providing individual teams with some ability to tailor their way of working to suit their unique needs. 
 
-## 3.0 Why use Essence?
+# 3.0 Why use Essence?
 
 More than 50 years ago, in 1968, Ericsson was the first company to adopt component-based development for large scale product development. To go for components was the most controversial decision on technical direction that I experienced during my 33 years at Ericsson. No one predicted that that decision would result in the AXE system becoming the greatest commercial success story ever in the history of Sweden, and maybe it still is. No one realized that it would dramatically change the whole organization; change how Ericsson was selling, developing, testing, installing, upgrading, etc. its products. 
 
@@ -78,7 +78,7 @@ We have some very positive case studies, but more important are all the concrete
 
 Let us be more concrete and give examples of what can be expected if adopting Essence. We will focus on the most critical users and their most valuable use cases. These use cases have never been offered before when using traditional ways of working with methods. They are by far not the only ones, but they illustrate what can be achieved.
 
-### 3.1 “Killer” use cases for organizations
+# 3.1 “Killer” use cases for organizations
 
 Essence allows us to build eco-systems of practices on both a global and a local level. IJI has started to build such a global eco-system with currently more than 40 practices published and another 60 in our own repository. These eco-systems are treated as any other product under configuration management and version control. (If adopting Essence Ericsson will most likely have their own eco-system but harvest practices from a global eco-system.) For the first time ever, companies can easily get access to updated versions of existing practices. This is a real problem. As an example, use cases were first widely published in 1992. Most organizations applying use cases adopted this version and were unaware of the many updates that happened afterwards. In 2005 we published use case 2.0 which essentially included user stories, but very few users of the original version have become aware of the later version. In fact, no improvements have become publicly available. This is the same situation over many practices. It is an enormous loss of experience both locally and globally.
 
@@ -94,7 +94,7 @@ Contrary to most popular methods or practices, which usually have been designed 
 
 The potential for new kinds of efficient tools is great, which already is proven through IJI’s WorkBench and TeamSpace tools. Opportunities for support through AI is enormous as demonstrated by our Waypointer tool. 
 
-### 3.2 “Killer” use cases for teams
+# 3.2 “Killer” use cases for teams
 
 Since software generally are built by teams, providing use cases to teams that dramatically improve their outcome will have big impact. Both anecdotal and Standish Group data report that teams do not generally apply practices well, and often very poorly. Scrum founder, Jeff Sutherland quotes a Standish Group report that states that 58% of Scrum teams fail to deliver on time, on budget and with happy customers. He puts this largely down to poor implementation of Scrum. Thus, improving the effectiveness of team’s development practices offers significant potential. Essence provides several use cases with this outcome. Here are some:
 
@@ -106,7 +106,7 @@ Since software generally are built by teams, providing use cases to teams that d
 
 4. _Gamifying software engineering_ thanks to that Essence provides a simple language with deep meaning. Gaming is not new in software engineering. Games motivate, stimulate, and engage the teams. However, non-Essence based games rely on intuition only and not on intuition supported by a well-defined language like the Essence language. Consequently, there are just say 10 practical games. Essence based serious gaming allows hundreds of practical games. 
 
-## 4.0 Essence status
+# 4.0 Essence status
 
 The Essence journey started almost 20 years ago as a private initiative to experimentally address severe shortcomings in software engineering with the mission to dramatically improve our discipline. 20 years is a long time for normal projects, but for a groundbreaking and revolutionizing project this is normal. It took about 20 years from Ericsson adopted components and until Microsoft popularized them. More recently both Dave Snowden (Cynefin, SenseMaker) and David Anderson (Kanban and Kanban Maturity Model) speak of similar time frames for their ideas to form, be tested and evolve to the state today where they are really starting to have wider impact.
 
@@ -114,7 +114,7 @@ We have developed the beginning of a new theory in software engineering. We have
 
 The status of Essence can very well be described by quoting Winston Churchill: “This is not the end. This is not even the beginning of the end. It may be the end of the beginning.” We have just scratched on the surface of Essence, and we believe we can already now provide significant value to a company like Ericsson. However, the future potential is enormous. By treating methods as formal as we treat products many hidden values come in the day. Almost everyone in the organization will benefit with new use cases. My expectation is that we will see a significant improvement in quality (better products), faster and at a lower cost. If of interest, we would be happy to in a call present our current backlog of use cases and features. It is large. 
 
-## 5.0 Final Words
+# 5.0 Final Words
 
 The longer we have been on our Essence journey, the more convinced we are that it will dramatically change the software industry and engineering in general. It has always kept me flabbergasted that big companies with thousands of developers have accepted that engineering work such as building telecommunication products is carried out as a craft instead of as of engineering. We will always need craftsmen, but they should apply engineering techniques and not work as if most of what they do requires a handcrafted solution. The reasons are obvious.
 

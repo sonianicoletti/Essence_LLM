@@ -26,7 +26,7 @@ We asked the teams to start their project work with a team building activity, us
 We produced also an online version of the game, so that the teams could play remotely during the pandemic.
 Figure 1. A team at the end of a game of Scrumble
 After the teams completed and self-evaluated their team build- ing we described them the product to build: a Twitter client with several capabilities for visual analytics, to be applied to speciﬁc situations: eg. an earthquake, to signal emergency situations, or a travel with some friends, to signal the positions of the participants during the visit to some city or area. We also asked the teams to follow a Scrum-like process, that could be adapted to their needs using the Essence approach. Essence allows to select and organize speciﬁc practices (eg. pair programming or retrospective with some special activities) still keeping Scrum as a reference framework. At the end of the project the teams had to produce a demo and a process report. The exam consisted in a product demo and a ﬁnal retrospective conducted together with the instructors.
-## A. Product speciﬁcations
+# A. Product speciﬁcations
 This section brieﬂy illustrates the product speciﬁcations. The goal of the project was to create an application capable of gathering and organising tweets. The collection could be historical (e.g. tweets from last week) or gathered as a real time stream.
 The application had to allow tweets visualization and consult- ing and, under certain conditions, activate speciﬁc procedures. The requirements for a Minimal Value Product were:
 - Use a keyword to collect Tweets from the past;
@@ -37,7 +37,7 @@ The application had to allow tweets visualization and consult- ing and, under ce
 - Show geolocalized tweets of a speciﬁc person, and follow its movements;
 - (sentiment analysis) Analyze the sentiment of a series of tweets about a given topic;.
 The tweets collected and classiﬁed had to be aggregated in an interactive dashboard, possibly showing coordinated views presenting different data details (e.g. locations on a map), a term cloud of the most used words, a bar chart with the number of tweets per unit of time, a pie chart with positive and negatives sentiments, plus other ways to aggregate data.
-## B. Process description
+# B. Process description
 This section describes the software development process adopted by the teams during their work. We split the whole process in three main phases: preparatory phase, execution phase, and conclusive phase.
 1) Preparatory phase: During this ﬁrst phase teams were formed using Trello: the students created personal cards on the platform by inserting their nickname, a brief description of their skills and their programming preferences (for example: front-end development, back-end development, UX expert, or testing). An attempt to form teams that, while covering all the necessary roles during development, reﬂected as much
 as possible the skills and preferences of the individual com- ponents was made. Trello was used because was enough popular among students, and could be accessed using their smartphones.
@@ -49,7 +49,7 @@ When a developer completed a US, its amount of story points was subtracted from 
 At the beginning of the third sprint, POs created two extra user stories to be implemented in order to simulate a real, changing work environment.
 Also, during this phase teams met in periodic reunions to discuss their advancement and to let everyone inform others on what they planned to work on during the remaining part of the sprint. At the end of every sprint, teams had to meet POs to present a working demo of their projects at the actual state of art and a retrospective made with Essence cards2.
 3) Final phase: When the team felt that the product was complete enough, they had to write a ﬁnal report to accurately summarise their process and make a demonstrative video of their product. Eventually, every student individually answered to a questionnaire about their perception of the work. The ﬁnal evaluation was assigned by POs after a meeting similar to a sprint review, including a demo and a ﬁnal retrospective including a presentation of the ﬁnal report.
-## C. The agile open source environment
+# C. The agile open source environment
 We gathered and analyzed data produced by students dur- ing the development of the project work for the Software Engineering course. The teams used the services offered by the Compositional Agile System (CAS) [7]. This is an open source, open-ended development environment conceived in order to adopt an Agile approach based on a process model in- spired by Scrum introduced for critical systems development. The implementation of CAS aims to provide an autonomous environment which can be deployed on a private server or a hybrid cloud, and extended with additional open source tools, while keeping complete control over the data and source code stored within. The CAS structure is composed of a server, which is a basic set of shared services, and some clients, which are used by developers to interact with the services, as shown in Fig.2.
 A CAS Client is installed by the developer along with an IDE of their choice, among the supported ones, and consists of two distinct parts:
 - A plug-in for the chosen IDE to monitor the development and record the metrics which will be sent to the logger service hosted on the CAS server.
@@ -68,7 +68,7 @@ The loggers track and record ﬁve different types of measure- ments, either for
 - Refactoring: each editor emits signals for the events generated through the use of the IDE itself.
 The plugins capture metrics by determining duration and type of each individual operation and ignoring events that are not considered signiﬁcant.
 - Session: an authenticated user also generates activity metrics that include hardware details of the machine they are working on, in particular the IP and MAC addresses, which will be associated with the type of activity being carried out.
-## D. Data gathering and elaboration
+# D. Data gathering and elaboration
 This section describes the data collection process. The analyzed data come from the tools present in the CAS environment, ﬁnal reports, and individual questionnaires.
 In particular, data on productivity, code quality and workload organisation of the teams were collected from the CAS envi- ronment, information on the process followed by each team was gathered from the ﬁnal reports and, ﬁnally, the students’ perceptions of various aspects of the project were collected from individual questionnaires.
 The data was aggregated and analyzed using an electronic spreadsheet: some interventions were necessary to integrate or correct some answers which, depending on the case, had been omitted or entered incorrectly and would have been unusable for the analysis.
@@ -94,13 +94,13 @@ c) Final retrospective.
 3) Data obtained from individual questionnaires: Individual questionnaires were the main source of the analyzed data. The individual ﬁnal questionnaire was submitted to all the students a few days before the ﬁnal discussion with the POs via Google Forms. The 37 questions are described in Table I.
 Table I: DESCRIPTION OF THE 37 QUESTIONS OF THE INDIVIDUAL QUESTIONNAIRE
 Question number Answer type 1 2 3a, 3b 4 Team number personal ID number PO or SM role Personal IDE used 5a, 5b 6 Personal estimation of produced lines of code Agile practices used 7, 8 9a, 9b, 9c, 9d, 9e, 9f Da 10 a 25 e da 31 a 37 Personal retrospective Anonymous evaluation of members contribution (%) Evaluation of internal team interactions 26 , 27 Product and process self evaluation 28, 29, 30 Estimation of programming or team support hours
-## E. Teamwork quality model
+# E. Teamwork quality model
 Once the data was collected and the necessary modiﬁcations made, it was possible to apply a teamwork quality model. We have chosen a model developed and described by Martin Hoegl and Hans Georg Gemuenden [11], based on the analysis of internal team interactions, performance analysis and team satisfaction analysis in relation to the ﬁnal product. This model was later applied to Agile development teams by Dingsør et al. [16]. The model relates to the team performance, the quality of teamwork, measured through the analysis of interactions within the team, and the personal success of team members to return an estimate of good quality.
 In Table II, quality model parameters and performance data sources are listed by categories. Most of the data are taken from the answers students gave to their individual ﬁnal ques- tionnaires.
 Table II
 TEAMWORK QUALITY MODEL PARAMETERS AND DATA SOURCES
 Parameter Data sources Performance analysis Productivity analysis Questions 5a, 5b, 28, 29 and 30 Final product quality SonarQube analysis and ﬁnal project grade Internal interactions analysis Communication Questions 10, 11, 12, 13, 14, 28 and 29 Coordination Questions 15 and 16 Effort prioritization Question 20 Mutual support Questions 17, 18 and 19 Cohesion Questions 22 and 23 Effort balance Questions 9 (a, b, c, d, e, f), 21 and 24 Team satisfaction Team satisfaction Questions 25, 26 and 27
-## F. Agile maturity model
+# F. Agile maturity model
 We present a teamwork maturity model following the one proposed by Yin [24], which was based on Chetankumar’s one [4]. We adopted the maturity model as explained in [8]. The model provides ﬁve levels of maturity (1 lowest to 5 highest). Some objectives are associated with each level and a score is assigned for each. The average score for a level is called the Key Process Area (KPA). The calculation of KPA is based on a series of questions to be answered with “Yes,” “No,” “Partially,” or “Not applicable”; each question has been answered by the authors of this paper after reading the ﬁnal reports. The ﬁnal score is calculated according to Formula 1.
 = > F x 100 t=51 A
 where NS represents the number of “Yes” responses, NP the number of “Partially” responses, t the total number of questions, and NN A the number of “Not applicable” responses.
@@ -131,7 +131,7 @@ Figure 7. Using Essence during a retrospective
 Table V
 COMPARISON BETWEEN 2021/2022 DATA AND 2020/2021 DATA
 2021/2022 Number of teams 16 Involved students 79 Performance analysis 2020/2021 11 57 Avg. error on LoC self-estimate Avg. devs LoC Avg. devs working hours 882 1688 83 619 721 55 Avg. SM LoC Avg. SM support hours Avg. SM programming hours 1484 32 91 806 52 42 Avg. product quality 90.1% 92.0% Interactions analysis Avg. communication quality 74.51% Avg. coordination quality 83.69% 66.32% 85.61% Avg. mutual support quality 75.62% 82.60% Avg. effort prioritization quality 79% Avg. cohesion quality 66% Avg. effort balance quality 85.02% Satisfaction analysis Avg. satisfaction 82.65% Avg. quality 83% Teamwork maturity analysis Avg. maturity level 3.18 Avg. KPA 88.10% 71.80% 73.20% 80.20% 82.20% 85.16% 2.36 76.67%
-## D. Teamwork quality and maturity models
+# D. Teamwork quality and maturity models
 We now present the teamwork quality and maturity models’ results.
 The data are presented in Table V: the ﬁrst column indicates the parameter being considered, the second column the data for Academic Year 2021/2022, and the third column the data for Academic Year 2020/2021.
 Starting with the ﬁrst two rows, it is immediately possible to see that for the year 2021/2022 the sample, both as the number of teams and the number of students was larger.

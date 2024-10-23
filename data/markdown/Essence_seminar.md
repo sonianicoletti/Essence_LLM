@@ -1,7 +1,6 @@
-# Essence Seminar
-# Essence: Software Engineering Essentialized
+# Essence Seminar - Essence: Software Engineering Essentialized
 
-# Essence on OMG web site
+## Essence on OMG web site
 Successful software-development teams need to strike a balance between quickly
 delivering working software systems, satisfying stakeholders, and addressing risks. Their challenges are further compounded as they strive to improve and introduce new
 ideas and ways of working.
@@ -11,9 +10,9 @@ Essence intuitively describes the essential elements of any software development
 helps teams understand where they are, what's missing or what needs to be addressed. Essence is method-agnostic and unites the myriad of disconnected,
 conflicting, costly, contradictory and transitory methods and practices that exist in most large organizations.
 
-# Essence on Semat Web site
+## Essence on Semat Web site
 
-# Agenda of this Seminar
+## Agenda of this Seminar
 Software Engineering concepts are given for granted
 - Introduction to Essence
 - The Basics of Software Engineering
@@ -24,12 +23,12 @@ Software Engineering concepts are given for granted
 
 # Introduction to Essence
 
-# What is “Essence”?
+## What is “Essence”?
 - Essence is the kernel of a Software Engineering Theory as well as the language to describe such theory and the approach to describe methods and practices based on the theory
 - It is available as an OMG specification and supported by a growing body of educational and other supporting material, in particular, a set of games, e.g., to identify the status of a project or to identify next steps.
 - Essence has been designed from the beginning as an educational tool and to allow students and practitioners alike to explore software processes with the help of clearly defined, easy-to-understand concepts and the support of the kernel
 
-# The Essence of our goal
+## The Essence of our goal
 1. Methods are compositions of practices
 - A practice, that is like a mini-method, is a reusable approach to a well defined problem
 - Practice examples: Requirements Management, Agile Development, Use Case Modeling, etc.
@@ -41,7 +40,7 @@ Software Engineering concepts are given for granted
 - Developers rarely have the time to read detailed methods and practices
 - The essential are defined as the initial minimum of what expert knows, but enough to start practicing. 5% could be enough and provide the idea that is really the essence of the whole.
 
-# The Essence of “Essence”
+## The Essence of “Essence”
 Essence is made of 2 parts:
 1. Kernel:
 - The kernel of Software Engineering
@@ -98,7 +97,7 @@ To build a method, a team start with the kernel and selects a number of practice
 
 # The Basics of Software Engineering
 
-# Software Engineering Basics
+## Software Engineering Basics
 The commonly used terms in Software Engineering we must know before drilling down on building methods are organized around three areas:
 1) Customer:
 - Opportunity
@@ -151,7 +150,7 @@ Way of Working:
 
 # The Essence Language
 
-# Essence Prime
+## Essence Prime
 Essence provides a precise and actionable language to describe software engineering practices.
 - The constructs in the Essence language are in the form of shapes and icons.
 - The different shapes and icons each have different meaning.
@@ -170,7 +169,7 @@ Competency = Encompasses the abilities, capabilities, attainments, knowledge, an
 
 The Essence list is longer, but at this time we consider these elements as key and the first to learn
 
-# An Example: Programming Practice
+## An Example: Programming Practice
 The purpose of this practice is to produce high quality code.
 - In this case, we define code quality as being understandable by the different members of the team.
 Two persons (students) work in pairs to turn requirements into a software system by writing code together.
@@ -185,14 +184,14 @@ For our programming practice example:
 - In some cases the requirements for a software system may just exist in the heads of people. However, an alpha may be made evidenced by providing one or more descriptions; that is, by attaching work products to the alpha.
 An Alpha is not tangible by itself, but it is understood or evidenced by the work product(s) that are associated with it and thus describe a particular aspect of the alpha
 
-# Alpha Card
+## Alpha Card
 The Alpha Card provide a short and crisp description of the Alpha and its States.
 It is made of:
 - Alpha Name (ex.: Requirements).
 - Very brief alpha description (ex.: What the software system must do to address the opportunity and satisfy the stakeholders).
 - Alpha states. Each alpha state has an alpha state card (ex.: conceived, bounded, coherent, acceptable, addressed, fulfilled).
 
-# Alpha State Cards
+## Alpha State Cards
 For each State of an Alpha, there is a card describing the checklist criteria to achieve
 Checklists are an important and practical way to monitor and guide progress
 Checklist criteria are intentionally not expressed formally
@@ -232,7 +231,7 @@ A practice may include several activities that are specific to the practice bein
 An activity is always bound to a specific practice, it cannot “float around” among the practices.
 - If you find an activity that needs to be reused by many practices, then you may want to create a separate practice including this activity.
 
-# Activity Card
+## Activity Card
 An Activity card generally has:
 - Activity Name (ex.: Write Code)
 - Very brief Activity description (ex.: Collaborate together to produce good quality code that meet requirements.)
@@ -246,7 +245,7 @@ Often software teams struggle because they don’t have all the abilities needed
 - In these situations, a coach can help by explaining different ways the practitioner can address the problem, such as learning something that is missing in their competencies.
 - A useful exercise that teams are encouraged to conduct is to do a self-assessment of their competencies and compare the results to the competencies they believe they need to accomplish their specific endeavour.
 
-# Competency Card
+## Competency Card
 A Competency card generally has:
 - Competency name (ex.: Development)
 - Brief Competency Description (ex.: The ability to design and program effective software systems following the standards and norms agreed by the team.)
@@ -294,13 +293,13 @@ For instance, the element architecture was discussed as a kernel element.
 - Since it is not common to all projects, architecture is not a concern that every endeavor has to face, it didn’t qualify as a kernel element.
 In the following slides we will illustrate the elements that are part of Essence Kernel
 
-# Areas of Concerns
+## Areas of Concerns
 The Essence kernel elements are organized around 3 areas of concerns, that we have already seen:
 - Customer: This area of concern contains everything to do with the actual use and exploitation of the software system to be produced.
 - Solution: This area of concern contains everything related to the specification and development of the software system.
 - Endeavor: This area of concern contains everything related to the development team and the way that they approach their work
 
-# The Essence Kernel
+## The Essence Kernel
 The kernel elements are fundamentally of four kinds:
 1. The essential things to work with - the alphas
 2. The essential things to do - the activity spaces
@@ -321,7 +320,7 @@ This is how the Kernel alphas are connected:
 - Team produces Software System, performs and plans Work, applied Way of working.
 - Way of working guides Work.
 
-# States of the Alphas in the Essence Kernel
+## States of the Alphas in the Essence Kernel
 - The OMG standard defines the states for each kernel alpha shown
 - The details of each state can be found in the Essence standard, and we will not go deeper into each of them here
 - You should be able to download them from the web site of the Essence book.
@@ -339,7 +338,7 @@ Def. Activity spaces are generic placeholders for specific activities
 - The activity spaces are packages used to group activities, which are related to one another
 - The activity spaces represent the essential things that have to be done to develop software
 
-# Activity Spaces in Kernel Standard
+## Activity Spaces in Kernel Standard
 These are the Activity Space from Essence Standard:
 - Customer: Explore Possibilities, Understand Stakeholder Needs, Ensure Stakeholder Satisfaction, Use the system.
 - Solution: Understand the requirements, shape the system, implement the system, test the system, deploy the system, operate the system.
@@ -391,14 +390,14 @@ Def. Competenciesare generic containers for specific skills
 A common problem on software endeavours is not being aware of the gap between the competencies needed and the competencies available.
 - The kernel approach will raise the visibility of this gap.
 
-# Competences in Essence Kernel Standard
+## Competencies in Essence Kernel Standard
 Competencies are aligned to the three focus areas.
 Essence Kernel Standard competencies are needed for any Software Engineering Endeavour, independently then methods and techniques adopted.
 Competencies for the Customer area of concern are: Stakeholder Representation.
 Competencies for the Solution area of concern are: Analysis, Development, Testing.
 Competencies for the Endeavor area of concern are: Leadership, Management.
 
-# Competences Essence Standard Desc.
+## Competencies Essence Standard Desc.
 Customer:
 - Stakeholder Representation: This competency encapsulates the ability to gather, communicate, and balance the needs of other stakeholders, and accurately represent their views.
 Solution:
@@ -429,13 +428,13 @@ Patterns examples exist in our daily life as well as in Software Engineering:
 - CheckPoints, Student Pairs, etc.
 Rolesare special type of Patterns.
 
-# A Pattern Example: Checkpoint
+## A Pattern Example: Checkpoint
 A checkpoint is a set of criteria to be achieved at a specific point in time where an important decision is to be taken.
 - A checkpoint is simply expressed by a set of alpha states that must have been achieved in order to pass the checkpoint.
 - This pattern can be reused for other similar endeavours trying to get to the same checkpoint.
 A pattern card has a pattern name and a brief description.
 
-# Using Checkpoint Pattern Example
+## Using Checkpoint Pattern Example
 Let’s use Checkpoints to decide when to start and when to finish development of a software project
 In this example, there are two checkpoints: when requirements are bounded and the software system's architecture is selected (after pre-development) AND when requirements are addressed and the Software System is ready (after development and before post-development).
 The criteria for these two checkpoints are expressed using alpha states.
@@ -451,7 +450,7 @@ In summary, the essence cards can represent: Alphas, Work Products, Activities, 
 
 # Reflections on Essence Goals and Theory of Software Engineering
 
-# What is Essence?
+## What is Essence?
 Essence provides a common ground for Software Engineering
 - It is very important to have such common ground
 - It is more than a conceptual mode
@@ -463,7 +462,7 @@ Essence Kernel is
 - A foundation for accessible, inter-operable method and practice definitions.
 - And most importantly, a way to help teams understand where they are, and what they should do next.
 
-# What makes Essence more than a caonceptual framework
+# What makes Essence more than a conceptual framework
 Essence Guiding principles: actionable, extensible, practical.
 Actionable:
 - Alphas helps assess & drive progress and health of project
@@ -512,7 +511,7 @@ Cocomo attempts to predict the cost of software projects
 4. Prescribe how to act based on predictions
 Alan Davis’s 201 principles exemplify this goal
 
-# Where is the Theory for SW Engineering?
+## Where is the Theory for SW Engineering?
 Most academic disciplines are very concerned with their theories.
 Why the software engineering community seems so uninterested in discussing its theories?
 **Software Engineering Doesn’t Need Theory?**

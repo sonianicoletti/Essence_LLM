@@ -37,36 +37,42 @@ async function sendMessage() {
         });
 
         // Check if the response is OK (status code 200-299)
-        if (!response.ok) {
+        if (!response.ok)  {
             throw new Error('Failed to fetch response from the backend');
         }
 
         // Get the plain text response from the server
         const responseText = await response.text();
 
-        // Remove the loading indicator
-        chatbox.removeChild(loadingIndicator);
-
         // Check if the response is empty or undefined
         if (!responseText) {
             throw new Error('Response from the backend is undefined');
+        } else if (responseText.includes('ERROR: TOKEN LIMIT EXCEEDED')) {
+            throw new Error('token limit');
+        } else if (responseText.includes('ERROR: GENERAL PROCESSING ERROR')) {
+            throw new Error('general error');
         }
 
         // Use `marked` to parse the markdown and convert it to HTML
         let markdownResponse = marked.parse(responseText);
-
+        
+        // Remove the loading indicator
+        chatbox.removeChild(loadingIndicator);
         // Display bot message in chatbox on the left with parsed HTML
         chatbox.innerHTML += `<div class="message bot-message">${markdownResponse}</div>`;
-        chatbox.scrollTop = chatbox.scrollHeight;  // Scroll to the bottom
+        chatbox.scrollTop = chatbox.scrollHeight;
     } catch (error) {
         console.error('Error fetching the chatbot response:', error);
 
-        // Remove the loading indicator
-        chatbox.removeChild(loadingIndicator);
+        let errorMessage = 'There was an error processing your request. Please try again.';
+        if (error.message.includes('token limit')) {
+            errorMessage = 'The request exceeded the token limit. Please reload the page and try again.';
+        }
 
-        // Display error message in red
-        chatbox.innerHTML += `<div class="message bot-message error-message">There was an error processing your request. Please try again.</div>`;
-        chatbox.scrollTop = chatbox.scrollHeight;  // Scroll to the bottom
+        // Remove the loading indicator and display error message in red
+        chatbox.removeChild(loadingIndicator);
+        chatbox.innerHTML += `<div class="message bot-message error-message">${errorMessage}</div>`;
+        chatbox.scrollTop = chatbox.scrollHeight;  
     } finally {
         // Re-enable the send button and restore its color
         sendButton.disabled = false;

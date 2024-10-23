@@ -1,5 +1,4 @@
-# Essence - Alpha State Card Games
-# INSTRUCTIONAL GUIDE SEVEN GAMES
+# Essence - Alpha State Card Games - INSTRUCTIONAL GUIDE SEVEN GAMES
 
 ## INTRODUCTION
 This instructional guide provides a brief introduction to the Alphas and presents seven different games that can be played with the Alpha State Cards by software development teams.
