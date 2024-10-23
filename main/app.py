@@ -1,5 +1,7 @@
 from flask import Flask, request, jsonify, render_template
-from gemini_rag import process_query  # Import the function from gemini_rag.py
+#from gemini_response import process_query_gemini  # Import the function from gemini_rag.py
+#from llama_response import process_query_llama
+from groq_response import process_query_groq
 
 app = Flask(__name__)
 
@@ -12,7 +14,7 @@ def index():
 @app.route('/api/chat', methods=['POST'])
 def chat():
     user_input = request.json.get('query')  # Get the query from the request
-    response = process_query(user_input)    # Process the query using the LLM
+    response = process_query_groq(user_input)    # Process the query using the LLM
     return jsonify({'response': response})  # Send the response back to the user
 
 if __name__ == '__main__':

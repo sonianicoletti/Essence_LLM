@@ -9,7 +9,7 @@ Each card has:
 - a state (optional)
 - a checklist (optional)
 
-# Stakeholder cards
+# Stakeholder Alpha State cards
 
 Title: Stakeholder Alpha
 Description: The people, groups or organizations who affect or are affected by a software system
@@ -45,7 +45,7 @@ State: Satisfied in use
 Description: The system has met or exceeds the minimal stakeholder expectations.
 Checklist: Feedback on system use available, system meets expectations.
 
-# Opportunity cards
+# Opportunity Alpha State cards
 
 Title: Opportunity Alpha
 Description: The set of circumstances that makes it appropriate to develop or change a software system.
@@ -81,7 +81,7 @@ State: Benefit Accrued
 Description: The operational use or sale of the solution is creating tangible benefits.
 Checklist: Solution accrues benefits, ROI acceptable
 
-# Requirements cards
+# Requirements Alpha State cards
 
 Title: Requirements Alpha
 Description: What the software system must do to address the opportunity and satisfy the stakeholders.
@@ -117,7 +117,7 @@ State: Fulfilled
 Description: The requirements that have been addressed fully satisfy the need for a new system.
 Checklist: Stakeholders accept requirements, No hindering requirements, Requirements fully satisfied
 
-# Software System cards
+# Software System Alpha State cards
 
 Title: Software System Alpha
 Description: A system made up of software, hardware, and data that provides its primary value by the execution of the software.
@@ -153,7 +153,7 @@ State: Retired
 Description: The system is no longer supported.
 Checklist: Replaced or discontinued, No longer supported, No authorized users, Updates stopped
 
-# Team cards
+# Team Alpha State cards
 
 Title: Team Alpha
 Description: A group of people actively engaged in the development, maintenance, delivery or support of a specific software system.
@@ -184,7 +184,7 @@ State: Adjourned
 Description: The team is no longer accountable for carrying out its mission.
 Checklist: Responsibilities fulfilled, Members available to other teams, Mission concluded
 
-# Work cards
+# Work Alpha State cards
 
 Title: Work Alpha
 Description: Activity involving mental or physical effort done in order to achieve a result.
@@ -220,7 +220,7 @@ State: Closed
 Description: All remaining housekeeping tasks have been completed and the work has been officially closed.
 Checklist: Lessons learned, Metrics available, Everything archived, Budget reconciled & closed, Team released, No outstanding, uncompleted tasks
 
-# Way of Working cards
+# Way of Working Alpha State cards
 
 Title: Way of Working Alpha
 Description: The tailored set of practices and tools used by a team to guide and support their work.

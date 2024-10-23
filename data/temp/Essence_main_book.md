@@ -1,406 +1,19 @@
-Perfect Bound Cover Template
-19" x 12" Document Size: 0 x 48
-# mm
-The Essentials of Modern Software Engineering Free the Practices from the Method Prisons!
-# Ivar Jacobson, Harold “Bud" Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke
-The first course in software engineering is the most critical. Education must start from
-an understanding of the heart of software development, from familiar ground that is
-common to all software development endeavors. This book is an in-depth introduction
-to software engineering that uses a systematic, universal kernel to teach the essential
-# elements of all software engineering methods.
-This kernel, “Essence” is a vocabulary for defining methods and practices.
-Essence was envisioned and originally created by Ivar Jacobson and his colleagues,
-developed by Software Engineering Method and Theory (SEMAT) and approved by
-The Object Management Group (OMG) as a standard in 2014. Essence is a practice-
-independent framework for thinking and reasoning about the practices we have and
-the practices we need. Essence establishes a shared and standard understanding what
-is at the heart of software development. Essence is agnostic to any particular method,
-lifecycle independent, programming language independent, concise, scalable,
-extensible, and formally specified. Essence frees the practices from their method
-# prisons.
-The first part of the book describes Essence, the essential elements to work
-with, the essential things to do and the essential competencies you need when
-developing software. The other three parts describe more and more advanced use
-cases of Essence. Using real but manageable examples, it covers the fundamentals of
-Essence and the innovative use of serious games to support software engineering. It
-also explains how current practices such as user stories, use cases, Scrum, and micro-
-services can be described using Essence, and illustrates how their activities can be
-represented using the Essence notions of cards and checklists. The fourth part of the
-book offers a vision how Essence can be scaled to support large, complex systems
-# engineering.
-Essence is supported by an ecosystem developed and maintained by a
-community of experienced people worldwide. From this ecosystem, professors and
-students can select what they need and create their own way of working, thus learning
-how to create ONE way of working that matches the particular situation and needs.
-# ABOUT ACM BOOKS
-ACM Books is a new series of high quality books
-&
-for the computer science community, published
-# by ACM in collaboration with Morgan & Claypool
-Publishers. ACM Books publications are widely
-distributed in both print and digital formats
-# through booksellers and to libraries (and library consortia) and
-978-1-947487-24-b 90000 | 947 ].87246 I
-# individual ACM members via the ACM Digital Library platform.
-7.50 x 9.25
-235mm x 191 mm
-# N
-1€ 33 NOS802VI
-{SUOSLId POYIS 9Y3 WO} S39130B.1d 9y} 9344 ONRIFANIONT JHVML40S NYIAOW 40 STVILNISS3 FHL
-# T00dAVT1I 8 NVOUOW | WOV
-821 2b. 85mm
-# The Essentials of Modern Software Engineering
-# g5
-4
-# Free the Prac from the Prisons!
-# g o: 1
-# b4 ‘v
-# hern
->
-# e
-_—
+# The Essentials of Modern Software Engineering - Free the Practices from the Method Prisons!
 
-# Ivar Jacobson
->4 (=) 9 7
-# Harold “Bud” Lawson Pan-Wei Ng Paul E. McMahon
-# Michael Goedicke
-# ol
-N\
-# NN
-.
-r// \| 1] Y // 1 Il
-235mm x 191 mm %.50 x 9.25
-Content Type: Standard Color Paper Type: White Page Count: 400 File Type: InDesign Request ID: CS52673102
-# e
-4
-# — o
-# The Essentials of Modern Software Engineering
-# ACM Books
-# Editor in Chief
-M. Tamer ¨Ozsu, University of Waterloo
-ACM Books is a new series of high-quality books for the computer science community, published by ACM in collaboration with Morgan & Claypool Publishers. ACM Books publications are widely distributed in both print and digital formats through booksellers and to libraries (and library consortia) and individual ACM members via the ACM Digital Library platform.
-# The Essentials of Modern Software Engineering: Free the Practices from the Method Prisons!
-Ivar Jacobson, Ivar Jacobson International
-Harold “Bud” Lawson, Lawson Konsult AB (deceased)
-Pan-Wei Ng, DBS Singapore
-Paul E. McMahon, PEM Systems
-Michael Goedicke, Universit¨at Duisburg–Essen
-2019
-# Concurrency: The Works of Leslie Lamport
-Dahlia Malkhi, VMware Research and Calibra 2019
-# Data Cleaning
-Ihab F. Ilyas, University of Waterloo
-Xu Chu, Georgia Institute of Technology
-2019
-# Conversational UX Design: A Practitioner’s Guide to the Natural Conversation Framework
-Robert J. Moore, IBM Research–Almaden
-Raphael Arar, IBM Research–Almaden
-2019
-# Heterogeneous Computing: Hardware and Software Perspectives
-Mohamed Zahran, New York University
-2019
-# Hardness of Approximation Between P and NP
-Aviad Rubinstein, Stanford University
-2019
-# The Handbook of Multimodal-Multisensor Interfaces, Volume 3:
-# Language Processing, Software, Commercialization, and Emerging Directions
-Editors: Sharon Oviatt, Monash University
-Bj¨orn Schuller, University of Augsburg and Imperial College London
-Philip R. Cohen, Monash University
-Daniel Sonntag, German Research Center for Artiﬁcial Intelligence (DFKI)
-Gerasimos Potamianos, University of Thessaly
-Antonio Kr¨uger, Saarland University and German Research Center for Artiﬁcial Intelligence (DFKI)
-2019
-# Making Databases Work: The Pragmatic Wisdom of Michael Stonebraker Editor: Michael L. Brodie
-2018
-# The Handbook of Multimodal-Multisensor Interfaces, Volume 2: Signal Processing, Architectures, and Detection of Emotion and Cognition
-Editors: Sharon Oviatt, Monash University
-Bj¨orn Schuller, University of Augsburg and Imperial College London
-Philip R. Cohen, Monash University
-Daniel Sonntag, German Research Center for Artiﬁcial Intelligence (DFKI)
-Gerasimos Potamianos, University of Thessaly
-Antonio Kr¨uger, Saarland University and German Research Center for Artiﬁcial Intelligence (DFKI)
-2018
-# Declarative Logic Programming: Theory, Systems, and Applications
-Editors: Michael Kifer, Stony Brook University
-Yanhong Annie Liu, Stony Brook University
-2018
-# The Sparse Fourier Transform: Theory and Practice
-Haitham Hassanieh, University of Illinois at Urbana-Champaign
-2018
-# The Continuing Arms Race: Code-Reuse Attacks and Defenses
-Editors: Per Larsen, Immunant, Inc.
-Ahmad-Reza Sadeghi, Technische Universit¨at Darmstadt
-2018
-# Frontiers of Multimedia Research
-Editor: Shih-Fu Chang, Columbia University
-2018
-# Shared-Memory Parallelism Can Be Simple, Fast, and Scalable
-Julian Shun, University of California, Berkeley
-2017
-# Computational Prediction of Protein Complexes from Protein Interaction Networks
-Sriganesh Srihari, The University of Queensland Institute for Molecular Bioscience
-Chern Han Yong, Duke-National University of Singapore Medical School
-Limsoon Wong, National University of Singapore
-2017
-# The Handbook of Multimodal-Multisensor Interfaces, Volume 1: Foundations, User Modeling, and Common Modality Combinations
-Editors: Sharon Oviatt, Incaa Designs
-Bj¨orn Schuller, University of Passau and Imperial College London
-Philip R. Cohen, Voicebox Technologies
-Daniel Sonntag, German Research Center for Artiﬁcial Intelligence (DFKI)
-Gerasimos Potamianos, University of Thessaly
-Antonio Kr¨uger, Saarland University and German Research Center for Artiﬁcial Intelligence (DFKI)
-2017
-# Communities of Computing: Computer Science and Society in the ACM
-Thomas J. Misa, Editor, University of Minnesota
-2017
-# Text Data Management and Analysis: A Practical Introduction to Information Retrieval and Text Mining
-ChengXiang Zhai, University of Illinois at Urbana–Champaign
-Sean Massung, University of Illinois at Urbana–Champaign
-2016
-# An Architecture for Fast and General Data Processing on Large Clusters
-Matei Zaharia, Stanford University
-2016
-# Reactive Internet Programming: State Chart XML in Action
-Franck Barbier, University of Pau, France
-2016
-# Veriﬁed Functional Programming in Agda
-Aaron Stump, The University of Iowa
-2016
-# The VR Book: Human-Centered Design for Virtual Reality
-Jason Jerald, NextGen Interactions
-2016
-# Ada’s Legacy: Cultures of Computing from the Victorian to the Digital Age
-Robin Hammerman, Stevens Institute of Technology
-Andrew L. Russell, Stevens Institute of Technology
-2016
-# Edmund Berkeley and the Social Responsibility of Computer Professionals
-Bernadette Longo, New Jersey Institute of Technology
-2015
-# Candidate Multilinear Maps
-Sanjam Garg, University of California, Berkeley
-2015
-# Smarter Than Their Machines: Oral Histories of Pioneers in Interactive Computing
-John Cullinane, Northeastern University; Mossavar-Rahmani Center for Business and Government, John F. Kennedy School of Government, Harvard University 2015
-# A Framework for Scientiﬁc Discovery through Video Games
-Seth Cooper, University of Washington
-2014
-Trust Extension as a Mechanism for Secure Code Execution on Commodity Computers
-Bryan Jeffrey Parno, Microsoft Research 2014
-# Embracing Interference in Wireless Systems
-Shyamnath Gollakota, University of Washington
-2014
-# The Essentials of Modern Software Engineering
-# Free the Practices from the Method Prisons!
-# Ivar Jacobson
-Ivar Jacobson International
-Harold “Bud” Lawson
-Lawson Konsult AB (deceased)
-# Pan-Wei Ng
-DBS Singapore
-Paul E. McMahon
-PEM Systems
-Michael Goedicke
-Universit¨at Duisburg-Essen
-ACM Books #25
-Copyright © 2019 by the Association for Computing Machinery and Morgan & Claypool Publishers
-All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means—electronic, mechanical, photocopy, recording, or any other except for brief quotations in printed reviews—without the prior permission of the publisher.
-Designations used by companies to distinguish their products are often claimed as trademarks or registered trademarks. In all instances in which Morgan & Claypool is aware of a claim, the product names appear in initial capital or all capital letters. Readers, however, should contact the appropriate companies for more complete information regarding trademarks and registration.
-The Essentials of Modern Software Engineering: Free the Practices from the Method Prisons! Ivar Jacobson, Harold “Bud” Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke
-The Essentials of Modern Software Engineering: Free the Practices from the Method Prisons!
-Ivar Jacobson, Harold “Bud” Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke
-books.acm.org
-www.morganclaypoolpublishers.com
-ISBN: 978-1-94748-727-7 hardcover
-ISBN: 978-1-94748-724-6 paperback
-ISBN: 978-1-94748-725-3 eBook
-ISBN: 978-1-94748-726-0 ePub
-Series ISSN: 2374-6769 print 2374-6777 electronic
-# DOIs:
-10.1145/3277669 Book
-10.1145/3277669.3277685 Part III
-10.1145/3277669.3277670 Preface
-10.1145/3277669.3277686 Chapter 13
-10.1145/3277669.3277671 Part I
-10.1145/3277669.3277687 Chapter 14
-10.1145/3277669.3277672 Chapter 1
-10.1145/3277669.3277688 Chapter 15
-10.1145/3277669.3277673 Chapter 2
-10.1145/3277669.3277689 Chapter 16
-10.1145/3277669.3277674 Chapter 3
-10.1145/3277669.3277690 Chapter 17
-10.1145/3277669.3277675 Chapter 4
-10.1145/3277669.3277691 Chapter 18
-10.1145/3277669.3277676 Chapter 5
-10.1145/3277669.3277692 Part IV
-10.1145/3277669.3277677 Chapter 6
-10.1145/3277669.3277693 Chapter 19
-10.1145/3277669.3277678 Chapter 7
-10.1145/3277669.3277694 Chapter 20
-10.1145/3277669.3277679 Chapter 8
-10.1145/3277669.3277695 Chapter 21
-10.1145/3277669.3277680 Part II
-10.1145/3277669.3277696 Chapter 22
-10.1145/3277669.3277681 Chapter 9
-10.1145/3277669.3277697 Chapter 23
-10.1145/3277669.3277682 Chapter 10
-10.1145/3277669.3277698 Appendix A
-10.1145/3277669.3277683 Chapter 11
-10.1145/3277669.3277699 References/Index/Bios
-10.1145/3277669.3277684 Chapter 12
-A publication in the ACM Books series, #25
-Editor in Chief: M. Tamer ¨Ozsu, University of Waterloo
-Area Editor: Bashar Nuseibeh, The Open University
-This book was typeset in Arnhem Pro 10/14 and Flama using ZzTEX.
-First Edition
-10 9 8 7 6 5 4 3 2 1
-In every block of marble I see a statue as plain as though it stood before me, shaped and perfect in attitude and action. I have only to hew away the rough walls that imprison the lovely apparition to reveal it to the other eyes as mine see it. —Michelangelo
-Standing on the shoulders of a giant . . .
-We are liberating the essence from the burden of the whole. —Ivar Jacobson
-# Contents
-Foreword by Ian Sommerville xvii
-Foreword by Grady Booch xix
-Preface xxi
-PART I THE ESSENCE OF SOFTWARE ENGINEERING 1 Chapter 1 From Programming to Software Engineering 3 1.1 Beginning with Programming 4 1.2 Programming Is Not Software Engineering 6 1.3 From Internship to Industry 8 1.4 Journey into the Software Engineering Profession 12 What Should You Now Be Able to Accomplish? 15 Chapter 2 Software Engineering Methods and Practices 17 2.1 Software Engineering Challenges 17 2.2 The Rise of Software Engineering Methods and Practices 18 2.3 The SEMAT Initiative 28 2.4 Essence: The OMG Standard 29 What Should You Now Be Able to Accomplish? 30 Chapter 3 Essence in a Nutshell 31 3.1 The Ideas 32 3.2 Methods Are Compositions of Practices 32 3.3 There Is a Common Ground 34 3.4 Focus on the Essentials 37 3.5 Providing an Engaging User Experience 37 What Should You Now Be Able to Accomplish? 38
-# xii Contents
-Chapter 4 Identifying the Key Elements of Software Engineering 41 4.1 Getting to the Basics 41 4.2 Software Engineering Is about Delivering Value to Customers 43 4.3 Software Engineering Delivers Value through a Solution 45 4.4 Software Engineering Is Also about Endeavors 48 What Should You Now Be Able to Accomplish? 50 Chapter 5 The Language of Software Engineering 53 5.1 A Simple Practice Example 53 5.2 The Things to Work With 54 5.3 Competencies 61 5.4 Things to Do 62 5.5 Essentializing Practices 63 What Should You Now Be Able to Accomplish? 65 Chapter 6 The Kernel of Software Engineering 67 6.1 Organizing with the Essence Kernel 67 6.2 The Essential Things to Work With: The Alphas 69 6.3 The Essential Things to Do: The Activities 72 6.4 Competencies 75 6.5 Patterns 77 What Should You Now Be Able to Accomplish? 81 Chapter 7 Reflection on Theory 83 7.1 Where’s the Theory for Software Engineering? 84 7.2 Uses of Theory 87 7.3 Essence Is a General, Descriptive Theory of Software Engineering 87 7.4 Toward a General Predictive Theory of Software Engineering 91 7.5 A Theoretical Foundation Helps You Grow 93 What Should You Now Be Able to Accomplish? 94 Postlude to Part I 94 Recommended Additional Reading 95 Chapter 8 Applying Essence in the Small—Playing Serious Games 97 8.1 Progress Poker 99 8.2 Chasing the State 105 8.3 Objective Go 108
-8.4
-# Checkpoint Construction 111
-87
-8.5 Reﬂection 113 What Should You Now Be Able to Accomplish? 114 PART II DEVELOPING SOFTWARE WITH ESSENCE 115 Chapter 9 Kick-Starting Development Using Essence 117 9.1 Understand the Context Through the Lens of Essence 118 9.2 Agreeing on the Development Scope and Checkpoints 122 9.3 Agreeing on the Most Important Things to Watch 124 What Should You Now Be Able to Accomplish? 126 Chapter 10 Developing with Essence 127 10.1 Planning with Essence 132 10.2 Doing and Checking with Essence 138 10.3 Adapting a Team’s Way of Working with Essence 140 10.4 How the Kernel Helps Adapt Their Way of Working 141 What Should You Now Be Able to Accomplish? 143 Chapter 11 The Development Journey 145 11.1 Visualizing the Journey 145 11.2 Ensuring Progress and Health 146 11.3 Dealing with Anomalies 148 What Should You Now Be Able to Accomplish? 149 Chapter 12 Reflection on the Kernel 151 12.1 Validity of the Kernel 151 12.2 Applying the Kernel Effectively 151 What Should You Now Be Able to Accomplish? 152 Postlude 153 Recommended Additional Reading 153 PART III SMALL-SCALE DEVELOPMENT WITH PRACTICES 155 Chapter 13 Kick-Starting Development with Practices 157 13.1 Understand the Context Through the Lens of Essence 158 13.2 Agree upon Development Scope and Checkpoints 159 13.3 Agree upon Practices to Apply 165
-## Contents
-# xiv Contents
-13.4 Agree upon the Important Things to Watch 167 13.5 Journey in Brief 169 What Should You Now Be Able to Accomplish? 170
-14.1 Scrum Explained 171 14.2 Practices Make a Software Engineering Approach Explicit and Modular 173 14.3 Making Scrum Explicit Using Essence 174 14.4 Scrum Lite Alphas 179 14.5 Scrum Lite Work Products 182 14.6 Scrum Lite Roles 184 14.7 Kick-Starting Scrum Lite Usage 187 14.8 Working with Scrum Lite 188 14.9 Reﬂecting on the Use of Scrum with Essence 198 What Should You Now Be Able to Accomplish? 202
-15.1 User Stories Explained 204 15.2 Making the User Story Lite Practice Explicit Using Essence 207 15.3 User Story Lite Alphas 208 15.4 User Story Lite Work Products 209 15.5 Kick-Starting User Story Lite Usage 211 15.6 Working with User Story Lite 211 15.7 The Value of the Kernel to the User Story Lite Practice 215 What Should You Now Be Able to Accomplish? 218
-# Chapter 14
-# Chapter
-# Chapter 16
-16.1 Use Cases Explained 222 16.2 Making the Use Case Lite Practice Explicit Using Essence 227 16.3 Use Case Lite Alphas 230 16.4 Use Case Lite Work Products 233 16.5 Kick-Starting Use Cases Lite to Solve a Problem Our Team Is Facing 237 16.6 Working with Use Cases and Use-Case Slices 240 16.7 Visualizing the Impact of Using Use Cases for the Team 244 16.8 Progress and Health of Use-Case Slices 245 16.9 User Stories and Use Cases—What Is the Difference? 246 What Should You Now Be Able to Accomplish? 248
-## Contents
-# xv
-Chapter 17 Running with Microservices 249 17.1 Microservices Explained 250 17.2 Making the Microservice Practice Explicit Using Essence 252 17.3 Microservices Lite 256 17.4 Microservices Lite Alphas 257 17.5 Microservices Lite Work Products 259 17.6 Microservices Lite Activities 267 17.7 Visualizing the Impact of the Microservices Lite Practice on the Team 270 17.8 Progress and Health of Microservice Development 271 What Should You Now Be Able to Accomplish? 272 Chapter 18 Putting the Practices Together: Composition 275 18.1 What Is Composition? 276 18.2 Reﬂecting on the Use of Essentialized Practices 282 18.3 Powering Practices through Essentialization 283 What Should You Now Be Able to Accomplish? 284 Recommended Additional Reading 284 PART IV LARGE-SCALE COMPLEX DEVELOPMENT 287 Chapter 19 What It Means to Scale 289 19.1 The Journey Continued 289 19.2 The Three Dimensions of Scaling 291 What Should You Now Be Able to Accomplish? 294 Chapter 20 Essentializing Practices 295 20.1 Practice Sources 295 20.2 Monolithic Methods and Fragmented Practices 296 20.3 Essentializing Practices 298 20.4 Establishing a Reusable Practice Architecture 299 What Should You Now Be Able to Accomplish? 303 Chapter 21 Scaling Up to Large and Complex Development 305 21.1 Large-Scale Methods 306 21.2 Large-Scale Development 308 21.3 Kick-Starting Large-Scale Development 309 21.4 Running Large-Scale Development 315
-# xvi Contents
-21.5 Value of Essence to Large-Scale Development 322 What Should You Now Be Able to Accomplish? 324 Chapter 22 Reaching Out to Different Kinds of Development 325 22.1 From a Practice Architecture to a Method Architecture 326 22.2 Establishing a Practice Library within an Organization 328 22.3 Do Not Ignore Culture When Reaching Out 330 What Should You Now Be Able to Accomplish? 331 Chapter 23 Reaching Out to the Future 333 23.1 Be Agile with Practices and Methods 335 23.2 The Full Team Owns Their Method 337 23.3 Focus on Method Use 337 23.4 Evolve Your Team’s Method 338 What Should You Now Be Able to Accomplish? 339 Recommended Additional Reading 339 Appendix A A Brief History of Software and Software Engineering 341 References 349 Index 353 Author Biographies 369
-# Foreword by Ian Sommerville
-There’s some debate over whether the term software engineering was ﬁrst coined by Margaret Hamilton at NASA in the 1960s or at the NATO conference at the end of that decade. It doesn’t really matter because 50 years ago it was clear that software engineering was an idea whose time had come.
-Since then, developments in software engineering have been immense. Researchers and practitioners have proposed many different methods and approaches to software engineering. These have undoubtedly improved our ability to create software, although I think it is fair to say that we sometimes don’t really understand why. However, we have no basis for comparing these methods to see if they really offer anything new and we can’t assess the limitations of software engineering methods without experiencing failure. Although we are a lot better at developing software than we were in the 20th century, it is still the case that many large software projects run into problems and the software is delivered late and fails to deliver the expected value.
-The SEMAT initiative was established with the immense ambition to rethink software engineering. Rather than inventing another new method, however, Ivar Jacobson and his collaborators went back to ﬁrst principles. They examined soft- ware engineering practice and derived a common underlying language and kernel (Essence) that could be used for discussing and describing software engineering. Essence embodies the essential rather than the accidental in software engineering and articulates new concepts such as alphas that are fundamental to every devel- opment endeavor.
-Essence is not a software engineering method but you can think of it as a meta-method. You can use it to model software engineering methods and so com- pare them and expose their strengths and weaknesses. More importantly, perhaps, Essence can also be the starting point for a new approach to software engineer- ing. Because of the universality of the concepts that it embodies, Essence can be used across a much wider range of domains than is possible with current methods.
-## Foreword by Ian Sommerville
-It wisely separates the notion of speciﬁc practices, such as iterative development, from fundamental concepts so it can be used in a variety of settings and application domains.
-The inventors of Essence understand that the value of Essence can only be realized if it is widely used. Widespread use and experience will also expose its limitations and will allow Essence to evolve and improve. This book is an important contribution to transferring knowledge about Essence from specialists to a more general audience. Although notionally aimed at students, it provides an accessible introduction to Essence for all software engineers.
-Organized into four parts, the ﬁrst three parts focus squarely on using Essence as a means of thinking about, planning, and describing software development. Using real but manageable examples, Parts I and II of the book cover the fundamentals of Essence and the innovative use of serious games to support software engineering. Part III explains how current practices such as user stories, use cases, Scrum, and microservices can be described using Essence and shows how their activities can be represented using the Essence notions of cards and checklists. Part IV is perhaps more speculative but offers readers a vision of how Essence can scale to support large, complex systems engineering.
-Software engineering has been both facilitated and hampered by the rate of technological innovation. The need to build software for new technologies has led to huge investment in the discipline but, at the same time, has made it difﬁcult to reﬂect on what software engineering really means. Now, 50 years on, Essence is an important breakthrough in understanding the meaning of software engineering. It is a key contribution to the development of our discipline, and I’m conﬁdent that this book will demonstrate the value of Essence to a wider audience. It, too, is an idea whose time has come.
-# Ian Sommerville
-Emeritus Professor of Software Engineering at St. Andrews University, Scotland. For more than 20 years, his research was concerned with large-scale complex IT systems. He is the author of a widely used textbook on software engineering, titled Software Engineering, ﬁrst published in 1982, with the 10th edition published in 2015.
-# Foreword by Grady Booch
-The ﬁrst computers were human; indeed, the very noun “computer” meant “one who computes or calculates” (and most often those ones were women).
-My, how the world has changed.
-Computing has woven itself into the interstitial spaces of society. Software- intensive systems power our cars and airplanes; they serve as our ﬁnancial conduits; they track our every action; they ﬁght our wars; they are as intimate as devices we hold close to us or even within us and as grand as the wanderers we have ﬂung into space and that now inhabit other planets and venture to other stars. There is no other invention in the history of humanity that has such a potential to amplify us, diminish us, and perhaps even replace us.
-I have often observed that the entire history of software engineering can be char- acterized as the rising levels of abstraction. We witness this in our programming languages, in our tools, in our frameworks, in the very ways with which we interact with software-intensive systems . . . and even in the ways in which we craft these systems. This is the world of software engineering methods.
-I am proud and humbled to call myself a friend of Ivar Jacobson. The two of us, along with Jim Rumbaugh, were at the center of a sea change in the way the world develops and deploys software-intensive systems. We got some things right; we got some things wrong. But, most important, we helped to codify the best practices of software engineering in their time. Indeed, that was an incredibly vibrant time in the history of software engineering, wherein many hundreds if not thousands of others were struggling with how to codify the methods by which systems of importance could best be built.
-The nature of software development has changed—as it should and as it will again—and even now we stand at an interesting crossroads in the ﬁeld. Agile meth- ods have proven themselves, certainly, but we are at the conﬂuence of technical and economic forces that bring us again to a very vibrant point in time. As the Internet of Things brings computing to billions of devices, as computational resources grow
-# xx
-## Foreword by Grady Booch
-in unceasing abundance, and as deep learning and other forms of artiﬁcial intel- ligence enter the mainstream, now is the time to establish a sound foundation on which we can build the next generation of software-intensive systems that matter.
-In a manner of speaking, one might say that the essence of Essence is its powerful mastery of the fundamental abstractions of software engineering. I saw in Ivar the seeds of Essence in the early days of working with him and Jim on the UML, and so now it is wonderful to see this work in its full ﬂowering. What you hold in your hands (or on your computer or tablet, if you are so inclined) represents the deep thinking and broad experience of Ivar; information that you’ll ﬁnd approachable, understandable, and—most importantly—actionable.
-Enjoy the journey; it will make a difference for the good.
-# Grady Booch
-IBM Fellow, ACM Fellow, IEEE Fellow, recipient of the BCS Ada Lovelace Award, and IEEE Computer Pioneer.
-# Preface
-We have developed software for many years, clearly more than 50 years. Thousands of books and many more papers have been written about how to develop software. Almost all teach one particular approach to doing it, one which the author thinks is the best way of producing great software; we say each author has canned his/her method. Most of these authors have some interesting ideas, but none can help you in all the circumstances you will be faced with when you develop software. Even the most modern books take this approach of presenting and selling “the one true way” of doing it. Unless you are a world leader ready to impose your own true way of doing it, all other top experts in the world seem to be in agreement that this proprietary approach is not the way to teach software development to students.
-You now have in front of you a book that will teach you modern software engi- neering differently from how the subject has been taught since its infancy. On one hand, it stands on the shoulders of the experience we have gained in the last 50 years or more. On the other hand, it teaches the subject in a universal and generic way. It doesn’t teach you one particular way of developing software, but it teaches you how to create one way of working that matches your particular situation and your needs. The resulting way of working that you create is easy to learn (intuitive), easy to adopt (by a team), easy to change (as you learn more), and fun to work with thanks to its user experience being based on games and playing cards.
-It is worth repeating: This book does not primarily teach you one particular way of developing great software; rather, it teaches you how to create such a way of working that should result in great software.
-# How This Book Is Different from Other Software Engineering Textbooks
-On the surface this book looks like most other books in software engineering (and there are many of them; some are excellent books). It describes many important
-## Preface
-aspects of software engineering and how a typical software engineering initiative resulting in a new or improved software product takes place. However, underneath the surface, this book is fundamentally different. The things being described are selected because they are prevalent in every software engineering initiative. They are the essential things to work with, the essential things to do, and the essential competencies needed when you develop software. They are not just examples of things or typical things. They are selected because they are the things that underpin all recognized ways of developing software. The selection has been made by a group of experts from around the world representing academia, research, and industry, under the auspices of an international group called Object Management Group that gave rise to the Essence standard.1
-Essence addresses, ﬁrst and foremost, a number of serious challenges we have in the software industry today, one of which is that for 50 years we have had a war between the canned methods (but there are many more challenges, which we will discuss in the book). In addressing these issues, Essence has made it possible to systematically improve the way we work, which should result in better software— faster and cheaper. However, this will have to wait to be discussed until you have gone deeper into the book.
-Finally, the following summary can be repeated over and over again.
-. Essence supports people when working with methods and it helps people while they actually work developing software.
-. Essence is not yet another method. It is many things but not a method competing with any other method.
-.
-It is a foundation to be used to describe methods effectively and efﬁciently.
-.
-It is a thinking framework to be used when creating your method or using your method, whether it is explicit or tacit.
-.
-It can help you in a method-agnostic way to measure progress and health in your endeavor.2
-.
-It can help you, if you have challenges, to ﬁnd root causes of the problems with your endeavor.
-1. Essence has been likened to the DNA of software engineering or the periodic table in chemistry.
-2. Throughout this book, except for the cases where the term project is more appropriate for historical reasons, we use the term endeavor. This is because not all software development occurs within the context of a formal project.
-## Preface
-# How This Book Can Help Students
-If you are a student, this book will play a signiﬁcant role in your career, because from this book you will learn the fundamentals of the complex discipline of software engineering. Even if you are not a student, you will rediscover your discipline in a way you never expected. This is no ordinary software engineering textbook. What you will learn from this book you can take with you wherever you go, for the rest of your software engineering career.
-Other books will help you learn the latest technologies, practices, and meth- ods. While you will need that kind of information as you go through your career, their value will fade over time as new technologies, practices, and methods come into play. There is nothing wrong with that. Part of our profession is continuous improvement and we encourage and expect that to go on forever.
-# What You Will Learn from This Book
-So that you have the right expectations, we want to tell you what you can expect to learn from this book.
-. You will learn what are the essentials of software engineering presented as a common ground.
-. You will learn a simple, intuitive language by which you can describe speciﬁc ways of working, called practices, using the common ground as a vocabulary.
-. You will learn how the common ground can be used to assess the progress and health of your software development endeavors no matter how simple or complex.
-. You will learn “lite” versions of a number of practices that are popular at the time of writing this book, but they are only meant as examples to demonstrate how to use the common ground and the language to describe practices.
-. You will learn how to improve your way of working by adding or removing practices, as and when the situation demands.
-. You will learn how to improve communication with your teammates.
-To be clear, this is what you won’t learn from this book.
-. You will not learn any fully developed practices to be used in a real endeavor (in a commercial production environment), since what we teach here is not
-## Preface
-intended for that purpose. To learn practices that will work in such an envi- ronment, you need to go to practice libraries such as the Ivar Jacobson Inter- national practice library (https://practicelibrary.ivarjacobson.com/start) or, if the practices are not yet essentialized, you will have to go to books or pa- pers written about these practices.
-. You will not learn the latest technologies, practices, and methods.
-This book is about learning a foundation that underlies all practices and meth- ods that have come and gone during the last 50 years, and all that will likely come and go over the next 50 years. What you learn from this book you can take with you, and it will continue to help you grow throughout your software engineering career.
-# Our Approach to Teaching in This Book
-We also want to share with you a little bit about the approach to teaching software engineering that we use in this book. While we do share some of the history of software engineering in Part I and in the appendix, our general approach through- out the book is a bottom-up approach instead of a top-down one. The “user” is a young student and he/she is presented with more and more advanced use cases of software development—from small systems to large systems. Or said in another way, we present the essence of software engineering through the eyes of a young student who moves from introductory courses into the industry. This approach will help you understand how software engineering is often ﬁrst viewed by new software developers and how their perceptions and understanding of software engineering grow with their experiences.
-So with this brief introduction, you are now ready to start your exciting journey toward the essentials of modern software engineering. During the journey, you will pass through the following.
-Part I, The Essence of Software Engineering. Here, we introduce the student to software engineering and to the Essence standard.
-Part II, Applying Essence in the Small. Here, Essence is ﬁrst used to carry out some simple, small, but very useful practices. They are so small that they could be called mini-practices, but we call them games—serious games. They are highly reusable when carrying out practices resulting in, for instance, software products.
-Then in the rest of this part we advance the problem and consider building some real but rather small software. We make the assumption that the given team members have worked together before, so they have tacit knowledge
-## Preface
-# xxv
-about the practices they use and don’t need any additional explicit guidance in the form of described practices.
-Part III, Small-Scale Development with Practices. We use practices deﬁned on top of the kernel to provide further guidance to small teams.
-Part IV, Large-Scale Complex Development. To describe how to develop large software systems is far too complex for a textbook of this kind. However, we do explain the impact large teams and organizations have on the practices needed and how they are applied.
-# Appendix, A Brief History of Software Engineering.
-On our website, http://software-engineering-essentialized.com, you are pro- vided with additional training material and exercises associated with each part of the book. This website will be continuously updated and will provide you with ad- ditional insight. As you gain experience, we hope you will also be able to contribute to this growing body of knowledge.
-# How This Book Can Free the Practices from the Method Prisons and Why This Is Important
-In 1968, more than 50 years ago, the term software engineering was coined to address the so-called software crisis. Thousands of books have been written since then to teach the “best” method as perceived by their authors. Some of them have been very successful and inspired a huge number of teams to each create their own method. The classical faith typically espoused by all these popular methods has been that the previous popular method now has become completely out of fashion and must be replaced by a new, more fashionable method. People have been swinging with these trends and, apart from learning something new, each time they must also relearn what they already knew but with just a new spin to it.
-The problem is that among all these methods there has been almost nothing shared, even if in reality much more has been shared than what separated them. What they shared was what we will call practices—some kind of mini-methods. Every method author (if very successful, each became a guru) had their own way of presenting their content so that other method authors couldn’t simply reuse it. Instead, other authors had to reinvent the wheel by describing what could have been reusable—the practices—in a way that ﬁt these other authors’ presentation styles. Misunderstandings and improper improvements happened and the method war was triggered. It is still going on. Instead of “standing on one another’s shoulders,” these various authors are “standing on one another’s toes.”
-## Preface
-This book will show how reusable practices can be liberated from the methods that use them—their method prisons. Free the practices from the method prisons!
-# Acknowledgments
-Special thanks and acknowledgment goes to Svante Lidman and Ian Spence for their work on the ﬁrst Essence book [Jacobson et al. 2013a], from which some pieces of text have been used, to Mira-Kajko-Mattson for her role in the original shaping of this book, to Pontus Johnson for his work on theory in Part I, Chapter 7 and to Barbora Buhnova for in particular her clear and accurate writing of the goal and the accomplishments paragraphs in each chapter of the book. All these contributions improved the clarity of the book as a whole.
-The authors also want to recognize and thank all the people that worked with us in creating the OMG Essence standard and in working on its use cases. Without these individuals’ work this book would never have been written:
-. For founding the SEMAT (Software Engineering Method And Theory) com- munity in 2009 and later leading it: Apart from Ivar Jacobson, the founders were Bertrand Meyer and Richard Soley. June Park chaired the SEMAT com- munity from 2012 to 2016 and Sumeet Malhotra from 2016 until now.
-. For serving as members of the Advisory Board chaired by Ivar Jacobson: Scott Ambler, Herbert Malcolm, Stephen Nadin, Burkhard Perkens-Colomb.
-. For supporting the foundation of the SEMAT initiative and its call for action:
-[
-Individuals: Pekka Abrahamsson, Scott Ambler, Victor Basili, Jean B´ezivin, Robert V. Binder, Dines Bjorner, Barry Boehm, Alan W. Brown, Larry Constantine, Steve Cook, Bill Curtis, Donald Fire- smith, Erich Gamma, Carlo Ghezzi, Tom Gilb, Robert L. Glass, Ellen Gottesdiener, Martin Griss, Sam Guckenheimer, David Harel, Brian Henderson-Sellers, Watts Humphrey, Ivar Jacobson, Capers Jones, Philippe Kruchten, Harold “Bud” Lawson, Dean Lefﬁngwell, Robert Martin, Bertrand Meyer, Paul Nielsen, James Odell, Meilir Page- Jones, Dieter Rombach, Ken Schwaber, Alec Sharp, Richard Soley, Ian Sommerville, Andrey Terekhov, Fuqing Yang, Edward Yourdon.
-Corporations: ABB, Ericsson, Fujitsu UK, Huawei, IBM, Microsoft Spain, Munich RE, SAAB, SICS, SINTEF, Software Engineering Insti- tute (SEI), Tata Consulting Services, Telecom Italia, City of Toronto, Wellpoint.
-## Preface
-## xxvii
-Academics: Chalmers University of Technology, Florida Atlantic Uni- versity, Free University of Bozen Bolzano, Fudan University, Harbin Institute of Technology, Joburg Centre for Software Engineering at Wits University, KAIST, KTH Royal Institute of Technology, Na- tional University of Colombia at Medellin, PCS—Universidade de S˜ao Paulo, Peking University, Shanghai University, Software Engineering Institute of Beihang University, Tsinghua University, University of Twente, Wuhan University.
-. For developing what eventually became the Essence standard with its use cases and for driving it through the OMG standards process: Andrey Bayda, Arne Berre, Stefan Bylund, Dave Cuningham, Brian Elvesæter, Shihong Huang, Carlos Mario Zapata Jaramillo, Mira Kajko-Mattson, Prabhakar R. Karve, Tom McBride, Ashley McNeille, Winifred Menezes, Barry Myburgh, Gunnar Overgaard, Bob Palank, June Park, Cecile Peraire, Ed Seidewitz, Ed Seymour, Ian Spence, Roly Stimson, Michael Striewe.
-. For organizing SEMAT Chapters around the world: Doo-Hwan Bae, Steve Chen, Zhong Chen, Barry Dwolatsky, Gorkem Giray, Washizaki Hironori, Debasish Jana, Carlos Mario Zapata Jaramillo, Pinakpani Pal, Boris Pozin.
-. For co-chairing the “Software Engineering Essentialized” project with Ivar Jacobson: Pekka Abrahamsson. This project develops training material, quizzes, exercises, certiﬁcation, games, essentialized practices, etc. to sup- port teachers giving classes based on this book.
-From the outset of the writing of this book, the authors were aware of the funda- mental change they proposed to the education in software engineering. Therefore, they wanted the book to be meticulously reviewed before publication. The book has been reviewed in 5 phases, each being presented as a draft. About 1000 com- ments have been given by more than 25 reviewers and each comment has been discussed and acted upon. We are very grateful for the help we received from the following people (alphabetically ordered) in making this a book we are very proud of: Giuseppe Calavaro, A. Chamundeswari, G¨orkem Giray, Emanuel Grant, Deba- sish Jana, Er´endira Miriam Jim´enez Hernandez, Reyes Ju´arez-Ram´ırez, Winifred Menezes, Marcello Missiroli, Barry Myburgh, Anh Nguyen Duc, Hanna Oktaba, Don O’Neill, Gunnar Overgaard, Pinakpani Pal, Cecile Peraire, Boris Pozin, Antony Henao Roqueme, Anthony Ruocco, Vladimir Savic, Armando Augusto Cabrera Silva, Kotrappa Sirbi, Nebojsa Trninic, Hoang Truong Anh, Eray T¨uz¨un, Murat Pa ¸sa Uysal,
-## Preface
-Ervin Varga, Monica K. Villavicencio Cabezas, Bernd G. Wenzel, Carlos Mario Zap- ata Jaramillo.
-As you can see from these acknowledgments, many people have contributed to where we are today with Essence and its usage. Some people have made seminal technical contributions without which we wouldn’t have been able to create a kernel for software engineering. Some other people have contributed signiﬁcant time and effort to move these technical contributions into a high-quality standard to be widely adopted. Some people have been instrumental in identifying the vision and leading the work through all the pitfalls that an endeavor can encounter when it is as huge as the SEMAT in fact is. Finally, some people have made huge efforts and with high passion marketed the work and the result to break through the barriers that fundamentally new ideas always face. We have not made an effort to rank all these contributions here, but we hope all these individuals are assured that we know about them and we are tremendously grateful for all they have done.
-We would also like to thank the team at Windfall Software for carefully copy editing and preparing the content of this book. We are especially grateful to their professional developmental editor, who was instrumental in this endeavor and put in a huge effort to achieve this high-quality result.
-# PART
+# PART 1
 # THE ESSENCE OF SOFTWARE ENGINEERING
+
 We live at an exciting time in the history of computer and network technologies where software has become a dominant aspect of our everyday life. Wherever you look and wherever you turn, software is there. It is in almost everything you use and affects most everything you do. Software is in many things such as microwaves, ATMs, smart TVs, machines running vehicles, and factories, as well as being uti- lized in all types of organizations.
 Although software provides many opportunities for improving many aspects of our society, it presents many challenges as well. One of them is development, de- ployment, and sustainment of high-quality software on a broad scale. Another is the challenge of utilizing technology advancements in new domains, for instance, intelligent homes and Smarter Cities. Here, the evolution of the mobile internet, apps, the internet of things (IoT), and the availability of big data and cloud comput- ing, as well as the application of artiﬁcial intelligence and deep learning, are some of the latest “game-changers” with more still to come.
 This book provides you with fundamental knowledge you will need for address- ing the challenges faced in this era of rapid technology change. Part I will introduce you to software engineering through the lens of a kernel of fundamental con- cepts that have been provided by the Object Management Group’s standard called Essence 1. Essence is rapidly becoming a “lingua franca” for software engineering. The authors are convinced that this approach will provide a perspective that will be a lasting contribution to your knowledge base and prepare you to participate in teams that can develop and sustain high-quality software.
+
 # From Programming to Software Engineering
 This chapter sets the scene with respect to the relationship between programming und software engineeering. The important issue is that software engineering is much more than just programming. Of course, the running system created by an act of programming is an essential and rewarding ingredient of what the right system will become, and it is important that the reader is actually able to use and apply a programming language to create a program, at least a small one. But is it by no means everything. Thus, this chapter
-.
-introduces the notion of software development and that it is more than just
+- introduces the notion of software development and that it is more than just
 putting a program together;
-shows what additionally is needed beyond programming, i.e., shows the differences between programming, software development, and software en- gineering;
-.
-shows the motivations for the discipline of software engineering;
-.
-introduces some important elements of software engineering that actually show the differences between software engineering and programming, and shows how they relate to each other.
+- shows what additionally is needed beyond programming, i.e., shows the differences between programming, software development, and software en- gineering;
+- shows the motivations for the discipline of software engineering;
+- introduces some important elements of software engineering that actually show the differences between software engineering and programming, and shows how they relate to each other.
 What is fascinating about this aspect of software development is that it is more than just programming. Rather, it is to learn the whole picture and as a software engineer to solve a problem or exploit an opportunity that the users may have.
 As a new student, understanding what software engineering is about is not easy, because there is no way we can bring its realities and complexities into the student’s world. Nevertheless, it is a student’s responsibility to embark on this journey of learning and discovery into the world of software engineering.
 Throughout this entire book, we will trace the journey of a young chap, named Smith, from his days in school learning about programming through to becoming
@@ -445,39 +58,6 @@ Through these assignments, Smith came to several conclusions. First, there is no
 As Smith was preparing for his industry internship interview, he tried to sum- marize on a piece of paper, from those things he then understood, what software engineering is about, and what he had learned thus far. Smith drew what he under- stood many times, and he observed that he couldn’t get it quite right. In the end, he settled for what is shown in Figure 1.2.
 To Smith, software engineering was about taking some idea and forming a team according to the requirements. The team then transforms the requirements into a software product. To do this, the team engages in some kind of brainstorming, consensus, writing and testing code, getting to a stable structure, maintaining user satisfaction throughout, and ﬁnally delivering the software product. This requires the team to have competencies in coding, analysis, and teamwork. In addition,
 ## 8 Chapter 1 From Programming to Software Engineering
-# Start
-# Evolve
-# What I think
-# software
-# engineering
-# Team
-# DD
-# Stable
-# Time
-is about
-=
-==
-—
-—
-=
-# O
-0 ®)
-# Idea
-# Requirements
-# Software
-# product
-—
-# Competency
-Coding
-Analysis
-{
-—
-=}
-}
-Programming language
-Java
-Teamwork
-JavaScript
 # Figure 1.2 What software engineering is from the eyes of a student.
 the team needs familiarity with some programming language, such as Java and JavaScript, which Smith knew. What Smith didn’t yet know was that the tasks he had been given were still relatively simple tasks compared to what is typical in the software industry. Nevertheless, with this preparation, Smith marched toward his internship interview.
 1.3
@@ -489,38 +69,6 @@ Smith’s stint in TravelEssence provided a whole new experience. To him, his ne
 TravelEssence
 Home | Hotels | Deals | Travel Blog | Contact
 Figure 1.3 TravelEssence home page.
-# Start
-# Evolve
-# DN
-Speak the
-# language and
-# it
-do no harm!
-# 48 KA pAY
-# Team
-# g =
-# Bug ﬁx
-C N =
-# Changes
-# Stable
-# O
-# Time
-0
-L)
-# Idea
-# Requirements
-# Software
-# product
-# i
-# Competency
-Coding
-Analysis
-=
-# Technology stack
-Java, JavaScript
-MongoDB, MySQL
-Testing
-Teamwork
 # Figure 1.4 What software engineering is from the eyes of a student after internship.
 Book. To sell or reserve rooms ahead of time.
 No-Show. A guest who made a room reservation but did not check in.
@@ -534,36 +82,6 @@ Competency not only involved analysis, coding, and teamwork, but also exten- siv
 Note: There are myriads of technology stacks available, and it is not possible for anyone to learn them all. Nevertheless, our recommendation to students is to gain familiarity with a relevant technology stack of your choice.
 Smith graduated and was employed at TravelEssence. A few years later, at a get-together, Smith and his old classmates shared their newfound experiences in the real commercial world. At this occasion Smith said: “At TravelEssence even though everyone seemed to be using different terminology, and everyone did things differently, there seemed to be something common to what they were all doing.” One of his old classmates asked Smith if he could explain more, but Smith just shook his head and said, “I don’t know exactly what it is.”
 ## 1.3 From Internship to Industry
-Speak the
-# language and
-do no harm!
-# Team
-# M o: i
-# Values
-# Bug ﬁx
-# %: Chﬁe
-# Changes
-_—
-# Requirements
-# Competency
-Leadership
-# Principles
-Management
-# Practices
-Coding
-Analysis
-Testing
-Teamwork
-# Figure 1.5 What software engineering is from the eyes of a young professional.
-# Start
-# Evolve
-# Stable
-~
-# Time
-# i
-# o
-# il
-# Software System
 # Technology stack
 Java, JavaScript
 MongoDB, MySQL
@@ -614,8 +132,7 @@ explain the role of requirements engineering.
 In order to support your learning activities, we invite you to visit www.software- engineering-essentialized.com. There one can ﬁnd additional material, exercises related to this chapter, and some questions one might encounter in an exam.
 In addition to this you will ﬁnd a short account of the history of software engi- neering in Appendix A.
 # Software Engineering Methods and Practices
-In this chapter we present how the way of working to develop software is organized, and to some extent what additional means are needed (e.g., notations for specifi-
-# cations). In particular, we
+In this chapter we present how the way of working to develop software is organized, and to some extent what additional means are needed (e.g., notations for specifications). In particular, we
 .
 describe the challenges in software engineering covering a wide range of aspects like how to proceed step by step, involve people, methods and practices;
 . outline various key concepts of some commonly used software engineer- ing methods created during the last four decades (i.e., waterfall methods, iterative lifecycle methods, structured methods, component methods, agile methods); and
@@ -646,17 +163,6 @@ While the waterfall methods helped to bring some discipline to software en- gine
 A way to describe the waterfall methods is this: What do you have once you think you have completed the requirements? Something written on “paper.” (You may have used a tool and created an electronic version of the “paper,” but the point is that it is just text and pictures.) But since it has not been used, do you know for sure
 # 2.2.1 There Are Lifecycles
 ## 20 Chapter 2 Software Engineering Methods and Practices
-# R
-# Requirements
-Figure 2.1 Waterfall lifecycle.
-# D
-# Design
-# I
-# Implementation
-# (Code)
-# V
-# Veriﬁcation
-# (Test)
 at this point if they are the right requirements? No, you don’t. As soon as people start to use the product being developed based on your requirements, they almost always want to change it.
 Similarly, what do you have after you have completed your design? More “paper” of what you think needs to be programmed? But are you certain that it is what your customer really intended? No, you are not. However, you can easily claim you are on schedule because you just write less and with less quality.
 Even after you have programmed according to the design, you still don’t know for sure. However, all of the activities you have conducted don’t provide proof that what you did is correct.
@@ -666,14 +172,6 @@ There are some lessons learned. Believing you can specify all requirements up- f
 # Iteration 1
 # Iteration 2
 # Iteration 3
-# 7NN TN NSNS NS
-# V
-# I
-# I
-# I
-Figure 2.2 Iterative lifecycle.
-# D
-# Time
 provides value. These lessons gave rise at the end of the 1980s to a new lifecycle approach called iterative development, a lifecycle adopted by the agile paradigm now in fashion (see Figure 2.2).
 New practices came into fashion. The old project management practices fell out of fashion and practices relying on the iterative metaphor became popular. The most prominent practice was Scrum, which started to become popular at the end of the 1990s and still is very popular. We will discuss this more deeply in Part III of the book.
 # 2.2.2 There Are Technical Practices
@@ -682,16 +180,6 @@ Later new trends became popular.
 # 2.2.2.1 The Structured Methods Era
 In the late 1960s to mid-1980s, the most popular methods separated the software to be developed into the functions to be executed and the data that the functions would operate upon: the functions living in a program store and the data living in a data store. These methods were not farfetched because computers at that time had a program store, for the functions translated to code, and a data store. We will just mention two of the most popular methods at that time: SADT (Structured Analysis and Design Technique) and SA/SD (Structured Analysis/Structured Design). As a student, you really don’t need to learn anything more about these methods. They
 ## 22 Chapter 2 Software Engineering Methods and Practices
-# Control
-}
-# Input
-—>
-# Function
-!
-# Mechanisms
-# Figure 2.3 SADT basis element.
-—>
-# Output
 were used for all kinds of software engineering. They were not the only methods in existence. There were a large number of published methods available and around each method there were people strongly defending it. It was at this time in the history of software engineering that the methods war started. And, unfortunately, it has not yet ﬁnished!
 Every method brought with it a large number of practices such as requirements, design, test, defect management, and the list goes on.
 Each had its own blueprint notation or diagrams to describe the software from different viewpoints and with different levels of abstraction (for example, see Fig- ure 2.3 on SADT). Tools were built to help people use the notation and to keep track of what they were doing. Some of these practices and tools were quite so- phisticated. The value of these approaches was, of course, that what was designed was close to the realization—to the machine: you wrote the program separate from the way you designed your data. The problems were that programs and data are very interconnected and many programs could access and change the same data. Although many successful systems were developed applying this approach, there were far many more failures. The systems were hard to develop and even harder to change safely, and that became the Achilles’ heel for this generation of methods.
@@ -706,20 +194,6 @@ components (see also Sidebar 2.1). Each component had an interface connecting it
 With components, a completely new family of methods evolved. The old meth- ods with their practices were considered to be out of fashion and were discarded. What started to evolve were in many cases similar practices with some signiﬁcant differences but with new terminology. In the early 1990s, about 30 different com- ponent methods were published. They had a lot in common, but it was almost impossible to ﬁnd the commonalities since each method author created his/her own terminology.
 In the second half of the 1990s, OMG (a standards body called Object Manage- ment Group) felt that it was time to at least standardize how to represent software drawings, namely notations used to develop software. This led to a task force be- ing created to drive the development of a new standard. The work resulted in the
 ## 24 Chapter 2 Software Engineering Methods and Practices
-_,©—>
-# Place Local Call
-# Calling
-# Subscriber
-# Called
-# Subscriber
-# Place Long Distance Call
-CO—
-# Retrieve Customer
-# Billing Information
-# Billing System
-# —C A
-# Customer
-# Get Call History
 Figure 2.4 A diagram (in fact a Use-Case diagram) from the Uniﬁed Modeling Language standard.
 Uniﬁed Modeling Language (UML; see Figure 2.4), which will be used later in the book. This development basically killed all methods other than the Uniﬁed Process (marketed under the name Rational Uniﬁed Process (RUP)). The Uniﬁed Process dominated the software engineering world around the year 2000. Again, a sad step, because many of the other methods had very interesting and valuable practices that could have been made available in addition to some of the Uniﬁed Process practices. However, the Uniﬁed Process became in fashion and everything else was considered out of fashion and more or less thrown out.
 Over the years, many more technical practices other than the ones supported by the 30 component methods arrived. More advanced architectural practices or sets of practices, e.g., for enterprise architecture (EA), service-oriented architecture (SOA), product-line architecture (PLA), and recently architecture practices for big data, the cloud, mobile internet, and the internet of things (IoT) evolved. At the mo- ment, it is useful to see these practices as pointers to areas of software engineering interest at a high level of abstractio: sufﬁce it to say that EA was about large infor- mation systems for, e.g., the ﬁnance industry; SOA was organizing the software as a set of possibly optional service packages; and PLA was the counterpart of EA but for product companies, e.g., in the telecom or defense industry. More important is to know that again new methodologies grew up as mushrooms around each one
@@ -763,7 +237,6 @@ Software engineering is gravely hampered today by immature practices. Speciﬁc 
 . The huge number of methods and method variants, with differences little understood and artiﬁcially magniﬁed.
 . The lack of credible experimental evaluation and validation.
 . The split between industry practice and academic research.
-6. https://www.infoq.com/news/2014/01/IDC-software-developers
 ## 2.4 Essence: The OMG Standard
 We support a process to re-found software engineering based on a solid theory, proven principles, and best practices that:
 .
@@ -797,13 +270,6 @@ explain the “method prison” issue discussed in the chapter; and
 explain the SEMAT initiative and the motivation behind the Essence stan- dard.
 Again we point to additional reading, exercises, and further material at www.software-engineering-essentialized.com.
 # 3Essence in a Nutshell
-.
-# common ground the notion of a
-# this chapter
-# for software
-form a method
-# and a kernel of
-.
 the concepts of practices and methods built of top of Essence forming a method architecture; and
 .
 the concept of cards as a means to give the abstract elements of Essence an attractive and tangible user experience.
@@ -835,39 +301,14 @@ What eventually becomes a method or a practice is just a practical decision. To 
 When we say that a practice guides a team, we mean it is described one way or another to indicate what to do. How explicit a practice should be, i.e., how detailed the descriptions should be, depends on two factors: capabilities and background.
 Capability. Capability refers to team members’ ability, based upon the knowl- edge they already have, to ﬁgure things out for themselves. Team members with high skill and capability need only a few reminders and examples to
 ## 34 Chapter 3 Essence in a Nutshell
-# Tacit
-# Explicit
-# High
-# practices
-# practices
-# sufﬁcient
-needed
-Capability
-# Tacit
-# Explicit
-# Low
-# practices
-# with
-# practices
-# with
-coaching
-coaching
-# Common
-# Different
-Background
 Figure 3.1 How explicit practices depend on capability and background.
 get going. Others may need training and coaching to learn how to apply a practice effectively.
 Background. If the team has worked together using a practice in the past or have gone through the same training, then they have a shared background. In this case, practices can be tacit. On the other hand, if team members have been using different practices, e.g., some have been using traditional requirements speciﬁcations while others have been using user story (a more modern way of dealing with requirements), then they have different back- grounds. In this case, practices should be described to avoid miscommuni- cation.
 How these two factors interact and inﬂuence the form that your practices should take is summarized in Figure 3.1.
 As an example, in the case where a team’s requirements challenges relate to different backgrounds and members do not know that much about requirements collaboration techniques, the team needs explicit practices and some coaching which a more experienced team member can provide out of the box. Additional factors to be considered, contributing to the need for practices, include the size of the team and how its members are geographically distributed.
-3.3
 # There Is a Common Ground
 Using a common ground as a basis for presenting guidelines for all practices will make it easier to teach, learn, use, and modify practices and easier to compare practices described using the same common ground.
 ## 3.3 There Is a Common Ground
-# Kernel
-# Language
-# Essence
-# CNEN e OO0
 # Figure 3.2 Essence and its parts.
 Figure 3.3 Essence method architecture.
 Figure 3.2 illustrates Essence as this common ground, providing both a lan- guage and a kernel of software engineering.
@@ -875,17 +316,6 @@ The Essence language is very simple, intuitive, and practical, as we will show l
 As previously described, it was left to the software engineering community to contribute practices, which can then be composed to form methods. Figure 3.3 depicts the relationships between methods composed using practices, which are described using the Essence kernel and the Essence language. As you can see in Figure 3.3, the notation used in the Essence language for practices is the hexagon, and for methods it is the hexagon enclosing two minor hexagons.
 The practices are essentialized, meaning they are described using Essence—the Essence kernel and the Essence language. Consequently, the methods we will de- scribe are also essentialized. In PartIII you will see many examples of essentialized practices.
 ## 36 Chapter 3 Essence in a Nutshell
-# Method
-=
-# Backlog
-# Driven
-# Some
-# other
-# practices
-@
-# TDD
-©
-# Essence
 Figure 3.4 A method is a composition of practices on top of the kernel.
 Essentializing not only means that the method/practice is described using Essence; it also focuses the description of the method/practice on what is essential. It doesn’t mean changing the intent of the practice or the method. This provides signiﬁcant value. We as a community can create libraries of practices coming from many different methods. Teams can mix and match practices from many methods to obtain a method they want. If you have an idea for a new practice, you can just focus on essentializing that practice and add it to a practice library for others to select; you don’t need to “reinvent the wheel” to create your own method (see, e.g., Figure 3.4. This liberates that practice from monolithic methods, and it will open up the method prisons and let companies and teams get out to an open world.
 As mentioned earlier, a team usually faces a number of challenges and will need the guidance of several practices. Starting with the kernel, a team can select a number of practices and support tools to make up its way-of-working. The set of practices that they select for their way-of-working is their method.
@@ -940,57 +370,20 @@ If you have been in the software industry for some time, you can empathize with 
 Essence was developed to help people like Smith and companies like Travel- Essence who rely heavily on software to run their business. What the contributors to Essence did was to lay down the foundation of software engineering for folks like Smith and yourself to cut short this startup period and ensure health and speed as your software development endeavors progress. The term health is discussed and deﬁned later on for the area of software development. See, for example, Chapter 11 for a more detailed discussion.
 Let’s begin with some commonly used terms found in software engineering, which we will brieﬂy introduce in italics. Regardless of size and complexity, all software development endeavors involve the following facets (see Figure 4.1):
 . There are customers with needs to be met.
-[
 Someone has a problem or opportunity to address.
-[
+
 There are stakeholders who use and/or beneﬁt from the solution produced, and some of these will fund the endeavor.
 . There is a solution to be delivered.
-[
+
 There are certain requirements to be met.
-[
+
 A software system of one form or another will be developed.
 . There is an endeavor to be undertaken.
-[
 The work must be initiated.
-[
+
 An empowered team of competent people must be formed, with an appropriate way of working.
 These terms map out what software engineering is about. When something goes wrong, it is normally an issue with one or more of these facets. The way we handle these issues has a direct impact on the success or failure of the endeavor. We will
 ## 4.2 Software Engineering Is about Delivering Value to Customers
-# r
-# e
-# m
-# o
-# t
-# s
-# u
-# C
-# Opportunity
-# Stakeholders
-]
-# n
-# o
-# i
-# t
-# u
-# l
-# o
-# S
-# Requirements
-# Software
-# System
-# r
-# Endeavor
-# o
-# v
-# a
-# e
-# d
-# n
-# E
-# Work
-# Way of
-# Working
-# Team
 Figure 4.1 The things involved in all development endeavors.
 now look at each of these facets in turn. Later, in Chapter 6, we will once more discuss issues and their relationships.
 # Software Engineering Is about Delivering Value to Customers
@@ -1009,7 +402,6 @@ Thus, when working with an opportunity it is important to continuously evaluate 
 It would likely be the case that different solution options are available to address the opportunity, and some difﬁcult choices will have to be made.
 . When the solution goes live, it normally takes some time before the beneﬁts become visible to customers.
 For opportunities to be taken up, there must be some people involved in the decision. The name we have for those individuals, organizations, or groups is stakeholders. Stakeholders who have some interest or concern in the system being developed are known as external stakeholders; those interested in the development
-1. https://www.forbes.com/sites/neilpatel/2015/01/16/90-of-startups-will-fail-heres-what-you- need-to-know-about-the-10/#43f76e846679
 # 4.2.2 Stakeholders
 ## 4.3 Software Engineering Delivers Value through a Solution
 endeavor itself are called internal stakeholders. In our TravelEssence case, internal stakeholders include a development team assembled to develop the new services for travelers, along with key managers in the organization who need to agree to the new venture. Examples of external stakeholders being affected by the system include a manager in our TravelEssence organization who needs to agree to fund the new software effort, or a traveler who might beneﬁt by using the new services.
@@ -1121,22 +513,6 @@ Essence provides a precise and actionable language to describe software engineer
 We describe this programming practice as follows.
 . The purpose of this practice is to produce higher quality code. In this case, we assume that the concept of code quality is understandable to the different members of the team.
 ## 54 Chapter 5 The Language of Software Engineering
-()
-# < fulﬁlls
-)
-# Requirements
-# Software System
-provides
-input and is
-# 3 D Yo
-# Development
-progresses >
-produces >
-’\%(;%3\
-<
-# d
-# Code
-# Testing
 Figure 5.1 Simple programming practice (pair programming) described using Essence language.
 . Two persons (students) work in pairs to turn requirements into a software system by writing code together.
 . Writing code is part of implementing the system.
@@ -1167,13 +543,7 @@ Alphas have states that describe progression through a lifecycle. As an example,
 Conceived. The need for a new system has been agreed upon.
 Bounded. The purpose and theme of the new system are clear.
 ## 5.2 The Things to Work With
-What the software system must do to address the opportunity and satisfy the stakeholders. Conceived Bounded Coherent Acceplable Addressed ot Fulfilled @ "
-# Alpha name
-# Very brief
-# alpha description
-# Alpha states
-Each alpha state has
-# an alpha state card
+What the software system must do to address the opportunity and satisfy the stakeholders. Conceived Bounded Coherent Acceplable Addressed ot Fulfilled
 Figure 5.2 Requirements alpha card.
 Coherent. The requirements provide a consistent description of the essential characteristics of the new system.
 Acceptable. The requirements describe a system that is acceptable to the stake- holders.
@@ -1198,15 +568,6 @@ Retired. The Software System is retired and replaced by a new version of the Sof
 Work products, again, are tangible things such as documents and reports, and may provide evidence to verify the achievement of alpha states. An example of a work product for the Requirements alpha might be some kind of a requirements speciﬁcation—a description of the software system to be built. When a complete and accepted requirements document has been developed, it can be one way to
 # 5.2.3 Work Products
 ## 60 Chapter 5 The Language of Software Engineering
-1 G ode that not only implements requirements, but also in a self-explanatory way. S—— — ———— e | WS- Cod - o Expiained. U— | % Describes: | Software System
-# C
-# Work product name
-# Brief
-# work product
-# description
-# Level of detail
-# Relationships to
-# other elements
 Figure 5.5 The Code work product card.
 conﬁrm having achieved certain checklists within a state of the Requirements alpha. Yet the fact that you have a document is not necessarily a sufﬁcient condition to prove evidence of state achievement. Historically, documentation has not always provided an accurate measurement of progress. Thus, you may reach the same state without any documentation or with very brief documentation, as long as the checklist for that state has been achieved satisfactorily.
 Code is the example of a work product for our programming practice. We provide a concise description of this work product in the form of a poker-sized card, as shown in Figure 5.5.
@@ -1216,16 +577,10 @@ In TravelEssence, for example, Smith’s team expressed requirements through use
 ## 5.3 Competencies
 detail. For simple requirements, Smith’s team did not need as many speciﬁcs, but relied on more direct communication with their stakeholders. However, for more sophisticated requirements involving complicated calculation and decision rules, Smith had more complete explanations in his use case narratives.
 Practitioners often have trouble ﬁguring out how detailed the various work products they produce should be. Explicit practices, which we will cover in later parts of the book, can provide guidance on this.
-5.3
 # Competencies
 The team members applying the programming practice must, of course, be able to program; that is, they must have a development competency. Competencies are the abilities needed when applying a practice. Often, software teams struggle because they don’t have all the abilities needed for the task they have been given. In these situations, a coach can help by explaining different ways the practitioner can address the problem, such as learning something that is missing in their competencies.
 Figure 5.6 shows the card for the Development competency. Similar in format to the alpha and work product cards, the top of a competency card has the competency icon (a star) and the competency name followed by a very brief description of the competency. Then a list of competency levels follows.
 The bility lodesign and program effective software systems following the standards and norms agreed by the team.
-# Competency name
-# Brief
-# competency
-# description
-# Competency levels
 Figure 5.6 The Development competency card.
 ## 62 Chapter 5 The Language of Software Engineering
 The Development competency has ﬁve levels of achievement.
@@ -1242,19 +597,8 @@ Activities are things that practitioners do, such as holding a meeting, analyzin
 9.4
 ## 5.5 Essentializing Practices
 # Activity space which
-this activity belongs to
-# Cod
-Collarate together to produce good quality code that meet requirements. (I Requirements: M:msf o % Enpopent e System
-# Development
-# (Requirements: Addressed I Software System: Ready ("] Code: Code Completed
-# Activity name
-# Very brief
-# activity description
-# Inputs for activity
-# Competency to
-# conduct activity
-# Outputs of activity
-@) N
+this activity belongs to cod
+Collarate together to produce good quality code that meet requirements.
 Figure 5.7 The Write Code activity card.
 An activity is always bound to a speciﬁc practice and cannot “ﬂoat around” among the practices. If you ﬁnd an activity that needs to be reused by many prac- tices, then you may want to create a separate practice including this activity. The alternative is that you decide not to reuse it, but each practice that potentially could have reused it will have to keep its own copy of that activity. Changes to one copy of it will not impact the other copies; they will just change independently of one another, which means no reuse.
 9.5
@@ -1263,56 +607,6 @@ What we have just presented, using the Essence tools of diagrams (such as Fig- u
 As you can see, the language contains two more elements—activity space and pattern—than have been introduced thus far. See Table 5.2. These elements will be described further in the next chapter. The syntax and shape of these elements are deﬁned in Object Management Group, Essence [2015].
 To summarize, alphas are the essential things we work with. Each alpha deﬁnes a lifecycle, moving from one alpha state to another. Work products are the tangible
 ## 64 Chapter 5 The Language of Software Engineering
-# Alpha
-# s
-# a
-# h
-<
-# Alpha State
->
-# s
-# targets
-# t
-# e
-# g
-# r
-# a
-# t
-R E [
-# Activity Space
-# s
-# e
-# v
-# l
-# o
-# v
-# n
-# i
-<
-# < d
-# vczkb
-# escrib
-# org
-# a
-# es
-nizes >
-# < evidences
-# pro
-# gresse
-# < res
-# I’Gs(l/
-# d by >
-# ults in
-organizes >
-# < r e q
-# u ir e s
-# Work Product
-updates produces/
-# p
-# Activity
-(5]
-# Pattern
-# Competency
 Figure 5.8 Elements of the Essence language and their relationships.
 # Table 5.2 Additional elements in the Essence language
 Element Type Syntax Meaning of Element Type Activity Space A placeholder for something to do in the development endeavor. A placeholder may consist of zero to many activities. Pattern An arrangement of other elements represented in the language.
@@ -1368,7 +662,6 @@ Solution. This area of concern contains everything related to the speciﬁcation
 Endeavor. This area of concern contains everything related to the development team and the way that they approach their work.
 The kernel elements are fundamentally of four kinds:
 1. The essential things to work with: the alphas
-%
 2. The essential things to do: the activity spaces
 3. The essential capabilities needed: the competencies
 4. The essential arrangements of elements: the patterns
@@ -1384,140 +677,6 @@ Opportunity. The set of circumstances that makes it appropriate to develop or ch
 Stakeholders. The people, groups, or organizations that affect or are affected by a software system. The stakeholders provide the opportunity and are the source of the requirements and funding for the software system. The team members are also stakeholders. As much stakeholder involvement as possible throughout a software engineering endeavor is important to support the team and ensure that an acceptable software system is produced.
 In the Solution area of concern, the team needs to establish a shared under- standing of the requirements, and then implement, build, test, deploy, and support a software system that fulﬁlls them.
 ## 70 Chapter 6 The Kernel of Software Engineering
-# Customer
-# r
-# e
-# m
-# o
-# t
-# s
-# u
-# C
-# n
-# o
-# i
-# t
-# u
-# l
-# o
-# S
-# r
-# Endeavor
-# o
-# v
-# a
-# e
-# d
-# n
-# E
->
-# s
-# s
-# e
-# r
-# d
-# d
-# a
-# o
-# t
-# p
-# u
-# t
-# e
-# s
-# Opportunity
-B [
-# u
-# c
-# o
-# f
-# < d
-e m a
-# n
-# d
-< provide
-< helps to address
-# < fulﬁlls
-# Requirements
-—
-# d
-# n
-# a
-# s
-# e
-# p
-# o
-# c
-# s
->
-s a n d c h a n g
-# s
-# n
-# i
-1 —
-# a
-# e
-# t
-# a
-# r
-# d
-# p
-# t
-# u
-# s
-# n
-# o
-# c
-# e
-# s >
-# < performs and plans
-# Work
-# < g
-Sy,
-# uid
-# e
-# s
-# Way of
-# Working
-# < applies
-# Stakeholders
->
-# d
-# e
-# m
-# n
-# a
-# u
-—|
-# i
-# e
-# s
-# s
-# n
-# u
-# o
-# c
-# Software
-# System
-# s
-# e
-# c
-# u
-# d
-# o
-# r
-§
-# p
-<
-# Team
->
-# t
-# r
-# o
-# p
-# p
-# u
-# s
 Figure 6.2 The Essence alphas and their relationships.
 Requirements. What the software system must do to address the opportunity and satisfy the stakeholders. It is important to discover what is needed from the software system, share this understanding among the stakeholders and the team members, and use it to drive the development and testing of the new system.
 Software System. A system made up of software, hardware, and data that pro- vides its primary value by the execution of the software. The primary product of any development endeavor, a software system can be part of a larger soft- ware, hardware, business, or social system solution.
@@ -1534,68 +693,11 @@ It is the Team that produces the Software System by doing Work. The Work is set 
 So, now you are equipped with knowledge of things to work with that will in the following two sections be related to things you do and the competencies that are needed.
 # 72 Chapter 6 The Kernel of Software Engineering
 Figure 6.3 Essence kernel alpha states cards.
-6.3
 # The Essential Things to Do: The Activities
 In every development endeavor, you carry out a number of activities. Examples of activities include agreeing on a user story with a product owner, demonstrating the system to a customer representative, and estimating work. Essence as such does not deﬁne any activities (how your team goes about capturing and communicating the requirements can be very different from team to team). However, Essence deﬁnes a number of so-called activity spaces. You can think of activity spaces as generic (i.e., method-independent) placeholders for speciﬁc activities that will be added later, on top of the kernel. Since the activity spaces are generic, they can be standardized and are thus part of the Essence standard. The activity spaces are packages used to group activities that are related to one another. This helps to keep them organized, which in turn makes them easier for practitioners to ﬁnd and use when they face common challenges where a practice could help.
 The following activity spaces provide guidance to you and your team on the things to do in each of the three areas of concern as the team marches toward
 ## 6.3 The Essential Things to Do: The Activities
-# r
-# e
-# m
-# o
-# t
-# s
-# u
-# C
-# Explore
-# Possibilities
-# Understand
-# Stakeholder Needs
-# Ensure Stakeholder
-# Satisfaction
-Use the
-# System
-# n
-# o
-# i
-# t
-# u
-# l
-# o
-# S
-# Understand the
-# Shape the
-# Implement
-# Requirements
-# System
-# the System
-# NIV E R Endeavor
-# T
-# Prepare To Do
-# E
-# VIV
-# A
-# Coordinate
-# VNIV E A
-# Support
-# the Work
-# Activity
-# the Team
-# Figure 6.4 Essence activity spaces (from the Essence standard).
-# Test the
-# System
-# Deploy the
-# System
-# PO E R
-—
-# Track
-# Progress
-# Operate
-# the System
-# VNIV E R
-Stop the
-# Work
-achieving the states speciﬁed in the alphas. The activity spaces of Essence are shown in Figure 6.4, where they are denoted by dashed arrowed pentagons and organized into the areas of concern.
+Stop the Work achieving the states speciﬁed in the alphas. The activity spaces of Essence are shown in Figure 6.4, where they are denoted by dashed arrowed pentagons and organized into the areas of concern.
 Activity space cards have very similar contents to activity cards. Figure 6.5 shows an example of an activity space card. Going back to the simple programming example in the previous chapter, the Write Code activity would be allocated to the Implement the System activity space. The dashed symbol in the upper left-hand corner of the card, as in Figure 6.4, is the symbol for an activity space.
 In addition to being placeholders for speciﬁc activities, the activity spaces rep- resent the essential things that have to be done to develop software. They provide general descriptions of the challenges a team faces when developing, maintaining, and supporting software systems, and the kinds of things that the team will do to meet them. Each activity space then can (via the practices) be extended with con- crete activities that progress one or more alphas—either alphas in the kernel or practice-speciﬁc alphas.
 In the top row of Figure 6.4 there are activity spaces to understand the opportu- nity, and to support and involve the stakeholders.
@@ -1615,22 +717,7 @@ In the bottom row of Figure 6.4 there are activity spaces to form a team and to 
 Prepare to Do the Work. Set up the team and its working environment. Under- stand and commit to completing the work.
 Coordinate Activity. Coordinate and direct the team’s work. This includes all ongoing planning and re-planning of the work, and re-shaping of the team.
 ## 6.4 Competencies
-# 4l
-|08
-Build a system by implementing, testing, and integrating one or more system elements. This includes bug fixing and unit testing. On Entry {__{Requirements ¥ Way of Working {~ 1 Software System: Architecture Selected _ _ — 1 On Exit
-# (" Software System. Demonstrable Ready
-# Usable
-
-# Activity name
-¥
-# Very brief
-# activity description
-}
-# Inputs for activity
-# }Outputs
-# Outputs of activity
-L©
-11
+Build a system by implementing, testing, and integrating one or more system elements. This includes bug fixing and unit testing. 
 Figure 6.5 Implement the System activity space card.
 Support the Team. Help the team members to help themselves, collaborate, and improve their way of working.
 Track Progress. Measure and assess the progress made by the team.
@@ -1641,41 +728,6 @@ To make Figure 6.4 easy to read, the activity spaces are shown in a sequence fro
 To participate in a software endeavor you need to have competency in different areas. You need competency relevant to the speciﬁc tasks you are working on, but also other competencies to understand what your teammates are working on.
 Competencies are deﬁned in the kernel and can be thought of as generic con- tainers for speciﬁc skills. Speciﬁc skills (e.g., Java programming) are not part of the kernel because such skills are not essential on all development endeavors. But
 ## 76 Chapter 6 The Kernel of Software Engineering
-# r
-# e
-# m
-# o
-# t
-# s
-# u
-# C
-# Stakeholder
-# Representation
-# n
-# o
-# i
-# t
-# u
-# l
-# o
-# S
-# W
-# Analysis
-# W
-# Development
-# S
-# Testing
-# r
-# Endeavor
-# o
-# v
-# a
-# e
-# d
-# n
-# E
-# Leadership
-# Management
 Figure 6.6 The kernel competencies.
 competency is always required, and it will be up to the individual teams to identify the speciﬁc skills needed for their particular software endeavor.
 A common problem on software endeavors is not being aware of the gap between the competencies needed and those that are available. The kernel approach will raise the visibility of this gap. Each of the competencies has a competency level, and this is the same across all of the kernel competencies. Thus, the levels that we presented in Section 5.3 are the same for all six competencies in Figure 6.6.
@@ -1703,22 +755,6 @@ As another example, a pattern could be used to deﬁne a checkpoint. They are fr
 All of this is simply expressed in Essence by a set of alpha states that must have been achieved in order to pass the checkpoint. This pattern can be reused for other similar endeavors trying to get to the same checkpoint.
 ## 6.5 Patterns
 Figure 6.8 Coder role (pattern) card.
-# Pre-development
-# Development
-| |
-# Post-development
-# C X
-# Requirements
-# Bounded
-# Addressed
-___________________ S J 1 C X I Develolpment
-# Software system
-# development
-# complete
-# checkpoint
-# checkpoint
->
-# Time
 # Figure 6.9 A checkpoint pattern example.
 In the simplest case, the timeline of a development endeavor can be divided into three phases, pre-development, development, and post-development (see Fig- ure 6.9). In the ﬁgure, the rounded boxes are states associated with the alphas.
 Pre-development could be deﬁned as the phase when the team and the stake- holders are determining what they need to do. The end of the pre-development phase needs to include any essential items that must be achieved before the team can begin developing the software system. One example might be funding approval to proceed with development.
@@ -1730,7 +766,6 @@ Note that different kinds of development will deﬁne the checkpoints differ- en
 Figure 6.10 provides a simple example of a checkpoint pattern in our program- ming practice. In this simple programming assignment, we just need the Software System to be demonstrable and the Requirements to be addressed.
 Figure 6.10 A checkpoint pattern card.
 ## What Should You Now Be Able to Accomplish?
-# What Should You Now Be Able to Accomplish?
 After studying this chapter, you should be able to:
 .
 explain the kernel and its three areas of concern;
@@ -1756,7 +791,7 @@ The goal of this chapter is to present the role that Essence plays in working to
 that software engineering is still on its way toward appropriate theory;
 .
 the need for a software engineering theory and the expected benefits of it;
-# the differences between descriptive and predictive theories;
+the differences between descriptive and predictive theories;
 the role Essence plays as a descriptive theory; and
 the role Tarpit plays as an example of a predictive theory.
 The intent is to encourage readers to research and evolve a theory that helps teams and organizations deliver software much better.
@@ -1801,15 +836,6 @@ To describe something, a language is needed. In the case of mechanics, that lang
 Unfortunately, as we explained previously, there is currently no widely accepted predictive general theory of software engineering. However, Essence takes the ﬁrst step by proposing a coherent, general, descriptive theory of software engineering (i.e., a language of software engineering). The concepts included in Essence were designed to capture the most important features of the various phenomena of software engineering.
 As a descriptive theory, Essence can be used to describe and facilitate discussion of future predictive theories of software engineering. However, Essence is not strictly limited to description; it does make a number of general claims regarding the relationships between concepts. For instance, the states of alphas have a certain
 ## 88 Chapter 7 Reﬂection on Theory
-# Actionable
-# x
-# t
-# e
-# s
-# i
-# l
-# e
-Practical
 Figure 7.1 Guiding principles behind Essence.
 order, excluding the movement between non-neighboring states. But a complete consideration of the causality between concepts and thus prediction is beyond the current version of Essence.
 # 7.3.1 A Common Ground for a Descriptive Software Engineering Theory
@@ -1853,7 +879,6 @@ The theory’s name stems from the communicative tragedy that, according to the 
 relationship is a frustrated one, because it has proved strangely difﬁcult to estab- lish efﬁcient means of communication between people and computers. Currently, almost twenty million software developers are employed worldwide, with the sole task to explain to the computers what it is that we really want from them. In the pro- posed theory’s interpretation, Alan Perlis’s famous epigram “Beware of the Turing tar-pit in which everything is possible but nothing of interest is easy” refers pre- cisely to the communicative intractability that separates the wondrous capabilities of the Turing machine from the many desires of humankind.
 The theory is grounded in four subﬁelds:
 1. the theory of software, on the structure and meaning of computer programs;
-# N
 2. the theory of design, on the process of decision-making;
 3. the theory of cognition, on the limitations of human (developers’) minds; and
 4. the theory of organization, on the possibilities and limits of human cooper- ation.
@@ -1865,7 +890,6 @@ In its most skeletal form, the Tarpit theory can be reduced to four propositions
 The authors claim that the theory is able to answer many of the most pertinent questions in software engineering, including the three questions above, which are discussed further in Johnson and Ekstedt [2016].
 The Tarpit theory and Essence integrate nicely. Many concepts are identical or easily translated, such as endeavor, stakeholder, and team. Other concepts con- stitute the extension of each theory with the concepts of the other. Jointly, the integrated theory gains the descriptive and practical power of Essence and the pre- dictive power of Tarpit.
 ## 7.5 A Theoretical Foundation Helps You Grow 93
-7.5
 # A Theoretical Foundation Helps You Grow
 The main concepts and principles of Essence have been presented and you will learn more about its application as we follow Smith’s experiences in the remainder of the book. But how will Essence help you as you proceed in your career?
 First and foremost, you will be provided with a common ground for under- standing the scope as well as the application of software engineering methods and practices that will be of great beneﬁt during your career. Certainly, as new practices and methods arrive on the scene, you will be prepared to easily integrate them into your own body of knowledge.
@@ -1902,20 +926,11 @@ This book is about the essentials of software engineering through the lens of Es
 I. Jacobson, P.-W. Ng, P. E. McMahon, I. Spence, and S. Lidman, The Essence of Software Engineering: Applying the SEMAT Kernel [Jacobson et al. 2013a]. This is the ﬁrst book on Essence written primarily for software development professionals. It provides the underlying ideas behind the Essence kernel, an overview of the kernel, and examples of how teams can use the kernel to run a software endeavor. This reference should be used when the reader is looking for details related to the ideas behind the kernel and more details on how the kernel can be used by teams.
 .
 I. Jacobson, P.-W. Ng, P. E. McMahon, I. Spence and S. Lidman, “The essence of software engineering: The SEMAT kernel” [Jacobson et al. 2012]. This paper discusses the background, motivation, and overview of the Essence kernel. This reference should be used when the reader is looking for a short synopsis of Essence.
-1. http://www.software-engineering-essentialized.com/.
 ## 96 Chapter 7 Reﬂection on Theory
-.
-I. Jacobson, I. Spence, and P.-W. Ng, Agile and SEMAT: Perfect partners [Jacobson et al. 2013b]. This paper discusses how the Agile ideas and Essence are related. Essence is a tool to work with methods in an agile way. This reference should be used by readers that are using an Agile approach and want to understand more about how Essence can help their endeavor.
-. P.-W. Ng, Theory based software engineering with the SEMAT kernel: Prelim- inary investigation and experiences [Ng 2014].
-. P.-W. Ng, Integrating software engineering theory and practice using Essence: A case study [Ng 2015].
-. P. E. McMahon, A thinking framework to power software development team performance [McMahon 2015]. This paper discusses speciﬁc features of Essence that can help teams improve performance in ways previous frame- works have fallen short. This reference should be consulted by teams that are using other frameworks and are looking for ways to improve their per- formance.
-. P. Johnson, M. Ekstedt, I. Jacobson, Where’s the theory for software engi- neering? [Johnson et al. 2012].
-. P. Johnson and M. Ekstedt, The Tarpit—A general theory of software engi- neering [Johnson and Ekstedt 2016]. This paper describes the Tarpit general theory of software engineering.
 # Applying Essence in the Small—Playing Serious Games
 The goal of this chapter is to introduce the concept of Essence cards and card games as a facilitation tool in a variety of settings and purposes: for instance, to ease the process of reaching a consensus within a team, or to promote discussion related to the health and progress of their endeavors. In this chapter, the following topics are introduced and discussed:
 .
-the elements of cards and the benefits of card games as a facilitation tool in
-# team communication;
+the elements of cards and the benefits of card games as a facilitation tool in team communication;
 the beneﬁts of card games as a learning mechanism not only for understand- ing the software engineering process and method, but also for developing basic mental abilities such as perception, attention, and decision making;
 .
 the connection between four speciﬁc card games and the issues in software engineering that they help to solve; and
@@ -1933,7 +948,6 @@ To achieve common goals and maximal results, the players must express their thou
 In addition, once the team members understand where they are, they can use the cards to look ahead at states and checklists not yet achieved, thus stimulating discussion on what is most important to do next.
 This chapter introduces four card games1 that use the alpha state cards:
 1. Progress Poker
-%
 2. Chasing the State
 3. Objective Go
 4. Checkpoint Construction
@@ -1943,7 +957,6 @@ The card games in this chapter represent only a sample of what can be played. By
 One of the most important questions teams often face is “Are we done?”—referring to a particular piece of work being completed. This has resulted in deep discussions over the deﬁnition of “done.” While there are several deﬁnitions of done, ours relates to the movement of an alpha from one state to another state. Take, for example, the Software System alpha, which over the lifecycle of a software system moves through six different states. The deﬁnition of done here is related to when you have done everything to qualify for a state change.
 What does it take, for example, to move from Architecture Selected to Demon- strable?
 Let’s now look at the individual checklist items in Figure 8.1. Take, for instance, the item, “Key architectural characteristics demonstrated.” Is the meaning of this checklist item clear? Well, some people would say they know what it means, but within a team, members can make several interpretations. One team member may say that this means that the key architectural characteristics have been agreed to and demonstrated to the team members, while another may think it means the agreement and demonstration must involve external stakeholders. It is true that the checklist items do not provide a precise deﬁnition. If they did, they would likely
-1. http://www.ivarjacobson.com/publications/brochure/alpha-state-card-games
 ## 100 Chapter 8 Applying Essence in the Small—Playing Serious Games
 Figure 8.1 Software System: Demonstrable alpha state card.
 be unintelligible to most developers. The items are not unambiguous, but they provide a hint of what needs to be done. They are subject to interpretation by the team members, who may each have different opinions on their meaning. One way to reach an agreement is by playing Progress Poker.
@@ -1961,7 +974,6 @@ A variant of Progress Poker can be played, in which a single team member plays t
 # 8.1.1 Benefits of Progress Poker
 One of the beneﬁts of Progress Poker is that everyone on the team gets involved, since each team member is forced to make an assessment and explain their views when their assessment differs from those of their teammates. Each team member must think through and talk about why they assessed the state the way they did. This helps teams avoid making decisions that are not rational, and it avoids the situation where just a few team members’ decisions drive the team. The game also helps to ensure that all checklist items are considered.
 ## 8.1 Progress Poker
-~
 Smith’s hand
 Grace’s hand
 Figure 8.3 Differing views on state of Stakeholders and Requirements.
@@ -1995,84 +1007,6 @@ Chasing the State continues on through the Opportunity alpha, the Require- ments
 The state of the endeavor can be described as follows: Stakeholders, 2; Oppor- tunity, 2; Requirements, 2; Software System, 1; Team, 2; Way of Working, 1; and Work, 1.
 In this particular game it is assumed that everything goes smoothly and the team can easily agree upon the states that have been achieved. That is not always the case, so if the team can’t easily agree, they can play Progress Poker for the particular alpha that is not easy to agree upon.
 # 106 Chapter 8 Applying Essence in the Small—Playing Serious Games
-# Stakeholders
-# Opportunity
-# Requirements :g
-# Software
-# System
-;
-# Team
-# Way of
-# Working :
-# Work
-# EIENE] == =[EE El=E I
-Il :_—%_ %
-;
-# o
-= |
-Figure 8.4 Initial position for playing the Chasing the State game.
-# = E
-Figure 8.5 Stakeholder: Recognized before and after discussion.
-## 8.2 Chasing the State
-# Stakeholders
-# Opportunity
-# Requirements
-# Software
-# System
-# Team
-# Way of
-# Working
-# Work
-# BE
-# ENEEEE ENEEr=E EhEE = EEEEE ressm—
-# 1T
-Figure 8.6 The Stakeholder alpha has reached its ﬁrst state.
-# Stakeholders
-# Opportunity
-# Requirements
-# Software
-# System
-# Team
-# Way of
-# Working
-# Work
-
-.
-==
-# E
-# EE
-== 5522 =E
-El=IEEEE s =
-|=E=RE ) =
-=
-Figure 8.7 The current state of the Stakeholder alpha is agreed to be state 2.
-# 108 Chapter 8 Applying Essence in the Small—Playing Serious Games
-# Stakeholders
-# Opportunity
-# Requirements
-# Software
-# System
-# Team
-=
-# é‘f
-# T
-=
-=
-=
-# s
-[—
-—
-_—
-—
-——
-—
-# Way of
-# Working
-# Work
-Figure 8.8 The current states for all alphas have been identiﬁed.
-() | =] | = ‘ ;.
-|
-8.3
 # Objective Go
 The Objective Go game is played to agree upon where you need to go next. To know where to go next, you of course need to know where you are. This game is played after you have assessed the current states of all the alphas. Thus, it is usually played after you have played the Chasing the State game. Let us therefore take the start position for the game as in Figure 8.8. In this position, the team asks the question “Which is the next step we should take to progress the endeavor?” or, in other words, “What are the next set of alpha states we should achieve?” The team may decide that their objective is to move to the next state for all seven alphas, or they may decide that the next step should be to focus on just one or a few of the alphas to progress to the their next states.
 An experienced team would not deal with one alpha at a time but instead take a holistic view and agree on which alphas to progress next. It would be a mistake to think that alphas progress independently of each other. In fact, we have learned through experience that the alphas often progress in “waves” that cross multiple alphas. A simple example is that the Requirements alpha cannot be progressed
@@ -2089,37 +1023,6 @@ Objective is to get here next
 Figure 8.10 The Software System alpha—where the team is and where they need to go next.
 Figure 8.11 Team agrees that demonstration to a key stakeholder is needed.
 ## 8.4 Checkpoint Construction
-111
-# Stakeholders
-# Opportunity
-# Requirements
-# Software
-# System
-# Team
-# Way of
-# Working
-# Work
-=
-# o
-T—
-# o
-# =n
-—
-1-
-=
-# B
-e ——
-# e
-T—
-# E
-T—
-T—
-—
-| =3 ]
-=1
-Some of our goals for the next step
-Figure 8.12 The next step is represented by the cards in the middle of the table.
-8.4
 # Checkpoint Construction
 Usually, organizations have deﬁned lifecycles that consist of phases separated by checkpoints. Checkpoints are intentionally independent of the practices a team agrees to use, because one of their main purposes is to assess the endeavor from different viewpoints such as value, funding, and readiness. In this sense, check- points can be viewed as critical points in the lifecycle of an endeavor where the deﬁnition of “done” for the phases needs to be speciﬁed. At each checkpoint, a de- cision is made whether to proceed to the next phase or not. A checkpoint can be deﬁned using alpha states, as we have shown in Section 6.5.2.
 Since an endeavor can have many teams working in parallel, to synchronize between the teams, they usually all need to have the same checkpoints. Thus, the checkpoints for an endeavor are normally speciﬁed by the stakeholders of the whole endeavor and not by every team participating in the endeavor. Therefore, this game is played by the stakeholder team, or a few of the key stakeholders. In this section,
@@ -2131,9 +1034,7 @@ In the ﬁrst round, each team member considers each of the seven alphas and dec
 Now, the second round is played. The facilitator lays out all of the alpha state cards horizontally across the table for all of the selected alphas to be considered for the checkpoint. Each player considers the set of states for each alpha and, without informing the other players, he/she identiﬁes the state he/she believes the alpha needs to be in to pass the checkpoint. When everyone is ready, each of the players simultaneously raise a hand with the number of ﬁngers indicating the state he/she believes the alpha needs to be in to pass the checkpoint. A closed ﬁst is used to indicate the sixth state. If all players have selected the same state, there is consensus. If not, the players with the least and most advanced states explain their reasoning. After discussion, the players again simultaneously raise their hands, indicating the states they have selected. This step is continued until consensus is reached.
 Once the state is agreed on, the facilitator leads the group through a discussion of potential additional checklist items to be added for this checkpoint. In this way, the generic checklist items on the cards can be tailored to the context of the speciﬁc endeavor.
 ## 8.5 Reﬂection
-113
 Figure 8.13 Results of team playing ﬁrst round of Checkpoint Construction game.
-8.5
 We have now showed how Essence can be utilized to help deﬁne a checkpoint. By applying the Checkpoint Construction game several times, a whole lifecycle (such as the one in Section 6.5.2) can be deﬁned.
 # Reflection
 What we as authors have found is that serious games using Essence can provide effective facilitation techniques. Ideas are never absent when knowledgeable work- ers come together. Cards provide a good avenue to bring these ideas to reality very quickly. They engage all members of the team, not just the most vocal or the most experienced or competent. The fact that the states and their checkpoints are not unambiguous is not just negative; it results in engaging discussions, which help the team think about issues that might not occur to them from just their own per- sonal experiences. They need to agree what those issues mean to their endeavor. Ultimately, this helps the team address issues and risks early, before they become major problems. This not only helps keep the endeavor on a healthy course, but also helps team members learn to collaborate effectively, as well as bringing the team together.
@@ -2148,7 +1049,7 @@ explain how the cards can be used to gain a shared understanding within a team;
 explain the four introduced card games (Progress Poker, Chasing the State, Objective Go, and Checkpoint Construction), together with the issues they help to solve and examples of their usage; and
 .
 explain the key concepts of the software engineering process important for the card games, such as the state change, checkpoints, and typical lifecycle phases.
-# PART
+# PART 2
 # DEVELOPING SOFTWARE WITH ESSENCE
 The goal of this part of the book is to demonstrate how Essence can help a team run a relatively simple software development endeavor under these circumstances:
 . The requirements and consequently the related software system are relatively simple.
@@ -2198,33 +1099,7 @@ Software development is really a problem-solving endeavor. Problems can exist in
 Like all problem solving, everything begins with understanding the problem, which may include multiple related problems, each found in the different dimen- sions of software engineering. Examples of these dimensions include stakeholders, requirements, the software system, and the team. You have to understand the re- quirements for the software system, but you also have to understand the needs of the stakeholders. Essence helps you interpret your context by showing where your problems are in each of these dimensions of software engineering. For example, the alphas help lead us to ask questions about the development endeavor, and they help us collect useful information pertaining to each alpha.
 We consider the needs of the development team that has been assigned to an endeavor within the company TravelEssence. As you recall, TravelEssence is a
 ## 9.1 Understand the Context Through the Lens of Essence
-119
-# O
-# Stakeholders
-# Angela
-# from Digital
-# Travsformation Group
-ORequirements Reconunendations bqwd/owtrmeb
-# history
-# O Opportunity
-# Frequent travelers
-are potential
-# repeat customers
-0
-# Software system
-Mobile app plug-in
-# and microservices
-# O Work
-Working demo
-# in 4 weeks
-# O
-# Team
-Smith, Tom, Joel,
-# and Grace
-C]
-Way of working
-# Vanilla
-# Essence
+# Vanilla Essence
 Figure 9.1 Understand context with Essence.
 leading travel service provider that targets both leisure and business travelers, as discussed in Part I.
 Smith and his very small team came together and started capturing what they knew about the endeavor using some sticky notes and the Essence alphas; the result can be seen in Figure 9.1. (The text on the notes in the ﬁgure is only a sample, intended to help you get a sense of the kind of information associated with each alpha. Some of the information in the next sections has been used in previous chapters, but here it is grouped all together to form a complete picture of the endeavor Smith and his team were assigned.)
@@ -2241,21 +1116,6 @@ Work. Smith and his team were asked by management to deliver a working demo of t
 Team. Smith’s development team comprised himself and three other develop- ers, namely Tom, Joel, and Grace, all of whom were familiar with mobile app development. Tom and Joel had used microservices before, but this technol- ogy was new to Grace.
 Way of Working. Smith and his team would use the facilities of the Essence kernel as a convenient way to evaluate their endeavor’s progress and health. The practices in their way of working were not explicitly described. They would use the alphas, states, and checklists of the kernel to help them ﬁgure out where their problems were and where they would need to focus
 ## 9.1 Understand the Context Through the Lens of Essence
-# Recommendation
-# enhancement
-to mobile app
-# l
-# enhances
-# Recommendation
-# enhancement
-to cloud service
-# enhances
-# Existing
-# mobile
-# app
-111
-# Existing
-# cloud service
 Figure 9.2 Enhancement to the Software System to achieve recommendations.
 their attention as their endeavor evolved. They would also use the kernel to help them decide about the activities they needed to conduct to help solve the problems they identiﬁed. The team referred to this as “vanilla” Essence because it included no explicit practices as extensions to the kernel. They just used the alphas, states, and checklist items to help their team initiate discussions leading to the actions agreed upon for each of the team members.
 The team had initial experience using the games as described earlier. This helped to gain an overview of the requirements, endeavor, etc. Their plan was to learn more about Essence and the games, using common sense and experience to guide them. In this way they would evolve their understanding of the different ways to use both the games and the kernel alphas. Below we will describe a few examples of what resulted from this approach. For example, we will describe how the team decided to add some additional alphas, referred to as “subordinate” alphas or sub- alphas for brevity. As another example, we will also describe how the team applied a number of the games previously discussed to help them run their endeavor and conduct progress assessments. Later, in Part III you will learn a different way to use the kernel when we discuss how the team extended it beyond the games and the sub-alphas when the scope of their endeavor became more complex.
@@ -2266,47 +1126,7 @@ The states of the Essence kernel alphas, together with each state’s checklists
 Smith started the game by laying out on a table the state cards for all seven alphas. Smith then said to his team, “We need to deﬁne two key checkpoints, which we will name ‘Ready for Development’ and ‘Development is Complete’.” (See Figure 9.3.)
 Smith continued, saying, “Let’s start by selecting the alphas that need to be inspected at our ‘Ready for Development’ checkpoint. Then we need to conduct a second round where we agree on the states of each of these alphas that need to be reached to say we have achieved this checkpoint. This checkpoint must be reached before we can formally start the development.” (See Figure 9.4.)
 After all the team members had considered all the alphas and noted to them- selves which alphas they thought should be included, Smith said, “OK, let’s start with the Requirements alpha. Using a thumbs-up, or thumbs-down, who thinks this alpha should be included in our ‘Ready for Development’ checkpoint?” After the team members all voted and reached agreement, Smith proceeded to lead the team through the voting for the other six alphas. As you can see in Figure 9.4, the team members agreed that all seven alphas should be included in their ‘Ready for Development’ checkpoint.
-Smith then led the team through the second round, where each team member voted on their choice for which state of each alpha needed to be achieved to meet their ‘Ready for Development’ checkpoint. During the second round, Grace disagreed with her teammates, who all felt the Work alpha only needed to achieve the Initiated state. Grace said, “I cannot start my tasks until the funding is approved, and that checklist is in the Work alpha Prepared state.” Tom quickly replied, “We
-# Checkpoint
-# Ready for
-# development
-# Development
-is complete
-# Phase
-# Pre-development
-# Development
-# Post-development
-# Figure 9.3 Checkpoints and phases for enhancement of TravelEssence.
-## 9.2 Agreeing on the Development Scope and Checkpoints
-123
-# Ready for
-# Development
-# development
-is complete
-S—
-—
-# Stakeholders
-# Opportunity
-— J—~
-# Requirements
-—
-=
-# x| I —
-# Software
-# System
-# Team
-—ee———
-# T
-E——
-=3
-—
-# Way of
-# Working
-———— T ———
-=
-=
-# Work
-| ——
+Smith then led the team through the second round, where each team member voted on their choice for which state of each alpha needed to be achieved to meet their ‘Ready for Development’ checkpoint. During the second round, Grace disagreed with her teammates, who all felt the Work alpha only needed to achieve the Initiated state. Grace said, “I cannot start my tasks until the funding is approved, and that checklist is in the Work alpha Prepared state.”
 # Figure 9.4 Deﬁning the two key checkpoints using alpha state cards.
 can’t wait for formal management funding approval because the schedule is too aggressive and our organizational approval process is way too slow.” Smith then responded, “Yes, Tom, you are right, but Grace has a very important point. We can’t work without funding approval. So I will go and talk to Grace’s manager and explain the situation. I am sure we can get approval to start while we wait for formal funding approval.” Everyone agreed with Smith’s approach to solve this dilemma.
 As shown in the ﬁgure, the team agreed that they needed to get the key Stake- holders Involved, and they needed to establish the value of the Opportunity and show that it was Viable. They also needed to agree that the Requirements were Bounded and that Software System had reached Architecture Selected so that the key technical risks had been addressed. They then agreed that the Work had to be Initiated, the Team Formed, and they had to agree that their Way of Working had reached the Foundation Established state. After the states were covered, the team discussed the checklists associated with each state and reached agreement on any additional checklist items they thought should be included. Once this dis- cussion concluded, Smith next led the team through a similar process to deﬁne the
@@ -2333,10 +1153,6 @@ Figure 9.6 Requirement item list for the enhancement of TravelExchange.
 also needed to agree on the work that needed to be done to achieve the other ﬁve kernel alpha states for that checkpoint—Stakeholders: Involved; Opportunity: Viable; Software System: Architecture Selected; Work: Initiated; Team: Formed; and Way of Working: Foundation Established. This is an example of what we mean by describing software engineering as multidimensional, and what we mean by stating that Essence helps the team stay focused on the most important things throughout their endeavor. In Chapter 10 we discuss how the team reached agreement on additional needed work.
 # What Should You Now Be Able to Accomplish?
 After studying this chapter, you should be able to
-.
-.
-.
-.
 explain the steps involved when getting started with Essence (i.e., under- standing the context, agreeing on scope and checkpoints, and agreeing on the things to watch);
 explain how to use Essence’s areas of concern to understand the context of the problem or opportunity an endeavor addresses;
 for a sample endeavor, name the related stakeholders, the opportunity, re- quirements, software system, work, team, way of working; and
@@ -2360,22 +1176,16 @@ Look for more suitable
 ways to work
 Improve quality of work
 Reduce waste
-# Adapt
+Adapt
 Determine the current state
 Determine the next state
-Determine how to achieve
-# the next state
-# Plan
-# Check
+Determine how to achieve the next state
+Plan
+Check
 Track the work
 Check that work is indeed
 done
 # Figure 10.1 Plan-Do-Check-Adapt cycle.
-# Do
-Work toward achieving
-# the next state
-Remove obstacles as they
-# occur
 The length of an iteration is typically two to four weeks and can involve all kinds of activities, including requirements gathering and the deployment of the resultant software system.
 Developing your software iteratively is like taking a journey in your car. You need to know where you are, where you are heading, how much fuel you have, and how much further you have to go before reaching your destination. You adapt to the road conditions, trafﬁc, and weather as you drive. You are continuously planning, doing, checking, and adapting1 (see Figure 10.1). This is how Smith and his team ran their iterations. Each iteration was set to be one week in duration.
 Plan. First, Smith’s team would ascertain the current state of the whole endeavor by determining the current state of each of the alphas. Before their ﬁrst weekly iteration, they decided to start by playing the Progress Poker game (Section 8.1). But after having done it for the ﬁrst two alphas they continued to play the Chase the State (Section 8.2) game for the other ﬁve alphas. So Smith began by placing the ﬁrst Alpha Overview card in his deck in the middle of the table. Each team member thought about which state they believed that the Requirements alpha was in and then placed the selected state card face down on the table. When everyone was ready, they turned the cards face up. After the team discussed the results and reached agreement on the state of the Requirements alpha, the team members
@@ -2399,11 +1209,11 @@ iteration, so they concurred to work on just the ﬁrst three (for the four requ
 Do. Each iteration, Smith’s team worked on the identiﬁed tasks to progress the endeavor as a whole toward the target states. This involved setting up environments, discussing requirements, capturing agreements, writing code, testing, and so on; see Figure 10.4.
 Check. Smith’s team tracked the objectives and tasks to make sure that they were completing what they had planned as they used their agreed-on way of working. The team discussed the healthiness of all alphas; unhealthy meant the alpha had a checklist that had not yet been met but should have been met, or that the checklist had previously been met, but was no longer met due to some change in the condi- tion of their endeavor. The team placed green stickers next to the alpha state cards they had agreed represented healthy alphas. They also agreed that anyone could
 ## 132 Chapter 10 Developing with Essence
-• Set up environment
-• Discuss requirements
-• Capture agreements
-# Write code
-• Test code
+- Set up environment
+- Discuss requirements
+- Capture agreements
+- Write code
+- Test code
 Etc.
 # Figure 10.4 Task list.
 place a red sticker next to a card if they felt during the iteration that an alpha had become unhealthy.
@@ -2416,14 +1226,6 @@ Sometimes we have more than one target state for a given alpha. This is because 
 ## 10.1 Planning with Essence
 # Q Stakeholders
 O Stakeholder groups identified O Key stakeholder groups represented O Responsibilities defined
-# Q Stakeholders
-# Involved
-0O Representatives assist the team 0O Timely feedback and decisions provided O Changes promptly communicated
-112
-112
-# Current state
-Figure 10.5 Stakeholders current and target states.
-~
 # Target state
 As we established in Chapter 6, the alphas fall into three areas of concern: Customer (indicated by green cards and notes), Solution (indicated by yellow cards and notes), and Endeavor (indicated by blue cards and notes). We will look at the planning in these terms; ﬁrst we will consider it from the perspective of the Customer area of concern, comprising the Stakeholders and Opportunity alphas.
 # Stakeholders: Recognized → Involved (see Figure 10.5).
@@ -2432,25 +1234,6 @@ The team had identiﬁed two of their key stakeholders as Dave and Angela, and t
 # Opportunity: Solution Needed → Value Established (see Figure 10.6).
 A solution was needed to exploit the travelers’ data, but what the solution required was still up in the air. The value of that solution still needed to be established to convince senior management at TravelEssence to move forward and fund the effort. The team’s immediate priority was to set up a test environment where they could quickly experiment with different ideas for using the travelers’ existing data
 ## 134 Chapter 10 Developing with Essence
-# O Opportunity
-# O Opportunity
-# O Solution identified
-O Stakeholders' needs established
-# O Problems and root causes
-identified
-O Need for a solution confirmed
-O At least one solution proposed
-0 Opportunity value quantified O Solution impact understood 0 System value understood O Success criteria clear
-0 Outcomes clear and quantified
-2/6
-112
-©
-
-112
-# v
-# Current state
-Figure 10.6 Opportunity current and target states.
-# v
 # Target state
 to generate more traveler interest, leading to increased revenue. This could help them quantify the value of the new system to Dave and Angela.
 (Task: Experiment with different ideas to increase business.)

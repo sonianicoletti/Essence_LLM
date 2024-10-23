@@ -1,8 +1,10 @@
 # AGILE Retrospective
 
-Use this practice to gather insight into a period of activity or event, and to generate actions for improvement.
+Use the Agile Retrospective practice to gather insight into a period of activity or event, and to generate actions for improvement.
 
 It includes basic instructions on the performance of retrospectives and a catalogue or useful techniques that can be use to keep the retrospectives focused, productive and entertaining.
+
+This documents contains 
 
 ## Contents
 
@@ -147,6 +149,8 @@ Are the team members committed to taking action?
 
 # Five Whys (Pattern)
 
+A (serious) game to play during retrospectives.
+
 Source: Agile Retrospectives
 Ester Darby
 Tags: ???
@@ -161,7 +165,7 @@ Insight Generation Technique
 - Whiteboard or flip chart
 - Sticky notes
 
-## Basic instructions:
+## Basic instructions of the Five Whys:
 1. Facilitator selects issue for discussion
 2. Facilitator generates discussion by asking why issue has occurred
 3. Discussion continues with multiple rounds of why, why, why questioning until root cause is identified or until group knowledge has been exhausted
@@ -190,6 +194,8 @@ A simple technique that enables a team to quickly generate insights.
 
 # MAD, SAD, GLAD (Pattern)
 
+A (serious) game to play during retrospectives.
+
 Source: Agile Retrospectives
 Ester Darby
 Tags: ???
@@ -203,7 +209,7 @@ Data Gathering Technique
 ## Equipment:
 - Sticky Notes
 
-## Basic instructions:
+## Basic instructions of Mad Sad Glad:
 1. Facilitator asks group to each write down on sticky notes at least 1 or 2 issues that made them feel GLAD, MAD, and SAD during the previous Sprint
 2. Facilitator create headings for MAD, SAD, GLAD on whiteboard
 3. Team members place sticky notes under appropriate area
@@ -233,6 +239,8 @@ A simple technique that enables a team to quickly gather data about potential is
 
 # Where are we? (Pattern)
 
+A (serious) game to play during retrospectives.
+
 Source: Agile Retrospective
 Tags: Serious Games
 Workshop Techniques
@@ -245,7 +253,7 @@ Workshop Techniques
 - Alpha State Cards
 - Large, flat work area
 
-## Basic instructions:
+## Basic instructions of Where are we?:
 1. Lay out the cards for each Alpha in a row on the table with the first state on the left and the final state on the right
 2. Starting with the first state of the first Alpha, walkthrough the checklist and ask if the state has been achieved.
 3. If the state has been achieved move the card to the left. Continue until you reach a state that the team has not yet achieved, or you run out of states.
@@ -280,6 +288,8 @@ A SEMAT game that helps a team to understand where they are and contrast this wi
 
 # The 4L’s: Liked, Learned, Lacked, Longed For (Pattern)
 
+A (serious) game to play during retrospectives.
+
 Source: Agile Retrospective
 Tags: Serious Games
 Workshop Techniques
@@ -293,7 +303,7 @@ Workshop Techniques
 - Post-it notes
 - Pens
 
-## Basic instructions:
+## Basic instructions of the 4L's:
 1. Hang an appropriately titled poster for each L on the walls of the room.
 2. Ask the participants to write down the things they Liked, Learned, Lacked and Longed For and stick then on the appropriate poster. Allow 3 – 4 minutes.
 3. Assign participants to groups – 1per poster – to red and group the notes.

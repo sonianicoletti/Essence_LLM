@@ -4,7 +4,9 @@ from langchain_community.document_loaders import UnstructuredMarkdownLoader
 from langchain_community.vectorstores import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-CHUNK_SIZE = 4500
+# 1 token = +-4 characters
+# 100 token = 70 English words
+CHUNK_SIZE = 2000
 CHUNK_OVERLAP = 100
 
 # Define the embedding function (using a pre-trained model)
