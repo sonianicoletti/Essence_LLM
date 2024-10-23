@@ -1,0 +1,8 @@
+What is Essence?
+What are the states of the Work alpha?
+What is mad sad glad?
+What are the steps of progress poker?
+Explain retrospectives using Essence terms
+What practices do you recommend to a group of students who has to make a mobile game for a university project?
+What best practices should we adopt to make our CI pipeline more reliable?
+What's the difference between user stories and use cases? Explain it in Essence terms

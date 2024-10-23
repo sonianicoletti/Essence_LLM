@@ -41,18 +41,19 @@ async function sendMessage() {
             throw new Error('Failed to fetch response from the backend');
         }
 
-        const data = await response.json();
-
-        // Check if the response from the server is undefined
-        if (!data.response) {
-            throw new Error('Response from the backend is undefined');
-        }
+        // Get the plain text response from the server
+        const responseText = await response.text();
 
         // Remove the loading indicator
         chatbox.removeChild(loadingIndicator);
 
+        // Check if the response is empty or undefined
+        if (!responseText) {
+            throw new Error('Response from the backend is undefined');
+        }
+
         // Use `marked` to parse the markdown and convert it to HTML
-        const markdownResponse = marked.parse(data.response);
+        let markdownResponse = marked.parse(responseText);
 
         // Display bot message in chatbox on the left with parsed HTML
         chatbox.innerHTML += `<div class="message bot-message">${markdownResponse}</div>`;
@@ -72,7 +73,6 @@ async function sendMessage() {
         sendButton.classList.remove('disabled');
     }
 }
-
 
 // Detect 'Enter' key press and send message
 const inputField = document.getElementById('user-input');
