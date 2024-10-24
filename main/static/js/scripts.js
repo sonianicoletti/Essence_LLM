@@ -87,3 +87,11 @@ inputField.addEventListener('keypress', function(event) {
         sendMessage();
     }
 });
+
+// Limit input field to 1000 characters
+inputField.addEventListener('input', function() {
+    const maxLength = 1000;
+    if (inputField.value.length > maxLength) {
+        inputField.value = inputField.value.slice(0, maxLength);  // Trim input to 1000 characters
+    }
+});
