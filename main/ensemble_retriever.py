@@ -7,6 +7,8 @@ from langchain.schema import Document
 from langchain.text_splitter import MarkdownHeaderTextSplitter
 
 EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+K_1 = 2 # bm25
+K_2 = 2 # chroma
 
 markdown_folder_path = "../data/markdown/"
 markdown_documents = []
@@ -30,21 +32,23 @@ for document in markdown_documents:
 page_content_list = [doc.page_content for doc in md_header_splits]
 
 bm25_retriever = BM25Retriever.from_texts(page_content_list)
-bm25_retriever.k = 2
+bm25_retriever.k = K_1
 
 embedding_function = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME, model_kwargs={'device': 'cpu'})
 chroma_vectorstore = Chroma.from_documents(md_header_splits, embedding_function)
-chroma_retriever = chroma_vectorstore.as_retriever(search_kwargs={"k": 2})
+chroma_retriever = chroma_vectorstore.as_retriever(search_kwargs={"k": K_2})
 
 ensemble_retriever = EnsembleRetriever(
     retrievers=[bm25_retriever, chroma_retriever], weights=[0.5, 0.5]
 )
 
+print(f"Number of embeddings: {len(md_header_splits)}")
+
 def get_relevant_context_from_db(query):
     context = ""
     search_results = ensemble_retriever.invoke(query)
     for i, result in enumerate(search_results, 1): 
-        # print(f"\n********************* CONTEXT #{i}: *********************\n{result.page_content}")
+        print(f"\n********************* CONTEXT #{i}: *********************\n{result.page_content}")
         context += result.page_content + "\n"
     
     return context

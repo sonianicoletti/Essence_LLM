@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-from groq import Groq
+from groq import Groq # Documentation: https://console.groq.com/docs/models
 from ensemble_retriever import get_relevant_context_from_db
 
 load_dotenv()
@@ -9,7 +9,7 @@ GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 # MODEL_NAME = "llama3-70b-8192" # Limit: 6000 tokens per request
 MODEL_NAME = "llama-3.1-70b-versatile" # Limit: 18k tokens per chat
 MAX_TOKENS = 1000
-TEMPERATURE = 1.2
+TEMPERATURE = 0.7 # range: 0-2
 
 client = Groq(
     api_key=GROQ_API_KEY,
