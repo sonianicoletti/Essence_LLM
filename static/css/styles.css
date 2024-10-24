@@ -100,7 +100,16 @@ a {
 }
 
 .bot-message p {
-    margin: 0;
+    margin: 0 0 10px 0;
+}
+
+.bot-message p + ol,
+.bot-message p + ul {
+    margin-bottom: 0;
+}
+
+ol, ul {
+    margin-bottom: 10px !important;
 }
 
 /* Error message styling for bot response */
