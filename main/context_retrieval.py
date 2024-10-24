@@ -10,9 +10,8 @@ def get_relevant_context_from_db(query):
     embedding_function = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME, model_kwargs={'device': 'cpu'})
     vector_db = Chroma(persist_directory="./chroma_db", embedding_function=embedding_function)
     search_results = vector_db.similarity_search(query, k=K)
-    
-    # Use enumerate to include index in the loop
-    for i, result in enumerate(search_results, 1):  # Start indexing at 1
+
+    for i, result in enumerate(search_results, 1):
         # print(f"\n********************* CONTEXT #{i}: *********************\n{result.page_content}")
         context += result.page_content + "\n"
     

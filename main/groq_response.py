@@ -1,7 +1,8 @@
 import os
 from dotenv import load_dotenv
 from groq import Groq
-from context_retrieval import generate_rag_prompt, get_relevant_context_from_db
+#from context_retrieval import get_relevant_context_from_db
+from ensemble_retriever import get_relevant_context_from_db
 
 load_dotenv()
 

@@ -1,8 +1,7 @@
 import os
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_community.document_loaders import UnstructuredMarkdownLoader
 from langchain_community.vectorstores import Chroma
-from langchain.text_splitter import RecursiveCharacterTextSplitter, MarkdownHeaderTextSplitter
+from langchain.text_splitter import MarkdownHeaderTextSplitter
 
 # 1 token = +-4 characters
 # 100 token = 70 English words
@@ -44,12 +43,12 @@ for document in markdown_documents:
     md_header_splits.extend(splits)
 
 # Create a Chroma DB instance from the split documents
-#db = Chroma.from_documents(md_header_splits, embedding_function, persist_directory="./chroma_db")
+db = Chroma.from_documents(md_header_splits, embedding_function, persist_directory="./chroma_db")
 
 print(f"Number of processed documents into ChromaDB: {len(markdown_documents)}")
-#print(f"Number of embeddings: {db._collection.count()}")
+print(f"Number of embeddings: {db._collection.count()}")
 
-split_sizes = [len(split.page_content) for split in md_header_splits]
+""" split_sizes = [len(split.page_content) for split in md_header_splits]
 
 if split_sizes:
     smallest_size = min(split_sizes)
@@ -69,4 +68,4 @@ if split_sizes:
         if size > 8000:
             print(f"Split Document {idx + 1} (Size: {size} characters):\n{split.page_content}\n")
 else:
-    print("No splits were created.")
+    print("No splits were created.") """
