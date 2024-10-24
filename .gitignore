@@ -5,3 +5,5 @@ __pycache__/
 *.pyd
 .DS_Store
 chroma_db
+data/json
+data/original
