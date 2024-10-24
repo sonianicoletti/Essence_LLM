@@ -10,7 +10,7 @@ EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 K_1 = 2 # bm25
 K_2 = 2 # chroma
 
-markdown_folder_path = "../data/markdown/"
+markdown_folder_path = "./data/markdown/"
 markdown_documents = []
 
 def load_markdown_files(folder_path):
