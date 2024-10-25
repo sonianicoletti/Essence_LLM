@@ -6,6 +6,8 @@ from langchain_community.retrievers import BM25Retriever
 from langchain.schema import Document
 from langchain.text_splitter import MarkdownHeaderTextSplitter
 
+# 1 token = +-4 characters
+# 100 token = 70 English words
 EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 K_1 = 2 # bm25
 K_2 = 2 # chroma
