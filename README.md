@@ -55,6 +55,12 @@ These documents provide information about different software engineering methods
 - Retrospective_practice.md
 - Scrum_powered_by_Essence.md
 - Use_cases_user_stories.md
+- Se_intro.md
+- Se_scrum.md
+- Se_retrospective.md
+- Se_conclusion.md
+- Retro_Scrum_cards.md
+- Agile_Essence_cards.md
 
 ### Documents about Essence games
 These documents contain instructions to play different Essence games.
