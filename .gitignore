@@ -7,3 +7,4 @@ __pycache__/
 chroma_db
 data/json
 data/original
+.venv

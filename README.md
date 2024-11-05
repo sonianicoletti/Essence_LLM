@@ -6,18 +6,33 @@ Essence Coach is a helpful and informative bot assistant that answers questions 
 
 Clone or download the code from this repository.
 
-Make sure you have [Python](https://www.python.org/downloads/) and pip installed.
+Make sure you have [Python 3.12.7](https://www.python.org/downloads/release/python-3127/) installed.
 You can check that by running the following commands:
 ```bash
 python --version
 ```
+
+Next, you may want to create a Python virtual environment to install the required packages.
+
+To do so, run the following command inside the root directory:
 ```bash
-pip --version
+python -m venv .venv
 ```
-Run this command in the terminal to install the required packages.
+
+Then, to activate run this command on macOS/Linux:
+```bash
+source .venv/bin/activate
+```
+On Windows:
+```bash
+.venv\Scripts\activate
+```
+
+Run this command in the terminal to install the required packages. This may take a few minutes.
 ```bash
 pip install -r requirements.txt
 ```
+
 Create an ```.env``` file in the root directory with your ```GROQ_API_KEY```. You can get one [here](https://console.groq.com/login).
 Follow this format:
 ```
@@ -26,7 +41,7 @@ GROQ_API_KEY="xxxxx"
 
 ## Run the app
 
-Inside the project's folder, run this command to execute the app.
+Inside the root directory, run this command to execute the app.
 
 ```bash
 python app.py
