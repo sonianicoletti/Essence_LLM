@@ -215,7 +215,7 @@ Data Gathering Technique
 1. Facilitator asks group to each write down on sticky notes at least 1 or 2 issues that made them feel GLAD, MAD, and SAD during the previous Sprint
 2. Facilitator create headings for MAD, SAD, GLAD on whiteboard
 3. Team members place sticky notes under appropriate area
-4. Facilitator clusters common sticky notes5.Facilitator asked group to name each cluster
+4. Facilitator clusters common sticky notes. Facilitator asked group to name each cluster
 6. Group agrees on top 2-3 areas for further discussion/insight generation
 
 ## Description:

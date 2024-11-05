@@ -41,7 +41,7 @@ The following documents are included in the retrieval database.
 
 ### General documents about the Essence Kernel and Language
 These documents contain information about Essence in general, its language and its kernel.
-- Alpha_state_cards.md
+- Kernel_cards.md
 - Essence_Explained.md
 - Essence_in_a_nutshell.md
 - Essence_Kernel.md

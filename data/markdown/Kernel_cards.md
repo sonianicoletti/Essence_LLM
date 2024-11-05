@@ -255,3 +255,202 @@ Title: Way of Working State 6
 State: Retired
 Description: The way of working is no longer in use by the team.
 Checklist: No longer in use, Lessons learned shared
+
+# Essence Kernel Competencies cards
+
+These are the competencies that are defined by the Essence Kernel. They should apply to all software projects.
+
+Title: Stakeholder Representation
+Description: The ability to gather, communicate and balance the needs of other stakeholders, and accurately represent their views.
+
+Title: Analysis
+Description: The ability to understand opportunities and their related stakeholder needs, and transform them into an agreed and consistent set of requirements.
+
+Title: Development
+Description: The ability to design and program effective software systems following the standards and norms agreed by the team.
+
+Title: Testing
+Description: The ability to test a system, verifying that it is usable and that it meets the requirements.
+
+Title: Leadership
+Description: The ability to inspire and motivate a group of people to achieve a successful conclusion to their work and to meet their objectives.
+
+Title: Management
+Description: The ability to coordinate, plan and track the work done by a team.
+
+Every competency has five levels:
+1. assists
+2. applies
+3. masters
+4. adapts
+5. innovates
+
+# Essence Kernel Activity Spaces cards
+
+The Kernel Activity Spaces contain the activities specific to a cartain practice.
+
+For each area of concern they are in a sequential order.
+
+The Kernl Activity Spaces are:
+- Explore Possibilities: Explore the possibilities presented by the creation of a new or improved software system. This includes the analysis of the opportunity to be addressed and the identification of the stakeholders.
+- Understand Stakeholder needs: Engage with the stakeholders to understand their needs and ensure that the right results are produced. This includes identifying and working with the stakeholder representatives to progress the opportunity.
+- Ensure stakeholder satisfaction: Share the results of the development work with the stakeholders to gain their acceptance of the system produced and verify that the opportunity has been successfully addressed.
+- Use the system: Observe the use of the system in an operational environment and how it benefits the stakeholders.
+- Understand the Requirements: Establish a shared understanding of what the system to be produced must do.
+- Shape the system: Shape the system so that it is easy to develop, change and maintain, and can cope with current and expected future demands. This includes the overall design and architecting of the system to be produced.
+- Implement the system: Build a system by implementing, testing and integrating one or more system elements. This includes bug fixing and unit testing.
+- Test the system: Verify that the system produced meets the stakeholders’ requirements.
+- Deploy the system: Take the tested system and make it available for use outside the development team.
+- Operate the system: Support the use of the software system in the live environment.
+- Prepare to do the work: Set up the team and its working environment. Understand and commit to completing the work.
+- Coordinate activity: Co-ordinate and direct the team’s work. This includes all ongoing planning and re-planning of the work, and adding any additional resources needed to complete the formation of the team.
+- Support the team: Help the team members to help themselves, collaborate and improve their way of working.
+- Track the progress: Measure and assess the progress made by the team.
+- Stop the work: Shutdown the software engineering endeavor and handover the team’s responsibilities.
+
+# Essence Kernel Activity Space cards in the Customer Area of Concern
+
+Title: Explore Possibilities
+Description: Explore the possibilities presented by the creation of a new or improved software system. This includes the analysis of the opportunity to be addressed and the identification of the stakeholders.
+Achieves:
+- Stakeholders: Recognized
+- Opportunity: Identified
+- Opportunity: Solution Needed
+- Opportunity: Value Established
+
+Title: Understand Stakeholder Needs
+Description: Engage with the stakeholders to understand their needs and ensure that the right results are produced. This includes identifying and working with the stakeholder representatives to progress the opportunity.
+Before starting: 
+- Stakeholders: Recognized
+- Opportunity: Value Established
+Achieves: 
+- Stakeholders: Represented
+- Stakeholders: Involved
+- Stakeholders: In Agreement
+- Opportunity: Viable
+
+Title: Ensure Stakeholder Satisfaction
+Description: Share the results of the development work with the stakeholders to gain their acceptance of the system produced and verify that the opportunity has been successfully addressed.
+Before starting:
+- Stakeholders: In Agreement
+- Opportunity: Value Established
+Achieves:
+- Stakeholders: Satisfied for Deployment
+- Opportunity: Addressed
+
+Title: Use the System
+Description: Observe the use of the system in an operational environment and how it benefits the stakeholders.
+Before starting: 
+- Stakeholders: Satisfied for Deployment
+- Opportunity: Addressed
+Achieves:
+- Stakeholders: Satisfied in Use
+- Opportunity: Benefit Accrued
+
+# Essence Kernel Activity Space cards in the Solution Area of Concern: first three (Understand the Requirements, Shape the System, Implement the System)
+
+Title: Understand the Requirements
+Description: Establish a shared understanding of what the system to be produced must do.
+Achieves:
+- Requirements: Conceived
+- Requirements: Bounded
+- Requirements: Coherent
+
+Title: Shape the System
+Description: Shape the system so that it is easy to develop, change and maintain, and can cope with current and expected future demands. This includes the overall design and architecting of the system to be produced.
+Before starting:
+- Requirements: Coherent
+Achieves:
+- Requirements: Acceptable
+- Software System: Architecture Selected
+
+Title: Implement the System
+Description: Build a system by implementing, testing and integrating one or more system elements. This includes bug fixing and unit testing.
+Before starting:
+- Software System: Architecture Selected
+Achieves:
+- Software System: Demonstrable
+- Software System: Usable
+- Software System: Ready
+
+# Essence Kernel Activity Space cards in the Solution Area of Concern: last three (Test the System, Deploy the System, Operate the System)
+
+Title: Test the System
+Description: Verify that the system produced meets the stakeholders’ requirements.
+Before starting:
+- Requirements: Acceptable
+- Software System: Architecture Selected
+Achieves:
+- Requirements: Addressed
+- Requirements: Fulfilled
+- Software System: Demonstrable
+- Software System: Usable
+- Software System: Ready
+
+Title: Deploy the System
+Description: Take the tested system and make it available for use outside the development team.
+Before starting:
+- Software System: Ready
+Achieves:
+- Software System: Operational
+
+Title: Operate the System
+Description: Support the use of the software system in the live environment.
+Before starting:
+- Software System: Ready
+Achieves:
+- Software System: Retired
+
+# Essence Kernel Activity Space cards in the Endeavor Area of Concern
+
+Title: Prepare to do the work
+Description: Set up the team and its working environment. Understand and commit to completing the work.
+Achieves:
+- Team: Seeded
+- Work: Initiated
+- Work: Prepared
+- Way of Working: Principles Established
+- Way of Working: Foundation Established
+
+Title: Coordinate Activity
+Description: Co-ordinate and direct the team’s work. This includes all ongoing planning and re-planning of the work, and adding any additional resources needed to complete the formation of the team.
+Before starting:
+- Team: Seeded
+- Work: Prepared
+Achieves:
+- Team: Formed
+- Work: Started
+- Work: Under Control
+
+Title: Support the team
+Description: Help the team members to help themselves, collaborate and improve their way of working.
+Before starting:
+- Team: Formed
+- Way of Working: Foundation Established
+Achieves:
+- Team: Collaborating
+- Way of Working: In Use
+- Way of Working: In Place
+
+Title: Track Progress
+Description: Measure and assess the progress made by the team.
+Before starting:
+- Team: Collaborating
+- Work: Started
+- Way of Working: In Place
+Achieves:
+- Team: Performing
+- Work: Under Control
+- Work: Concluded
+- Way of Working: Working Well
+
+Title: Stop the work
+Description: Shutdown the software engineering endeavor and handover the team’s responsibilities.
+Before starting: 
+- Team: Performing
+- Work: Concluded
+- Way of Working: Working Well
+Achieves:
+- Team: Adjourned
+- Work: Closed
+- Way of Working: Retired
