@@ -49,7 +49,7 @@ async function sendMessage() {
             throw new Error('Response from the backend is undefined');
         } else if (responseText.includes('ERROR: TOKEN LIMIT EXCEEDED')) {
             throw new Error('token limit');
-        } else if (responseText.includes('ERROR: GENERAL PROCESSING ERROR')) {
+        } else if (responseText.includes('ERROR: GENERAL PROCESSING ERROR') || responseText.includes('Error from app.py')) {
             throw new Error('general error');
         }
 

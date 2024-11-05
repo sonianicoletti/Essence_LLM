@@ -54,3 +54,6 @@ def get_relevant_context_from_db(query):
         context += result.page_content + "\n"
     
     return context
+
+def get_parameters():
+    return "Search: " + "Ensemble retriver" + "\nK1 (bm25): " + str(K_1) + "\nK2 (chroma): " + str(K_2) + "\nChunk splitting: " + str(headers_to_split_on) + "\nNumber of embeddings: " + str(len(md_header_splits))

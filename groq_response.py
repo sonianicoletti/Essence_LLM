@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 from groq import Groq # Documentation: https://console.groq.com/docs/models
-from ensemble_retriever import get_relevant_context_from_db
+from ensemble_retriever import get_relevant_context_from_db, get_parameters
 
 load_dotenv()
 
@@ -69,13 +69,14 @@ def process_query_groq(user_input):
         context = get_relevant_context_from_db(user_input) 
         prompt = user_input + "\n" + "CONTEXT: " + context
         chat_history.append({"role": "user", "content": prompt})
+        retriever_parameters = get_parameters()
 
         # Check the length of chat_history and keep only the last 3 messages
         total_tokens = sum(len(message["content"].split()) for message in chat_history)
         print("TOTAL TOKENS before receiving a response: " + str(total_tokens) + "\n")
         if total_tokens > TOKEN_LIMIT:
             print("Total token count exceeded. Trimming chat history.")
-            while total_tokens > TOKEN_LIMIT and len(chat_history) > 1:  # Keep at least the system prompt
+            while total_tokens > TOKEN_LIMIT and len(chat_history) > 1:
                 chat_history.pop(1)  # Remove the oldest message
                 total_tokens = sum(len(message["content"].split()) for message in chat_history)
 
@@ -94,6 +95,18 @@ def process_query_groq(user_input):
         answer = response.choices[0].message.content
 
         print_chat_history()
+
+        # Structure data for storage
+        response_data = {
+            "model": MODEL_NAME,
+            "temperature": TEMPERATURE,
+            "retriever": retriever_parameters,
+            "user_input": user_input,
+            "context": context,
+            "answer": answer
+        }
+
+        return response_data  # Return structured data for MongoDB insertion
     
     except Exception as e:
         print(e)
@@ -103,7 +116,16 @@ def process_query_groq(user_input):
         else:
             answer = "ERROR: GENERAL PROCESSING ERROR"
 
-    return answer
+    response_data = {
+        "model": MODEL_NAME,
+        "temperature": TEMPERATURE,
+        "retriever": retriever_parameters,
+        "user_input": user_input,
+        "context": context,
+        "answer": answer
+    }
+
+    return response_data
 
 """ while True:
   # Get user input from the console
