@@ -7,8 +7,10 @@ load_dotenv()
 
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 # MODEL_NAME = "llama3-70b-8192" # Limit: 6000 tokens per request
-MODEL_NAME = "llama-3.1-70b-versatile" # Limit: 18k tokens per chat
-MAX_TOKENS = 1000
+MODEL_NAME = "llama-3.1-70b-versatile" # Limit: 6000 tokens per chat
+# MODEL_NAME = "mixtral-8x7b-32768" # Limit: 5000 tokens per chat
+MAX_TOKENS = 1000 # max number of tokens the response can be
+TOKEN_LIMIT = 4000 # max number of tokens the chat can be before being trimmed
 TEMPERATURE = 0.7 # range: 0-2
 
 client = Groq(
@@ -48,21 +50,50 @@ system_prompt = {
 # Initialize the chat history
 chat_history = [system_prompt]
 
+# Function to print chat history without context and system prompt
+def print_chat_history():
+    print("********** CHAT HISTORY **********")
+    for message in chat_history:
+        if message["role"] == "user":
+            user_input = message["content"].split("\nCONTEXT:")[0] # Remove the context part
+            print("USER:", user_input)
+        elif message["role"] == "system":
+            print("SYSTEM PROMPT:", message["content"][:20] + "...")
+        elif message["role"] == "assistant":
+            print("ASSISTANT:", message["content"][:20] + "...")
+    print("**********************************\n")
+
+
 def process_query_groq(user_input):
     try:
         context = get_relevant_context_from_db(user_input) 
         prompt = user_input + "\n" + "CONTEXT: " + context
         chat_history.append({"role": "user", "content": prompt})
-        response = client.chat.completions.create(model=MODEL_NAME,
-                                                messages=chat_history,
-                                                max_tokens=MAX_TOKENS,
-                                                temperature=TEMPERATURE)
+
+        # Check the length of chat_history and keep only the last 3 messages
+        total_tokens = sum(len(message["content"].split()) for message in chat_history)
+        print("TOTAL TOKENS before receiving a response: " + str(total_tokens) + "\n")
+        if total_tokens > TOKEN_LIMIT:
+            print("Total token count exceeded. Trimming chat history.")
+            while total_tokens > TOKEN_LIMIT and len(chat_history) > 1:  # Keep at least the system prompt
+                chat_history.pop(1)  # Remove the oldest message
+                total_tokens = sum(len(message["content"].split()) for message in chat_history)
+
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=chat_history,
+            max_tokens=MAX_TOKENS,
+            temperature=TEMPERATURE
+        )
+
         # Append the response to the chat history
         chat_history.append({
             "role": "assistant",
             "content": response.choices[0].message.content
         })
         answer = response.choices[0].message.content
+
+        print_chat_history()
     
     except Exception as e:
         print(e)

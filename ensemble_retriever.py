@@ -44,13 +44,13 @@ ensemble_retriever = EnsembleRetriever(
     retrievers=[bm25_retriever, chroma_retriever], weights=[0.5, 0.5]
 )
 
-print(f"Number of embeddings: {len(md_header_splits)}")
+# print(f"Number of embeddings: {len(md_header_splits)}")
 
 def get_relevant_context_from_db(query):
     context = ""
     search_results = ensemble_retriever.invoke(query)
     for i, result in enumerate(search_results, 1): 
-        print(f"\n********************* CONTEXT #{i}: *********************\n{result.page_content}")
+        # print(f"\n********************* CONTEXT #{i}: *********************\n{result.page_content}")
         context += result.page_content + "\n"
     
     return context
