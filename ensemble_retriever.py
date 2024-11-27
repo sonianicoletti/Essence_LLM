@@ -47,13 +47,11 @@ ensemble_retriever = EnsembleRetriever(
 # print(f"Number of embeddings: {len(md_header_splits)}")
 
 def get_relevant_context_from_db(query):
-    context = ""
+    context_list = []
     search_results = ensemble_retriever.invoke(query)
-    for i, result in enumerate(search_results, 1): 
-        # print(f"\n********************* CONTEXT #{i}: *********************\n{result.page_content}")
-        context += result.page_content + "\n"
-    
-    return context
+    for result in search_results:
+        context_list.append(result.page_content)
+    return context_list
 
 def get_parameters():
     return "Search: " + "Ensemble retriver" + "\nK1 (bm25): " + str(K_1) + "\nK2 (chroma): " + str(K_2) + "\nChunk splitting: " + str(headers_to_split_on) + "\nNumber of embeddings: " + str(len(md_header_splits))

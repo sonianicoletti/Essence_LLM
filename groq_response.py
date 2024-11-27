@@ -66,8 +66,9 @@ def print_chat_history():
 
 def process_query_groq(user_input):
     try:
-        context = get_relevant_context_from_db(user_input) 
-        prompt = user_input + "\n" + "CONTEXT: " + context
+        context = get_relevant_context_from_db(user_input)
+        context_text = "\n".join(context)
+        prompt = user_input + "\n" + "CONTEXT: " + context_text
         chat_history.append({"role": "user", "content": prompt})
         retriever_parameters = get_parameters()
 

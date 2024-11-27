@@ -1,0 +1,32 @@
+What is the Essence standard by SEMAT? Write less than 100 words.
+What are the elements of the Essence language? Write less than 100 words.
+What is the Essence standard used for? Write less than 100 words.
+What are the Alphas of the Essence Kernel? Write less than 100 words.
+What are the Kernel Competencies? Write less than 100 words.
+What are the states of the Work alpha? Write less than 100 words.
+What are the Activity Spaces in the Customer Area of Concern? Write less than 100 words.
+What are the checklist items of the User Story "Identified" Alpha State card? Write less than 100 words.
+What is Mad Sad Glad? Write less than 100 words.
+What are the steps of Progress Poker? Write less than 150 words.
+
+What practices do you recommend to a group of students who has to make a mobile game for a university project? Write less than 100 words.
+What best practices should we adopt to make our Continuous Integration pipeline more reliable? Write less than 100 words.
+What practices can we adopt to minimise the risk of introducing bugs in production? Write less than 100 words.
+Are there any practices that could improve communication within our distributed teams? Write less than 100 words.
+How can we make better use of feedback from users or stakeholders to improve our process? Write less than 100 words.
+How can we assess if our current Agile practices are truly effective? Write less than 100 words.
+Our team only uses the User Stories practice and the following Scrum practices: Sprint Planning and Daily Stand-ups. What Activity Spaces in the three Areas of Concern (in the Essence Kernel) are not being addressed by our current set of practices? Write less than 100 words.
+What practice(s) can help us address the "Explore Possibilities" Activity Space? Write less than 100 words.
+What practice(s) can help us address the "Coordinate Activity" Activity Space? Write less than 100 words.
+What practice(s) can help us address the "Prepare to do the work" Activity Space? Write less than 100 words.
+
+Describe the pair programming practice using the Essence language, in less than 100 words.
+Describe a simplified Scrum practice using the Essence language, in less than 100 words.
+Explain retrospectives using Essence terms, in less than 100 words.
+Describe the DevOps practice using Essence terms in less than 100 words.
+Describe the Human-Centered Design practice using Essence terms in less than 100 words.
+Essentialize the Prototypes practice. Write less than 100 words.
+What's the difference between user stories and use cases? Explain it using the Essence language, in less than 250 words.
+Translate this practice using the Essence language in less than 200 words: We write clean, efficient code, review each other's pull requests, and collaborate on designing and implementing features. We debug issues, create automated tests, optimize performance, and maintain clear documentation, ensuring our project meets user needs and upholds high-quality standards.
+Translate this practice using the Essence language in less than 200 words: We hold retrospectives to reflect on our work, celebrate successes, and identify areas for improvement. Together, we discuss what went well, what didn’t, and how to adapt. This practice strengthens our collaboration, fosters transparency, and helps us continuously improve as a team.
+Translate this practice using the Essence language in less than 200 words: We design and implement independent services, define clear APIs for communication, and ensure each service is scalable and maintainable. We deploy and monitor services separately, manage data consistency, and handle failures gracefully. This requires strong skills in system design, API development, cloud deployment, and debugging distributed systems.

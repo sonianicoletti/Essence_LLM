@@ -6,5 +6,5 @@ __pycache__/
 .DS_Store
 chroma_db
 data/json
-data/original
+data/todo_md
 .venv
