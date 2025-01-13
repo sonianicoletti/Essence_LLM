@@ -1,4 +1,5 @@
 // Function to handle sending the message
+
 async function sendMessage() {
     const inputField = document.getElementById('user-input');
     const sendButton = document.querySelector('#input-area button');  // Get the send button
