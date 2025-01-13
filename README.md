@@ -50,10 +50,18 @@ pip install -r requirements.txt
 
 ### STEP 5: Add the environment variables
 
-From the official [Groq website](https://console.groq.com/login) get your own API key and add it to the ```.env``` file located in the root directory. Follow this format:
+From the official [Groq website](https://console.groq.com/login) get your own API key and add it to the ```.env``` file located in the root directory. 
+
+Follow this format:
 
 ```
 GROQ_API_KEY="xxxxx"
+```
+
+**Optional:** create your own cluster in [MongoDB](https://www.mongodb.com/) to store the chatbot's reponses for later analysis. Add the URI to the ```.env``` file following this format:
+
+```
+MONGO_URI="xxxxx"
 ```
 
 ## Run the app
