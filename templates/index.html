@@ -13,6 +13,35 @@
 <body>
     <h1>Essence Coach</h1>
     <p>This chatbot is designed to help you better understand the <a href="https://www.essify.com/essence" target="_blank">Essence</a> standard. Ask any question you want.</p>
+    
+    <div id="selection-area">
+        <div class="selection-group">
+            <label for="role">Your Role:</label>
+            <select id="role">
+                <option value="SM">Scrum Master</option>
+                <option value="PO">Product Owner</option>
+                <option value="Dev1">Dev1</option>
+                <option value="Dev2">Dev2</option>
+                <option value="Dev3">Dev3</option>
+                <option value="Dev4">Dev4</option>
+                <option value="Other">Other</option>
+            </select>
+        </div>
+    
+        <div class="selection-group">
+            <label for="event">Event:</label>
+            <select id="event">
+                <option value="Inception">Inception</option>
+                <option value="Sprint Planning">Sprint Planning</option>
+                <option value="Daily Scrum">Daily Scrum</option>
+                <option value="Sprint Review">Sprint Review</option>
+                <option value="Sprint Retrospective">Sprint Retrospective</option>
+                <option value="Backlog Grooming">Backlog Grooming</option>
+                <option value="Other">Other</option>
+            </select>
+        </div>
+    </div>          
+
     <div id="chat-container">
         <div id="chatbox"></div>
         <div id="input-area">

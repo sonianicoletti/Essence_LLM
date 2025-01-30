@@ -7,7 +7,7 @@ load_dotenv()
 
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 # MODEL_NAME = "llama3-70b-8192" # Limit: 6000 tokens per request
-MODEL_NAME = "llama-3.1-70b-versatile" # Limit: 6000 tokens per chat
+MODEL_NAME = "llama-3.3-70b-versatile" # Limit: 6000 tokens per chat
 # MODEL_NAME = "mixtral-8x7b-32768" # Limit: 5000 tokens per chat
 MAX_TOKENS = 1000 # max number of tokens the response can be
 TOKEN_LIMIT = 4000 # max number of tokens the chat can be before being trimmed

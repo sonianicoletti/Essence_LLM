@@ -218,6 +218,50 @@ footer {
     }
 }
 
+#selection-area {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Space between dropdown groups */
+    margin-top: 10px;
+}
+
+.selection-group {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Space between label and dropdown */
+}
+
+#selection-area label {
+    color: var(--text-color);
+    white-space: nowrap; /* Prevents label from wrapping */
+}
+
+#selection-area select {
+    padding: 8px 12px;
+    border: 2px solid var(--border-color);
+    border-radius: 6px;
+    background-color: var(--chatbox-background);
+    color: var(--text-color);
+    font-size: 1em;
+    font-family: "IBM Plex Sans", sans-serif;
+    cursor: pointer;
+    transition: border-color 0.3s, background-color 0.3s;
+    appearance: none; /* Removes default browser styling */
+    
+    /* Custom arrow */
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23ffffff'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 12px center; /* Positions arrow inside */
+    background-size: 16px; /* Adjust arrow size */
+    padding-right: 36px; /* Space for the arrow */
+}
+
+#selection-area select:hover,
+#selection-area select:focus {
+    border-color: var(--send-button-bg);
+    background-color: var(--input-background);
+}
+
 /* Media Queries for different screen sizes */
 @media (max-width: 768px) {
     #chat-container {

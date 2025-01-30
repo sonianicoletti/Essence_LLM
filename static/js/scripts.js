@@ -6,6 +6,10 @@ async function sendMessage() {
     const query = inputField.value.trim();  // Trim extra spaces
     if (!query) return;  // Do nothing if the input is empty
 
+    // Get selected role and event
+    const role = document.getElementById('role').value;
+    const event = document.getElementById('event').value;
+
     // Disable the send button and change its color
     sendButton.disabled = true;
     sendButton.classList.add('disabled');
@@ -34,7 +38,7 @@ async function sendMessage() {
             headers: {
                 'Content-Type': 'application/json',
             },
-            body: JSON.stringify({ query }),
+            body: JSON.stringify({ query, role, event }),
         });
 
         // Check if the response is OK (status code 200-299)

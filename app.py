@@ -20,6 +20,8 @@ def index():
 def chat():
     try:
         user_input = request.json.get('query')          # Get the query from the request
+        role = request.json.get('role')
+        event = request.json.get('event')
 
         response_data = process_query_groq(user_input)
         model = response_data["model"]
@@ -32,7 +34,7 @@ def chat():
         try:
             # Store the data in MongoDB if the user has set a MongoDB URI
             if MONGO_URI and MONGO_URI != "xxxxx":
-                store_chat_response(model, temperature, retriever, user_question, context, answer)
+                store_chat_response(model, temperature, retriever, user_question, context, answer, role, event)
         except Exception:
             print("There was an error saving the response in MongoDB.")
 

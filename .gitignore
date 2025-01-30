@@ -9,3 +9,4 @@ data/todo_md
 .venv
 alternative_methods
 preprocessing
+.env
