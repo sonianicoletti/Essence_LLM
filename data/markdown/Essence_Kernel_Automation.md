@@ -1,6 +1,6 @@
 # Ontological Automation of Software Essence Kernel to Assess Progress of Software Project
 
-## Authors
+# Authors
 **Farooq Ali** (Department of Computer Science, University of Engineering and Technology, Taxila, Pakistan)  
 **Asif Raza** (Department of Computer Science and Information Technology, University of Mianwali, Pakistan)  
 **Muhammad Munwar Iqbal** (Department of Computer Science, University of Engineering and Technology, Taxila, Pakistan)  
@@ -10,7 +10,7 @@
 
 ---
 
-## Keywords
+# Keywords
 - Alpha  
 - Essence  
 - Activity Space  
@@ -18,7 +18,7 @@
 
 ---
 
-## Abstract
+# Abstract
 Managing a software project with a large number of requirements is a challenging 
 task, a lot of effort and time is required to measure the software’s progress and 
 health. To tackle this, software development organizations look for different 
@@ -52,7 +52,7 @@ Therefore, we have used ontology to maintain software
 essence and by using the same ontology, we have done 
 reasoning to measure the health of software projects. 
 
-## 1.1 Essence of Software Engineering
+# 1.1 Essence of Software Engineering
 The essence is the foremost and well-known output from 
 the Software Engineering Method and Theory 
 (SEMAT) community. As with the development of 
@@ -100,7 +100,7 @@ which are customer, solution and endeavour. Moreover,
 within these areas of concern, the kernel defines activity 
 spaces, alphas and competencies. 
 
-### 1.1.1 Areas of Concern
+# 1.1.1 Areas of Concern
 The kernel is structured alongside three areas of 
 concern: The solution area of concern, the customer area 
 of concern and the endeavour area of concern. The 
@@ -120,7 +120,7 @@ team is formed and work is being planned and
 organized; the team advances the job in alignment with 
 the agreed working approach. 
 
-#### 1.1.1.1 Alphas:
+# 1.1.1.1 Alphas:
 Alphas can be regarded as one of the 
 most central concepts of the kernel. Alphas symbolize 
 the essential items to work with while conducting a 
@@ -140,8 +140,10 @@ each alpha contains a set of standardized states. For
 example, the Opportunity alpha progresses through the 
 states identified, value established, the solution needed, 
 addressed, viable and benefited accrued. 
+
+---
  
-#### Fig. 1. Alphas for software essence kernel
+# Fig. 1. Alphas for software essence kernel
 Opportunity = a reason for developing the system. Ex: user need.
 Stakeholders = an agent affected by the system. Ex. customer, project team.
 Requirements = what the system must do. Ex. store data, be usable.
@@ -149,6 +151,8 @@ Software System = the system of hardware, data and software item. Ex. a TV.
 Work = activity performed. Ex. test a GUI.
 Team = the people engaged in the project. Ex. group 4.
 Way of working = tailored set of practices. Ex. TDD, kick-off meeting.
+
+---
 
 Alpha states allow us to assess the progress and 
 health of the alphas during the execution of the 
@@ -161,7 +165,7 @@ Opportunity and its state Value Established, a checklist
 consisting of five items summarizes the required criteria 
 to achieve that state. 
 
-#### 1.1.1.2 Activity spaces: 
+# 1.1.1.2 Activity spaces: 
 Activity spaces represent placeholders for the essential activities in software 
 engineering endeavours. Each activity space has a set 
 of objectives and is related to certain kernel alphas 
@@ -172,30 +176,32 @@ spaces define the things that will required to complete
 them. Further, they balance the alphas and present an 
 activity-based vision on software engineering. Activity 
 spaces against area of concerns are shown in Fig. 2. 
+
+---
  
-#### Fig. 2. Activity Spaces against area of concerns
-#### Customer
-- **Explore Possibilities**
-- **Understand Stakeholder Needs**
-- **Ensure Stakeholder Satisfaction**
-- **Use the System**
+# Fig. 2. Activity Spaces against area of concerns
+- **Customer**
+  - Explore Possibilities
+  - Understand Stakeholder Needs
+  - Ensure Stakeholder Satisfaction
+  - Use the System
+- **Solution**
+  - Understand the Requirements
+  - Shape the System
+  - Implement the System
+  - Test the System
+  - Deploy the System
+  - Operate the System
+- **Endeavour**
+- Prepare to do the Work
+- Coordinate Activity
+- Support the Team
+- Track Progress
+- Stop the Work
 
-#### Solution
-- **Understand the Requirements**
-- **Shape the System**
-- **Implement the System**
-- **Test the System**
-- **Deploy the System**
-- **Operate the System**
+---
 
-#### Endeavour
-- **Prepare to do the Work**
-- **Coordinate Activity**
-- **Support the Team**
-- **Track Progress**
-- **Stop the Work**
-
-#### 1.1.1.3 Competencies:
+# 1.1.1.3 Competencies:
 The kernel competencies 
 complement the kernel alphas and activity spaces with 
 the significant competencies required to conduct 
@@ -224,7 +230,7 @@ others. Table 1 shows the essence area of concerns along
 with their respective alpha, activity spaces, and 
 competencies.
 
-## 1.2 Ontology 
+# 1.2 Ontology 
 Ontology is “a collection of concepts and categories in a 
 domain area. It represents inter-relations and the 
 properties of concepts and categories.” Many authors 
@@ -239,7 +245,7 @@ large amount. Furthermore, they state that semantic web
 techniques e.g. ontology can help to maintain a large 
 amount of data. 
 
-#### Table 1: Essence Kernel
+# Table 1: Essence Kernel
 | Area of Concern | Alphas          | Activity Spaces                 | Competencies    |
 |-----------------|-----------------|---------------------------------|-----------------|
 | **Customer**    | Opportunity     | Explore possibilities           | Stakeholder     |
@@ -258,7 +264,7 @@ amount of data.
 |                 |                 | Track progress                  |                 |
 |                 |                 | Stop the work                   |                 |
 
-##  1.3 Research Question 
+#  1.3 Research Question 
 The research question of this study is ‘how to automate 
 Software Essence Kernel to measure the health of 
 software projects?’. To answer this question, we have 
@@ -276,7 +282,7 @@ presented. In section 4, results and analysis are
 discussed. Section 5 is about the conclusion and future 
 work of this study. 
 
-## 1.4 Research gap analysis 
+# 1.4 Research gap analysis 
 Literature shows that using ontology one can easily 
 maintain a large amount of data. Naveen Malviya 
 and P. K. C. M. Wijewickrema build ontologies to 
@@ -379,11 +385,11 @@ health of the project.
 In this section, we have discussed hypotheses of study, 
 research process, and data acquisition process. 
 
-## 3.1 Hypothesis 
+# 3.1 Hypothesis 
 If the software essence kernel is automated, then one can 
 quickly measure the progress and health of the ontology. 
 
-## 3.2 Research Process 
+# 3.2 Research Process 
 First of all, we have collected data from Essence Kernel 
 Alpha states and activity spaces (Fig. 3). Then ontology 
 of software essence kernel was developed using the 
@@ -392,8 +398,10 @@ protégé tool. After building the ontology, the results
 were validated by using Apache Jena Fuseki server 
 through SPARQL queries. These queries were executed 
 using rule-based inference. 
+
+---
  
-#### Fig. 3. Research Process for automation of software essence 
+# Fig. 3. Research Process for automation of software essence 
 - **Data Acquisition**
 - **Ontology Development**
   - Classes
@@ -405,7 +413,9 @@ using rule-based inference.
   - RDF/XML Schema
 - **Results**
 
-## 3.3 Data Acquisition 
+---
+
+# 3.3 Data Acquisition 
 We have collected all data for Essence Kernel Alpha 
 states and Checklists the Alpha’s states and Checklists 
 from Semat book.  Table 2 shows the Kernel Alpha 
@@ -437,9 +447,11 @@ Protégé tool was used to create an ontology. Fig. 2
 shows a complete ontology graph. The Protégé is also 
 an editor used for ontology having two languages; (1) 
 OWL, (2) RDFS. 
+
+---
  
-#### Fig. 4. Complete Ontology graph for software essence
-#### Key Elements
+# Fig. 4. Complete Ontology graph for software essence
+# Key Elements
 - **Stakeholders**
   - Connected to:
     - Involved
@@ -460,11 +472,13 @@ OWL, (2) RDFS.
     - Started
     - Under Control
     - Closed
-#### Other Elements
+# Other Elements
 - **Team**
 - **Customer**
 - **Software System**
 - **Activity Spaces**
+
+---
 
 Fig. 4 shows a complete ontology graph against table 2. 
 It shows activities and sub-activities in a graphical 
@@ -489,7 +503,7 @@ all stakeholders and value established for the
 opportunity. We have run 8 queries to validate our 
 results as shown in Table 4.
  
-#### Table 2: Kernel Alpha States of Software Essence
+# Table 2: Kernel Alpha States of Software Essence
 | Stakeholders                                                                                                                                                        | Opportunity                                                                                                                 | Requirements                                                                                   | Software system                                                                                                             | Team                                                                                                   | Work                                                                                                                | Way of working                                                                                                              |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | **Recognized: The stakeholders are recognized.**                                                                                                                    | Identified: Social, business opportunity or commercial, is discovered and it can be completing by a software solution       | Conceived: Requirements for software solution has been approved.                               | Architecture selected: A design is chosen that will help to address the key risks relevant to organizational constraints.   | Seeded: Mission of solution team is clear, and they know how necessary to expand the team is in place. | Initiated: The work has been demanded.                                                                              | Principles established: Principles and constraints form the way- of-working are recognized.                                 |
@@ -499,7 +513,7 @@ results as shown in Table 4.
 | **Deployment Satisfaction: Nominal hopes of the stakeholder should have been achieved.**                                                                            | Addressed: The approved solution apparently completes the identified opportunity.                                           | Addressed: Stakeholders requirements have been achieved                                        | Operational: In an operational environment, the system is in use.                                                           | Adjourned: The team is adjourned and not responsible for taking out its mission.                       | Concluded: The work to generate the results has been achieved.                                                      | Working well: The method of working is doing well for the team.                                                             |
 | **User satisfaction: The system has successfully met nominal stakeholder requirements.**                                                                            | Benefit accrued: Effective usage and trade of the addressed solution is generating                                          | Fulfilled: Addressed requirements satisfy the requirements of software solution                | Retired: No support for the system                                                                                          |                                                                                                        | Closed: All remaining maintenance tasks have been completely, and work has been formally ended.                     | Retired: The way of working is no longer in use by the team                                                                 |
 
-#### Table 3: Completion Criteria for Activity Spaces
+# Table 3: Completion Criteria for Activity Spaces
 | Area of concern with health percentage | Activity Spaces                 | Completion Criteria                                                                  | Health Percentage progress while activity space achieved |
 |----------------------------------------|---------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------|
 | **Costumer, 30 %**                     | Explore possibilities           | Stakeholders::Recognized, 3.75 Opportunity::Value established 3.75                   | 7.5                                                      |
@@ -534,7 +548,7 @@ Furthermore, it shows how one can use different queries
 to measure the current health of the project and also to 
 update the health of the project. 
 
-#### Table 4: Queries to check and update software health
+# Table 4: Queries to check and update software health
 | **Description**                                                                                                                                                                     | **Query**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **Results**                                                                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | To search what are the instances of recognized class which is a subclass of stakeholder?                                                                                            | `SELECT ?Stakeholders WHERE {?Stakeholders rdf:type essence:Recognized ; }`                                                                                                                                                                                                                                                                                                                                                                                                                    | 1. essence:Maintenance_team_is_recognized<br>2. essence:Investors_are_recognized<br>3. essence:Support_team_is_recognized<br>4. essence:Development_team_is_recognized                                 |
@@ -550,7 +564,7 @@ After completion of Explore possibilities, a graph is
 generated to check the progress in graphical form which 
 is shown in Fig 5. 
  
-#### Fig. 5. Software Health after Explore Possibilities achieved
+# Fig. 5. Software Health after Explore Possibilities achieved
 | **Category**                    | **System Health (%)** |
 |---------------------------------|-----------------------|
 | Explore Possibilities           | 7.5                   |
@@ -579,7 +593,7 @@ Fig. 6 shows the results when all activity spaces were
 achieved present in the customer area of concern and 
 Fig. 7 shows the graph of the completed project. 
  
-#### Fig. 6. Software Health after the Customer area of concern completed
+# Fig. 6. Software Health after the Customer area of concern completed
 | **Category**                    | **System Health (%)** |
 |---------------------------------|-----------------------|
 | Explore Possibilities           | 7.5                   |
@@ -604,7 +618,7 @@ Fig. 7 shows the graph of the completed project.
 - **Endeavour Contribution**: 30%
 - **Total Software Health**: 100%
  
-#### Fig. 7. Software Health after completion of the project
+# Fig. 7. Software Health after completion of the project
 | **Category**                    | **System Health (%)** |
 |---------------------------------|-----------------------|
 | Explore Possibilities           | 7.5                   |
