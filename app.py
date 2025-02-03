@@ -11,6 +11,7 @@ load_dotenv()
 MONGO_URI = os.getenv("MONGO_URI")
 
 # Route to render the main HTML page
+# This comment shows change
 @app.route('/')
 def index():
     return render_template('index.html')
