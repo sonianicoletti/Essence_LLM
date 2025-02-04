@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn -w 1 -k sync app:app
