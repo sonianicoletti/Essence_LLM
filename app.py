@@ -3,16 +3,12 @@ from flask import Flask, request, render_template
 from groq_response import process_query_groq
 from dotenv import load_dotenv
 from store_response import store_chat_response
-from converter_pdf_to_md import check_and_convert
 
 app = Flask(__name__)
 
 load_dotenv()
 
 MONGO_URI = os.getenv("MONGO_URI")
-
-# Run PDF-to-Markdown conversion before starting the app
-check_and_convert()
 
 # Route to render the main HTML page
 @app.route('/')
