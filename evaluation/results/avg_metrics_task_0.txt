@@ -1,3 +1,0 @@
-Precision@K (Avg): 0.7500
-MRR (Avg): 0.8182
-MAP: 0.7500
