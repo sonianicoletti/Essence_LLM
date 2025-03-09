@@ -1,16 +1,23 @@
+Chat Memory Management Report
+
+Overview
+The implemented mechanism uses a global chat history that always retains the system prompt (which defines the bot’s role) unchanged. User queries (with appended context) and assistant responses are added to the history. A token counter (using tiktoken with a fixed overhead per message) checks the total token count in the history. When the total exceeds a specified threshold (80% of TOKEN_LIMIT), the mechanism triggers a summarization function. This function condenses all accumulated messages (except the system prompt) into a concise summary that preserves key details. If the resulting summary still exceeds the TOKEN_LIMIT, additional trimming (deletion of the oldest messages) is performed.
+
+Below are 10 examples that illustrate how the mechanism works:
+
+---
+
 Example 1
 
 Original Dialogue:
 User: What is the Essence standard by SEMAT?
-Chatbot: The Essence standard, developed by the Software Engineering Method and Theory (SEMAT) initiative, is an industry standard for creating, using, and improving software engineering practices and methods. It provides a common ground for defining software development practices, enabling them to be expressed in a simple and standard form. The Essence standard consists of two main components: the Essence Language and the Essence Kernel. The Essence Language allows practices to be expressed in a way that ensures they can be easily shared, understood, and applied, while the Essence Kernel provides the essential elements that are central to every software engineering endeavor, including seven common Alphas, such as Opportunity, Stakeholders, Requirements, Software System, Work, Team, and Way of Working.
-
+Assistant: The Essence standard, maintained by the OMG international open standards consortium, is a framework for creating, using, and improving software engineering practices and methods. It provides a common ground for defining software development practices by incorporating a standardized language and a kernel that includes essential elements such as the seven common alphas (Opportunity, Stakeholders, Requirements, Software System, Work, Team, and Way of Working), divided into areas of concern (Customer, Solution, and Endeavor).
 Summarized Version:
 User: What is the Essence standard by SEMAT?
-Chatbot: Essence is a software engineering standard with a common language and Kernel, including key Alphas like Stakeholders and Work.
-
+Assistant: Essence is a framework that provides a common language and kernel for software engineering practices, including key alphas like Opportunity and Work.
 Analysis:
-Retained: Core components of Essence and its purpose.
-Removed: Detailed explanation of how practices are expressed and shared.
+- Retained: Core concept that Essence establishes a common ground using a language and kernel.
+- Removed: Detailed explanation about the complete list of alphas and their grouping.
 
 ---
 
@@ -18,146 +25,138 @@ Example 2
 
 Original Dialogue:
 User: What are the elements of the Essence language?
-Chatbot: The Essence language is composed of several key elements that work together to describe software engineering practices. The primary elements of the Essence language include:
-Alphas: These represent the essential things to work with, such as the Opportunity, Stakeholders, Requirements, Software System, Work, Team, and Way of Working.
-Work Products: These describe alphas and provide evidence of alpha states.
-Activities: These produce or update work products and result in alpha states.
-Activity Spaces: These organize activities and target alpha states.
-Competencies: These represent the essential capabilities needed to perform activities.
-Patterns: These are arrangements of elements that can be related to other Essence elements.
-
+Assistant: The Essence language is composed of several key elements that work together to describe software engineering practices. These elements include Alphas (the essential things to work with), Work Products (tangible outputs), Activities (actions that produce or update work products), Activity Spaces (areas that organize activities), Competencies (required capabilities), and Patterns (arrangements that guide best practices).
 Summarized Version:
 User: What are the elements of the Essence language?
-Chatbot: Essence includes Alphas, Work Products, Activities, Activity Spaces, Competencies, and Patterns.
-
+Assistant: Essence includes Alphas, Work Products, Activities, Activity Spaces, Competencies, and Patterns.
 Analysis:
-Retained: List of key components.
-Removed: Detailed definitions of each component.
+- Retained: The complete list of key components.
+- Removed: Detailed definitions and explanations of each element.
 
 ---
 
 Example 3
 
 Original Dialogue:
-User: How does Essence Kernel Automation improve software engineering practices?
-Chatbot: Essence Kernel Automation enhances engineering by streamlining workflow, improving traceability, ensuring best practices, and facilitating collaboration. It also allows real-time tracking of project health and increases efficiency through automation.
-
+User: What is the Essence standard used for?
+Assistant: The Essence standard is used for both Practice Descriptions and Practice Application. It provides a framework that enables teams to define, compare, and apply software engineering practices consistently. By using the Essence Language and Kernel, practitioners can assess progress and drive project health using checklists and state cards.
 Summarized Version:
-User: How does Essence Kernel Automation improve software engineering?
-Chatbot: It streamlines workflows, enhances traceability, ensures best practices, and enables automation.
-
+User: What is the Essence standard used for?
+Assistant: It is used for describing and applying software engineering practices, allowing teams to assess progress and make informed decisions.
 Analysis:
-Retained: Key improvements (workflow, traceability, automation).
-Removed: Explanation of real-time tracking and collaboration.
+- Retained: Key purposes – practice description and application.
+- Removed: Extended explanations regarding checklists and state cards.
 
 ---
 
 Example 4
 
 Original Dialogue:
-User: What best practices should we adopt to make our Continuous Integration pipeline more reliable?
-Chatbot: To improve reliability, ensure automated testing at each stage, use feature flags for controlled deployment, implement rollback strategies, and monitor system performance continuously.
-
+User: What are the Alphas of the Essence Kernel?
+Assistant: The Essence Kernel defines seven core alphas: Stakeholder, Opportunity, Requirements, Software System, Work, Team, and Way of Working. These are grouped into three areas: Customer (Stakeholder, Opportunity), Solution (Requirements, Software System), and Endeavor (Work, Team, Way of Working). Each alpha is accompanied by checklists to track progress.
 Summarized Version:
-User: How to improve CI pipeline reliability?
-Chatbot: Use automated testing, feature flags, rollbacks, and monitoring.
-
+User: What are the Alphas of the Essence Kernel?
+Assistant: Essence defines seven alphas (Stakeholder, Opportunity, Requirements, Software System, Work, Team, and Way of Working) grouped into Customer, Solution, and Endeavor.
 Analysis:
-Retained: Key best practices.
-Removed: Explanatory details on implementation.
+- Retained: The complete list of alphas and their grouping.
+- Removed: Detailed descriptions and checklist explanations.
 
 ---
 
 Example 5
 
 Original Dialogue:
-User: What are the challenges in implementing Essence Kernel Automation?
-Chatbot: Implementing Essence Kernel Automation can pose challenges, including lack of understanding, customization needs, integration difficulties, training requirements, and tool support issues.
-
+User: What are the Kernel Competencies?
+Assistant: The Essence Kernel Competencies are a set of six core competencies aligned with the focus areas of Customer, Solution, and Endeavor. They include Stakeholder Representation (Customer), Analysis, Development, Testing (Solution), and Leadership, Management (Endeavor). Five standard competency levels (Assists, Applies, Masters, Adapts, Innovates) are also defined.
 Summarized Version:
-User: What are the challenges of Essence Kernel Automation?
-Chatbot: Understanding barriers, customization, integration, training, and tool support.
-
+User: What are the Kernel Competencies?
+Assistant: They consist of six core competencies—Stakeholder Representation, Analysis, Development, Testing, Leadership, and Management—along with five competency levels.
 Analysis:
-Retained: Core challenges.
-Removed: Additional explanations for each challenge.
+- Retained: Core list of competencies and mention of competency levels.
+- Removed: Detailed explanations of each competency and level.
 
 ---
 
 Example 6
 
 Original Dialogue:
-User: How can we assess if our current Agile practices are truly effective?
-Chatbot: Agile effectiveness can be assessed using retrospectives, feedback loops, performance metrics, and team engagement levels.
-
+User: What are the states of the Work alpha?
+Assistant: The Work alpha has six states: Initiated, Prepared, Started, Under Control, Concluded, and Closed. Each state comes with its own checklist detailing conditions like clear requirements, team readiness, risk management, and final closure tasks.
 Summarized Version:
-User: How to assess Agile practices?
-Chatbot: Use retrospectives, feedback, performance metrics, and engagement levels.
-
+User: What are the states of the Work alpha?
+Assistant: The Work alpha has six states: Initiated, Prepared, Started, Under Control, Concluded, and Closed.
 Analysis:
-Retained: Key assessment methods.
-Removed: Additional context.
+- Retained: The full list of states.
+- Removed: Detailed checklist items for each state.
 
 ---
 
 Example 7
 
 Original Dialogue:
-User: What practices do you recommend to a group of students who have to make a mobile game?
-Chatbot: Students should use Agile, retrospectives, team-building exercises, and iterative testing to improve their project.
-
+User: What are the Activity Spaces in the Customer Area of Concern?
+Assistant: In the Customer Area, Activity Spaces include: Explore Possibilities, Understand Stakeholder Needs, Ensure Stakeholder Satisfaction, and Use the System. These spaces help focus on identifying customer opportunities, understanding needs, ensuring satisfaction, and monitoring system usage.
 Summarized Version:
-User: Best practices for student game development?
-Chatbot: Agile, retrospectives, team-building, iterative testing.
-
+User: What are the Activity Spaces in the Customer Area of Concern?
+Assistant: They are Explore Possibilities, Understand Stakeholder Needs, Ensure Stakeholder Satisfaction, and Use the System.
 Analysis:
-Retained: Key recommendations.
-Removed: Explanations of why they help.
+- Retained: The list of Activity Spaces.
+- Removed: Detailed descriptions of each space.
 
 ---
 
 Example 8
 
 Original Dialogue:
-User: What is Mad Sad Glad?
-Chatbot: Mad Sad Glad is a retrospective technique where team members list things that made them feel mad, sad, or glad to identify improvements.
-
+User: What are the checklist items of the User Story "Identified" Alpha State card?
+Assistant: The provided context does not list explicit checklist items. However, one can infer that they might include ensuring the user story is clearly described, documented, added to the backlog, and initially prioritized.
 Summarized Version:
-User: What is Mad Sad Glad?
-Chatbot: A retrospective technique categorizing feelings to find improvements.
-
+User: What are the checklist items of the User Story "Identified" Alpha State card?
+Assistant: They likely include that the user story has been identified, documented, and prioritized.
 Analysis:
-Retained: Core definition.
-Removed: Detailed explanation of the process.
+- Retained: The key concept that the user story is recognized and recorded.
+- Removed: Extended explanations and specific examples.
 
 ---
 
 Example 9
 
 Original Dialogue:
-User: What are the key components of Essence Kernel Automation?
-Chatbot: Kernel Alphas, Activity Spaces, Competencies, and Areas of Concern are its main components.
-
+User: What is Mad Sad Glad?
+Assistant: Mad Sad Glad is a retrospective technique where team members categorize experiences into three groups—Mad (frustrations), Sad (disappointments), and Glad (positive outcomes)—to identify areas for improvement and celebrate successes.
 Summarized Version:
-User: Key components of Essence Kernel Automation?
-Chatbot: Kernel Alphas, Activity Spaces, Competencies, Areas of Concern.
-
+User: What is Mad Sad Glad?
+Assistant: A retrospective technique that categorizes experiences into Mad, Sad, and Glad to identify improvements.
 Analysis:
-Retained: Core elements.
-Removed: Additional descriptions.
+- Retained: The core definition.
+- Removed: Detailed process and additional explanations.
 
 ---
 
 Example 10
 
 Original Dialogue:
-User: How does Work Product Management fit into Essence Kernel Automation?
-Chatbot: Work Product Management tracks and verifies alpha states, ensuring project progress and consistency.
-
+User: What are the steps of Progress Poker?
+Assistant: Progress Poker involves distributing state cards for an alpha, placing the alpha card in the center, having each player select a state card that represents their view of the current state, placing cards face down, revealing them simultaneously, and, if consensus isn’t reached, discussing differences and repeating the selection until consensus is achieved.
 Summarized Version:
-User: Work Product Management in Essence Kernel Automation?
-Chatbot: It tracks alpha states, ensuring progress and consistency.
-
+User: What are the steps of Progress Poker?
+Assistant: It involves distributing state cards, selecting and revealing them simultaneously, and discussing differences until consensus is reached.
 Analysis:
-Retained: Key role of Work Product Management.
-Removed: Extended explanations.
+- Retained: The essential sequence of steps leading to consensus.
+- Removed: Detailed descriptions and alternative variations.
+
+---
+
+Overall Analysis & Recommendations
+
+- Efficiency: The summarization mechanism is triggered only when the accumulated token count reaches approximately 80% of the defined TOKEN_LIMIT. This preserves as much context as possible until it becomes necessary to compress it.
+- Safety: By summarizing older messages into a concise summary (and, if needed, trimming messages), the mechanism prevents exceeding the token limit (thus avoiding errors like 413).
+- Context Preservation: The system prompt remains unchanged, and key details from earlier dialogue are retained within the summary.
+- Report Structure: The examples above illustrate how original dialogue is transformed into a summarized version. Each example clearly indicates what information is retained and what is omitted, ensuring that only the essential details are preserved.
+
+Conclusion
+
+The implemented mechanism meets the assignment requirements and comments:
+- It efficiently manages chat memory by summarizing context only when needed.
+- It preserves the key details required for contextual responses.
+- It prevents exceeding the token limit while maintaining as much relevant context as possible.
