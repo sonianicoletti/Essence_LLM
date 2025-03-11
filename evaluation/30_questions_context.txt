@@ -1,0 +1,1857 @@
+What is the Essence standard by SEMAT? Write less than 100 words.
+CONTEXT:
+# Conclusion.
+- User stories are a favorite way to write requirements for a digital product
+- Product management comes to define user stories after a market analysis that includes characterizing _personae_ ideal users of the product
+Self-assessment questions:
+- What does Humphrey's law assert?
+- What is a user requirement?
+- What is the standard form of user stories?
+- What is an epic?
+- What are the states of a requirement in the Essence model?
+# Essence Usages
+Essence has Two Major Usages: Practice Descriptions and Practice Application.
+# 1.5 The Prime Directive - Improving Agile Retrospectives
+Some facilitators begin their retrospectives by reading out the fundamental principle, the Prime Directive. First articulated by Norman Kerth in his book, Project Retrospectives: A Handbook for Team Reviews [ 1], the Prime Directive is designed to set the stage for the retrospective:
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time,
+their skills and abilities, the resources available, and the situation at hand.
+This principle is read aloud at the beginning of a retrospective, precisely in this wording.
+The idea is to make it clear to everyone that we are all human and make mistakes. The principle also points out that we shouldn’t assume that things have been done badly deliberately.
+**Practical Tip**
+You don’t need to read out the Prime Directive at every retrospective. In later retrospectives, simply reminding people of it is enough.
+Many retrospective facilitators swear by the Prime Directive. They feel that retrospectives that don’t start with this fundamental principle are less effective and therefore less useful. Pat Kua writes [Kua 2012] that this is related to the Pygmalion [ 11] or Rosenthal effect, or what is commonly known as “ ‘a self-fulfilling prophecy.’ ”
+The effect of a teacher’s preconceptions about his students might be an example of the Rosenthal effect. The idea is that a teacher’s positive preconception about a student (‘that student is a high achiever’) will affect the teacher’s behavior in such a way as to create confirmation of his expectations. What happens is that the teacher subtly transmits his preconception to the student through, for example, more one-to-one attention, more time given for response, frequency and strength of praise or blame, or high-performance requirements. This is an unconscious rather than deliberate course of action.
+In essence, the theory is that someone who is treated as having certain characteristics will manifest them. In fact, Rosenthal’s results were repeatedly called into question and could only be reproduced in 40 percent of cases [ 11].
+I personally believe that the success of a retrospective depends not on the careful reading out of the Prime Directive, but rather upon the values that it describes. I have carried out many successful retrospectives during which I did not explicitly mention the Prime Directive. I’m not saying that reading the
+principle isn’t a good thing; in new teams or established teams that are about to experience their first retrospective, this ritual can have a very positive, if not measurable, effect. In my experience, however, you lose that positive effect if you read out the directive at every retrospective. Repetition does to the directive what frequent flying does to pre-flight safety briefings. The first time you fly, you pay close attention. However, with prolonged exposure, you pay less and less attention until, in the end, you hardly notice it’s happening.
+A positive attitude is essential for a successful retrospective, but I believe there are many ways to achieve that attitude and the Prime Directive is only one (and one that is certainly no guarantee of success).
+There is also an alternative prime directive that is somewhat longer but may work better for some teams [ 12]. I personally like the fact that it is written in the first person and is thus more appealing:
+Some days are better than others. Some days I’m in the “flow” state, doing awesome work. Some days I come to the end of a day and realized I’ve wasted a lot of time, made mistakes that I should have foreseen, or wish I could have done something differently.
+Regardless, those days have happened and our purpose here is to find out:
+What can we learn from our past actions and thinking that will inform and guide our future actions and thinking so that we can do a little better?
+How can we change our environment (“the system”) so that it’s easier for us to do awesome work and less likely for us for us to waste time and make mistakes?
+Like the original Prime Directive, this version describes the goal of a retrospective and articulates the underlying principles. Also like the original, this alternative is just a tool and does not guarantee a successful retrospective. My advice is that you experiment with both versions and see what kind of an impact it has on your retrospectives. When properly used, the Prime Directive can be a valuable tool.
+# What makes Essence more than a conceptual framework
+Essence Guiding principles: actionable, extensible, practical.
+Actionable:
+- Alphas helps assess & drive progress and health of project
+- Each state has a checklist
+- Criteria needed to reach the state
+- Alphas are method and practice independent
+Practical:
+- Tangible through the cards
+- Cards provide concise reminders
+- Practical through Checklists and Prompts
+- Utilizable on a daily basis helping making decisions
+Extensible:
+- Practices are distinct, separate, modular units
+- Kernel allow create or tailor and compose practices to new methods
+- Additional Alphas can be added
+
+What are the elements of the Essence language? Write less than 100 words.
+CONTEXT:
+# 1.5 The Prime Directive - Improving Agile Retrospectives
+Some facilitators begin their retrospectives by reading out the fundamental principle, the Prime Directive. First articulated by Norman Kerth in his book, Project Retrospectives: A Handbook for Team Reviews [ 1], the Prime Directive is designed to set the stage for the retrospective:
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time,
+their skills and abilities, the resources available, and the situation at hand.
+This principle is read aloud at the beginning of a retrospective, precisely in this wording.
+The idea is to make it clear to everyone that we are all human and make mistakes. The principle also points out that we shouldn’t assume that things have been done badly deliberately.
+**Practical Tip**
+You don’t need to read out the Prime Directive at every retrospective. In later retrospectives, simply reminding people of it is enough.
+Many retrospective facilitators swear by the Prime Directive. They feel that retrospectives that don’t start with this fundamental principle are less effective and therefore less useful. Pat Kua writes [Kua 2012] that this is related to the Pygmalion [ 11] or Rosenthal effect, or what is commonly known as “ ‘a self-fulfilling prophecy.’ ”
+The effect of a teacher’s preconceptions about his students might be an example of the Rosenthal effect. The idea is that a teacher’s positive preconception about a student (‘that student is a high achiever’) will affect the teacher’s behavior in such a way as to create confirmation of his expectations. What happens is that the teacher subtly transmits his preconception to the student through, for example, more one-to-one attention, more time given for response, frequency and strength of praise or blame, or high-performance requirements. This is an unconscious rather than deliberate course of action.
+In essence, the theory is that someone who is treated as having certain characteristics will manifest them. In fact, Rosenthal’s results were repeatedly called into question and could only be reproduced in 40 percent of cases [ 11].
+I personally believe that the success of a retrospective depends not on the careful reading out of the Prime Directive, but rather upon the values that it describes. I have carried out many successful retrospectives during which I did not explicitly mention the Prime Directive. I’m not saying that reading the
+principle isn’t a good thing; in new teams or established teams that are about to experience their first retrospective, this ritual can have a very positive, if not measurable, effect. In my experience, however, you lose that positive effect if you read out the directive at every retrospective. Repetition does to the directive what frequent flying does to pre-flight safety briefings. The first time you fly, you pay close attention. However, with prolonged exposure, you pay less and less attention until, in the end, you hardly notice it’s happening.
+A positive attitude is essential for a successful retrospective, but I believe there are many ways to achieve that attitude and the Prime Directive is only one (and one that is certainly no guarantee of success).
+There is also an alternative prime directive that is somewhat longer but may work better for some teams [ 12]. I personally like the fact that it is written in the first person and is thus more appealing:
+Some days are better than others. Some days I’m in the “flow” state, doing awesome work. Some days I come to the end of a day and realized I’ve wasted a lot of time, made mistakes that I should have foreseen, or wish I could have done something differently.
+Regardless, those days have happened and our purpose here is to find out:
+What can we learn from our past actions and thinking that will inform and guide our future actions and thinking so that we can do a little better?
+How can we change our environment (“the system”) so that it’s easier for us to do awesome work and less likely for us for us to waste time and make mistakes?
+Like the original Prime Directive, this version describes the goal of a retrospective and articulates the underlying principles. Also like the original, this alternative is just a tool and does not guarantee a successful retrospective. My advice is that you experiment with both versions and see what kind of an impact it has on your retrospectives. When properly used, the Prime Directive can be a valuable tool.
+# Essence Language
+These are the elements of ESSENCE LANGUAGE and their relationships
+Essentializing a Practice, means to describe a practice using the Essence language.  
+Alphas have an Alpha State.
+Alphas organize Work Products.
+Alpha States are progressed by Activity.
+Work Products describe Alphas, evidence Alpha States.
+Activities produce/update Work Products, result in Alpha States and require Competencies.
+Activity Spaces target Alpha States, organize Activities and involve Competencies.
+Patterns aren't connected to any specific Essence element but can be related to all of them.
+# The Essence Kernel
+The Essence kernel is the set of Essence elements that would always be found in all types of software system endeavours.
+For instance, the element architecture was discussed as a kernel element.
+- The opinion was that while for many systems it is critical to identify an architecture there are many simpler systems where architecture is not an issue.
+- Since it is not common to all projects, architecture is not a concern that every endeavor has to face, it didn’t qualify as a kernel element.
+In the following slides we will illustrate the elements that are part of Essence Kernel  
+## Areas of Concerns
+The Essence kernel elements are organized around 3 areas of concerns, that we have already seen:
+- Customer: This area of concern contains everything to do with the actual use and exploitation of the software system to be produced.
+- Solution: This area of concern contains everything related to the specification and development of the software system.
+- Endeavor: This area of concern contains everything related to the development team and the way that they approach their work  
+## The Essence Kernel
+The kernel elements are fundamentally of four kinds:
+1. The essential things to work with - the alphas
+2. The essential things to do - the activity spaces
+3. The essential capabilities needed - the competencies
+4. The essential arrangements of elements - the patterns.
+- Finding the right elements is crucial.
+- They must be universally acceptable, significant, relevant and guided by the notion that,
+“You have achieved perfection not when there is nothing left to add, but when there is nothing left to take away.”*
+# The Essence Language  
+## Essence Prime
+Essence provides a precise and actionable language to describe software engineering practices.
+- The constructs in the Essence language are in the form of shapes and icons.
+- The different shapes and icons each have different meaning.
+Essence categorizes the shapes and icons as:
+- Things to Work With
+- Things to Do
+- Competencies
+Essence provides explicit and actionable guidance.
+- This actionable guidance is delivered through associated checklists and guidelines.
+
+What is the Essence standard used for? Write less than 100 words.
+CONTEXT:
+# Conclusion.
+- User stories are a favorite way to write requirements for a digital product
+- Product management comes to define user stories after a market analysis that includes characterizing _personae_ ideal users of the product
+Self-assessment questions:
+- What does Humphrey's law assert?
+- What is a user requirement?
+- What is the standard form of user stories?
+- What is an epic?
+- What are the states of a requirement in the Essence model?
+# Essence Usages
+Essence has Two Major Usages: Practice Descriptions and Practice Application.
+# Structured conversations
+The team chooses practices to be used during development.
+Then practice by practice is analyzed and evaluated by individuals (red=bad, green=good).
+Chosen practices can be changed from sprint to sprint (but better not to change them _during_ the sprint).
+Essence can help the team form an opinion (see next slides).
+**Example of First Retrospective**
+Too little time spent on helping and managing work distribution by the Scrum Master.
+Devshave spent too little time developing the chosen features.
+Shallow planning of work during Sprint Planning.
+Daily Scrum done without consistency.
+Sprint Goal defined at beginning of sprint unclear.
+Poor communication during work.
+**Example of Last Retrospective**.
+Increased time spent on this phase (from less than an hour to more than 3 hours).
+General improvement in grades awarded.
+Previous retrospective discussions resulted in a tangible improvement in the team's collaborative spirit.
+Improvement in the management of the retrospective phase.
+Self-criticism of a DEV.
+# What makes Essence more than a conceptual framework
+Essence Guiding principles: actionable, extensible, practical.
+Actionable:
+- Alphas helps assess & drive progress and health of project
+- Each state has a checklist
+- Criteria needed to reach the state
+- Alphas are method and practice independent
+Practical:
+- Tangible through the cards
+- Cards provide concise reminders
+- Practical through Checklists and Prompts
+- Utilizable on a daily basis helping making decisions
+Extensible:
+- Practices are distinct, separate, modular units
+- Kernel allow create or tailor and compose practices to new methods
+- Additional Alphas can be added
+
+What are the Alphas of the Essence Kernel? Write less than 100 words.
+CONTEXT:
+# What makes Essence more than a conceptual framework
+Essence Guiding principles: actionable, extensible, practical.
+Actionable:
+- Alphas helps assess & drive progress and health of project
+- Each state has a checklist
+- Criteria needed to reach the state
+- Alphas are method and practice independent
+Practical:
+- Tangible through the cards
+- Cards provide concise reminders
+- Practical through Checklists and Prompts
+- Utilizable on a daily basis helping making decisions
+Extensible:
+- Practices are distinct, separate, modular units
+- Kernel allow create or tailor and compose practices to new methods
+- Additional Alphas can be added
+# 3. ESSENCE KERNEL
+Essence kernel contains essential elements that should be addressed in every software engineering endeavor. The kernel elements have 3 categories: alphas, activity spaces and competencies [3]. As shown in Figure 2, there are 7 alphas (Figure 2A)—stakeholder, opportunity, requirements, software system, work, way of working and team—and 15 activity spaces (2B) and 6 competencies (2C). Alphas, activity spaces and competencies are grouped in 3 areas of concern: customer, solution and endeavor.
+## 3.1 Essence Alpha and State Checklist
+Alphas are manifested by work products. Each alpha has a set of states. As shown in Figure 3, the opportunity alpha may be in one of six states over the lifecycle of a software engineering endeavor. If, for example, Product Vision—a work product in Scrum practice—is mapped to the opportunity alpha, Product Vision is deemed to go through the states listed in Figure 3. Essence also provides a checklist for each alpha state as illustrated in Figure 3. Cards can be used to recall the kernel elements. Figure 3 shows two types of cards—alpha definition card and alpha state detail card. Note that the checklist in an alpha state detail card shows an abbreviated version of the full checklist specified in [3].
+## 3.2 Essence Activity Space and Goal State
+Activity spaces are realized by one or more activities in a practice. Each activity may create or update one or more work products. For example, the understand the requirements activity space could be viewed as being realized by the release planning activity when using Scrum practice. Release planning produces a product backlog (work product), and this could be viewed as a manifest of the requirements alpha.
+Activities within a given activity space in an area of concern changes the states of some alphas in the same area. Figure 4 shows, based on Essence 1.0 [3], the alpha states that should typically be achieved by each activity space. We will call them the goal states of an activity space. For instance, the goal states of the explore possibilities activity space include: stakeholder::recognized, opportunity::identified, opportunity::solution needed, and opportunity::value established. The goal states of an activity can be determined as a subset of the goal states of the activity spaces in which the activity is contained.
+We can observe in Figure 4 that an activity space sometimes transforms an alpha to a new state over one or more intermediate states: e.g., the understand the requirements activity space transforms the requirements alpha from a null state to the coherent state through two intermediate states: conceived and bounded. When an activity space drives an alpha to go through multiple states, the checklist to verify achievement of the activity space’s goal states should cumulatively contain all the checkpoints corresponding to those multiple states. The activity space checklist to verify achievement of the entire goal states of an activity space is obtained by the union of the checklist for every alpha affected by the activity space.
+It should be noted that the activity space-alpha state relationships suggested in Essence 1.0 [3] (and shown in Figure 4) should be regarded as just a guideline. They will need to be tailored to address specific project situations. The Essence specification itself will evolve over coming years. The systematic procedure presented in Section 4 for describing a practice based on the Essence kernel is, however, still valid independent of any change to the activity space-alpha state relationships and alpha state checklists.
+# Essence Kernel Alphas  
+The Essence Kernel defines seven core, common Alphas for software engineering, which together:  
+Capture the key concepts involved in software engineering
+Allow the progress and health of any software endeavor to be tracked and assessed
+Provide common ground for the definition of software engineering practices.  
+Note that the Kernel Alphas each belong in one of the three Areas of Concern and are color-coded accordingly.
+# Alpha State Cards  
+This a list of all the Essence Kernel Alpha cards.  
+Each card has:
+- a title
+- a brief description (optional)
+- a list of states (optional)
+- a state (optional)
+- a checklist (optional)
+
+What are the Kernel Competencies? Write less than 100 words.
+CONTEXT:
+# What makes Essence more than a conceptual framework
+Essence Guiding principles: actionable, extensible, practical.
+Actionable:
+- Alphas helps assess & drive progress and health of project
+- Each state has a checklist
+- Criteria needed to reach the state
+- Alphas are method and practice independent
+Practical:
+- Tangible through the cards
+- Cards provide concise reminders
+- Practical through Checklists and Prompts
+- Utilizable on a daily basis helping making decisions
+Extensible:
+- Practices are distinct, separate, modular units
+- Kernel allow create or tailor and compose practices to new methods
+- Additional Alphas can be added
+# The Competencies
+Def. Competenciesare generic containers for specific skills
+- Specific skills, for example Java programming, are not part of the kernel because this skill is not essential on all software engineering endeavours.
+- But competency is always required and it will be up to the individual teams to identify the specific skills needed for their particular software endeavour.
+A common problem on software endeavours is not being aware of the gap between the competencies needed and the competencies available.
+- The kernel approach will raise the visibility of this gap.  
+## Competencies in Essence Kernel Standard
+Competencies are aligned to the three focus areas.
+Essence Kernel Standard competencies are needed for any Software Engineering Endeavour, independently then methods and techniques adopted.
+Competencies for the Customer area of concern are: Stakeholder Representation.
+Competencies for the Solution area of concern are: Analysis, Development, Testing.
+Competencies for the Endeavor area of concern are: Leadership, Management.  
+## Competencies Essence Standard Desc.
+Customer:
+- Stakeholder Representation: This competency encapsulates the ability to gather, communicate, and balance the needs of other stakeholders, and accurately represent their views.
+Solution:
+- Analysis: this competency encapsulates the ability to understand opportunities and their related stakeholder needs, and to transform them into an agreed upon and consistent set of requirements.
+- Development: This competency encapsulates the ability to design, program and code effective and efficient software systems following the standards and norms agreed upon by the team.
+- Testing: This competency encapsulates the ability to test a system, verify that it is usable and that it meets the requirements.
+Endeavour:
+- Leadership: This competency enables a person to inspire and motivate a group of people to achieve a successful conclusion to their work and to meet their objectives.
+- Management: This competency encapsulates the ability to coordinate, plan and track the work done by a team
+# Discussion.
+- If you have to create a system of 100 KLOCs,
+- How many _people_ are needed? For how long?
+- What do they need to do?
+- How do you organize them?
+- What documents must they produce? When?
+# Essence Kernel Competencies  
+The Essence Kernel defines six core Competencies that are the commonly needed for any software endeavor.  
+Note that, as with other aspects of the Essence Kernel, the set of Competencies described by the Kernel is the core, minimum set that is generally always expected to be required on any software development endeavor. Specialist Practices can extend this core minimum set by introducing their own additional Competencies as needed for particular types of endeavor to address specific types of challenge, such as Operations, Coaching, Database Administration or Hardware Design for example.  
+## Essence Kernel Competency Levels  
+The Essence Kernel defines five standard Competency Levels that can be used across all Competencies as follows:  
+Assists - demonstrates a basic understanding of the concepts involved and can follow instructions
+Applies - able to apply the concepts in simple contexts by routinely applying the experience gained so far
+Masters - able to apply the concepts in most contexts and has the experience to work without supervision
+Adapts - able to apply judgment on when and how to apply the concepts to more complex contexts. Can make it possible for others to apply the concepts
+Innovates - a recognized expert, able to extend the concepts to new contexts and inspire others.
+
+What are the states of the Work alpha? Write less than 100 words.
+CONTEXT:
+# Conclusion.
+- User stories are a favorite way to write requirements for a digital product
+- Product management comes to define user stories after a market analysis that includes characterizing _personae_ ideal users of the product
+Self-assessment questions:
+- What does Humphrey's law assert?
+- What is a user requirement?
+- What is the standard form of user stories?
+- What is an epic?
+- What are the states of a requirement in the Essence model?
+# The structure of an ALPHA
+An Alpha has different states, each state has a checklist of items that must be completed in other for the alpha to get to that state.
+# 1.5 The Prime Directive - Improving Agile Retrospectives
+Some facilitators begin their retrospectives by reading out the fundamental principle, the Prime Directive. First articulated by Norman Kerth in his book, Project Retrospectives: A Handbook for Team Reviews [ 1], the Prime Directive is designed to set the stage for the retrospective:
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time,
+their skills and abilities, the resources available, and the situation at hand.
+This principle is read aloud at the beginning of a retrospective, precisely in this wording.
+The idea is to make it clear to everyone that we are all human and make mistakes. The principle also points out that we shouldn’t assume that things have been done badly deliberately.
+**Practical Tip**
+You don’t need to read out the Prime Directive at every retrospective. In later retrospectives, simply reminding people of it is enough.
+Many retrospective facilitators swear by the Prime Directive. They feel that retrospectives that don’t start with this fundamental principle are less effective and therefore less useful. Pat Kua writes [Kua 2012] that this is related to the Pygmalion [ 11] or Rosenthal effect, or what is commonly known as “ ‘a self-fulfilling prophecy.’ ”
+The effect of a teacher’s preconceptions about his students might be an example of the Rosenthal effect. The idea is that a teacher’s positive preconception about a student (‘that student is a high achiever’) will affect the teacher’s behavior in such a way as to create confirmation of his expectations. What happens is that the teacher subtly transmits his preconception to the student through, for example, more one-to-one attention, more time given for response, frequency and strength of praise or blame, or high-performance requirements. This is an unconscious rather than deliberate course of action.
+In essence, the theory is that someone who is treated as having certain characteristics will manifest them. In fact, Rosenthal’s results were repeatedly called into question and could only be reproduced in 40 percent of cases [ 11].
+I personally believe that the success of a retrospective depends not on the careful reading out of the Prime Directive, but rather upon the values that it describes. I have carried out many successful retrospectives during which I did not explicitly mention the Prime Directive. I’m not saying that reading the
+principle isn’t a good thing; in new teams or established teams that are about to experience their first retrospective, this ritual can have a very positive, if not measurable, effect. In my experience, however, you lose that positive effect if you read out the directive at every retrospective. Repetition does to the directive what frequent flying does to pre-flight safety briefings. The first time you fly, you pay close attention. However, with prolonged exposure, you pay less and less attention until, in the end, you hardly notice it’s happening.
+A positive attitude is essential for a successful retrospective, but I believe there are many ways to achieve that attitude and the Prime Directive is only one (and one that is certainly no guarantee of success).
+There is also an alternative prime directive that is somewhat longer but may work better for some teams [ 12]. I personally like the fact that it is written in the first person and is thus more appealing:
+Some days are better than others. Some days I’m in the “flow” state, doing awesome work. Some days I come to the end of a day and realized I’ve wasted a lot of time, made mistakes that I should have foreseen, or wish I could have done something differently.
+Regardless, those days have happened and our purpose here is to find out:
+What can we learn from our past actions and thinking that will inform and guide our future actions and thinking so that we can do a little better?
+How can we change our environment (“the system”) so that it’s easier for us to do awesome work and less likely for us for us to waste time and make mistakes?
+Like the original Prime Directive, this version describes the goal of a retrospective and articulates the underlying principles. Also like the original, this alternative is just a tool and does not guarantee a successful retrospective. My advice is that you experiment with both versions and see what kind of an impact it has on your retrospectives. When properly used, the Prime Directive can be a valuable tool.
+# Work Alpha State cards  
+Title: Work Alpha
+Description: Activity involving mental or physical effort done in order to achieve a result.
+States: Initiated, Prepared, Started, Under Control, Concluded, Closed.  
+Title: Work State 1
+State: Initiated
+Description: The work has been requested.
+Checklist: Required result clear, Constraints clear, Funding stakeholders known, Initiator identified, Accepting stakeholders known, Source of funding clear, Priority clear  
+Title: Work State 2
+State: Prepared
+Description: All pre-conditions for starting the work have been met.
+Checklist: Commitment made, Cost and effort estimated, Resource availability understood, Risk exposure understood, Acceptance criteria established, Sufficiently broken down to start, Tasks identified and prioritized, Credible plan in place, Funding in place, At least one team member ready, Integration points defined  
+Title: Work State 3
+State: Started
+Description: The work is proceeding.
+Checklist: Development started, Progress monitored, Definition of done in place, Tasks being progressed  
+Title: Work State 4
+State: Under Control
+Description: The work is going well, risks are under control, and productivity levels are sufficient to achieve a satisfactory result.
+Checklist: Tasks being completed, Unplanned work under control, Risks under control, Estimates revised to reflect performance, Progress measured, Re-work under control, Commitments consistently met  
+Title: Work State 5
+State: Concluded
+Description: The work to produce the results has been concluded.
+Checklist: Only admin tasks left, Results achieved, Resulting system accepted  
+Title: Work State 6
+State: Closed
+Description: All remaining housekeeping tasks have been completed and the work has been officially closed.
+Checklist: Lessons learned, Metrics available, Everything archived, Budget reconciled & closed, Team released, No outstanding, uncompleted tasks
+
+What are the Activity Spaces in the Customer Area of Concern? Write less than 100 words.
+CONTEXT:
+# Activity  
+An Activity is the doing of some work by one or more people, for example in a workshop or meeting, or as an individual, pair or larger group collaboration. Examples might include Daily Stand-Up Meeting, Backlog Refinement or Develop a Component.  
+Activities are what we do. Activities are important because, unless we collectively actually do something (successfully), nothing is ever achieved or produced.  
+A good Activity description will include guidance on:
+- What outcomes the Activity produces or achieves
+- What we should do to achieve these outcomes
+- What kinds of Competencies at what Levels are needed to undertake the activity successfully.  
+## Activity Space  
+An Activity Space is a placeholder for something to be done in an endeavor, such as to Understand the Requirements.  
+The Essence Kernel defines a number of Activity Spaces that together represent the kinds of things that we need to do to progress any software engineering endeavor.  
+Activity Spaces can be used to group together related Activities that different Practices define.
+# Areas of concern
+Use and exploitation of the system: Customer.
+Specification and development: Solution.
+The team and approach of work: Endeavor.
+# The Essence Kernel
+## Kernel Alphas
+We have already met and defined Alphas as key aspects or elements of an endeavor that we need to progress. The Essence Kernel defines seven core, common Alphas which together:
+- Capture the key concepts involved in software engineering
+- Allow the progress and health of any software endeavor to be tracked and assessed
+- Provide a common ground for the definition of software engineering methods and practices.  
+There are customer needs to be met
+- Someone has a problem or Opportunity to address
+- There are other Stakeholders who will fund, use and benefit from the solution produced
+There is a solution to be delivered
+- There are certain Requirements to be met
+- There’ll be a Software System to develop
+There is an endeavor to be undertaken
+- We need to kick off the Work ...
+- Build an empowered Team of good people …
+- With a good, responsive Way of Working  
+As you may have already noticed, Essence subdivides the territory of software engineering into three broad Areas of Concern. Each has its own distinguishing color-coding.
+Customer (green) – contains everything to do with the use and exploitation of the solution to generate value for the customers and users
+Solution (yellow) – contains everything to do the specification and development of the solution to meet the needs of the customers
+Endeavor (blue) – Contains everything to do with the team, and the way that they approach their work to deliver the solution to the customer.  
+## Activity Spaces
+An Activity Space is a placeholder for something to be done in an endeavor such as Understand the Requirements.
+The Essence Kernel defines a set of Activity Spaces, which together define the kinds of things that we need to do to progress any software engineering endeavor.
+As with the Kernel Alphas, these can be used both independently and to help define practices:
+- The set of Activity Spaces can be used to assess coverage and do gap analysis across a team’s current way of working
+- Activities in practices can be placed within the Activity Spaces to give a clear indication of what general kinds of things the practice and its activities will help the team to achieve – e.g. our earlier example Find User Stories Activity is in the Understand the Requirements Activity Space.  
+## Competencies
+The Essence Kernel defines six core Competencies that are the commonly needed for any software endeavor.
+Practices will refer to these or can extend this set and introduce their own additional ones to address specific types of challenge. Some examples being Operations, Hardware Design, or Coaching.
+# Area of Concern  
+Essence subdivides the territory of software engineering into three broad areas that any software endeavor has to pay attention to. Each has its own color-coding.
+Areas of concern:  
+Customer – contains everything to do with the use and exploitation of the solution to generate value for the customers and users  
+Solution – contains everything to do with the specification and development of the solution to meet the needs of the customers  
+Endeavor – Contains everything to do with the team and the way that they approach their work to deliver the solution to the customer.
+
+What are the checklist items of the User Story "Identified" Alpha State card? Write less than 100 words.
+CONTEXT:
+# Alphas
+An Alpha is a key aspect or element that we need to progress, the state of which is a key indicator of the overall progress and health of an endeavor. Examples might include a User Story being progressed to a Done state or a Team achieving a state of Performing.
+Alphas are what we progress. These are of central importance in Essence because they ensure we remain focused on the valuable outcomes we are trying to achieve, not on secondary concerns such as what physical documents or other artefacts may or may not help us to achieve these outcomes.
+It progresses through a number of states, from top to bottom, as shown in this example of a User Story.  
+### Alpha States
+A State is a specification of the state of progress of an Alpha. Examples might include a User Story Alpha being
+in a State of Identified or an Impediment being Resolved.
+Alpha States can in turn be concisely and accurately defined in terms of the set Checklist Items that need to be achieved for the state to be achieved.
+In this example, the Identified State of a User Story Alpha might have these 3 Checklist Items that should be satisfied before it can be considered in that State.
+These Checklist Items can be used both as a way to assess whether an item is in this state, or considered as a set of “To Dos” to achieve it.
+# Alpha  
+An Alpha is a key aspect or element that we need to progress, the State of which is a key indicator of the overall progress and health of an endeavor. Examples might include a Team achieving a State of Performing or a User Story being progressed to a Done State.  
+Alphas are what we progress. These are of central importance in Essence because they ensure we remain focused on the valuable outcomes we are trying to achieve, not on secondary concerns such as what physical documents or other artefacts may or may not help us to achieve these outcomes.  
+A good Activity should be defined is by what progress it achieves. For example, a Backlog Refinement Activity might produce a new User Story and progress others so they are Ready for Development.  
+## Alpha State
+Alphas have States that describe how far they have been progressed.  A State is a specification of the state of progress of an Alpha. Examples might include a User Story Alpha being in a State of Done or an Impediment being in a Resolved State.  
+We can more accurately define Activities in terms of what State they progress Alphas to (and possibly from). For example a Develop User Story Activity might progress a User Story from State Ready to State Done.  An Alpha is defined in terms of the set of States that it is progressed through, “from top-to-bottom”, for example as shown aside for a User Story Alpha.  
+Alpha States can in turn be concisely and accurately defined in terms of the set Checklist Items that need to be achieved for the State to be achieved. For example, the Done State of a User Story Alpha might have Checklist Items such as:
+- Implemented in the product
+- Tested against the acceptance criteria
+- Accepted as meeting the stakeholder needs.
+# Alpha State Cards  
+This a list of all the Essence Kernel Alpha cards.  
+Each card has:
+- a title
+- a brief description (optional)
+- a list of states (optional)
+- a state (optional)
+- a checklist (optional)
+
+What is Mad Sad Glad? Write less than 100 words.
+CONTEXT:
+# Restrospective Essence cards - Patterns  
+Title: Feedback
+Description: Feedback patterns establish mechanisms for assessing performance and adjusting the approach based on these assessments.  
+Title: Mad, Sad, Glad
+Description: A popular approach to team brainstorming to identify potential improvements.
+Team members write on sticky notes what has made them:
+Mad – frustrations
+Sad – disappointments
+Glad – things that went well
+Part of its power is that it taps into people’s emotions, and results in an unfettered flow of ideas that the team can then analyze, prioritize and action.
+One approach to: Hold a Retrospective
+Patterns: Feedback gorups Mad, Sad, Glad
+# AGILE Retrospective  
+Use the Agile Retrospective practice to gather insight into a period of activity or event, and to generate actions for improvement.  
+It includes basic instructions on the performance of retrospectives and a catalogue or useful techniques that can be use to keep the retrospectives focused, productive and entertaining.  
+Make incremental improvements to the way of working through regular, repeated retrospectives.  
+The retrospective practice, in Essence, creates one activity which is Hold a Retrospective, one alpha which is Improvement, a few patterns which are Feedback, Mad Sad Glad, 5 whys, 4 Ls, Where are we, one work product which is the Action List and two competencies which are Leadership level 2 and management level 2.  
+## Contents  
+### Things to do:
+- Hold Retrospective  
+### Competencies:
+- Leadership  
+### Things to work with:
+- Action List  
+### Patterns:
+- Mad, Sad, Glad
+- 5 Whys
+- 4 Ls
+- Where Are We?  
+## Key Resources
+Agile Retrospectives – Ester Derby .....
+# MAD, SAD, GLAD (Pattern of Retrospective Practice)  
+A (serious) game to play during retrospectives.  
+Source: Agile Retrospectives
+Ester Darby
+Tags: ???
+Data Gathering Technique  
+## Participants:
+- 7 + or – 2 team members
+- A facilitator (could be team member)
+- A customer rep/product owner  
+## Equipment:
+- Sticky Notes  
+## Basic instructions of Mad Sad Glad:
+1. Facilitator asks group to each write down on sticky notes at least 1 or 2 issues that made them feel GLAD, MAD, and SAD during the previous Sprint
+2. Facilitator create headings for MAD, SAD, GLAD on whiteboard
+3. Team members place sticky notes under appropriate area
+4. Facilitator clusters common sticky notes. Facilitator asked group to name each cluster
+6. Group agrees on top 2-3 areas for further discussion/insight generation  
+## Description:
+A simple technique that enables a team to quickly gather data about potential issues to resolve.  
+## Use when:
+- During a retrospective
+- After review of how we did addressing issues from last retrospective
+- To generate issues for discussion/insight generation
+- Limit to 15-20 minutes  
+## Applied to:
+- Sprint retrospective  
+## Applied By:
+- Team  
+## Related To:
+- 5 Whys  
+## Resources:
+- None
+
+What are the steps of Progress Poker? Write less than 150 words.
+CONTEXT:
+# Conclusions.
+- Waterfall processes: planned, rigid
+- Iterative processes: planned, flexible
+- Agile processes: unplanned, adaptive
+- There are many variations
+- Each organization defines the model it prefers, possibly adapting it for
+classes of products or software projects
+Self-testing:
+- What is a software process?
+- What are the typical steps in the development process?
+- What are the main differences between linear processes
+and iterative processes?
+- How do you recognize a waterfall process?
+- What are the main performance indicators of
+software process?
+# Where are we? (Pattern of Retrospective Practice)  
+A (serious) game to play during retrospectives.  
+Source: Agile Retrospective
+Tags: Serious Games
+Workshop Techniques  
+## Participants:
+- 7 +-2
+- A facilitator (who can also participate)  
+## Equipment:
+- Alpha State Cards
+- Large, flat work area  
+## Basic instructions of Where are we?:
+1. Lay out the cards for each Alpha in a row on the table with the first state on the left and the final state on the right
+2. Starting with the first state of the first Alpha, walkthrough the checklist and ask if the state has been achieved.
+3. If the state has been achieved move the card to the left. Continue until you reach a state that the team has not yet achieved, or you run out of states.
+4. If it is not clear which state one of the Alphas is in then a quick round of Progress Poker can be used to help reach consensus.
+5. Repeat for all Alphas.
+6. Consider the overall position of the cards:
+1. Are any Alphas lagging?
+2. What are the next states to be achieved.  
+## Description:
+A SEMAT game that helps a team to understand where they are and contrast this wit where they need to be. The game uses the SEMAT Alphas and Alpha State Card to:
+- Assess where the team is
+- Identify gaps between the current state and the desired state  
+## Use when:
+- You want to get a holistic, method independent view of where you are and identify areas for improvement
+- Duration – up to 30 minutes  
+## Applied to:
+- Any software development endeavor  
+## Applied By:
+- Retrospect  
+## Related To:
+- Progress Poker  
+## Resources:
+- Alpha State Cards
+- Alpha State Card Games: Chase the State
+- Essence Quick Reference Guide
+# Scenario description.
+- This is a generic and sequential description of the flow of events of a use case.
+- Describe the precondition (initial state of the system)
+- List the sequence of steps
+- Include interactions with actors and describe which entities are exchanged
+- Description must be clear, precise, and brief
+Search for use cases:
+Useful questions:
+- What are the tasks of this actor?
+- Will the actor manage information in the system?
+- What Use Cases will create, modify, read this information?
+- Does the actor need to inform the system of sudden changes?
+- Does the actor need to be informed of certain situations?
+- Does the system support the business with correct behavior?
+- What Use Cases support and maintain the system?
+- Are all functional requirements covered by the Use Cases we found?
+# Alpha State Card Game: Progress Poker
+## Object of Play
+Team members may have different opinions on where they are, or where they need to go next. The idea behind Progress Poker is simple. Individual Alphas are presented for assessment. After a period of discussion, each participant chooses from his or her own deck the numbered card that represents his or her estimate of the state that the Alpha is currently in. All estimates are kept private until each participant has chosen a card. At that time, all estimates are revealed and discussion can begin again.
+Use this game to determine the state of any particular Alpha.
+## Variations
+The game can also be played with only one set of cards:
+1) Lay the state cards for the Alpha under consideration out on the table, in order, in front of the players.
+2) Each player considers the set of states and identifies the state that they believe the Alpha to be in.
+3) The players then simultaneously raise their hands with the correct number of fingers raised to indicate the state they have selected. A closed fist is used to indicate the sixth state.
+4) If all players have selected the same state card then there is consensus.
+5) If the selected cards are different then the players with the least and most advanced states explain their reasoning.
+6) Repeat from 3 until consensus emerges
+Or without the cards at all. As for the previous variation but in this case each player has a copy of the Reference Guide to consult when identifying the appropriate state.
+## Number of Players
+Any, but typically teams of 3 to 9 will be the most effective.
+## Equipment Needed
+- Essential: 1 set of Alpha State Cards for each player
+- Optional: An Alpha State Card Reference Guide
+## Duration of Play
+2 – 10 minutes.
+## How to Play
+1. Each player is given a set of state cards for the Alpha under consideration.
+2. The Alpha card for the Alpha under consideration is placed in the center of the table.
+3. Each player selects the state card that he or she thinks best represents the current state of the Alpha.
+4. All members put their selected state card face down on the table.
+5. When all are ready, they turn the state card face up.
+If all players have selected the same state card then there is consensus.
+7. If the selected cards are different then the players with the least and most advanced states explain their reasoning.
+8. Repeat from 3 until consensus emerges
+Optional step: @ state 6 then the players might want to consider the full checklists found in the Reference Guide.
+## Strategy
+Progress Poker is a good way to come to a consensus without spending too much time on any one topic. It allows, or forces, people to voice their opinions, thoughts and concerns. Pick the Alphas of concern to the group and focus on them. This game can be used in conjunction with “Chase the State” to determine the overall state of any software development effort. Once the current state of an Alpha is known then the next state to be achieved is obvious.
+
+What practices do you recommend to a group of students who has to make a mobile game for a university project? Write less than 100 words.
+CONTEXT:
+# Retrospective Game: Progress Poker.
+Depending on the phase, some alpha cards and their status cards are chosen and the team tries to decide “what has been done.”
+Each team member gives an evaluation and explains his or her opinions when the evaluation differs from that of teammates.
+Each team member must reflect and explain why they evaluated the state in that way.
+**Examples - Scenario 1 Bad Team**
+Badteam had a difficult life. The people in the group have split into two subgroups who rarely talk to each other.
+“Leader” took a position of power, and did all the setup work of the project alone, while the second group just wrote about ten userstories, without asking anything from the others; with no estimation of any kind so it is not given to have estimates of delivery or result.
+The Scrumble game was rushed, it was “lost,” and the group got into a bit of a fight.
+The development system has been sketched out, in the sense that taiga is active, but there are no documents.
+**Average team**
+Averageteam has essentially done its homework. “Leader” was elected as coordinator, and was able to take back some members of the group who tended to ‘slip up’; two subteams were created, one of more web compentencies and one of more classical compentencies (Java). A
+carried out a multihanded test project using git.
+The development system has been prepared, with Taiga online, Gitlab, and mattermost; communications are quite frequent.
+The Scrumble game was lost, but it was useful, according to the participants.
+The backlog consists of about ten items that follow the classic pattern, and some of them, the most important ones, were estimated using a Planning Poker under the directive of “Analyst” who proved to be the most attentive to capture the domain issues.
+**Dream team**
+For Dream Team everything is going swimmingly. Under Leader's “enlightened dictatorship,” the development system has been developed in its entirety, even identifying the technology to be used.
+The Scrumble match has been revealing, and has helped identify the best people for the particular roles.
+The team did a collegial analysis and created two Epics and a dozen user stories, working online via meet, mattermoste slack. An initial version of these were submitted to stakeholders, who provided interesting feedback, and provoked modification from a couple of stories. As a result, all of the first 8 stories are estimated and prioritized.
+Two products have been produced on gitlabs so far: a program that collects all tweets related to a #tag, and a Java program to test the user interface of a subsection of the program.
+#Background games
+**Background game: we define the state of the alphas**.
+The initial positions of the states of all the alphas are prepared.
+You discuss and advance the states of the alphas if all items on the next state checklist have been met.
+This is continued for all alphas until the current state of all alphas is found.
+**Background game: good mad sad**.
+You create a table divided into three columns (happy face, indifferent face and unhappy face) and three rows (very important, medium important, unimportant).
+You place the various Essence cards in the grid according to how they did during the last iteration. Then you add post-its with comments on how to improve them.
+**Background games with Essence**
+- Progress Poker- Use this game to determine the state of any particular Alpha
+- Chase the State- Use this game to determine the state of your software development efforts.
+- Objective Go- Use this game to identify high-level goals and objectives for your team.
+- Checkpoint Construction- Use this game to define practice independent check points with automatically generated practice independent checklists.
+- Lifecycle Layout- Use this game to visualize your software development lifecycle to form a starting point for team planning.
+- Milestone Mapping-Use this game to visualize your milestones and form light-weight roadmap for your software development.
+- Health Monitoring-Use this game to visually track the health of your endeavor regardless of the practices or method being used.
+# How to write user stories
+Lesson Objectives:
+- Working with user stories
+- User stories are fragments of conversations
+- The additional conditions
+- The specification of tests
+- Definition of Ready, Definition of Done
+- INVEST Principles
+- MoSCoW method for prioritizing user stories
+- User story mapping
+- Checklist Essence cards
+Product Ownerdevelops the product backlog and uses it to collaborate with the team
+When.
+The Product Ownerdevelops the backlog, with the help of the Devs:
+- At the beginning of development
+- During development:
+- During sprint planning
+- During sprint review (demo)
+# 1.5 The Prime Directive - Improving Agile Retrospectives
+Some facilitators begin their retrospectives by reading out the fundamental principle, the Prime Directive. First articulated by Norman Kerth in his book, Project Retrospectives: A Handbook for Team Reviews [ 1], the Prime Directive is designed to set the stage for the retrospective:
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time,
+their skills and abilities, the resources available, and the situation at hand.
+This principle is read aloud at the beginning of a retrospective, precisely in this wording.
+The idea is to make it clear to everyone that we are all human and make mistakes. The principle also points out that we shouldn’t assume that things have been done badly deliberately.
+**Practical Tip**
+You don’t need to read out the Prime Directive at every retrospective. In later retrospectives, simply reminding people of it is enough.
+Many retrospective facilitators swear by the Prime Directive. They feel that retrospectives that don’t start with this fundamental principle are less effective and therefore less useful. Pat Kua writes [Kua 2012] that this is related to the Pygmalion [ 11] or Rosenthal effect, or what is commonly known as “ ‘a self-fulfilling prophecy.’ ”
+The effect of a teacher’s preconceptions about his students might be an example of the Rosenthal effect. The idea is that a teacher’s positive preconception about a student (‘that student is a high achiever’) will affect the teacher’s behavior in such a way as to create confirmation of his expectations. What happens is that the teacher subtly transmits his preconception to the student through, for example, more one-to-one attention, more time given for response, frequency and strength of praise or blame, or high-performance requirements. This is an unconscious rather than deliberate course of action.
+In essence, the theory is that someone who is treated as having certain characteristics will manifest them. In fact, Rosenthal’s results were repeatedly called into question and could only be reproduced in 40 percent of cases [ 11].
+I personally believe that the success of a retrospective depends not on the careful reading out of the Prime Directive, but rather upon the values that it describes. I have carried out many successful retrospectives during which I did not explicitly mention the Prime Directive. I’m not saying that reading the
+principle isn’t a good thing; in new teams or established teams that are about to experience their first retrospective, this ritual can have a very positive, if not measurable, effect. In my experience, however, you lose that positive effect if you read out the directive at every retrospective. Repetition does to the directive what frequent flying does to pre-flight safety briefings. The first time you fly, you pay close attention. However, with prolonged exposure, you pay less and less attention until, in the end, you hardly notice it’s happening.
+A positive attitude is essential for a successful retrospective, but I believe there are many ways to achieve that attitude and the Prime Directive is only one (and one that is certainly no guarantee of success).
+There is also an alternative prime directive that is somewhat longer but may work better for some teams [ 12]. I personally like the fact that it is written in the first person and is thus more appealing:
+Some days are better than others. Some days I’m in the “flow” state, doing awesome work. Some days I come to the end of a day and realized I’ve wasted a lot of time, made mistakes that I should have foreseen, or wish I could have done something differently.
+Regardless, those days have happened and our purpose here is to find out:
+What can we learn from our past actions and thinking that will inform and guide our future actions and thinking so that we can do a little better?
+How can we change our environment (“the system”) so that it’s easier for us to do awesome work and less likely for us for us to waste time and make mistakes?
+Like the original Prime Directive, this version describes the goal of a retrospective and articulates the underlying principles. Also like the original, this alternative is just a tool and does not guarantee a successful retrospective. My advice is that you experiment with both versions and see what kind of an impact it has on your retrospectives. When properly used, the Prime Directive can be a valuable tool.
+# Using Essence
+Cards using the Essence Language described in this guide represent the key concepts of working practices. This opens up a whole new set of powerful games, allowing a team to reason about and improve their way of working.
+The cards provide focus on the essentials to provoke the right conversations, allowing the whole team to reason and collaborate effectively.
+A number of guided collaborations or ‘serious games’ have been evolved, refined and shared, and teams will often make up their own once they have the cards in their hands. Physically interacting with the physical cards and gameboards (or electronic equivalents) helps to establish shared understanding, builds consensus and encourages collective decision-making. Some examples of these kinds of serious games include:  
+Learning new practices during coaching sessions and training events
+- Team Retrospectives, improving the team’s way of working (pictured above)
+- Planning Activities efficiently, coordinating the team and other stakeholders
+- Agreeing responsibilities within the team and with external stakeholders
+- Tracking key progress items and status indicators using Alphas and their states
+- Capturing new practices ensuring a shared understanding within the team.  
+A number of serious games can also be played with just the information provided by the Essence Kernel and are applicable regardless of the actual practices a team are using. These games are especially powerful as they give an overall holistic view of the work. This high- level view is often invisible while the teams are focused on the lower-level details. Some examples include:
+- Determining the current status of the endeavour using the top level kernel Alphas and their States (pictured above)
+- Planning the next key achievements at this top level
+- Comparing the current status against a defined high-level goal or milestone
+- Reviewing a way of working for improvement opportunities and gaps
+- Assessing the competencies within a team against what is needed
+
+What best practices should we adopt to make our Continuous Integration pipeline more reliable? Write less than 100 words.
+CONTEXT:
+# I. INTRODUCTION
+Agile methodologies are widely used in the software industry, where they are applied using a variety of processes and best practices. Agile methods and practices can also help students develop valuable soft skills such as communication, teamwork, and adaptability. Practicing agile, they should learn how to work effectively with a product owner and other developers, respond to changing requirements, and aiming at continuously improving their work processes. Although there are several agile methods, two are especially outstanding: Scrum [21] and Extreme Programming [3]. The former is the most popular, be- cause it enforces the major Agile principles of iterative, value- based, incremental delivery by frequently gathering customer feedback and embracing requirements change. The latter is also well known, as it introduced a set of agile best practices that can be easily be applied and exploited by students, such as pair programming, the collective property of code, requirements as user stories, etc. An important value fostered by the agile vision is that the process is less important than individuals and interactions. We interpret this value suggesting the students that they can choose the best practices to use
+during the development. Planning and implementing their own Agile software process can also help students develop a sense of ownership and responsibility over their work. They will have a better understanding of what is expected of them, and they will be more motivated to achieve their goals. Overall, learning how to plan their own Agile software process and pick Agile best practices can be a valuable learning experience for students, preparing them for successful careers in software development and helping them develop important skills for any profession.
+In this paper we report on our experiences with training to agile vision and selection of agile best practices our Computer science students in a software engineering class. We adopt the Essence approach [12] that is based on a visual language able to capture combinations of agile practices and the state of their enactment inside a development process. Essence is formally an international standard issued by OMG [18].
+Learning how to plan their own Agile software process and choose which best practices apply can help students become more effective and efﬁcient in their software development work. They will be able to break down complex projects into smaller, more manageable tasks and work collaboratively with their team members to complete these tasks in a timely manner. We use a team building game to help the students to select their role in a Scrum-like team. Then we ask them to use a number of state-of-the art open source tools, like Taiga, GitLab, and SonarQube, to help them during the development and to collect data useful for the analysis we will report in this paper. We also suggest them to follow the Essence approach to process enactment and retrospective analysis. Concerning the evaluation of this experience, we have developed a maturity model to analyze how student teams perform their teamwork. We observed more than one hundred students divided in teams averaging ﬁve members each.
+Speciﬁcally, we observed 136 students (57 in 2021 and 79 in 2022) divided in 27 teams (11 in 2021 and 16 in 2022) with an average of 5 components each (three teams had six components and two teams had four).
+The project consisted in creating a Twitter client enriched with
+a dashboard with several ﬁltering and visual analytics features.
+The teamwork was organized following a Scrum-like ap- proach: each team had to work for at least three 3-week-sprints using CAS services and then write a ﬁnal report to summarize the development process. Each student had then to complete an individual questionnaire to evaluate the experience.
+We collected several data. The main data sources were the ﬁnal reports, the individual questionnaires and, within the CAS environment, Gitlab, Taiga, and SonarQube. The ﬁnal reports were a fundamental source of data since, in addition to containing all mandatory information, most teams included additional elements regarding their own process. Tools were shared with the instructors. Gitlab was used to analyze the structure of the teams’ repositories and obtain data regarding the frequency of commits and the tests performed. Taiga was used by the teams to manage their sprints and their retrospectives (conducted using Essence cards); the instructors, as Product Owners, could see the progresses on the product and its documentation. SonarQube was used for extracting product quality data and technical debt data.
+This paper has the following structure: Section II presents some related works; Section III overviews the approach we fol- lowed, describing the preliminary activities for team building, the product to be built by the teams, the process enacted, and the open source tools which were used. Section IV presents the results of the analysis of the data we collected; Section V discusses these results; ﬁnally, Section VI presents our conclusions and the work we are planning now.
+# Continuous integration.
+- Pair writes tests and code for a task (= part of a user story)
+- Pair performs all unit testing
+- Pair performs integration of new unit with others
+- The pair performs all regression testing
+- The pair moves on to the next task with a clear mind (happens once or twice a day)
+- The goal is to prevent the “ _Integration Hell_ ”
+# 1.5 The Prime Directive - Improving Agile Retrospectives
+Some facilitators begin their retrospectives by reading out the fundamental principle, the Prime Directive. First articulated by Norman Kerth in his book, Project Retrospectives: A Handbook for Team Reviews [ 1], the Prime Directive is designed to set the stage for the retrospective:
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time,
+their skills and abilities, the resources available, and the situation at hand.
+This principle is read aloud at the beginning of a retrospective, precisely in this wording.
+The idea is to make it clear to everyone that we are all human and make mistakes. The principle also points out that we shouldn’t assume that things have been done badly deliberately.
+**Practical Tip**
+You don’t need to read out the Prime Directive at every retrospective. In later retrospectives, simply reminding people of it is enough.
+Many retrospective facilitators swear by the Prime Directive. They feel that retrospectives that don’t start with this fundamental principle are less effective and therefore less useful. Pat Kua writes [Kua 2012] that this is related to the Pygmalion [ 11] or Rosenthal effect, or what is commonly known as “ ‘a self-fulfilling prophecy.’ ”
+The effect of a teacher’s preconceptions about his students might be an example of the Rosenthal effect. The idea is that a teacher’s positive preconception about a student (‘that student is a high achiever’) will affect the teacher’s behavior in such a way as to create confirmation of his expectations. What happens is that the teacher subtly transmits his preconception to the student through, for example, more one-to-one attention, more time given for response, frequency and strength of praise or blame, or high-performance requirements. This is an unconscious rather than deliberate course of action.
+In essence, the theory is that someone who is treated as having certain characteristics will manifest them. In fact, Rosenthal’s results were repeatedly called into question and could only be reproduced in 40 percent of cases [ 11].
+I personally believe that the success of a retrospective depends not on the careful reading out of the Prime Directive, but rather upon the values that it describes. I have carried out many successful retrospectives during which I did not explicitly mention the Prime Directive. I’m not saying that reading the
+principle isn’t a good thing; in new teams or established teams that are about to experience their first retrospective, this ritual can have a very positive, if not measurable, effect. In my experience, however, you lose that positive effect if you read out the directive at every retrospective. Repetition does to the directive what frequent flying does to pre-flight safety briefings. The first time you fly, you pay close attention. However, with prolonged exposure, you pay less and less attention until, in the end, you hardly notice it’s happening.
+A positive attitude is essential for a successful retrospective, but I believe there are many ways to achieve that attitude and the Prime Directive is only one (and one that is certainly no guarantee of success).
+There is also an alternative prime directive that is somewhat longer but may work better for some teams [ 12]. I personally like the fact that it is written in the first person and is thus more appealing:
+Some days are better than others. Some days I’m in the “flow” state, doing awesome work. Some days I come to the end of a day and realized I’ve wasted a lot of time, made mistakes that I should have foreseen, or wish I could have done something differently.
+Regardless, those days have happened and our purpose here is to find out:
+What can we learn from our past actions and thinking that will inform and guide our future actions and thinking so that we can do a little better?
+How can we change our environment (“the system”) so that it’s easier for us to do awesome work and less likely for us for us to waste time and make mistakes?
+Like the original Prime Directive, this version describes the goal of a retrospective and articulates the underlying principles. Also like the original, this alternative is just a tool and does not guarantee a successful retrospective. My advice is that you experiment with both versions and see what kind of an impact it has on your retrospectives. When properly used, the Prime Directive can be a valuable tool.
+# Essentialization moves us to...
+Essentialization moves us to Industrial Scale Engineering and a Leaming Organization.
+Industrial Scale Engineering:
+- Systematically address the methods to allow for dramatic efficiency and quality improvements through tooling and techniques
+- Right size the applied methods to fit the problems at hand with minimum overhead, which shortens time to market
+- Application of many engineering practices for:
+- requirements such as use cases, features, user stories
+- design and architecture patterns, for developing components and services
+- testing complex, distributed systems
+- encouraging systematic reuse
+- helping engineers code with confidence
+- architectural concerns such as concurrency, security, user experience, micro-services, and data protection
+- Application of practices with broader architectural concerns such as enterprise architecture, product-line architecture, service-oriented architecture and the architecture of systems of systems
+- Working systematically instead of relying on heroics
+Leaming Organization:
+- Common language / common culture
+- Create your own kernel - if needed
+- Establish shared common ground for all teams
+- Exchange and share practices and experiences
+- Increase the competency of every individual
+- Building practice libraries accessible to everyone
+- Continuously improve
+- Nurture communities of practices
+- Share practice
+- Directed coaching
+- Practice-based accreditation
+- Create winning teams
+- Plug and play methods and practices
+- Track progress and health
+- Lightweight, practical governance
+- More competent people will
+- develop better software faster and cheaper with happier customers
+- innovate more effectively
+
+What practices can we adopt to minimise the risk of introducing bugs in production? Write less than 100 words.
+CONTEXT:
+# Crowdsourced testing  
+- Testing managed by non-specialists via cloud infrastructure
+- Used for user-centric software especially to evaluate its usability
+- Only errors found are paid  
+Fault injection:
+- A technique to improve test coverage by introducing errors to test in particular the code that handles such errors, which otherwise would not be executed
+- Example: in the test of an operating system kernel you can insert a driver that intercepts system calls and randomly returns an error for some of the calls.  
+Testing tools:
+- Junit, xunit
+- Jenkins
+- Selenium
+- sonarqube  
+SonarQube: static analysis
+SonarQube is an open platform, extensible with plugins.
+It is used to analyze large codebases, reporting bugs and smells.
+It covers more than 20 different languages.
+# Why is the sw defective?  
+- Humans make mistakes, especially when performing complex tasks; this is inevitable
+- Experienced programmers make an average of one error every 10 lines
+- About 50% of coding errors are caught at compile time
+- Other errors are caught by testing
+- About 15% of errors are still in the system when it is delivered to the customer  
+**Failures vs. Defects**  
+- MTTF: mean time to failure
+- defects are more dangerous the more frequent the failures that result from them
+- The figure shows that you have to look for the most common defects that cause the most frequent failures,
+- These “common” defects are few compared to the total failures: many are rare or very rare
+- So eliminating defects does not necessarily improve the quality of a software system!
+# Structured conversations
+The team chooses practices to be used during development.
+Then practice by practice is analyzed and evaluated by individuals (red=bad, green=good).
+Chosen practices can be changed from sprint to sprint (but better not to change them _during_ the sprint).
+Essence can help the team form an opinion (see next slides).
+**Example of First Retrospective**
+Too little time spent on helping and managing work distribution by the Scrum Master.
+Devshave spent too little time developing the chosen features.
+Shallow planning of work during Sprint Planning.
+Daily Scrum done without consistency.
+Sprint Goal defined at beginning of sprint unclear.
+Poor communication during work.
+**Example of Last Retrospective**.
+Increased time spent on this phase (from less than an hour to more than 3 hours).
+General improvement in grades awarded.
+Previous retrospective discussions resulted in a tangible improvement in the team's collaborative spirit.
+Improvement in the management of the retrospective phase.
+Self-criticism of a DEV.
+# Errors, defects and failures  
+The “life” of a bug:
+- The programmer makes a mistake while writing a line of code;
+- The error can have several negative effects: it becomes a defect ( _fault_ )
+- The defect directly causes an exception/unwanted output: it becomes a failure  
+From IEEE Standard Glossary of SE Terminology  
+- **Error** : cause of a defect;
+example: a human error in interpreting the specification or in using a method
+- **Fault** : source defect ( _bug_ ), causing a failure
+- **Failure** : behavior of the sw not foreseen by its specification  
+Standard classification of software problems.
+
+Are there any practices that could improve communication within our distributed teams? Write less than 100 words.
+CONTEXT:
+# Structured conversations
+The team chooses practices to be used during development.
+Then practice by practice is analyzed and evaluated by individuals (red=bad, green=good).
+Chosen practices can be changed from sprint to sprint (but better not to change them _during_ the sprint).
+Essence can help the team form an opinion (see next slides).
+**Example of First Retrospective**
+Too little time spent on helping and managing work distribution by the Scrum Master.
+Devshave spent too little time developing the chosen features.
+Shallow planning of work during Sprint Planning.
+Daily Scrum done without consistency.
+Sprint Goal defined at beginning of sprint unclear.
+Poor communication during work.
+**Example of Last Retrospective**.
+Increased time spent on this phase (from less than an hour to more than 3 hours).
+General improvement in grades awarded.
+Previous retrospective discussions resulted in a tangible improvement in the team's collaborative spirit.
+Improvement in the management of the retrospective phase.
+Self-criticism of a DEV.
+# MAD, SAD, GLAD (Pattern of Retrospective Practice)  
+A (serious) game to play during retrospectives.  
+Source: Agile Retrospectives
+Ester Darby
+Tags: ???
+Data Gathering Technique  
+## Participants:
+- 7 + or – 2 team members
+- A facilitator (could be team member)
+- A customer rep/product owner  
+## Equipment:
+- Sticky Notes  
+## Basic instructions of Mad Sad Glad:
+1. Facilitator asks group to each write down on sticky notes at least 1 or 2 issues that made them feel GLAD, MAD, and SAD during the previous Sprint
+2. Facilitator create headings for MAD, SAD, GLAD on whiteboard
+3. Team members place sticky notes under appropriate area
+4. Facilitator clusters common sticky notes. Facilitator asked group to name each cluster
+6. Group agrees on top 2-3 areas for further discussion/insight generation  
+## Description:
+A simple technique that enables a team to quickly gather data about potential issues to resolve.  
+## Use when:
+- During a retrospective
+- After review of how we did addressing issues from last retrospective
+- To generate issues for discussion/insight generation
+- Limit to 15-20 minutes  
+## Applied to:
+- Sprint retrospective  
+## Applied By:
+- Team  
+## Related To:
+- 5 Whys  
+## Resources:
+- None
+# Dimensions of time
+- Linear time
+- Linked to an intuitive notion of progress
+- “More today than yesterday and less than tomorrow”
+- Cyclical time
+- Hours, days, weeks, months, seasons...
+- Cyclical time apparently repeats itself without
+progress, it needs indications of progress
+- “ _Sentinel, at what point is the night_? ‘The sentinel replies, ’ _Morning comes, and comes_.
+_The night also. If you want to question, question away; come back another time_ “Isaiah, 21
+Software is built in cycles
+(and cycles within cycles)
+Cycles within cycles
+Waterfall vs iterative
+Spiral model (Boehm):
+- Risk assessment/reduction (Risk Analysis)
+- Development and Verification (Engineering)
+- Review and Planning (Evaluation)
+- Goal Setting (Planning)
+# III. METHOD
+In this section we will present our research method. First, before the course we built and conﬁgured an experimental open source environment, inspired by Jira, to be used by the student teams and also useful to collect process data.
+We asked the teams to start their project work with a team building activity, using the serious game Scrumble1, aiming at improving the reciprocal knowledge and training themselves with a simulated form of Scrum cooperation. Fig.1 shows a selﬁe by a team after having played the game.
+We produced also an online version of the game, so that the teams could play remotely during the pandemic.
+Figure 1. A team at the end of a game of Scrumble
+After the teams completed and self-evaluated their team build- ing we described them the product to build: a Twitter client with several capabilities for visual analytics, to be applied to speciﬁc situations: eg. an earthquake, to signal emergency situations, or a travel with some friends, to signal the positions of the participants during the visit to some city or area. We also asked the teams to follow a Scrum-like process, that could be adapted to their needs using the Essence approach. Essence allows to select and organize speciﬁc practices (eg. pair programming or retrospective with some special activities) still keeping Scrum as a reference framework. At the end of the project the teams had to produce a demo and a process report. The exam consisted in a product demo and a ﬁnal retrospective conducted together with the instructors.
+
+How can we make better use of feedback from users or stakeholders to improve our process? Write less than 100 words.
+CONTEXT:
+# 1.5 The Prime Directive - Improving Agile Retrospectives
+Some facilitators begin their retrospectives by reading out the fundamental principle, the Prime Directive. First articulated by Norman Kerth in his book, Project Retrospectives: A Handbook for Team Reviews [ 1], the Prime Directive is designed to set the stage for the retrospective:
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time,
+their skills and abilities, the resources available, and the situation at hand.
+This principle is read aloud at the beginning of a retrospective, precisely in this wording.
+The idea is to make it clear to everyone that we are all human and make mistakes. The principle also points out that we shouldn’t assume that things have been done badly deliberately.
+**Practical Tip**
+You don’t need to read out the Prime Directive at every retrospective. In later retrospectives, simply reminding people of it is enough.
+Many retrospective facilitators swear by the Prime Directive. They feel that retrospectives that don’t start with this fundamental principle are less effective and therefore less useful. Pat Kua writes [Kua 2012] that this is related to the Pygmalion [ 11] or Rosenthal effect, or what is commonly known as “ ‘a self-fulfilling prophecy.’ ”
+The effect of a teacher’s preconceptions about his students might be an example of the Rosenthal effect. The idea is that a teacher’s positive preconception about a student (‘that student is a high achiever’) will affect the teacher’s behavior in such a way as to create confirmation of his expectations. What happens is that the teacher subtly transmits his preconception to the student through, for example, more one-to-one attention, more time given for response, frequency and strength of praise or blame, or high-performance requirements. This is an unconscious rather than deliberate course of action.
+In essence, the theory is that someone who is treated as having certain characteristics will manifest them. In fact, Rosenthal’s results were repeatedly called into question and could only be reproduced in 40 percent of cases [ 11].
+I personally believe that the success of a retrospective depends not on the careful reading out of the Prime Directive, but rather upon the values that it describes. I have carried out many successful retrospectives during which I did not explicitly mention the Prime Directive. I’m not saying that reading the
+principle isn’t a good thing; in new teams or established teams that are about to experience their first retrospective, this ritual can have a very positive, if not measurable, effect. In my experience, however, you lose that positive effect if you read out the directive at every retrospective. Repetition does to the directive what frequent flying does to pre-flight safety briefings. The first time you fly, you pay close attention. However, with prolonged exposure, you pay less and less attention until, in the end, you hardly notice it’s happening.
+A positive attitude is essential for a successful retrospective, but I believe there are many ways to achieve that attitude and the Prime Directive is only one (and one that is certainly no guarantee of success).
+There is also an alternative prime directive that is somewhat longer but may work better for some teams [ 12]. I personally like the fact that it is written in the first person and is thus more appealing:
+Some days are better than others. Some days I’m in the “flow” state, doing awesome work. Some days I come to the end of a day and realized I’ve wasted a lot of time, made mistakes that I should have foreseen, or wish I could have done something differently.
+Regardless, those days have happened and our purpose here is to find out:
+What can we learn from our past actions and thinking that will inform and guide our future actions and thinking so that we can do a little better?
+How can we change our environment (“the system”) so that it’s easier for us to do awesome work and less likely for us for us to waste time and make mistakes?
+Like the original Prime Directive, this version describes the goal of a retrospective and articulates the underlying principles. Also like the original, this alternative is just a tool and does not guarantee a successful retrospective. My advice is that you experiment with both versions and see what kind of an impact it has on your retrospectives. When properly used, the Prime Directive can be a valuable tool.
+# Activity Spaces Essence Standard Desc.
+Customer:
+- Explore Possibilities
+Explore the possibilities presented by the creation of a new or improved software system. This includes the analysis of the opportunity and the identification of the stakeholders.
+- Understand Stakeholder Needs Engage with the stakeholders to understand their needs and ensure that the right results are produced. This includes identifying and working with the stakeholder representatives to progress the opportunity.
+- Ensure Stakeholder Satisfaction Share the results of the development work with the stakeholders to gain their acceptance of the system produced and verify that the opportunity has been addressed.
+- Use the System
+Observe the use the system in a live environment and how it benefits the stakeholders.  
+Solution:
+- Understand the Requirements Establish a shared understanding of what the system to be produced must do.
+- Shape the system
+Shape the system so that it is easy to develop, change and maintain, and can cope with current and expected future demands. This includes the architecting and overall design of the system to be produced.
+- Implement the System
+Build a system by implementing, testing and integrating one or more system elements. This includes bug fixing and unit testing.
+- Test the System
+Verify that the system produced meets the stakeholders’ requirements.
+- Deploy the System Take the tested system and make it available for use outside the development team  
+Endeavour:
+- Prepare to do the Work
+Set up the team and its working environment. Understand and commit to completing the work.
+- Coordinate Activity
+Co-ordinate and direct the team’s work. This includes all ongoing planning and re-planning of the work, and re-shaping of the team.
+- Support the Team
+Help the team members to help themselves, collaborate and improve their way of working.
+- Track Progress
+Measure and assess the progress made by the team.
+- Stop the Work
+Shut-down the software engineering endeavour and handover of the team’s responsibilities.
+# The Product Owner
+Agenda:
+- The Product Owner: who he is and what he does
+- Duties of the Product Ownerin Scrum
+- Setting priorities
+- Game: desert survival
+- Essence Cards of Product Ownership.
+The OP, stakeholders, and the team.
+The Product Ownerrepresents the stakeholders on the team.
+The Product Owneris a member of the team.
+The main competencies of the Product Ownerare:
+- See the product from the customer's point of view and understand the customer's needs.
+- Establish priorities and decide which features to create and which to delay or eliminate (this is called: _maximizing the value of product releases_ )
+- The Product Ownerrarepresents the customer on the team, and reports back to the customer the team's questions that they cannot answer
+- Mediate between stakeholders and team members.
+- Have flexibility and adapt to market and product change
+- Collect, analyze, and evaluate data on the product being used, to improve it at subsequent iterations
+The Product Ownermaximizes value:
+- The Product Owneris responsible for _maximizing the value_ of the product resulting from the work done by the Team
+- This “maximization” is understood from a stakeholder perspective, particularly often to improve the attractiveness of the product to users
+- How this is done can depend very much on the organization, the Team, and the individual stakeholders involved in the product building project
+# Hold Retrospective: Workshop Checklist (Activity of Retrospective Practice)  
+Agile Retrospectives  
+## Before Starting
+(with Facilitator)  
+Are the entry criteria met?
+- [ ] Things to be considered are known
+- [ ] Cards, boards and other tools available  
+Are the participants prepared?
+- [ ] The purpose of the re trospective is clear
+- [ ] The attendees have been determined and notified
+- [ ] Relevant data gathered and available  
+Are the tools / facilities available?
+- [ ] Facilitation techniques selected
+- [ ] Opener / Ice-Breaker
+- [ ] Information Generators
+- [ ] Close / Action Generators
+- [ ] Cards, boards etc available
+- [ ] Suitable room booked  
+Have relevant stakeholders been invited?
+- [ ] Yes
+- [ ] No, but the team can be trusted to represent them  
+## During
+(with whole team)  
+Focus on actionable improvements:
+- [ ] Review progress on existing action items
+- [ ] Review data on the last period:
+- [ ] Metrics
+- [ ] Personal reflections
+- [ ] External feedback
+- [ ] Identify highest priority problem areas
+- [ ] Analyze root causes
+- [ ] Generate actions:
+- [ ] SMART
+- [ ] Owned  
+Are the participants working together in an open and honest way (with no hidden agendas)?
+- [ ] Yes
+- [ ] No  
+Are all team members participating?
+- [ ] Yes
+- [ ] No  
+Is the group getting to the real issues?
+- [ ] Yes
+- [ ] No  
+Is the group generating actions as well as ideas?
+- [ ] Yes
+- [ ] No  
+## Before completion
+(with the whole team)  
+Are the exit criteria achieved?
+- [ ] Action list updated  
+Was the retrospective worthwhile?
+- [ ] Were insights generated?
+- [ ] Was the team engaged and involved?
+- [ ] Are the participants satisfied with the results?  
+Are the team members committed to taking action?
+- [ ] Have actions been agreed?
+- [ ] Have the actions been prioritized?
+- [ ] Do all the actions have owners committed to driving them forward?
+
+How can we assess if our current Agile practices are truly effective? Write less than 100 words.
+CONTEXT:
+# 1.5 The Prime Directive - Improving Agile Retrospectives
+Some facilitators begin their retrospectives by reading out the fundamental principle, the Prime Directive. First articulated by Norman Kerth in his book, Project Retrospectives: A Handbook for Team Reviews [ 1], the Prime Directive is designed to set the stage for the retrospective:
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time,
+their skills and abilities, the resources available, and the situation at hand.
+This principle is read aloud at the beginning of a retrospective, precisely in this wording.
+The idea is to make it clear to everyone that we are all human and make mistakes. The principle also points out that we shouldn’t assume that things have been done badly deliberately.
+**Practical Tip**
+You don’t need to read out the Prime Directive at every retrospective. In later retrospectives, simply reminding people of it is enough.
+Many retrospective facilitators swear by the Prime Directive. They feel that retrospectives that don’t start with this fundamental principle are less effective and therefore less useful. Pat Kua writes [Kua 2012] that this is related to the Pygmalion [ 11] or Rosenthal effect, or what is commonly known as “ ‘a self-fulfilling prophecy.’ ”
+The effect of a teacher’s preconceptions about his students might be an example of the Rosenthal effect. The idea is that a teacher’s positive preconception about a student (‘that student is a high achiever’) will affect the teacher’s behavior in such a way as to create confirmation of his expectations. What happens is that the teacher subtly transmits his preconception to the student through, for example, more one-to-one attention, more time given for response, frequency and strength of praise or blame, or high-performance requirements. This is an unconscious rather than deliberate course of action.
+In essence, the theory is that someone who is treated as having certain characteristics will manifest them. In fact, Rosenthal’s results were repeatedly called into question and could only be reproduced in 40 percent of cases [ 11].
+I personally believe that the success of a retrospective depends not on the careful reading out of the Prime Directive, but rather upon the values that it describes. I have carried out many successful retrospectives during which I did not explicitly mention the Prime Directive. I’m not saying that reading the
+principle isn’t a good thing; in new teams or established teams that are about to experience their first retrospective, this ritual can have a very positive, if not measurable, effect. In my experience, however, you lose that positive effect if you read out the directive at every retrospective. Repetition does to the directive what frequent flying does to pre-flight safety briefings. The first time you fly, you pay close attention. However, with prolonged exposure, you pay less and less attention until, in the end, you hardly notice it’s happening.
+A positive attitude is essential for a successful retrospective, but I believe there are many ways to achieve that attitude and the Prime Directive is only one (and one that is certainly no guarantee of success).
+There is also an alternative prime directive that is somewhat longer but may work better for some teams [ 12]. I personally like the fact that it is written in the first person and is thus more appealing:
+Some days are better than others. Some days I’m in the “flow” state, doing awesome work. Some days I come to the end of a day and realized I’ve wasted a lot of time, made mistakes that I should have foreseen, or wish I could have done something differently.
+Regardless, those days have happened and our purpose here is to find out:
+What can we learn from our past actions and thinking that will inform and guide our future actions and thinking so that we can do a little better?
+How can we change our environment (“the system”) so that it’s easier for us to do awesome work and less likely for us for us to waste time and make mistakes?
+Like the original Prime Directive, this version describes the goal of a retrospective and articulates the underlying principles. Also like the original, this alternative is just a tool and does not guarantee a successful retrospective. My advice is that you experiment with both versions and see what kind of an impact it has on your retrospectives. When properly used, the Prime Directive can be a valuable tool.
+# The agile principles
+1. Our priority is to satisfy the customer through early and continuous delivery
+Of valuable software
+2. The company's people and developers must work daily
+together throughout the project
+3. Changes to requirements are welcome, even in the later stages of development
+4. Deliver frequently working software
+5. Working software is the first measure of progress
+6. Projects are built around motivated individuals. Give them the environment and the
+support they need, and trust them to do their work
+7. The best architectures, requirements, and designs emerge from self-organizing teams
+8. The most effective and efficient method of conveying information to and within
+of a development is through face-to-face conversations
+9. Agile processes promote sustainable development
+10. Constant attention to technical excellence and good design enhance agility
+11. Simplicity is essential
+12. Development teams evaluate their effectiveness at regular intervals and modify
+their behavior accordingly
+Agile methods:
+Agile methods are a family of development methods that
+have in common:
+- **Frequent** release** of the incrementally developed product.
+- **Continuous** collaboration** of the development team with the **customer**.
+- **Documentation** of **reduced** development.
+- **Systematic and continuous  assessment** of **values** and **risks** of **changes**
+Minimal Viable Product**.
+**Agile methods--there are many of them!
+- Extreme Programming (XP)
+- Scrum
+- Feature-Driven Development (FDD)
+- Adaptive Software Process
+- Crystal Light Methodologies
+- Dynamic Systems Development Method (DSDM)
+- Lean Development
+- DevOps
+- SAFe
+- Less
+# I. INTRODUCTION
+Agile methodologies are widely used in the software industry, where they are applied using a variety of processes and best practices. Agile methods and practices can also help students develop valuable soft skills such as communication, teamwork, and adaptability. Practicing agile, they should learn how to work effectively with a product owner and other developers, respond to changing requirements, and aiming at continuously improving their work processes. Although there are several agile methods, two are especially outstanding: Scrum [21] and Extreme Programming [3]. The former is the most popular, be- cause it enforces the major Agile principles of iterative, value- based, incremental delivery by frequently gathering customer feedback and embracing requirements change. The latter is also well known, as it introduced a set of agile best practices that can be easily be applied and exploited by students, such as pair programming, the collective property of code, requirements as user stories, etc. An important value fostered by the agile vision is that the process is less important than individuals and interactions. We interpret this value suggesting the students that they can choose the best practices to use
+during the development. Planning and implementing their own Agile software process can also help students develop a sense of ownership and responsibility over their work. They will have a better understanding of what is expected of them, and they will be more motivated to achieve their goals. Overall, learning how to plan their own Agile software process and pick Agile best practices can be a valuable learning experience for students, preparing them for successful careers in software development and helping them develop important skills for any profession.
+In this paper we report on our experiences with training to agile vision and selection of agile best practices our Computer science students in a software engineering class. We adopt the Essence approach [12] that is based on a visual language able to capture combinations of agile practices and the state of their enactment inside a development process. Essence is formally an international standard issued by OMG [18].
+Learning how to plan their own Agile software process and choose which best practices apply can help students become more effective and efﬁcient in their software development work. They will be able to break down complex projects into smaller, more manageable tasks and work collaboratively with their team members to complete these tasks in a timely manner. We use a team building game to help the students to select their role in a Scrum-like team. Then we ask them to use a number of state-of-the art open source tools, like Taiga, GitLab, and SonarQube, to help them during the development and to collect data useful for the analysis we will report in this paper. We also suggest them to follow the Essence approach to process enactment and retrospective analysis. Concerning the evaluation of this experience, we have developed a maturity model to analyze how student teams perform their teamwork. We observed more than one hundred students divided in teams averaging ﬁve members each.
+Speciﬁcally, we observed 136 students (57 in 2021 and 79 in 2022) divided in 27 teams (11 in 2021 and 16 in 2022) with an average of 5 components each (three teams had six components and two teams had four).
+The project consisted in creating a Twitter client enriched with
+a dashboard with several ﬁltering and visual analytics features.
+The teamwork was organized following a Scrum-like ap- proach: each team had to work for at least three 3-week-sprints using CAS services and then write a ﬁnal report to summarize the development process. Each student had then to complete an individual questionnaire to evaluate the experience.
+We collected several data. The main data sources were the ﬁnal reports, the individual questionnaires and, within the CAS environment, Gitlab, Taiga, and SonarQube. The ﬁnal reports were a fundamental source of data since, in addition to containing all mandatory information, most teams included additional elements regarding their own process. Tools were shared with the instructors. Gitlab was used to analyze the structure of the teams’ repositories and obtain data regarding the frequency of commits and the tests performed. Taiga was used by the teams to manage their sprints and their retrospectives (conducted using Essence cards); the instructors, as Product Owners, could see the progresses on the product and its documentation. SonarQube was used for extracting product quality data and technical debt data.
+This paper has the following structure: Section II presents some related works; Section III overviews the approach we fol- lowed, describing the preliminary activities for team building, the product to be built by the teams, the process enacted, and the open source tools which were used. Section IV presents the results of the analysis of the data we collected; Section V discusses these results; ﬁnally, Section VI presents our conclusions and the work we are planning now.
+# Structured conversations
+The team chooses practices to be used during development.
+Then practice by practice is analyzed and evaluated by individuals (red=bad, green=good).
+Chosen practices can be changed from sprint to sprint (but better not to change them _during_ the sprint).
+Essence can help the team form an opinion (see next slides).
+**Example of First Retrospective**
+Too little time spent on helping and managing work distribution by the Scrum Master.
+Devshave spent too little time developing the chosen features.
+Shallow planning of work during Sprint Planning.
+Daily Scrum done without consistency.
+Sprint Goal defined at beginning of sprint unclear.
+Poor communication during work.
+**Example of Last Retrospective**.
+Increased time spent on this phase (from less than an hour to more than 3 hours).
+General improvement in grades awarded.
+Previous retrospective discussions resulted in a tangible improvement in the team's collaborative spirit.
+Improvement in the management of the retrospective phase.
+Self-criticism of a DEV.
+
+Our team only uses the User Stories practice and the following Scrum practices: Sprint Planning and Daily Stand-ups. What Activity Spaces in the three Areas of Concern (in the Essence Kernel) are not being addressed by our current set of practices? Write less than 100 words.
+CONTEXT:
+# Essence Kernel Activity Spaces  
+As with the Kernel Alphas, these can be used both independently and to help define practices:  
+The set of Activity Spaces can be used to assess coverage and do gap analysis across a team’s current way of working (do we have an agreed approach to doing these things?)
+Activities in practices can be placed within Kernel Activity Spaces to give a clear indication of what general kinds of things the practice and its activities will help the team to achieve – e.g. a Find User Stories Activity is located within the Understand the Requirements Activity Space.
+# 4.2 Scrum Activity to Activity Space Mapping
+Figure 7 shows the mapping of the set of activities in Scrum practice to the set of activity spaces in Essence kernel. Directed lines in Figure 7 that connect Scrum activities with each other are called activity associations in Essence [3]. Activity association represents an “end-before-start” association (viz., sequence flow).
+Out of 15 activity spaces only 9 are addressed by Scrum practice. Unaddressed activity spaces are: shape the system, implement the system, deploy the system, stop the work, use the system, and operate the system. The partial coverage of activity spaces stems from the fact that Scrum practice focuses on the management of product and project, and does not provide guidance for development techniques such as requirement modeling, architecture design, coding and testing. Another limitation of Scrum practice is that it does not address the full life cycle of software delivery. It lacks guidance for release, transition and operation endeavors. Therefore, organizations often combine Scrum practice with other complementary practices such as agile modeling [27], agile
+architecture design [28], extreme programming (XP) [29, 30], release and transition processes, asset reuse, etc. [28, 31] One of key advantages in mapping the practices to Essence kernel is the visibility it brings to potential gaps as we see in this section.
+Figure 7. Mapping of Scrum Activities to Essence Activity Spaces
+In Figure 7, the Product Envisioning activity is mapped to two activity spaces: explore possibilities and understand stakeholder needs. Likewise, the Release Planning and Sprint Review activities each realizes multiple activity spaces. On the other hand, multiple activities including Daily Scrum, Sprint Review and Sprint Retrospective are mapped to the track progress activity space. As such, the activity-to-activity-space mapping is many-to-many.
+When an activity tries to realize multiple activity spaces, one may suspect that the given practice lacks a detailed guideline for that activity. Product Envisioning alone indeed requires a host of critical activities such as market analysis, competition analysis, key features selection, value proposition, financial projection, risk identification, etc. The Scrum practice does not go into details about those activities and the Product Owner will need to resort to other practices such as software product management (SPM) practices to deal with them. The same holds for Release Planning. The Product Owner may well want to combine some activities in the SPM discipline to deal with target market segmentation, internal and external positioning, non-functional requirements, product architecture, pricing, etc. On the other hand, Scrum requires several activities such as Daily Scrum, Sprint Review and Sprint Retrospective for the track progress activity space. This confirms that Scrum puts emphasis on project planning and tracking and provides guidelines at a detail level.
+In Figure 8, different roles in Scrum practice are associated with Essence competencies (Figure 2C). As Scrum Teams are self-directed teams, Developers need to possess leadership and management competencies as well.
+Figure 8. Mapping of Scrum Roles to Essence Competencies.
+It should be noted that there is not a single way to represent a practice, such as Scrum, in Essence. As an example, Sprint Planning could be mapped to the prepare to do the work, or the coordinate activity, or the support the team activity space, or any combination of them. The value of this exercise, regardless of how you choose to conduct this mapping, is the discussion that ensues within each organization related to potential gaps and subsequent practice improvement decisions.
+
+What practice(s) can help us address the "Explore Possibilities" Activity Space? Write less than 100 words.
+CONTEXT:
+# 1.5 The Prime Directive - Improving Agile Retrospectives
+Some facilitators begin their retrospectives by reading out the fundamental principle, the Prime Directive. First articulated by Norman Kerth in his book, Project Retrospectives: A Handbook for Team Reviews [ 1], the Prime Directive is designed to set the stage for the retrospective:
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time,
+their skills and abilities, the resources available, and the situation at hand.
+This principle is read aloud at the beginning of a retrospective, precisely in this wording.
+The idea is to make it clear to everyone that we are all human and make mistakes. The principle also points out that we shouldn’t assume that things have been done badly deliberately.
+**Practical Tip**
+You don’t need to read out the Prime Directive at every retrospective. In later retrospectives, simply reminding people of it is enough.
+Many retrospective facilitators swear by the Prime Directive. They feel that retrospectives that don’t start with this fundamental principle are less effective and therefore less useful. Pat Kua writes [Kua 2012] that this is related to the Pygmalion [ 11] or Rosenthal effect, or what is commonly known as “ ‘a self-fulfilling prophecy.’ ”
+The effect of a teacher’s preconceptions about his students might be an example of the Rosenthal effect. The idea is that a teacher’s positive preconception about a student (‘that student is a high achiever’) will affect the teacher’s behavior in such a way as to create confirmation of his expectations. What happens is that the teacher subtly transmits his preconception to the student through, for example, more one-to-one attention, more time given for response, frequency and strength of praise or blame, or high-performance requirements. This is an unconscious rather than deliberate course of action.
+In essence, the theory is that someone who is treated as having certain characteristics will manifest them. In fact, Rosenthal’s results were repeatedly called into question and could only be reproduced in 40 percent of cases [ 11].
+I personally believe that the success of a retrospective depends not on the careful reading out of the Prime Directive, but rather upon the values that it describes. I have carried out many successful retrospectives during which I did not explicitly mention the Prime Directive. I’m not saying that reading the
+principle isn’t a good thing; in new teams or established teams that are about to experience their first retrospective, this ritual can have a very positive, if not measurable, effect. In my experience, however, you lose that positive effect if you read out the directive at every retrospective. Repetition does to the directive what frequent flying does to pre-flight safety briefings. The first time you fly, you pay close attention. However, with prolonged exposure, you pay less and less attention until, in the end, you hardly notice it’s happening.
+A positive attitude is essential for a successful retrospective, but I believe there are many ways to achieve that attitude and the Prime Directive is only one (and one that is certainly no guarantee of success).
+There is also an alternative prime directive that is somewhat longer but may work better for some teams [ 12]. I personally like the fact that it is written in the first person and is thus more appealing:
+Some days are better than others. Some days I’m in the “flow” state, doing awesome work. Some days I come to the end of a day and realized I’ve wasted a lot of time, made mistakes that I should have foreseen, or wish I could have done something differently.
+Regardless, those days have happened and our purpose here is to find out:
+What can we learn from our past actions and thinking that will inform and guide our future actions and thinking so that we can do a little better?
+How can we change our environment (“the system”) so that it’s easier for us to do awesome work and less likely for us for us to waste time and make mistakes?
+Like the original Prime Directive, this version describes the goal of a retrospective and articulates the underlying principles. Also like the original, this alternative is just a tool and does not guarantee a successful retrospective. My advice is that you experiment with both versions and see what kind of an impact it has on your retrospectives. When properly used, the Prime Directive can be a valuable tool.
+# Activity  
+An Activity is the doing of some work by one or more people, for example in a workshop or meeting, or as an individual, pair or larger group collaboration. Examples might include Daily Stand-Up Meeting, Backlog Refinement or Develop a Component.  
+Activities are what we do. Activities are important because, unless we collectively actually do something (successfully), nothing is ever achieved or produced.  
+A good Activity description will include guidance on:
+- What outcomes the Activity produces or achieves
+- What we should do to achieve these outcomes
+- What kinds of Competencies at what Levels are needed to undertake the activity successfully.  
+## Activity Space  
+An Activity Space is a placeholder for something to be done in an endeavor, such as to Understand the Requirements.  
+The Essence Kernel defines a number of Activity Spaces that together represent the kinds of things that we need to do to progress any software engineering endeavor.  
+Activity Spaces can be used to group together related Activities that different Practices define.
+# Essence Kernel Activity Spaces  
+As with the Kernel Alphas, these can be used both independently and to help define practices:  
+The set of Activity Spaces can be used to assess coverage and do gap analysis across a team’s current way of working (do we have an agreed approach to doing these things?)
+Activities in practices can be placed within Kernel Activity Spaces to give a clear indication of what general kinds of things the practice and its activities will help the team to achieve – e.g. a Find User Stories Activity is located within the Understand the Requirements Activity Space.
+# Activities
+An Activity is the doing of some work by one or more people, possibly in a workshop or meeting. Examples might include Find User Stories, Daily Stand-Up, or
+Backlog Refinement.
+A good Activity description will include guidance on:
+- What outcomes the Activity produces or achieves in terms of Alpha States or Work Product Levels of Detail
+- What we should do to achieve these outcomes
+- What kinds of Competencies at what Levels are needed to perform this Activity successfully.
+
+What practice(s) can help us address the "Coordinate Activity" Activity Space? Write less than 100 words.
+CONTEXT:
+# 1.5 The Prime Directive - Improving Agile Retrospectives
+Some facilitators begin their retrospectives by reading out the fundamental principle, the Prime Directive. First articulated by Norman Kerth in his book, Project Retrospectives: A Handbook for Team Reviews [ 1], the Prime Directive is designed to set the stage for the retrospective:
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time,
+their skills and abilities, the resources available, and the situation at hand.
+This principle is read aloud at the beginning of a retrospective, precisely in this wording.
+The idea is to make it clear to everyone that we are all human and make mistakes. The principle also points out that we shouldn’t assume that things have been done badly deliberately.
+**Practical Tip**
+You don’t need to read out the Prime Directive at every retrospective. In later retrospectives, simply reminding people of it is enough.
+Many retrospective facilitators swear by the Prime Directive. They feel that retrospectives that don’t start with this fundamental principle are less effective and therefore less useful. Pat Kua writes [Kua 2012] that this is related to the Pygmalion [ 11] or Rosenthal effect, or what is commonly known as “ ‘a self-fulfilling prophecy.’ ”
+The effect of a teacher’s preconceptions about his students might be an example of the Rosenthal effect. The idea is that a teacher’s positive preconception about a student (‘that student is a high achiever’) will affect the teacher’s behavior in such a way as to create confirmation of his expectations. What happens is that the teacher subtly transmits his preconception to the student through, for example, more one-to-one attention, more time given for response, frequency and strength of praise or blame, or high-performance requirements. This is an unconscious rather than deliberate course of action.
+In essence, the theory is that someone who is treated as having certain characteristics will manifest them. In fact, Rosenthal’s results were repeatedly called into question and could only be reproduced in 40 percent of cases [ 11].
+I personally believe that the success of a retrospective depends not on the careful reading out of the Prime Directive, but rather upon the values that it describes. I have carried out many successful retrospectives during which I did not explicitly mention the Prime Directive. I’m not saying that reading the
+principle isn’t a good thing; in new teams or established teams that are about to experience their first retrospective, this ritual can have a very positive, if not measurable, effect. In my experience, however, you lose that positive effect if you read out the directive at every retrospective. Repetition does to the directive what frequent flying does to pre-flight safety briefings. The first time you fly, you pay close attention. However, with prolonged exposure, you pay less and less attention until, in the end, you hardly notice it’s happening.
+A positive attitude is essential for a successful retrospective, but I believe there are many ways to achieve that attitude and the Prime Directive is only one (and one that is certainly no guarantee of success).
+There is also an alternative prime directive that is somewhat longer but may work better for some teams [ 12]. I personally like the fact that it is written in the first person and is thus more appealing:
+Some days are better than others. Some days I’m in the “flow” state, doing awesome work. Some days I come to the end of a day and realized I’ve wasted a lot of time, made mistakes that I should have foreseen, or wish I could have done something differently.
+Regardless, those days have happened and our purpose here is to find out:
+What can we learn from our past actions and thinking that will inform and guide our future actions and thinking so that we can do a little better?
+How can we change our environment (“the system”) so that it’s easier for us to do awesome work and less likely for us for us to waste time and make mistakes?
+Like the original Prime Directive, this version describes the goal of a retrospective and articulates the underlying principles. Also like the original, this alternative is just a tool and does not guarantee a successful retrospective. My advice is that you experiment with both versions and see what kind of an impact it has on your retrospectives. When properly used, the Prime Directive can be a valuable tool.
+# Activity  
+An Activity is the doing of some work by one or more people, for example in a workshop or meeting, or as an individual, pair or larger group collaboration. Examples might include Daily Stand-Up Meeting, Backlog Refinement or Develop a Component.  
+Activities are what we do. Activities are important because, unless we collectively actually do something (successfully), nothing is ever achieved or produced.  
+A good Activity description will include guidance on:
+- What outcomes the Activity produces or achieves
+- What we should do to achieve these outcomes
+- What kinds of Competencies at what Levels are needed to undertake the activity successfully.  
+## Activity Space  
+An Activity Space is a placeholder for something to be done in an endeavor, such as to Understand the Requirements.  
+The Essence Kernel defines a number of Activity Spaces that together represent the kinds of things that we need to do to progress any software engineering endeavor.  
+Activity Spaces can be used to group together related Activities that different Practices define.
+# Essence Kernel Activity Spaces  
+As with the Kernel Alphas, these can be used both independently and to help define practices:  
+The set of Activity Spaces can be used to assess coverage and do gap analysis across a team’s current way of working (do we have an agreed approach to doing these things?)
+Activities in practices can be placed within Kernel Activity Spaces to give a clear indication of what general kinds of things the practice and its activities will help the team to achieve – e.g. a Find User Stories Activity is located within the Understand the Requirements Activity Space.
+# Activities
+An Activity is the doing of some work by one or more people, possibly in a workshop or meeting. Examples might include Find User Stories, Daily Stand-Up, or
+Backlog Refinement.
+A good Activity description will include guidance on:
+- What outcomes the Activity produces or achieves in terms of Alpha States or Work Product Levels of Detail
+- What we should do to achieve these outcomes
+- What kinds of Competencies at what Levels are needed to perform this Activity successfully.
+
+What practice(s) can help us address the "Prepare to do the work" Activity Space? Write less than 100 words.
+CONTEXT:
+# The Essence Kernel
+## Kernel Alphas
+We have already met and defined Alphas as key aspects or elements of an endeavor that we need to progress. The Essence Kernel defines seven core, common Alphas which together:
+- Capture the key concepts involved in software engineering
+- Allow the progress and health of any software endeavor to be tracked and assessed
+- Provide a common ground for the definition of software engineering methods and practices.  
+There are customer needs to be met
+- Someone has a problem or Opportunity to address
+- There are other Stakeholders who will fund, use and benefit from the solution produced
+There is a solution to be delivered
+- There are certain Requirements to be met
+- There’ll be a Software System to develop
+There is an endeavor to be undertaken
+- We need to kick off the Work ...
+- Build an empowered Team of good people …
+- With a good, responsive Way of Working  
+As you may have already noticed, Essence subdivides the territory of software engineering into three broad Areas of Concern. Each has its own distinguishing color-coding.
+Customer (green) – contains everything to do with the use and exploitation of the solution to generate value for the customers and users
+Solution (yellow) – contains everything to do the specification and development of the solution to meet the needs of the customers
+Endeavor (blue) – Contains everything to do with the team, and the way that they approach their work to deliver the solution to the customer.  
+## Activity Spaces
+An Activity Space is a placeholder for something to be done in an endeavor such as Understand the Requirements.
+The Essence Kernel defines a set of Activity Spaces, which together define the kinds of things that we need to do to progress any software engineering endeavor.
+As with the Kernel Alphas, these can be used both independently and to help define practices:
+- The set of Activity Spaces can be used to assess coverage and do gap analysis across a team’s current way of working
+- Activities in practices can be placed within the Activity Spaces to give a clear indication of what general kinds of things the practice and its activities will help the team to achieve – e.g. our earlier example Find User Stories Activity is in the Understand the Requirements Activity Space.  
+## Competencies
+The Essence Kernel defines six core Competencies that are the commonly needed for any software endeavor.
+Practices will refer to these or can extend this set and introduce their own additional ones to address specific types of challenge. Some examples being Operations, Hardware Design, or Coaching.
+# Activity  
+An Activity is the doing of some work by one or more people, for example in a workshop or meeting, or as an individual, pair or larger group collaboration. Examples might include Daily Stand-Up Meeting, Backlog Refinement or Develop a Component.  
+Activities are what we do. Activities are important because, unless we collectively actually do something (successfully), nothing is ever achieved or produced.  
+A good Activity description will include guidance on:
+- What outcomes the Activity produces or achieves
+- What we should do to achieve these outcomes
+- What kinds of Competencies at what Levels are needed to undertake the activity successfully.  
+## Activity Space  
+An Activity Space is a placeholder for something to be done in an endeavor, such as to Understand the Requirements.  
+The Essence Kernel defines a number of Activity Spaces that together represent the kinds of things that we need to do to progress any software engineering endeavor.  
+Activity Spaces can be used to group together related Activities that different Practices define.
+# Essence Kernel Activity Spaces  
+As with the Kernel Alphas, these can be used both independently and to help define practices:  
+The set of Activity Spaces can be used to assess coverage and do gap analysis across a team’s current way of working (do we have an agreed approach to doing these things?)
+Activities in practices can be placed within Kernel Activity Spaces to give a clear indication of what general kinds of things the practice and its activities will help the team to achieve – e.g. a Find User Stories Activity is located within the Understand the Requirements Activity Space.
+# Activity
+Def: Activitiesare things which practitioners do
+- Activities examples are: holding a meeting, analysing a requirement, writing code, testing or peer review
+Practitioners often struggle to determine the appropriate degree of detail or formality with an activity, or exactly how to go about conducting the activity.
+- This is another motivation for explicit practices as they can provide guidance to practitioners in selecting appropriate activities as well as provide guidance in how to go about conducting each activity.
+A practice may include several activities that are specific to the practice being described.
+- Activities are specific and not standard - they are not a part of Essence.
+An activity is always bound to a specific practice, it cannot “float around” among the practices.
+- If you find an activity that needs to be reused by many practices, then you may want to create a separate practice including this activity.  
+## Activity Card
+An Activity card generally has:
+- Activity Name (ex.: Write Code)
+- Very brief Activity description (ex.: Collaborate together to produce good quality code that meet requirements.)
+- Inputs for activity (ex.: Requirements: Bounded)
+- Competency to conduct activity (ex.: Implement the System Activity Space: Development 1)
+- Outputs of activity (ex.: Requirements: Addressed, Software System: Ready, Code: Code Completed)
+
+Describe the pair programming practice using the Essence language, in less than 100 words.
+CONTEXT:
+# Structured conversations
+The team chooses practices to be used during development.
+Then practice by practice is analyzed and evaluated by individuals (red=bad, green=good).
+Chosen practices can be changed from sprint to sprint (but better not to change them _during_ the sprint).
+Essence can help the team form an opinion (see next slides).
+**Example of First Retrospective**
+Too little time spent on helping and managing work distribution by the Scrum Master.
+Devshave spent too little time developing the chosen features.
+Shallow planning of work during Sprint Planning.
+Daily Scrum done without consistency.
+Sprint Goal defined at beginning of sprint unclear.
+Poor communication during work.
+**Example of Last Retrospective**.
+Increased time spent on this phase (from less than an hour to more than 3 hours).
+General improvement in grades awarded.
+Previous retrospective discussions resulted in a tangible improvement in the team's collaborative spirit.
+Improvement in the management of the retrospective phase.
+Self-criticism of a DEV.
+# Essence Language Element Types
+Alpha = An essential element of the software engineering endeavor that is relevant to an assessment of the progress and health of the endeavor.
+Work Product = The tangible things that practitioners produce when conducting software engineering activities.
+Activity = things which practitioners do.
+Competency = Encompasses the abilities, capabilities, attainments, knowledge, and skills necessary to do a certain kind e of work.  
+The Essence list is longer, but at this time we consider these elements as key and the first to learn  
+## An Example: Programming Practice
+The purpose of this practice is to produce high quality code.
+- In this case, we define code quality as being understandable by the different members of the team.
+Two persons (students) work in pairs to turn requirements into a software system by writing code together.
+Writing code is part of implementing the system.
+# How to write a use case
+- Assign a name to the use case
+- Describe the primary actor and any companions
+- Describe the initial condition of the system
+- Describe the main flow of events
+- Describe the output condition
+- Describe possible anomalies and exceptions
+- Describe the quality requirements (non-functional)
+Example: current account opening
+1 customer comes to the bank to open a new checking account
+2 the officer receives the customer and provides explanations
+3 if the customer accepts, he provides his data
+4 the clerk verifies whether the customer is registered in the registry
+5 the clerk creates the new current account
+6 the clerk reports the account number to the customer
+Variants:
+3 (a) if the customer does not accept the use case ends
+3 (b) if the account is to be in the name of more than one person, the details of all of them must be provided
+4 (a) if the customer (or one of several account holders) is not accounted for the clerk shall register the customer, request the customer to sign the specimen, and store it via scanner
+(5) the clerk creates the new checking account.
+1 the clerk requests the new account entry transaction from the system
+2 the system requests the codes of the account holders
+3 the clerk provides the codes to the system
+4 the system provides the corresponding master codes, and requests the conditions to be applied to the account
+5 the clerk specifies the conditions and requests the insertion
+6 the system prints the contract with the number assigned to the account
+Variants:
+3 (a) if the system does not recognize the customer, or if it provides an unexpected master data,
+the clerk can make corrections or terminate the entry
+# Pair programming
+Pair programming:
+- Two designers work on the same task on one computer
+- One of them, the driver, controls the keyboard and mouse and writes code
+- The other, the navigator, observes the code looking for defectsand participates in
+brainstorming on demand
+- The roles of driver and navigator are exchanged between the two designers
+periodically (e.g., in the middle of the day)
+- The pairings change daily: the goal isfor everyone to become
+familiarity with the code (see: collective ownership of code)
+Pair programming is typical of eXtreme Programming (XP).
+Pair programming improves quality.
+
+Describe a simplified Scrum practice using the Essence language, in less than 100 words.
+CONTEXT:
+# 4. DESCRIPTION OF SCRUM PRACTICE USING ESSENCE KERNEL
+Scrum and its variants are the most popular agile project management practices today. According to [20], 72% of about 4000 software practitioners surveyed used Scrum (54%), Scrum/XP hybrid (11%) or Scrumban (7%). There is a rich literature and web content on Scrum practice [21, 22, 23, 24]. We consider the following elements to comprise
+the Scrum practice which will be translated into Essence kernel and language: Stakeholder, Product Envisioning, Product Vision, Release Planning, Product Backlog, Scrum Team, Product Owner, Scrum Master, Development Team, Sprint, Sprint Planning, Sprint Backlog, Task Board, Daily Scrum, Definition of Done, Work Remaining, Burndown Chart, Sprint Review, Sprint Retrospective and Product Increment. Definitions of those terms can be found in [21, 24].
+Like other software engineering practices, Scrum practice has been textually described using a set of unique terminologies with a few graphical aids and tools (such as Task Board, Burndown Chart) to facilitate the understanding and enforcement of its ceremonies. The OMG Essence specification [3] includes an example that illustrates an Essence-based description of Scrum practice. The same Essence-based description of Scrum was compared with a SPEM 2.0-based description of Scrum in [17] to demonstrate the fundamental difference between Essence and SPEM 2.0. A key difference was found to be the notion of alpha with alpha states and the usage of states to help assess progress and provide planning guidance. However, neither [3] nor [17] explained how a practice can be systematically translated into an Essence-based description. To the best of the authors’ knowledge this is the first time in literature that a robust procedure is presented for converting any software engineering practice into an Essence-based description.
+Only alphas in the Essence kernel were used for evaluating the health of project progress in [4, 5]. Using only alphas was sufficient to evaluate the progress and health in a practice-agnostic way. However, to describe a practice using Essence kernel, we use all types of kernel elements— alphas, activity spaces and competencies—as well as patterns in this paper. We use all of them because existing practices are mostly defined in terms of activities (such as Sprint Planning), work products (such as Sprint Backlog) and roles (such as Development Team), which manifest activity spaces, alphas and role patterns, respectively. A pattern in the Essence language is a named structure made up of several Essence elements [3]. The role pattern associates practice activities, work products and competencies such that role R possesses competencies C to be able to perform activities A to produce work products W.
+We apply the Activity-State Mapping Algorithm (Figure 5) presented in [25, 26] to assign practice activities to activity spaces, and to specify alpha states and checklists as the criteria to check the health and progress of each practice activity. By mapping practice activities to activity spaces, one can obtain the goal states for each practice activity based on Figure 4, and the Essence-provided checklists associated with each goal state. This supports the augmentation of existing practices with quality gates and governance procedures.
+Activity-State Mapping Algorithm:
+*Step 1*: Determine the set of activities to be performed in executing a chosen practice.
+*Step 2*: Repeat for each activity listed in Step 1.
+*Step 2.1*: Assign the activity to a set of activity spaces.
+*Step 2.2*: Merge the goal states of the chosen set of activity spaces so as to generate the candidate goal states of the activity. (See Figure 4.) Determine the goal states of the activity as a subset of the candidate goal states.
+*Step 2.3*: Collect all the checkpoints corresponding to the goal states of the activity listed in Step 2.2.
+*Step 2.4*: Determine the activity checklist for the activity as a subset of the checkpoints collected in 2.3. (Note that the activity checklist is a subset of the union of activity space checklists for the activity spaces to which the activity was assigned.)
+# Structured conversations
+The team chooses practices to be used during development.
+Then practice by practice is analyzed and evaluated by individuals (red=bad, green=good).
+Chosen practices can be changed from sprint to sprint (but better not to change them _during_ the sprint).
+Essence can help the team form an opinion (see next slides).
+**Example of First Retrospective**
+Too little time spent on helping and managing work distribution by the Scrum Master.
+Devshave spent too little time developing the chosen features.
+Shallow planning of work during Sprint Planning.
+Daily Scrum done without consistency.
+Sprint Goal defined at beginning of sprint unclear.
+Poor communication during work.
+**Example of Last Retrospective**.
+Increased time spent on this phase (from less than an hour to more than 3 hours).
+General improvement in grades awarded.
+Previous retrospective discussions resulted in a tangible improvement in the team's collaborative spirit.
+Improvement in the management of the retrospective phase.
+Self-criticism of a DEV.
+# Scrum Essentials Essence cards  
+The following Essence items (cards) form the Scrum practice.
+This is how to essentialize Scrum (how to translate the Scrum practice in Essence terms).
+It's important to note that the Scrum could also be considered a method, which is a combination of practices, depending on the level of detail needed for the translation.
+A smaller team will use a more general translation, a bigger team may instead need a more detailed translation.  
+The activites of the Scrum are:
+- Product Backlog Refinement
+- Sprint Planning
+- Daily Scrum
+- Sprint Retrospective
+- Sprint Review  
+The alphas of a Scrum are:
+- Improvement
+- Product Backlog
+- Product Goal
+- Sprint
+- Sprint goal  
+Patterns are:
+- Individual Pillars
+- Individual Values
+- Principles and Values
+- Team Formation
+- Team Roles and Accountabilities
+- Ohters...  
+Required competency levels are:
+- Leadership level 3
+- Management level 2
+- Stakeholder Representation level 3  
+Work Products:
+- Definition of done
+- Increment
+- Product Backlog
+- Sprint Backlog
+
+Explain retrospectives using Essence terms, in less than 100 words.
+CONTEXT:
+# 1.5 The Prime Directive - Improving Agile Retrospectives
+Some facilitators begin their retrospectives by reading out the fundamental principle, the Prime Directive. First articulated by Norman Kerth in his book, Project Retrospectives: A Handbook for Team Reviews [ 1], the Prime Directive is designed to set the stage for the retrospective:
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time,
+their skills and abilities, the resources available, and the situation at hand.
+This principle is read aloud at the beginning of a retrospective, precisely in this wording.
+The idea is to make it clear to everyone that we are all human and make mistakes. The principle also points out that we shouldn’t assume that things have been done badly deliberately.
+**Practical Tip**
+You don’t need to read out the Prime Directive at every retrospective. In later retrospectives, simply reminding people of it is enough.
+Many retrospective facilitators swear by the Prime Directive. They feel that retrospectives that don’t start with this fundamental principle are less effective and therefore less useful. Pat Kua writes [Kua 2012] that this is related to the Pygmalion [ 11] or Rosenthal effect, or what is commonly known as “ ‘a self-fulfilling prophecy.’ ”
+The effect of a teacher’s preconceptions about his students might be an example of the Rosenthal effect. The idea is that a teacher’s positive preconception about a student (‘that student is a high achiever’) will affect the teacher’s behavior in such a way as to create confirmation of his expectations. What happens is that the teacher subtly transmits his preconception to the student through, for example, more one-to-one attention, more time given for response, frequency and strength of praise or blame, or high-performance requirements. This is an unconscious rather than deliberate course of action.
+In essence, the theory is that someone who is treated as having certain characteristics will manifest them. In fact, Rosenthal’s results were repeatedly called into question and could only be reproduced in 40 percent of cases [ 11].
+I personally believe that the success of a retrospective depends not on the careful reading out of the Prime Directive, but rather upon the values that it describes. I have carried out many successful retrospectives during which I did not explicitly mention the Prime Directive. I’m not saying that reading the
+principle isn’t a good thing; in new teams or established teams that are about to experience their first retrospective, this ritual can have a very positive, if not measurable, effect. In my experience, however, you lose that positive effect if you read out the directive at every retrospective. Repetition does to the directive what frequent flying does to pre-flight safety briefings. The first time you fly, you pay close attention. However, with prolonged exposure, you pay less and less attention until, in the end, you hardly notice it’s happening.
+A positive attitude is essential for a successful retrospective, but I believe there are many ways to achieve that attitude and the Prime Directive is only one (and one that is certainly no guarantee of success).
+There is also an alternative prime directive that is somewhat longer but may work better for some teams [ 12]. I personally like the fact that it is written in the first person and is thus more appealing:
+Some days are better than others. Some days I’m in the “flow” state, doing awesome work. Some days I come to the end of a day and realized I’ve wasted a lot of time, made mistakes that I should have foreseen, or wish I could have done something differently.
+Regardless, those days have happened and our purpose here is to find out:
+What can we learn from our past actions and thinking that will inform and guide our future actions and thinking so that we can do a little better?
+How can we change our environment (“the system”) so that it’s easier for us to do awesome work and less likely for us for us to waste time and make mistakes?
+Like the original Prime Directive, this version describes the goal of a retrospective and articulates the underlying principles. Also like the original, this alternative is just a tool and does not guarantee a successful retrospective. My advice is that you experiment with both versions and see what kind of an impact it has on your retrospectives. When properly used, the Prime Directive can be a valuable tool.
+# Other patterns that could be added to the of Retrospective Practice
+Other than:
+- Mad, Sad, Glad
+- 5 Whys
+- 4 Ls
+- Where Are We?
+These are two more (Essence) patterns that can be added to Retrospectives:
+- SEMAT Method SWOT
+- Speedboat / Sailing Ship
+# Structured conversations
+The team chooses practices to be used during development.
+Then practice by practice is analyzed and evaluated by individuals (red=bad, green=good).
+Chosen practices can be changed from sprint to sprint (but better not to change them _during_ the sprint).
+Essence can help the team form an opinion (see next slides).
+**Example of First Retrospective**
+Too little time spent on helping and managing work distribution by the Scrum Master.
+Devshave spent too little time developing the chosen features.
+Shallow planning of work during Sprint Planning.
+Daily Scrum done without consistency.
+Sprint Goal defined at beginning of sprint unclear.
+Poor communication during work.
+**Example of Last Retrospective**.
+Increased time spent on this phase (from less than an hour to more than 3 hours).
+General improvement in grades awarded.
+Previous retrospective discussions resulted in a tangible improvement in the team's collaborative spirit.
+Improvement in the management of the retrospective phase.
+Self-criticism of a DEV.
+# Restrospective Essence cards  
+The following Essence items (cards) form the Retrospective practice.
+This is how to essentialize Retrospectives (how to translate the Retrospective practice in Essence terms).
+It's important to note that translations may vary depending on the level of detail needed.  
+The activites of the Retrospective are:
+- Hold a Retrospective
+The alphas of a retrospective are:
+- Improvement
+Patterns are:
+- Feedback
+- Mad, Sad, Glad
+Required competency levels are:
+- Leadership
+- Management
+
+Describe the DevOps practice using Essence terms in less than 100 words.
+CONTEXT:
+# Structured conversations
+The team chooses practices to be used during development.
+Then practice by practice is analyzed and evaluated by individuals (red=bad, green=good).
+Chosen practices can be changed from sprint to sprint (but better not to change them _during_ the sprint).
+Essence can help the team form an opinion (see next slides).
+**Example of First Retrospective**
+Too little time spent on helping and managing work distribution by the Scrum Master.
+Devshave spent too little time developing the chosen features.
+Shallow planning of work during Sprint Planning.
+Daily Scrum done without consistency.
+Sprint Goal defined at beginning of sprint unclear.
+Poor communication during work.
+**Example of Last Retrospective**.
+Increased time spent on this phase (from less than an hour to more than 3 hours).
+General improvement in grades awarded.
+Previous retrospective discussions resulted in a tangible improvement in the team's collaborative spirit.
+Improvement in the management of the retrospective phase.
+Self-criticism of a DEV.
+# Essence Pocket Guide
+A quick introduction to Essence.
+Essence has alphas, work products, competencies, activities, patterns and resources.  
+## Introduction
+Essence is a standard for the creation, use and improvement of software engineering practices and methods, which is maintained and published by the OMG international open standards consortium.
+The spirit of Essence is to concentrate on the essential information and to optimize both the technical and human aspects of engineering by providing super-lightweight practices, often distilled into a small handful of cards, that focus on outcomes and minimize production of documentation.
+As an industry standard, Essence describes a language and a kernel for these engineering practices:
+• The Essence Language enables practices to be expressed in a simple and standard form that ensures that they can be easily shared, understood, and applied both independently and in combination with other Essence practices.
+• The Essence Kernel provides the common ground for defining these Essence practices. It includes the essential elements that are always central to every software engineering endeavor. The Kernel also helps practitioners compare practices and make informed decisions about which practices to adopt, and how to apply and adapt them.
+# How to write a use case
+- Assign a name to the use case
+- Describe the primary actor and any companions
+- Describe the initial condition of the system
+- Describe the main flow of events
+- Describe the output condition
+- Describe possible anomalies and exceptions
+- Describe the quality requirements (non-functional)
+Example: current account opening
+1 customer comes to the bank to open a new checking account
+2 the officer receives the customer and provides explanations
+3 if the customer accepts, he provides his data
+4 the clerk verifies whether the customer is registered in the registry
+5 the clerk creates the new current account
+6 the clerk reports the account number to the customer
+Variants:
+3 (a) if the customer does not accept the use case ends
+3 (b) if the account is to be in the name of more than one person, the details of all of them must be provided
+4 (a) if the customer (or one of several account holders) is not accounted for the clerk shall register the customer, request the customer to sign the specimen, and store it via scanner
+(5) the clerk creates the new checking account.
+1 the clerk requests the new account entry transaction from the system
+2 the system requests the codes of the account holders
+3 the clerk provides the codes to the system
+4 the system provides the corresponding master codes, and requests the conditions to be applied to the account
+5 the clerk specifies the conditions and requests the insertion
+6 the system prints the contract with the number assigned to the account
+Variants:
+3 (a) if the system does not recognize the customer, or if it provides an unexpected master data,
+the clerk can make corrections or terminate the entry
+# 1 Introduction
+Software Engineering (SE) work out on the field is highly diverse. Practitioners employ a vast variety of methods and practices and typically tailor existing ones to create cus- tomized versions to better suit individual organizations [5]. While attempts to introduce universal SE methodologies have been made in the past, the present situation out on the field ultimately underlines the lack of success on this front. In a recent attempt to create a common ground for methods and practices, the SEMAT initiative (semat.org) pro- posed the Essence Theory of Software Engineering (Essence hereafter) [11].
+Essence is a modular, method-agnostic framework for SE endeavors that can be tai- lored to suit any SE context [8]. This modular and extensible nature of Essence, while its primary strength, is also its perhaps greatest weakness. As Essence needs to be tai- lored for specific contexts to reach its full potential, its adoption is resource-intensive [6]. This resource-intensive adoption process of Essence is, in part, likely to explain its current lack of widespread adoption among practitioners [6, 13].  
+For development frameworks and methodologies to gain traction among practition- ers, tools to support their adoption and use are needed. This is perhaps even more im- portant for Essence given its already resource-intensive adoption. To this end, e.g. Gra- ziotin & Abrahamsson [6] have presented SematAcc to make the Essence kernel easier to utilize. However, further tooling covering other aspects of Essence such as graph- drawing is still needed. The existing Essence Practice Workbench comes with a steep learning curve and is not open source. While pen-and-paper and generic digital drawing tools offer reasonable alternatives, dedicated drawing tool can offer various advantages over general purpose alternatives. E.g. using a dedicated drawing tool, graphs can be far easier to modify and compose, and can offer more for communication purposes.
+To further address the present lack of Essence-related tools and to facilitate the adop- tion of Essence, we present a tool for essentializing software engineering practice, which in practice means drawing graphs using the Essence graphical syntax. In this paper, we develop and evaluate Essencery – The Essence Practice Editor through a quasi-formal empirical experiment where IT students (n=16) employ the system to complete a task. Based on the experiment, we evaluate whether Essencery:
+1. Can be used to draw graphs using the Essence graphical syntax, and…
+2. Is easy to learn and use
+
+Describe the Human-Centered Design practice using Essence terms in less than 100 words.
+CONTEXT:
+# Structured conversations
+The team chooses practices to be used during development.
+Then practice by practice is analyzed and evaluated by individuals (red=bad, green=good).
+Chosen practices can be changed from sprint to sprint (but better not to change them _during_ the sprint).
+Essence can help the team form an opinion (see next slides).
+**Example of First Retrospective**
+Too little time spent on helping and managing work distribution by the Scrum Master.
+Devshave spent too little time developing the chosen features.
+Shallow planning of work during Sprint Planning.
+Daily Scrum done without consistency.
+Sprint Goal defined at beginning of sprint unclear.
+Poor communication during work.
+**Example of Last Retrospective**.
+Increased time spent on this phase (from less than an hour to more than 3 hours).
+General improvement in grades awarded.
+Previous retrospective discussions resulted in a tangible improvement in the team's collaborative spirit.
+Improvement in the management of the retrospective phase.
+Self-criticism of a DEV.
+# The Essence Language  
+## Essence Prime
+Essence provides a precise and actionable language to describe software engineering practices.
+- The constructs in the Essence language are in the form of shapes and icons.
+- The different shapes and icons each have different meaning.
+Essence categorizes the shapes and icons as:
+- Things to Work With
+- Things to Do
+- Competencies
+Essence provides explicit and actionable guidance.
+- This actionable guidance is delivered through associated checklists and guidelines.
+# How to write a use case
+- Assign a name to the use case
+- Describe the primary actor and any companions
+- Describe the initial condition of the system
+- Describe the main flow of events
+- Describe the output condition
+- Describe possible anomalies and exceptions
+- Describe the quality requirements (non-functional)
+Example: current account opening
+1 customer comes to the bank to open a new checking account
+2 the officer receives the customer and provides explanations
+3 if the customer accepts, he provides his data
+4 the clerk verifies whether the customer is registered in the registry
+5 the clerk creates the new current account
+6 the clerk reports the account number to the customer
+Variants:
+3 (a) if the customer does not accept the use case ends
+3 (b) if the account is to be in the name of more than one person, the details of all of them must be provided
+4 (a) if the customer (or one of several account holders) is not accounted for the clerk shall register the customer, request the customer to sign the specimen, and store it via scanner
+(5) the clerk creates the new checking account.
+1 the clerk requests the new account entry transaction from the system
+2 the system requests the codes of the account holders
+3 the clerk provides the codes to the system
+4 the system provides the corresponding master codes, and requests the conditions to be applied to the account
+5 the clerk specifies the conditions and requests the insertion
+6 the system prints the contract with the number assigned to the account
+Variants:
+3 (a) if the system does not recognize the customer, or if it provides an unexpected master data,
+the clerk can make corrections or terminate the entry
+# The focus of Essence
+- Essencesi focuses on the essentials of development, i.e., good practices.
+- It supports self-training through poker-sized cards that allow the team to play “serious games.”
+- Practices are made independent of the method in which they are defined.
+- Teams can build their own method by composing their preferred practices.
+Methods are compositions of practices.
+
+Essentialize the Prototypes practice. Write less than 100 words.
+CONTEXT:
+# Essentialize Practices and Methods
+- Using Essence Kernel and Language you can Essentialize Practices and Methods
+- Essentialize a practices means they are described
+- the Essence kernel
+- the Essence language
+- It focuses the description of the method/practice on what is essential.
+- Consequently, the methods we describe are also essentialized.
+# Steps to Essentialize a practice
+- A repeatable approach to doing something with a specific purpose in mind
+- Identify elements
+- Identify things to watch, the alphas
+- Draft relationships
+- Add details
+- Produce cards  
+For example, you could describe the practice of automated unit testing or having a kick-off meeting.
+# Forms of requirements documents.
+1. Requirements specification document: the traditional form of requirements specification,
+in which a structured document is created according to the standard. This
+document, called a Software Requirement Specification (SRS) includes the
+description of the product, its objectives, description of the required functionality,
+non-functional requirements and test conditions.
+2. User Stories: User stories are an agile form of requirements specification. A
+user story is a concise description of a software feature, written from the
+user's point of view. It may include some conditions of acceptance
+3. Use cases: a combination of graphics+text that describes how the requested software
+interacts with the user and other systems. They integrate well with user stories
+4. Prototypes and Mockups: Prototypes and mockups are digital tools that help
+visually describe software functionality. A prototype is a
+simple product that provides an idea of how it will work, while a mockup
+is a drawing that proposes a mock interface of the functions that will be
+implemented.
+Lesson Objectives:
+- What are use cases? What are scenarios?
+- How do they integrate with user stories?
+- The graphics of use cases
+- The text of a use case: the scenario
+- Examples
+- Essence charts of use cases
+# Use cases and scenarios.
+Define requirements.
+In order to have a clear and shared vision among all stakeholders about what needs to be created, it is important to define therequirements of a digital product.
+The main techniques for gathering new requirements are:
+- User interviews: to understand needs and expectations with respect to an existing or new digital product.
+- Competitor analysis: the analysis of the features of similar digital products on the marketto identifyimportant features to include in your own product.
+- Requirements analysis: studying the needs of users, the context of the product, and the functionality useful to meet those needs.
+- Brainstorming: idea generation by the team through brainstorming sessions
+- Prototyping: creating prototypes of thedigital product to test functionality and gather feedback from users.
+
+What's the difference between user stories and use cases? Explain it using the Essence language, in less than 250 words.
+CONTEXT:
+# Forms of requirements documents.
+1. Requirements specification document: the traditional form of requirements specification,
+in which a structured document is created according to the standard. This
+document, called a Software Requirement Specification (SRS) includes the
+description of the product, its objectives, description of the required functionality,
+non-functional requirements and test conditions.
+2. User Stories: User stories are an agile form of requirements specification. A
+user story is a concise description of a software feature, written from the
+user's point of view. It may include some conditions of acceptance
+3. Use cases: a combination of graphics+text that describes how the requested software
+interacts with the user and other systems. They integrate well with user stories
+4. Prototypes and Mockups: Prototypes and mockups are digital tools that help
+visually describe software functionality. A prototype is a
+simple product that provides an idea of how it will work, while a mockup
+is a drawing that proposes a mock interface of the functions that will be
+implemented.
+Lesson Objectives:
+- What are use cases? What are scenarios?
+- How do they integrate with user stories?
+- The graphics of use cases
+- The text of a use case: the scenario
+- Examples
+- Essence charts of use cases
+# Story telling with use cases
+- A story is described by part of the use-case narrative, one or more flows and special requirements, and one or more test cases.
+# 2 Theoretical Background
+In this section, we discuss the two background theories of this study. The first sub- section discusses Essence in detail while the second sub-section presents the Technol- ogy Acceptance Model [3], which is used as the data collection and analysis framework.
+## 2.1 The Essence Theory of Software Engineering
+Essence is the result of the SEMAT initiative and comprises of a kernel and a language [8]. The kernel is described using a subset of the language, identifying those SE method elements that "are integral to all SE methods". The language contains notational ele- ments that specify elements that are necessarily not part of every SE method, such as specific activities or roles. The kernel contains three views: an alpha view, a compe- tency view and an activity space view. The kernel is extensible, allowing for the crea- tion of customized kernels for e.g. SE endeavors including business analytics.
+In practice, SE methods are described using the Essence language, a process that includes relating method-specific elements to the different elements of the Essence ker- nel. In the simplest case, the kernel itself can serve as a method. Generally, however, the kernel acts as a module in the description of a method and provides the building blocks upon which to begin describing the method.
+By being method-agnostic and thus suitable for any SE context, Essence can provide common ground for SE and facilitate creating, adapting and using methods for specific endeavors as opposed to 'one-size-fits-all' "method prisons" [9]. Notably, Essence stands out from all other previously proposed methods and approaches since it has been standardized by the OMG (Object Management Group) [11].
+## 2.2 The Technology Acceptance Model
+Originally proposed by Davis [3] in 1985, the Technology Acceptance Model (TAM) is an influential IS theory intended to explain technology adoption on a general level. The model posits that external variables (e.g. software feature factors) affect the Perceived Usefulness (PU) and Perceived Ease of Use (PEOU) of potential users of a technology. PU and PEoU, then, result in a decision to either accept or reject the technology. In addition, Davis [3] established a link between PEoU and PU: the easier the system is to use, the more useful it often consequently is. Davis [3-4] posits that TAM, seen in Fig 1., is primarily useful for early-stage use testing, specifically in organizational settings.
+The effectiveness of PU and PEOU in the context of technology acceptance has been demonstrated in empirical studies [1]. These two central constructs have remained the same in the sub-sequent versions of TAM (e.g. [4]), and similar constructs have been employed by competing models aiming to predict technology acceptance [e.g. 15]. However, while it has been established that PU and PEOU are effective at predicting technology acceptance, few empirical studies have tried to explain why this is the case [1]. In the context of TAM, little effort has gone towards explaining PU and PEOU in terms of system factors [2], although demographic variables have been established to affect perceptions of usefulness and ease of use [15]. In this study, we seek to under-
+# Use case
+A use case is:
+- A sequence of actions a system performs that yields an observable result of value to a particular user.
+- That specific behaviour of a system, which participates in a collaboration with a user to deliver something of value for that user.
+- The smallest unit of activity that provides a meaningful result to the user.
+- The context for a set of related requirements.
+To understand a use case we tell stories.
+- The stories cover both how to successfully achieve the goal and how to handle any problems that occur on the way.
+
+Translate this practice using the Essence language in less than 200 words: We write clean, efficient code, review each other's pull requests, and collaborate on designing and implementing features. We debug issues, create automated tests, optimize performance, and maintain clear documentation, ensuring our project meets user needs and upholds high-quality standards.
+CONTEXT:
+# I. INTRODUCTION
+Agile methodologies are widely used in the software industry, where they are applied using a variety of processes and best practices. Agile methods and practices can also help students develop valuable soft skills such as communication, teamwork, and adaptability. Practicing agile, they should learn how to work effectively with a product owner and other developers, respond to changing requirements, and aiming at continuously improving their work processes. Although there are several agile methods, two are especially outstanding: Scrum [21] and Extreme Programming [3]. The former is the most popular, be- cause it enforces the major Agile principles of iterative, value- based, incremental delivery by frequently gathering customer feedback and embracing requirements change. The latter is also well known, as it introduced a set of agile best practices that can be easily be applied and exploited by students, such as pair programming, the collective property of code, requirements as user stories, etc. An important value fostered by the agile vision is that the process is less important than individuals and interactions. We interpret this value suggesting the students that they can choose the best practices to use
+during the development. Planning and implementing their own Agile software process can also help students develop a sense of ownership and responsibility over their work. They will have a better understanding of what is expected of them, and they will be more motivated to achieve their goals. Overall, learning how to plan their own Agile software process and pick Agile best practices can be a valuable learning experience for students, preparing them for successful careers in software development and helping them develop important skills for any profession.
+In this paper we report on our experiences with training to agile vision and selection of agile best practices our Computer science students in a software engineering class. We adopt the Essence approach [12] that is based on a visual language able to capture combinations of agile practices and the state of their enactment inside a development process. Essence is formally an international standard issued by OMG [18].
+Learning how to plan their own Agile software process and choose which best practices apply can help students become more effective and efﬁcient in their software development work. They will be able to break down complex projects into smaller, more manageable tasks and work collaboratively with their team members to complete these tasks in a timely manner. We use a team building game to help the students to select their role in a Scrum-like team. Then we ask them to use a number of state-of-the art open source tools, like Taiga, GitLab, and SonarQube, to help them during the development and to collect data useful for the analysis we will report in this paper. We also suggest them to follow the Essence approach to process enactment and retrospective analysis. Concerning the evaluation of this experience, we have developed a maturity model to analyze how student teams perform their teamwork. We observed more than one hundred students divided in teams averaging ﬁve members each.
+Speciﬁcally, we observed 136 students (57 in 2021 and 79 in 2022) divided in 27 teams (11 in 2021 and 16 in 2022) with an average of 5 components each (three teams had six components and two teams had four).
+The project consisted in creating a Twitter client enriched with
+a dashboard with several ﬁltering and visual analytics features.
+The teamwork was organized following a Scrum-like ap- proach: each team had to work for at least three 3-week-sprints using CAS services and then write a ﬁnal report to summarize the development process. Each student had then to complete an individual questionnaire to evaluate the experience.
+We collected several data. The main data sources were the ﬁnal reports, the individual questionnaires and, within the CAS environment, Gitlab, Taiga, and SonarQube. The ﬁnal reports were a fundamental source of data since, in addition to containing all mandatory information, most teams included additional elements regarding their own process. Tools were shared with the instructors. Gitlab was used to analyze the structure of the teams’ repositories and obtain data regarding the frequency of commits and the tests performed. Taiga was used by the teams to manage their sprints and their retrospectives (conducted using Essence cards); the instructors, as Product Owners, could see the progresses on the product and its documentation. SonarQube was used for extracting product quality data and technical debt data.
+This paper has the following structure: Section II presents some related works; Section III overviews the approach we fol- lowed, describing the preliminary activities for team building, the product to be built by the teams, the process enacted, and the open source tools which were used. Section IV presents the results of the analysis of the data we collected; Section V discusses these results; ﬁnally, Section VI presents our conclusions and the work we are planning now.
+# Essence Pocket Guide
+A quick introduction to Essence.
+Essence has alphas, work products, competencies, activities, patterns and resources.  
+## Introduction
+Essence is a standard for the creation, use and improvement of software engineering practices and methods, which is maintained and published by the OMG international open standards consortium.
+The spirit of Essence is to concentrate on the essential information and to optimize both the technical and human aspects of engineering by providing super-lightweight practices, often distilled into a small handful of cards, that focus on outcomes and minimize production of documentation.
+As an industry standard, Essence describes a language and a kernel for these engineering practices:
+• The Essence Language enables practices to be expressed in a simple and standard form that ensures that they can be easily shared, understood, and applied both independently and in combination with other Essence practices.
+• The Essence Kernel provides the common ground for defining these Essence practices. It includes the essential elements that are always central to every software engineering endeavor. The Kernel also helps practitioners compare practices and make informed decisions about which practices to adopt, and how to apply and adapt them.
+# II. RELATED WORKS
+There are several papers concerning teaching agile teamwork and development in a university course. For instance, in [9], the authors describe their experiences teaching agile software development to computer science students and provide some recommendations for instructors; in [15] we found the de- scription of a course on agile methodologies taught to software engineering students analyzing their personalities and attitudes to teamwork; and in [17] there is a discussion of how the use of collaborative practices needs some maturity by the stu- dents. A paper exploiting Essence during an academic course project work is [13]; this paper discusses the difﬁculties of adopting Essence in the context of an undergraduate software engineering course. We searched for papers concerning team building in a university context: we found [14], which suggests an approach on how to integrate team building into university courses including agile teamwork.
+We also have devoted some effort to look for papers exposing experiences on teaching agile using open source tools. The match between agile and open source seems natural, how- ever we have found only the paper [23], which reports an experience using tools quite different from those we used, in particular they used Redmine for project management and bugzilla as issue tracker.
+Documentation of process choices, tools selections, and their rationale is an important factor in software development projects in order to support product quality and future mainte- nance. While several research publications address this topic, systematic approaches and tools are rarely found in practice, and not well covered in software engineering education. Lack of suitable process documentation is especially an issue in agile software development, where processes and tools are often seen as less important than working products [20].
+We found some experiences of using a Scrum-like approach adaptable by the students, see for instance [19; 2].
+Concerning the evaluation of the product, our work has been inspired by the quality model described in the article by Hoegl and Gemuenden [11], and further developed by Lindsjørn et al. [16].
+The maturity model for agile teamwork which inspired us to evaluate the process was proposed by Yin et al.[24], based on the one created by Chetankumar et al.[4]. Gren et al. have also discussed the concept of teamwork maturity in agile teams [10], and inﬂuenced our model as well.
+# The Essence Language  
+## Essence Prime
+Essence provides a precise and actionable language to describe software engineering practices.
+- The constructs in the Essence language are in the form of shapes and icons.
+- The different shapes and icons each have different meaning.
+Essence categorizes the shapes and icons as:
+- Things to Work With
+- Things to Do
+- Competencies
+Essence provides explicit and actionable guidance.
+- This actionable guidance is delivered through associated checklists and guidelines.
+
+Translate this practice using the Essence language in less than 200 words: We hold retrospectives to reflect on our work, celebrate successes, and identify areas for improvement. Together, we discuss what went well, what didn’t, and how to adapt. This practice strengthens our collaboration, fosters transparency, and helps us continuously improve as a team.
+CONTEXT:
+# 1.2 New Year’s Eve Retrospective
+A few years ago, my family and I started a new Year’s tradition. We call it the New Year’s Eve Retrospective. Not only is it a lot of fun, but it also helps pass the time until midnight (especially helpful with children). The New Year’s Eve Retrospective goes like this: To start, we all sit down together and look at some photos and watch some short videos that we took during the year. I’ve prepared a USB stick with the photos and videos beforehand. This phase of our retrospective is always loads of fun and results in a lot of laughter.
+After this review, we have a look at our measures and hypotheses from the year. This is important because it is the only way we can determine whether or not the resolutions we made last year had the desired effect. If they didn’t, we can decide whether the subject is still relevant and choose a new measure. After reviewing our hypotheses, we start to recollect all the things about the last year that have been particularly memorable. We use three categories:
+- What did I like this year?
+- What I did not like at all this year (or what made me angry)?
+- Thank you
+The first category is for all of those things that were fun or made us happy; for example, our family holiday in a kyrgyz yurt. The second category includes all the negative events. These are things like “socks everywhere” or “annoying parents.” The third category simply serves to say “thank you” to your wife or mom, to the children or siblings, and so on. Connecting your gratitude to a specific case is always important. For example, “Thanks for letting me play with your Skylander toys” or “Thank you for making me a snack every morning.”
+‘It is then time to gain knowledge and insights. Each family member is allowed to choose a topic that he or she finds particularly important, and these topics are discussed in turn. The goal of these discussions is to find the underlying causes for the topic. At the moment, we’re finding the 5-Why question method very valuable here
+**5-Why Method**
+This method starts with the question: “why is x happening?” or “why does x always happen?” The answer serves as the basis for the next “why” question. You then repeat the process, digging deeper and deeper until, hopefully, you’ve found the real cause. We make sure to write this cause on a piece of paper because it is the foundation of the next phase. The 5- Why method is around 100 years old and was created by Sakichi Toyota [ 5], the founder of Toyota, to get to the bottom of production problems and so prevent them from re-occurring.
+The next step is to use the causes we’ve found to create concrete, measurable resolutions for next year. To this end, we have a short brainstorming session to collect ideas about our topics. You wouldn’t believe the ideas children can come up with, even for the topics closer to their parents’ hearts. Everyone presents his or her ideas for each topic, and we choose the most promising idea. We make our choice by sticking colored dots up next to the ideas on the paper. This technique is called “Dot Voting.” Each of us has three sticky dots, which we can put wherever we like. Once we’ve finished, we place the newly chosen measures in a prominent place: our family corkboard in the hall, which is our highly visual to-do list. There is nothing worse than results that are not visible after the retrospective. Our board helps us to keep an eye on our new measures and ensure that we actually implement them. Importantly, we also link each measure to a testable hypothesis that we can review in the next retrospective.
+Of course, a retrospective also needs a worthy ending. ’ In this case, the choice is easy: the New Year’s Eve fireworks.
+# Restrospective Essence cards - Activities  
+Title: Hold a Retrospective
+Description: The whole team meets regularly to reflect on its way of working. Improvements are identified and prioritized, and actions agreed. At the next retrospective, the results are evaluated.
+Required competencies: Leadership level 2, Management level 2.
+Achieves: Alpha Improvement: Action Agreed or beyond.
+Contributes to: Alpha Way of Working: Working Well
+Patterns: Mad, Sad, Glad is one approach to Hold a Retrospective
+Part of: Support the Team Activity Space
+# 1.5 The Prime Directive - Improving Agile Retrospectives
+Some facilitators begin their retrospectives by reading out the fundamental principle, the Prime Directive. First articulated by Norman Kerth in his book, Project Retrospectives: A Handbook for Team Reviews [ 1], the Prime Directive is designed to set the stage for the retrospective:
+Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time,
+their skills and abilities, the resources available, and the situation at hand.
+This principle is read aloud at the beginning of a retrospective, precisely in this wording.
+The idea is to make it clear to everyone that we are all human and make mistakes. The principle also points out that we shouldn’t assume that things have been done badly deliberately.
+**Practical Tip**
+You don’t need to read out the Prime Directive at every retrospective. In later retrospectives, simply reminding people of it is enough.
+Many retrospective facilitators swear by the Prime Directive. They feel that retrospectives that don’t start with this fundamental principle are less effective and therefore less useful. Pat Kua writes [Kua 2012] that this is related to the Pygmalion [ 11] or Rosenthal effect, or what is commonly known as “ ‘a self-fulfilling prophecy.’ ”
+The effect of a teacher’s preconceptions about his students might be an example of the Rosenthal effect. The idea is that a teacher’s positive preconception about a student (‘that student is a high achiever’) will affect the teacher’s behavior in such a way as to create confirmation of his expectations. What happens is that the teacher subtly transmits his preconception to the student through, for example, more one-to-one attention, more time given for response, frequency and strength of praise or blame, or high-performance requirements. This is an unconscious rather than deliberate course of action.
+In essence, the theory is that someone who is treated as having certain characteristics will manifest them. In fact, Rosenthal’s results were repeatedly called into question and could only be reproduced in 40 percent of cases [ 11].
+I personally believe that the success of a retrospective depends not on the careful reading out of the Prime Directive, but rather upon the values that it describes. I have carried out many successful retrospectives during which I did not explicitly mention the Prime Directive. I’m not saying that reading the
+principle isn’t a good thing; in new teams or established teams that are about to experience their first retrospective, this ritual can have a very positive, if not measurable, effect. In my experience, however, you lose that positive effect if you read out the directive at every retrospective. Repetition does to the directive what frequent flying does to pre-flight safety briefings. The first time you fly, you pay close attention. However, with prolonged exposure, you pay less and less attention until, in the end, you hardly notice it’s happening.
+A positive attitude is essential for a successful retrospective, but I believe there are many ways to achieve that attitude and the Prime Directive is only one (and one that is certainly no guarantee of success).
+There is also an alternative prime directive that is somewhat longer but may work better for some teams [ 12]. I personally like the fact that it is written in the first person and is thus more appealing:
+Some days are better than others. Some days I’m in the “flow” state, doing awesome work. Some days I come to the end of a day and realized I’ve wasted a lot of time, made mistakes that I should have foreseen, or wish I could have done something differently.
+Regardless, those days have happened and our purpose here is to find out:
+What can we learn from our past actions and thinking that will inform and guide our future actions and thinking so that we can do a little better?
+How can we change our environment (“the system”) so that it’s easier for us to do awesome work and less likely for us for us to waste time and make mistakes?
+Like the original Prime Directive, this version describes the goal of a retrospective and articulates the underlying principles. Also like the original, this alternative is just a tool and does not guarantee a successful retrospective. My advice is that you experiment with both versions and see what kind of an impact it has on your retrospectives. When properly used, the Prime Directive can be a valuable tool.
+# Restrospective Essence cards  
+The following Essence items (cards) form the Retrospective practice.
+This is how to essentialize Retrospectives (how to translate the Retrospective practice in Essence terms).
+It's important to note that translations may vary depending on the level of detail needed.  
+The activites of the Retrospective are:
+- Hold a Retrospective
+The alphas of a retrospective are:
+- Improvement
+Patterns are:
+- Feedback
+- Mad, Sad, Glad
+Required competency levels are:
+- Leadership
+- Management
+
+Translate this practice using the Essence language in less than 200 words: We design and implement independent services, define clear APIs for communication, and ensure each service is scalable and maintainable. We deploy and monitor services separately, manage data consistency, and handle failures gracefully. This requires strong skills in system design, API development, cloud deployment, and debugging distributed systems.
+CONTEXT:
+# C. The agile open source environment
+We gathered and analyzed data produced by students dur- ing the development of the project work for the Software Engineering course. The teams used the services offered by the Compositional Agile System (CAS) [7]. This is an open source, open-ended development environment conceived in order to adopt an Agile approach based on a process model in- spired by Scrum introduced for critical systems development. The implementation of CAS aims to provide an autonomous environment which can be deployed on a private server or a hybrid cloud, and extended with additional open source tools, while keeping complete control over the data and source code stored within. The CAS structure is composed of a server, which is a basic set of shared services, and some clients, which are used by developers to interact with the services, as shown in Fig.2.
+A CAS Client is installed by the developer along with an IDE of their choice, among the supported ones, and consists of two distinct parts:
+- A plug-in for the chosen IDE to monitor the development and record the metrics which will be sent to the logger service hosted on the CAS server.
+- A Browser capable of interfacing with the logger dash- board on the server in order to retrieve and show all the metrics with graphs.
+1) CAS Server: All the CAS services are open source and each one of them has a utility in contributing to different activities in the agile development process
+2) CAS-Logger and CAS-Dashboard: CAS-Loggeris a self tracking service that allows each user to view personal statis- tics generated by the actions performed on an IDE, equipped with a plugin that connects to a CAS service repository. To be able to consult the statistics in detail, users have to log
+To be able to consult the statistics in detail, users have to log into the CAS platform.
+CAS-Dashboard is a web app that aggregates data from all the CAS services used either by a single developer or by the team. Each section of the dashboard interacts with the associated service through the APIs made available by the service itself.
+The extrapolated data are manipulated to return tables or
+https://practicelibrary.ivarjacobson.com/start/
+graphs, like those in Figure 3.
+The loggers track and record ﬁve different types of measure- ments, either for a single developer or for the whole team:
+- Lines of code: the plugins determine, through the use of diff libraries in Java and JavaScript (ECMAScript), the number of lines added, modiﬁed and deleted every time a ﬁle is saved.
+- Comments: with the same libraries for lines control, using pattern matching it is determined how many com- ments have been added or removed.
+- Lines of test: the same procedure is used to identify the lines relating to testing.
+- Refactoring: each editor emits signals for the events generated through the use of the IDE itself.
+The plugins capture metrics by determining duration and type of each individual operation and ignoring events that are not considered signiﬁcant.
+- Session: an authenticated user also generates activity metrics that include hardware details of the machine they are working on, in particular the IP and MAC addresses, which will be associated with the type of activity being carried out.
+# 6. ACKNOWLEDGMENT AND CAVEAT
+This work was supported by ICT R&D program of MSIP/IITP in Korea [14-824-10-003: Development of Cloud Services for Software Engineering Method Enactment Based on the OMG Essence Standard]. The authors thank Pekka Abrahamsson, Ivar Jacobson, Svante Lidman and Roly Stimson, and an anonymous associate editor of ACM SIGSOFT SEN for helpful comments that improved the paper.
+The authors are members of SEMAT and some of them are members of the OMG Essence Revision Task Force. However, the content of this paper does not represent the official views or policies of SEMAT (Software Engineering Method and Theory) nor of OMG (Object Management Group).
+# I. INTRODUCTION
+Agile methodologies are widely used in the software industry, where they are applied using a variety of processes and best practices. Agile methods and practices can also help students develop valuable soft skills such as communication, teamwork, and adaptability. Practicing agile, they should learn how to work effectively with a product owner and other developers, respond to changing requirements, and aiming at continuously improving their work processes. Although there are several agile methods, two are especially outstanding: Scrum [21] and Extreme Programming [3]. The former is the most popular, be- cause it enforces the major Agile principles of iterative, value- based, incremental delivery by frequently gathering customer feedback and embracing requirements change. The latter is also well known, as it introduced a set of agile best practices that can be easily be applied and exploited by students, such as pair programming, the collective property of code, requirements as user stories, etc. An important value fostered by the agile vision is that the process is less important than individuals and interactions. We interpret this value suggesting the students that they can choose the best practices to use
+during the development. Planning and implementing their own Agile software process can also help students develop a sense of ownership and responsibility over their work. They will have a better understanding of what is expected of them, and they will be more motivated to achieve their goals. Overall, learning how to plan their own Agile software process and pick Agile best practices can be a valuable learning experience for students, preparing them for successful careers in software development and helping them develop important skills for any profession.
+In this paper we report on our experiences with training to agile vision and selection of agile best practices our Computer science students in a software engineering class. We adopt the Essence approach [12] that is based on a visual language able to capture combinations of agile practices and the state of their enactment inside a development process. Essence is formally an international standard issued by OMG [18].
+Learning how to plan their own Agile software process and choose which best practices apply can help students become more effective and efﬁcient in their software development work. They will be able to break down complex projects into smaller, more manageable tasks and work collaboratively with their team members to complete these tasks in a timely manner. We use a team building game to help the students to select their role in a Scrum-like team. Then we ask them to use a number of state-of-the art open source tools, like Taiga, GitLab, and SonarQube, to help them during the development and to collect data useful for the analysis we will report in this paper. We also suggest them to follow the Essence approach to process enactment and retrospective analysis. Concerning the evaluation of this experience, we have developed a maturity model to analyze how student teams perform their teamwork. We observed more than one hundred students divided in teams averaging ﬁve members each.
+Speciﬁcally, we observed 136 students (57 in 2021 and 79 in 2022) divided in 27 teams (11 in 2021 and 16 in 2022) with an average of 5 components each (three teams had six components and two teams had four).
+The project consisted in creating a Twitter client enriched with
+a dashboard with several ﬁltering and visual analytics features.
+The teamwork was organized following a Scrum-like ap- proach: each team had to work for at least three 3-week-sprints using CAS services and then write a ﬁnal report to summarize the development process. Each student had then to complete an individual questionnaire to evaluate the experience.
+We collected several data. The main data sources were the ﬁnal reports, the individual questionnaires and, within the CAS environment, Gitlab, Taiga, and SonarQube. The ﬁnal reports were a fundamental source of data since, in addition to containing all mandatory information, most teams included additional elements regarding their own process. Tools were shared with the instructors. Gitlab was used to analyze the structure of the teams’ repositories and obtain data regarding the frequency of commits and the tests performed. Taiga was used by the teams to manage their sprints and their retrospectives (conducted using Essence cards); the instructors, as Product Owners, could see the progresses on the product and its documentation. SonarQube was used for extracting product quality data and technical debt data.
+This paper has the following structure: Section II presents some related works; Section III overviews the approach we fol- lowed, describing the preliminary activities for team building, the product to be built by the teams, the process enacted, and the open source tools which were used. Section IV presents the results of the analysis of the data we collected; Section V discusses these results; ﬁnally, Section VI presents our conclusions and the work we are planning now.
+# Essence Seminar - Essence: Software Engineering Essentialized  
+## Essence on OMG web site
+Successful software-development teams need to strike a balance between quickly
+delivering working software systems, satisfying stakeholders, and addressing risks. Their challenges are further compounded as they strive to improve and introduce new
+ideas and ways of working.
+Essence was the very first step on a journey to revolutionize software engineering. A
+common ground was needed to build the future upon. The Essence™ standard was created in 2014 by the SEMAT and OMG to provide a universalrianguuge for defining methods and practices common to all software engineering.
+Essence intuitively describes the essential elements of any software development and
+helps teams understand where they are, what's missing or what needs to be addressed. Essence is method-agnostic and unites the myriad of disconnected,
+conflicting, costly, contradictory and transitory methods and practices that exist in most large organizations.  
+## Essence on Semat Web site  
+## Agenda of this Seminar
+Software Engineering concepts are given for granted
+- Introduction to Essence
+- The Basics of Software Engineering
+- The EssenceLanguage
+- The EssenceKernel
+- Conclusions: Reflections on Essence Goals and Theory of Software Engineering
+- Appendix: A summary of EssenceConcepts and Elements

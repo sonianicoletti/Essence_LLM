@@ -9,7 +9,7 @@ MONGO_URI = os.getenv("MONGO_URI")
 # Set up MongoDB client and database
 client = pymongo.MongoClient(MONGO_URI)
 db = client["chatbot_db"]
-collection = db["chats_experiment"]
+collection = db["chats_llama"]
 
 def store_chat_response(model, temperature, retriever, user_question, context, answer, role, event):
     # Store the user's question, the retrieved context, and the assistant's answer in MongoDB.

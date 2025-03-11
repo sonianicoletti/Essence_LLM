@@ -1,5 +1,5 @@
-relevance_coach,accuracy_coach,completeness_coach,relevance_gpt,accuracy_gpt,completeness_gpt,question_type
-2.7666666666666666,2.433333333333333,2.433333333333333,2.5,2.033333333333333,2.033333333333333,
-3.0,2.7,2.5,2.8,2.6,2.2,decision-making
-3.0,2.6,2.5,3.0,2.2,2.8,information
-2.3,2.0,2.3,1.7,1.3,1.1,translation
+question_type,rel_llama,acc_llama,com_llama,rel_llama_rag,acc_llama_rag,com_llama_rag,rel_gpt,acc_gpt,com_gpt,rel_gpt_rag,acc_gpt_rag,com_gpt_rag,rel_deep,acc_deep,com_deep,rel_deep_rag,acc_deep_rag,com_deep_rag,rel_claude,acc_claude,com_claude,rel_claude_rag,acc_claude_rag,com_claude_rag
+overall,2.5,2.1,1.8667,2.7667,2.4333,2.4,2.5,2.0,1.9667,2.6667,2.3,2.3333,2.3333,2.1,1.8333,2.9333,2.6333,2.4667,2.3,2.2333,1.8667,2.5667,2.5333,2.2667
+information,2.6,2.0,2.0,3.0,2.6,2.5,3.0,2.2,2.8,3.0,2.6,2.9,3.0,2.4,2.5,3.0,2.7,2.8,3.0,2.7,2.6,2.9,2.6,2.5
+decision-making,3.0,2.7,2.0,3.0,2.7,2.4,2.8,2.5,2.0,2.8,2.4,2.1,2.9,2.5,1.9,2.9,2.8,2.2,2.9,2.7,2.0,3.0,2.9,2.6
+translation,1.9,1.6,1.6,2.3,2.0,2.3,1.7,1.3,1.1,2.2,1.9,2.0,1.1,1.4,1.1,2.9,2.4,2.4,1.0,1.3,1.0,1.8,2.1,1.7
