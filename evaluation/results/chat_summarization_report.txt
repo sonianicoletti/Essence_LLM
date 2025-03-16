@@ -1,0 +1,106 @@
+Example 1
+
+Original Dialogue:
+User: What is the Essence standard by SEMAT?
+Assistant: The Essence standard, maintained by the OMG international open standards consortium, is a framework for creating, using, and improving software engineering practices and methods…
+Summarized Version:
+User: What is the Essence standard by SEMAT?
+Assistant: Summary: Essence is a framework that defines software engineering practices through a kernel and language with essential alphas.
+
+---
+
+Example 2
+
+Original Dialogue:
+User: What are the elements of the Essence language?
+Assistant: The Essence language consists of Alphas, Activities, Work Products, Competencies, Activity Spaces, and Patterns…
+Summarized Version:
+User: What are the elements of the Essence language?
+Assistant: Summary: The Essence language includes Alphas, Work Products, Activities, Activity Spaces, Competencies, and Patterns.
+
+---
+
+Example 3
+
+Original Dialogue:
+User: What is the Essence standard used for?
+Assistant: The standard is used for Practice Description and Application…
+Summarized Version:
+User: What is the Essence standard used for?
+Assistant: Summary: Essence is used to describe and apply software engineering practices and assess project progress.
+
+---
+
+Example 4
+Original Dialogue:
+User: What are the Alphas of the Essence Kernel?
+Assistant: The Kernel defines seven Alphas: Stakeholder, Opportunity, Requirements, Software System, Work, Way of Working, Team…
+Summarized Version:
+User: What are the Alphas of the Essence Kernel?
+Assistant: Summary: Essence Kernel Alphas include Stakeholder, Opportunity, Requirements, Software System, Work, Way of Working, and Team.
+
+---
+
+Example 5
+
+Original Dialogue:
+User: What are the Kernel Competencies?
+Assistant: Six core competencies are Stakeholder Representation, Analysis, Development, Testing, Leadership, and Management…
+Summarized Version:
+User: What are the Kernel Competencies?
+Assistant: Summary: The Essence Kernel defines six competencies: Stakeholder Representation, Analysis, Development, Testing, Leadership, and Management.
+
+---
+
+Example 6
+
+Original Dialogue:
+User: What are the states of the Work alpha?
+Assistant: The Work alpha includes: Initiated, Prepared, Started, Under Control, Concluded, Closed…
+Summarized Version:
+User: What are the states of the Work alpha?
+Assistant: Summary: Work alpha states are Initiated, Prepared, Started, Under Control, Concluded, and Closed.
+
+---
+
+Example 7
+
+Original Dialogue:
+User: What are the Activity Spaces in the Customer Area of Concern?
+Assistant: The spaces include Explore Possibilities, Understand Stakeholder Needs, Ensure Stakeholder Satisfaction, Use the System…
+Summarized Version:
+User: What are the Activity Spaces in the Customer Area of Concern?
+Assistant: Summary: Customer Area Activity Spaces include Explore Possibilities, Understand Stakeholder Needs, Ensure Satisfaction, and Use the System.
+
+---
+
+Example 8
+
+Original Dialogue:
+User: What are the checklist items of the User Story "Identified" Alpha State card?
+Assistant: Likely include initial documentation, clear description, prioritization…
+Summarized Version:
+User: What are the checklist items of the User Story "Identified" Alpha State card?
+Assistant: Summary: Checklist likely includes identifying, documenting, and prioritizing the user story.
+
+---
+
+Example 9
+
+Original Dialogue:
+User: What is Mad Sad Glad?
+Assistant: A retrospective technique where team members categorize feedback as Mad (frustration), Sad (disappointments), Glad (successes)…
+Summarized Version:
+User: What is Mad Sad Glad?
+Assistant: Summary: A retrospective technique categorizing experiences into Mad, Sad, and Glad for reflection and improvement.
+
+---
+
+Example 10
+
+Original Dialogue:
+User: What are the steps of Progress Poker?
+Assistant: Involves choosing state cards, revealing choices, discussing differences, and reaching consensus…
+Summarized Version:
+User: What are the steps of Progress Poker?
+Assistant: Summary: Players select Alpha state cards, reveal them, discuss differences, and repeat until consensus is reached.

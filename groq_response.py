@@ -21,34 +21,35 @@ client = Groq(
 system_prompt = {
     "role": "system",
     "content":
-    """
-    You are Essence Coach, a helpful and informative bot assistant that answers questions related to the Essence standard and software engineering practices.
-    Essence is a standard for the creation, use and improvement of software engineering practices.
-    Essence describes a language and a kernel.
-    The Essence Language enables practices to be expressed in a simple, visual way that ensures that they can be easily shared, understood, adapted and applied 
-    both independently and in combination with other Essence practices.
-    In Essence, practices are described by Alphas, Activities, Work Products, Competencies and Patterns.
-    The Essence Kernel provides the common ground for defining software development practices. It includes the essential elements that are always central to every 
-    software engineering endeavor.
-    These essential elements include the seven common Alphas (Opportunity, Stakeholders, Requirements, Software System, Work, Team and Way of Working), which are
-    divided into three main areas of concern (Customer, Solution, Endeavor).
-    These essential elements also include Activity Spaces and Competencies for each area of concern. 
-    The Kernel helps practice authors to define good practices and helps practitioners to make informed decisions about which practices to adopt and how to apply and adapt them.
-              
-    Your task is to answer questions using, if necessary, text from the reference context included below.
-    When appropriate, answer questions related to software engineering methods and practices by mentioning Essence elements, like the Kernal Alphas.
-    If the context is irrelevant to the question, you may ignore the context and answer using your own knowledge.
-    If you can't answer a question from the provided context, do NOT say you can't answer it, just answer it to the best of your abilities, using your own knowledge. 
-    Do NOT directly quote the context text provided (for example, do not say "The text says...", "The context you provided is about...").
-    Always reformulate the provided context when answering.
-    When the question is related to previous questions, prioritize the previous context. 
-    Be sure to respond in a complete sentence, being comprehensive, including all relevant background information.
-    Be sure to break down complicated concepts and strike a friendly and conversational tone.
-    """
+        """
+        You are Essence Coach, a helpful and informative bot assistant that answers questions related to the Essence standard and software engineering practices.
+        Essence is a standard for the creation, use and improvement of software engineering practices.
+        Essence describes a language and a kernel.
+        The Essence Language enables practices to be expressed in a simple, visual way that ensures that they can be easily shared, understood, adapted and applied 
+        both independently and in combination with other Essence practices.
+        In Essence, practices are described by Alphas, Activities, Work Products, Competencies and Patterns.
+        The Essence Kernel provides the common ground for defining software development practices. It includes the essential elements that are always central to every 
+        software engineering endeavor.
+        These essential elements include the seven common Alphas (Opportunity, Stakeholders, Requirements, Software System, Work, Team and Way of Working), which are
+        divided into three main areas of concern (Customer, Solution, Endeavor).
+        These essential elements also include Activity Spaces and Competencies for each area of concern. 
+        The Kernel helps practice authors to define good practices and helps practitioners to make informed decisions about which practices to adopt and how to apply and adapt them.
+    
+        Your task is to answer questions using, if necessary, text from the reference context included below.
+        When appropriate, answer questions related to software engineering methods and practices by mentioning Essence elements, like the Kernal Alphas.
+        If the context is irrelevant to the question, you may ignore the context and answer using your own knowledge.
+        If you can't answer a question from the provided context, do NOT say you can't answer it, just answer it to the best of your abilities, using your own knowledge. 
+        Do NOT directly quote the context text provided (for example, do not say "The text says...", "The context you provided is about...").
+        Always reformulate the provided context when answering.
+        When the question is related to previous questions, prioritize the previous context. 
+        Be sure to respond in a complete sentence, being comprehensive, including all relevant background information.
+        Be sure to break down complicated concepts and strike a friendly and conversational tone.
+        """
 }
 
 # Initialize the chat history
 chat_history = [system_prompt]
+
 
 # Function to print chat history without context and system prompt
 def print_chat_history():
@@ -64,22 +65,80 @@ def print_chat_history():
     print("**********************************\n")
 
 
+def summarize_message(message, role="user"):
+    if role == "user":
+        prompt_text = "Summarise the following user message and its appended context in less than 80 words."
+    else:
+        prompt_text = "Summarise the following assistant response in less than 80 words."
+
+    summary_prompt = [
+        {"role": "system", "content": prompt_text},
+        {"role": role, "content": message["content"]}
+    ]
+
+    try:
+        response = client.chat.completions.create(
+            model=MODEL_NAME,
+            messages=summary_prompt,
+            max_tokens=150,
+            temperature=0.3
+        )
+        summarized_content = response.choices[0].message.content.strip()
+
+        # Recursive shortening if summary too long
+        if len(summarized_content.split()) > 80:
+            forced_prompt = [
+                {"role": "system", "content": "Please rewrite the following summary in less than 60 words:"},
+                {"role": "assistant", "content": summarized_content}
+            ]
+            response2 = client.chat.completions.create(
+                model=MODEL_NAME,
+                messages=forced_prompt,
+                max_tokens=100,
+                temperature=0.3
+            )
+            summarized_content = response2.choices[0].message.content.strip()
+
+        return "Summary: " + summarized_content
+    except Exception as e:
+        print(f"ERROR during summarization: {e}")
+        return message["content"]
+
+
+def trim_and_summarize_individual_messages(chat_history, skip_last_n=2):
+    total_tokens = sum(len(m["content"].split()) for m in chat_history)
+    if total_tokens <= TOKEN_LIMIT:
+        return chat_history
+
+    print(f"TOKEN LIMIT EXCEEDED ({total_tokens}). Starting summarization BEFORE next request.")
+
+    new_chat_history = [chat_history[0]]
+    preserved = chat_history[-skip_last_n:] if len(chat_history) > skip_last_n else chat_history[1:]
+    messages_to_summarize = chat_history[1:-skip_last_n] if len(chat_history) > skip_last_n else []
+
+    for msg in messages_to_summarize:
+        summarized = summarize_message(msg, role=msg["role"])
+        new_chat_history.append({"role": msg["role"], "content": summarized})
+
+    new_chat_history.extend(preserved)
+
+    print(f"Tokens after summarization: {sum(len(m['content'].split()) for m in new_chat_history)}")
+    return new_chat_history
+
+
 def process_query_groq(user_input):
+    global chat_history
     try:
         context = get_relevant_context_from_db(user_input)
         context_text = "\n".join(context)
         prompt = user_input + "\n" + "CONTEXT: " + context_text
-        chat_history.append({"role": "user", "content": prompt})
-        retriever_parameters = get_parameters()
 
-        # Check the length of chat_history and keep only the last 3 messages
-        total_tokens = sum(len(message["content"].split()) for message in chat_history)
-        print("TOTAL TOKENS before receiving a response: " + str(total_tokens) + "\n")
-        if total_tokens > TOKEN_LIMIT:
-            print("Total token count exceeded. Trimming chat history.")
-            while total_tokens > TOKEN_LIMIT and len(chat_history) > 1:
-                chat_history.pop(1)  # Remove the oldest message
-                total_tokens = sum(len(message["content"].split()) for message in chat_history)
+        chat_history.append({"role": "user", "content": prompt})
+
+        # Trim/summarize BEFORE sending to LLM (excluding last 2)
+        chat_history = trim_and_summarize_individual_messages(chat_history, skip_last_n=2)
+
+        retriever_parameters = get_parameters()
 
         response = client.chat.completions.create(
             model=MODEL_NAME,
@@ -97,8 +156,8 @@ def process_query_groq(user_input):
 
         print_chat_history()
 
-        # Structure data for storage
-        response_data = {
+        # Return structured data for MongoDB insertion
+        return {
             "model": MODEL_NAME,
             "temperature": TEMPERATURE,
             "retriever": retriever_parameters,
@@ -107,8 +166,6 @@ def process_query_groq(user_input):
             "answer": answer
         }
 
-        return response_data  # Return structured data for MongoDB insertion
-    
     except Exception as e:
         print(e)
         if "rate_limit_exceeded" in str(e):
@@ -117,16 +174,15 @@ def process_query_groq(user_input):
         else:
             answer = "ERROR: GENERAL PROCESSING ERROR"
 
-    response_data = {
-        "model": MODEL_NAME,
-        "temperature": TEMPERATURE,
-        "retriever": retriever_parameters,
-        "user_input": user_input,
-        "context": context,
-        "answer": answer
-    }
+        return {
+            "model": MODEL_NAME,
+            "temperature": TEMPERATURE,
+            "retriever": {},
+            "user_input": user_input,
+            "context": [],
+            "answer": answer
+        }
 
-    return response_data
 
 """ while True:
   # Get user input from the console
