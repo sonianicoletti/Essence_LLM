@@ -1,5 +1,4 @@
 import os
-import tiktoken
 from dotenv import load_dotenv
 from groq import Groq # Documentation: https://console.groq.com/docs/models
 from ensemble_retriever import get_relevant_context_from_db, get_parameters
@@ -12,15 +11,11 @@ MODEL_NAME = "llama-3.3-70b-versatile" # Limit: 6000 tokens per chat
 # MODEL_NAME = "mixtral-8x7b-32768" # Limit: 5000 tokens per chat
 MAX_TOKENS = 1000 # max number of tokens the response can be
 TOKEN_LIMIT = 4000 # max number of tokens the chat can be before being trimmed
-SUMMARIZATION_THRESHOLD = int(TOKEN_LIMIT * 0.8)  # Summation is triggered earlier, at 80% of the limit
 TEMPERATURE = 0.7 # range: 0-2
 
 client = Groq(
     api_key=GROQ_API_KEY,
 )
-
-# Initialize tiktoken for accurate token counting
-encoder = tiktoken.get_encoding("cl100k_base")
 
 # Set the system prompt
 system_prompt = {
@@ -55,6 +50,7 @@ system_prompt = {
 # Initialize the chat history
 chat_history = [system_prompt]
 
+
 # Function to print chat history without context and system prompt
 def print_chat_history():
     print("********** CHAT HISTORY **********")
@@ -69,101 +65,124 @@ def print_chat_history():
     print("**********************************\n")
 
 
-def count_tokens(messages):
-    overhead_per_message = 4
-    total = 0
-    for m in messages:
-        total += len(encoder.encode(m["content"])) + overhead_per_message
-    return total
+def summarize_message(message, role="user"):
+    if role == "user":
+        prompt_text = "Summarise the following user message and its appended context in less than 80 words."
+    else:
+        prompt_text = "Summarise the following assistant response in less than 80 words."
 
+    summary_prompt = [
+        {"role": "system", "content": prompt_text},
+        {"role": role, "content": message["content"]}
+    ]
 
-def summarize_history():
-    global chat_history
-    if len(chat_history) < 2:
-        return
-
-    system_msg = chat_history[0]
-    old_msgs = chat_history[1:]
-    text_to_summarize = "\n".join(m["content"] for m in old_msgs)
-    safe_word_limit = 1000
-    words = text_to_summarize.split()
-    if len(words) > safe_word_limit:
-        text_to_summarize = " ".join(words[:safe_word_limit])
-
-    summary_prompt = "Summarize the following text, keeping only the key details:\n\n" + text_to_summarize
     try:
-        resp = client.chat.completions.create(
+        response = client.chat.completions.create(
             model=MODEL_NAME,
-            messages=[{"role": "user", "content": summary_prompt}],
-            max_tokens=300,
-            temperature=0.5
+            messages=summary_prompt,
+            max_tokens=150,
+            temperature=0.3
         )
-        summary = resp.choices[0].message.content.strip()
-        summary_msg = {"role": "assistant", "content": "Summary: " + summary}
-        chat_history = [system_msg, summary_msg]
+        summarized_content = response.choices[0].message.content.strip()
+
+        # Recursive shortening if summary too long
+        if len(summarized_content.split()) > 80:
+            forced_prompt = [
+                {"role": "system", "content": "Please rewrite the following summary in less than 60 words:"},
+                {"role": "assistant", "content": summarized_content}
+            ]
+            response2 = client.chat.completions.create(
+                model=MODEL_NAME,
+                messages=forced_prompt,
+                max_tokens=100,
+                temperature=0.3
+            )
+            summarized_content = response2.choices[0].message.content.strip()
+
+        return "Summary: " + summarized_content
     except Exception as e:
-        pass  # In production, you might handle errors or fallback here
+        print(f"ERROR during summarization: {e}")
+        return message["content"]
 
 
-def trim_history_if_needed():
-    while count_tokens(chat_history) > TOKEN_LIMIT and len(chat_history) > 1:
-        chat_history.pop(1)
+def trim_and_summarize_individual_messages(chat_history, skip_last_n=2):
+    total_tokens = sum(len(m["content"].split()) for m in chat_history)
+    if total_tokens <= TOKEN_LIMIT:
+        return chat_history
 
+    print(f"TOKEN LIMIT EXCEEDED ({total_tokens}). Starting summarization BEFORE next request.")
 
-def trim_history():
-    current_tokens = count_tokens(chat_history)
-    if current_tokens >= SUMMARIZATION_THRESHOLD:
-        summarize_history()
-        current_tokens = count_tokens(chat_history)
-        if current_tokens > TOKEN_LIMIT:
-            trim_history_if_needed()
+    new_chat_history = [chat_history[0]]
+    preserved = chat_history[-skip_last_n:] if len(chat_history) > skip_last_n else chat_history[1:]
+    messages_to_summarize = chat_history[1:-skip_last_n] if len(chat_history) > skip_last_n else []
+
+    for msg in messages_to_summarize:
+        summarized = summarize_message(msg, role=msg["role"])
+        new_chat_history.append({"role": msg["role"], "content": summarized})
+
+    new_chat_history.extend(preserved)
+
+    print(f"Tokens after summarization: {sum(len(m['content'].split()) for m in new_chat_history)}")
+    return new_chat_history
 
 
 def process_query_groq(user_input):
+    global chat_history
     try:
         context = get_relevant_context_from_db(user_input)
         context_text = "\n".join(context)
-        full_user_prompt = user_input + "\n" + "CONTEXT: " + context_text
-        chat_history.append({"role": "user", "content": full_user_prompt})
+        prompt = user_input + "\n" + "CONTEXT: " + context_text
 
-        trim_history()
+        chat_history.append({"role": "user", "content": prompt})
 
-        retriever_params = get_parameters()
+        # Trim/summarize BEFORE sending to LLM (excluding last 2)
+        chat_history = trim_and_summarize_individual_messages(chat_history, skip_last_n=2)
+
+        retriever_parameters = get_parameters()
+
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=chat_history,
             max_tokens=MAX_TOKENS,
             temperature=TEMPERATURE
         )
-        answer = response.choices[0].message.content.strip()
 
-        chat_history.append({"role": "assistant", "content": answer})
-        trim_history()
+        # Append the response to the chat history
+        chat_history.append({
+            "role": "assistant",
+            "content": response.choices[0].message.content
+        })
+        answer = response.choices[0].message.content
 
         print_chat_history()
 
+        # Return structured data for MongoDB insertion
         return {
             "model": MODEL_NAME,
             "temperature": TEMPERATURE,
-            "retriever": retriever_params,
-            "user_input": full_user_prompt,
+            "retriever": retriever_parameters,
+            "user_input": user_input,
             "context": context,
             "answer": answer
         }
+
     except Exception as e:
+        print(e)
         if "rate_limit_exceeded" in str(e):
-            chat_history.clear()
             answer = "ERROR: TOKEN LIMIT EXCEEDED"
+            chat_history.clear()
         else:
             answer = "ERROR: GENERAL PROCESSING ERROR"
+
         return {
             "model": MODEL_NAME,
             "temperature": TEMPERATURE,
-            "retriever": get_parameters(),
+            "retriever": {},
             "user_input": user_input,
             "context": [],
             "answer": answer
         }
+
 
 """ while True:
   # Get user input from the console
