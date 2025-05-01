@@ -32,6 +32,7 @@ args, _ = parser.parse_known_args()
 EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 K_1 = 2  # bm25
 K_2 = 2  # chroma
+IGNORE_QUERIES = {"ciao", "hi", "hello", "ok", "thanks"}
 
 markdown_folder_path = "./data/markdown/"
 markdown_documents = []
@@ -94,8 +95,8 @@ def call_llm_filter(query, context_texts):
         f"Given the following user query:\n\"{query}\"\n\n"
         "And the following context snippets:\n\n"
         f"{chr(10).join([f'[{i + 1}] {ctx}' for i, ctx in enumerate(context_texts)])}\n\n"
-        "Return a list of snippet numbers (e.g., [1, 3]) that are relevant to answer the query. "
-        "Just reply with a Python list."
+        "Return a list of snippet numbers (1-based index, e.g., [1, 3]) that are relevant to answer the query. "
+        "Just reply with a Python list using 1-based indexing."
     )
     logger.debug(f"LLM prompt: {prompt[:300]}...")
     try:
@@ -125,7 +126,7 @@ def llm_filtering(query, docs):
 
 
 def get_relevant_context_from_db(query, filter_strategy="cosine", threshold=args.cosine_threshold):
-    if not query or query.lower().strip() in ["ciao", "hi", "hello", "ok", "thanks"]:
+    if not query or query.lower().strip() in IGNORE_QUERIES:
         return []
 
     search_results = ensemble_retriever.invoke(query)
