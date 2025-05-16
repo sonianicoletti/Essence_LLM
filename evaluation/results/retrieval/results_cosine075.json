@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is the Essence standard by SEMAT?",
+    "contexts": [
+      "# Conclusion.\n- User stories are a favorite way to write requirements for a digital product\n- Product management comes to define user stories after a market analysis that includes characterizing _personae_ ideal users of the product\nSelf-assessment questions:\n- What does Humphrey's law assert?\n- What is a user requirement?\n- What is the standard form of user stories?\n- What is an epic?\n- What are the states of a requirement in the Essence model?"
+    ],
+    "num_contexts": 1
+  },
+  {
+    "question": "What are the elements of the Essence language?",
+    "contexts": [
+      "# The Essence Kernel\nThe Essence kernel is the set of Essence elements that would always be found in all types of software system endeavours.\nFor instance, the element architecture was discussed as a kernel element.\n- The opinion was that while for many systems it is critical to identify an architecture there are many simpler systems where architecture is not an issue.\n- Since it is not common to all projects, architecture is not a concern that every endeavor has to face, it didn’t qualify as a kernel element.\nIn the following slides we will illustrate the elements that are part of Essence Kernel  \n## Areas of Concerns\nThe Essence kernel elements are organized around 3 areas of concerns, that we have already seen:\n- Customer: This area of concern contains everything to do with the actual use and exploitation of the software system to be produced.\n- Solution: This area of concern contains everything related to the specification and development of the software system.\n- Endeavor: This area of concern contains everything related to the development team and the way that they approach their work  \n## The Essence Kernel\nThe kernel elements are fundamentally of four kinds:\n1. The essential things to work with - the alphas\n2. The essential things to do - the activity spaces\n3. The essential capabilities needed - the competencies\n4. The essential arrangements of elements - the patterns.\n- Finding the right elements is crucial.\n- They must be universally acceptable, significant, relevant and guided by the notion that,\n“You have achieved perfection not when there is nothing left to add, but when there is nothing left to take away.”*"
+    ],
+    "num_contexts": 1
+  },
+  {
+    "question": "What is the Essence standard used for?",
+    "contexts": [
+      "# Conclusion.\n- User stories are a favorite way to write requirements for a digital product\n- Product management comes to define user stories after a market analysis that includes characterizing _personae_ ideal users of the product\nSelf-assessment questions:\n- What does Humphrey's law assert?\n- What is a user requirement?\n- What is the standard form of user stories?\n- What is an epic?\n- What are the states of a requirement in the Essence model?"
+    ],
+    "num_contexts": 1
+  },
+  {
+    "question": "What are the Alphas of the Essence Kernel?",
+    "contexts": [
+      "# Essence Kernel Alphas  \nThe Essence Kernel defines seven core, common Alphas for software engineering, which together:  \nCapture the key concepts involved in software engineering\nAllow the progress and health of any software endeavor to be tracked and assessed\nProvide common ground for the definition of software engineering practices.  \nNote that the Kernel Alphas each belong in one of the three Areas of Concern and are color-coded accordingly."
+    ],
+    "num_contexts": 1
+  },
+  {
+    "question": "What are the Kernel Competencies?",
+    "contexts": [
+      "# Activity  \nAn Activity is the doing of some work by one or more people, for example in a workshop or meeting, or as an individual, pair or larger group collaboration. Examples might include Daily Stand-Up Meeting, Backlog Refinement or Develop a Component.  \nActivities are what we do. Activities are important because, unless we collectively actually do something (successfully), nothing is ever achieved or produced.  \nA good Activity description will include guidance on:\n- What outcomes the Activity produces or achieves\n- What we should do to achieve these outcomes\n- What kinds of Competencies at what Levels are needed to undertake the activity successfully.  \n## Activity Space  \nAn Activity Space is a placeholder for something to be done in an endeavor, such as to Understand the Requirements.  \nThe Essence Kernel defines a number of Activity Spaces that together represent the kinds of things that we need to do to progress any software engineering endeavor.  \nActivity Spaces can be used to group together related Activities that different Practices define."
+    ],
+    "num_contexts": 1
+  },
+  {
+    "question": "What are the states of the Work alpha?",
+    "contexts": [
+      "# Conclusion.\n- User stories are a favorite way to write requirements for a digital product\n- Product management comes to define user stories after a market analysis that includes characterizing _personae_ ideal users of the product\nSelf-assessment questions:\n- What does Humphrey's law assert?\n- What is a user requirement?\n- What is the standard form of user stories?\n- What is an epic?\n- What are the states of a requirement in the Essence model?"
+    ],
+    "num_contexts": 1
+  },
+  {
+    "question": "What are the Activity Spaces in the Customer Area of Concern?",
+    "contexts": [
+      "# Activity  \nAn Activity is the doing of some work by one or more people, for example in a workshop or meeting, or as an individual, pair or larger group collaboration. Examples might include Daily Stand-Up Meeting, Backlog Refinement or Develop a Component.  \nActivities are what we do. Activities are important because, unless we collectively actually do something (successfully), nothing is ever achieved or produced.  \nA good Activity description will include guidance on:\n- What outcomes the Activity produces or achieves\n- What we should do to achieve these outcomes\n- What kinds of Competencies at what Levels are needed to undertake the activity successfully.  \n## Activity Space  \nAn Activity Space is a placeholder for something to be done in an endeavor, such as to Understand the Requirements.  \nThe Essence Kernel defines a number of Activity Spaces that together represent the kinds of things that we need to do to progress any software engineering endeavor.  \nActivity Spaces can be used to group together related Activities that different Practices define."
+    ],
+    "num_contexts": 1
+  },
+  {
+    "question": "What are the checklist items of the User Story \"Identified\" Alpha State card?",
+    "contexts": [
+      "# Alphas\nAn Alpha is a key aspect or element that we need to progress, the state of which is a key indicator of the overall progress and health of an endeavor. Examples might include a User Story being progressed to a Done state or a Team achieving a state of Performing.\nAlphas are what we progress. These are of central importance in Essence because they ensure we remain focused on the valuable outcomes we are trying to achieve, not on secondary concerns such as what physical documents or other artefacts may or may not help us to achieve these outcomes.\nIt progresses through a number of states, from top to bottom, as shown in this example of a User Story.  \n### Alpha States\nA State is a specification of the state of progress of an Alpha. Examples might include a User Story Alpha being\nin a State of Identified or an Impediment being Resolved.\nAlpha States can in turn be concisely and accurately defined in terms of the set Checklist Items that need to be achieved for the state to be achieved.\nIn this example, the Identified State of a User Story Alpha might have these 3 Checklist Items that should be satisfied before it can be considered in that State.\nThese Checklist Items can be used both as a way to assess whether an item is in this state, or considered as a set of “To Dos” to achieve it."
+    ],
+    "num_contexts": 1
+  },
+  {
+    "question": "What is Mad Sad Glad?",
+    "contexts": [
+      "# Restrospective Essence cards - Patterns  \nTitle: Feedback\nDescription: Feedback patterns establish mechanisms for assessing performance and adjusting the approach based on these assessments.  \nTitle: Mad, Sad, Glad\nDescription: A popular approach to team brainstorming to identify potential improvements.\nTeam members write on sticky notes what has made them:\nMad – frustrations\nSad – disappointments\nGlad – things that went well\nPart of its power is that it taps into people’s emotions, and results in an unfettered flow of ideas that the team can then analyze, prioritize and action.\nOne approach to: Hold a Retrospective\nPatterns: Feedback gorups Mad, Sad, Glad"
+    ],
+    "num_contexts": 1
+  },
+  {
+    "question": "What are the steps of Progress Poker?",
+    "contexts": [
+      "# Conclusions.\n- Waterfall processes: planned, rigid\n- Iterative processes: planned, flexible\n- Agile processes: unplanned, adaptive\n- There are many variations\n- Each organization defines the model it prefers, possibly adapting it for\nclasses of products or software projects\nSelf-testing:\n- What is a software process?\n- What are the typical steps in the development process?\n- What are the main differences between linear processes\nand iterative processes?\n- How do you recognize a waterfall process?\n- What are the main performance indicators of\nsoftware process?"
+    ],
+    "num_contexts": 1
+  }
+]
