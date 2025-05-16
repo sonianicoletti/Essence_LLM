@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the file
-excel_file = 'scores_retrieval.xlsx'
+excel_file = 'input/scores_retrieval.xlsx'
 df = pd.read_excel(excel_file)
 
 # Ensure required columns exist

@@ -6,7 +6,7 @@ import numpy as np
 bertscore = load("bertscore")
 
 # Load the Excel file into a pandas DataFrame
-dataset_file = 'dataset2.csv'
+dataset_file = 'input/dataset.csv'
 df = pd.read_csv(dataset_file)
 
 # Ensure the DataFrame has the required columns
@@ -119,6 +119,6 @@ avg_data = pd.DataFrame({
 })
 
 # Save the averages to a CSV file
-avg_data.to_csv('results_avg.csv', index=False)
+avg_data.to_csv('output/results_avg.csv', index=False)
 
-print("Average scores saved to 'results_avg.csv'")
+print("Average scores saved to 'output/results_avg.csv'")

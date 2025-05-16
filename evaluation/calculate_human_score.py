@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the Excel file into a pandas DataFrame
-csv_file = 'scores_human.csv'
+csv_file = 'input/scores_human.csv'
 df = pd.read_csv(csv_file)
 
 # Ensure the DataFrame has the required columns
@@ -53,6 +53,6 @@ grouped_avg_df = grouped_avg.reset_index()  # Reset index for grouped averages
 combined_df = pd.concat([overall_avg_df, grouped_avg_df], ignore_index=False)
 
 # Save the combined averages to a CSV file
-combined_df.to_csv('scores_human_avg.csv', index=False)
+combined_df.to_csv('output/scores_human_avg.csv', index=False)
 
-print("Averages saved to 'scores_human_avg.csv'")
+print("Averages saved to 'output/scores_human_avg.csv'")

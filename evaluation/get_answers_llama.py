@@ -8,8 +8,8 @@ from groq import Groq
 load_dotenv()
 
 # Constants
-INPUT_FILE = "questions.csv"
-OUTPUT_FILE = "dataset_llama.csv"
+INPUT_FILE = "input/questions.csv"
+OUTPUT_FILE = "output/dataset_llama.csv"
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 MODEL_NAME = "llama-3.3-70b-versatile"
 MAX_TOKENS = 1000
