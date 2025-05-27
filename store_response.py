@@ -24,4 +24,4 @@ def store_chat_response(model, temperature, retriever, user_question, context, a
         "event": event
     }
     collection.insert_one(chat_data)
-    print("Chat data stored in MongoDB:", chat_data)
+    # print("Chat data stored in MongoDB:", chat_data)

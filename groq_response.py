@@ -209,23 +209,3 @@ def process_query_groq(user_input):
             "context": [],
             "answer": answer
         }
-
-
-""" while True:
-  # Get user input from the console
-  user_input = input("You: ")
-  context = get_relevant_context_from_db(user_input)
-  prompt = user_input + "\n" + "CONTEXT: " + context
-  # Append the user input to the chat history
-  chat_history.append({"role": "user", "content": prompt})
-  response = client.chat.completions.create(model=MODEL_NAME,
-                                            messages=chat_history,
-                                            max_tokens=MAX_TOKENS,
-                                            temperature=TEMPERATURE)
-  # Append the response to the chat history
-  chat_history.append({
-      "role": "assistant",
-      "content": response.choices[0].message.content
-  })
-  # Print the response
-  print("Assistant:", response.choices[0].message.content) """
