@@ -1,6 +1,8 @@
 import os
 import pymongo
 from dotenv import load_dotenv
+from datetime import datetime
+from flask import session
 
 # Load environment variables
 load_dotenv()
@@ -8,20 +10,19 @@ MONGO_URI = os.getenv("MONGO_URI")
 
 # Set up MongoDB client and database
 client = pymongo.MongoClient(MONGO_URI)
-db = client["chatbot_db"]
-collection = db["chats_llama"]
+db = client["chatbot"]
+collection = db["messages"]
 
-def store_chat_response(model, temperature, retriever, user_question, context, answer, role, event):
-    # Store the user's question, the retrieved context, and the assistant's answer in MongoDB.
+def store_chat_response(user_question, contexts, answer, event):
     chat_data = {
-        "model": model,
-        "temperature": temperature,
-        "retriever": retriever,
         "user_question": user_question,
-        "context": context,
+        "contexts": contexts if isinstance(contexts, list) else [contexts],  # Ensure it's a list
         "answer": answer,
-        "role": role,
-        "event": event
+        "user_email": session.get("email"),
+        "user_role": session.get("role"),
+        "event": event,
+        "timestamp": datetime.utcnow()
     }
+
     collection.insert_one(chat_data)
     print("Chat data stored in MongoDB:", chat_data)

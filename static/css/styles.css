@@ -1,4 +1,7 @@
-/* Color Variables */
+/***************************************
+Color variables
+****************************************/
+
 :root {
     --background-color: rgb(22, 25, 36);
     --text-color: #ffffff;
@@ -17,7 +20,10 @@
     --scrollbar-track-bg: #21242f;
 }
 
-/* General body styling */
+/***************************************
+Body and text
+****************************************/
+
 body {
     margin: 0;
     padding: 20px; /* To avoid elements sticking to the edges */
@@ -31,7 +37,6 @@ body {
     text-align: center;
 }
 
-/* Heading and paragraph styling */
 h1 {
     margin: 10px 0;
     font-size: 2.5em;
@@ -45,7 +50,10 @@ a {
     color: var(--send-button-bg);
 }
 
-/* Chat container */
+/***************************************
+Chat container
+****************************************/
+
 #chat-container {
     width: 90%; /* Fluid width for responsiveness */
     max-width: 900px; /* Set a maximum width */
@@ -59,7 +67,10 @@ a {
     margin-top: 20px;
 }
 
-/* Chatbox styling */
+/***************************************
+Chatbox
+****************************************/
+
 #chatbox {
     flex-grow: 1;
     padding: 20px;
@@ -71,7 +82,10 @@ a {
     max-height: 70vh; /* Limits the chatbox height */
 }
 
-/* Chat message styles */
+/***************************************
+Chat messages
+****************************************/
+
 .message {
     max-width: 70%;
     padding: 10px;
@@ -81,22 +95,25 @@ a {
     font-size: 1em; /* Use relative units */
 }
 
-/* User message on the right */
 .user-message {
-    align-self: flex-end;
+    align-self: flex-end; /* User message on the right */
     background-color: var(--user-message-bg);
     color: var(--text-color);
     border-bottom-right-radius: 0;
     text-align: start;
 }
 
-/* Bot message on the left */
 .bot-message {
-    align-self: flex-start;
+    align-self: flex-start; /* Bot message on the left */
     background-color: var(--bot-message-bg);
     color: var(--text-color);
     border-bottom-left-radius: 0;
     text-align: start;
+}
+
+.error-message {
+    color: var(--text-color); 
+    background-color: var(--error-message-bg);
 }
 
 .bot-message p {
@@ -112,13 +129,10 @@ ol, ul {
     margin-bottom: 10px !important;
 }
 
-/* Error message styling for bot response */
-.error-message {
-    color: var(--text-color); 
-    background-color: var(--error-message-bg);
-}
+/***************************************
+Input area
+****************************************/
 
-/* Input area styling */
 #input-area {
     display: flex;
     padding: 20px;
@@ -160,13 +174,15 @@ ol, ul {
     cursor: not-allowed;
 }
 
-/* Change the placeholder text color */
 #input-area input::placeholder {
     color: #7b7b7b;
     opacity: 0.8;
 }
 
-/* Scrollbar styling */
+/***************************************
+Scrollbar
+****************************************/
+
 #chatbox::-webkit-scrollbar {
     width: 8px;
 }
@@ -180,11 +196,18 @@ ol, ul {
     background-color: var(--scrollbar-track-bg);
 }
 
+/***************************************
+Footer
+****************************************/
+
 footer {
     margin: 20px 0;
 }
 
-/* Loading indicator (three dots) */
+/***************************************
+Loading indicator (3 dots)
+****************************************/
+
 .typing-indicator {
     display: inline-block;
     margin: 0 0;
@@ -262,7 +285,58 @@ footer {
     background-color: var(--input-background);
 }
 
-/* Media Queries for different screen sizes */
+/***************************************
+Sidebar
+****************************************/
+
+#chat-layout {
+    display: flex;
+    min-height: 100vh;
+}
+
+#sidebar {
+    background-color: #e0f0ff;
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+#user-info {
+    font-size: 14px;
+    margin-bottom: auto;
+}
+
+#logout-section {
+    margin-top: auto;
+}
+
+#logout-button {
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 4px;
+}
+
+#logout-button:hover {
+    background-color: #c9302c;
+}
+
+#main-content {
+    flex: 1;
+    padding: 30px;
+}
+
+/***************************************
+Media Queries for different screen sizes
+****************************************/
+
 @media (max-width: 768px) {
     #chat-container {
         width: 100%;
