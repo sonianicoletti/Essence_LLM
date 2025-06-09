@@ -1,3 +1,4 @@
+# pip install pandas, openpyxl
 import pandas as pd
 import glob
 import os
