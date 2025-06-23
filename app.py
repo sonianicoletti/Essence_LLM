@@ -74,6 +74,13 @@ def logout():
     session.clear()
     return redirect(url_for('login_page'))
 
+@app.route('/guest')
+def guest_login():
+    session['user_id'] = 'guest'
+    session['email'] = 'guest@example.com'
+    session['role'] = 'Guest'
+    return redirect(url_for('index'))
+
 @app.route('/api/chat', methods=['POST'])
 def chat():
     if 'user_id' not in session:

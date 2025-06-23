@@ -25,4 +25,4 @@ def store_chat_response(user_question, contexts, answer, event):
     }
 
     collection.insert_one(chat_data)
-    print("Chat data stored in MongoDB:", chat_data)
+    # print("Chat data stored in MongoDB:", chat_data)
