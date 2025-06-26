@@ -100,3 +100,12 @@ inputField.addEventListener('input', function() {
         inputField.value = inputField.value.slice(0, maxLength);  // Trim input to 1000 characters
     }
 });
+
+document.addEventListener('DOMContentLoaded', () => {
+    const toggleBtn = document.getElementById('sidebar-toggle');
+    const sidebar = document.getElementById('sidebar');
+
+    toggleBtn.addEventListener('click', () => {
+        sidebar.classList.toggle('open');
+    });
+});

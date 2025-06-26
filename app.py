@@ -3,6 +3,7 @@ from flask import Flask, request, render_template, redirect, url_for, session
 from dotenv import load_dotenv
 from pymongo import MongoClient
 from bson.objectid import ObjectId
+from register_user import register_user
 import bcrypt
 
 from groq_response import process_query_groq
@@ -39,21 +40,18 @@ def register_page():
 @app.route('/register', methods=['POST'])
 def register():
     data = request.json
-    email = data['email']
-    password = data['password']
-    role = data['role']
+    email = data.get('email')
+    password = data.get('password')
+    role = data.get('role')
 
-    if users_collection.find_one({'email': email}):
-        return "Email already exists", 400
+    if not email or not password or not role:
+        return "Missing required fields", 400
 
-    hashed_pw = bcrypt.hashpw(password.encode('utf-8'), bcrypt.gensalt())
-    users_collection.insert_one({
-        'email': email,
-        'password': hashed_pw,
-        'role': role
-    })
-
-    return "Registered successfully", 200
+    success = register_user(email, password, role)
+    if success:
+        return "User registered successfully", 200
+    else:
+        return "Email already exists", 409
 
 @app.route('/login', methods=['POST'])
 def login():

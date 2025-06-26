@@ -1,0 +1,112 @@
+/* Inherit your variables and fonts */
+:root {
+    --background-color: rgb(22, 25, 36);
+    --text-color: #ffffff;
+    --container-background: #101a37;
+    --box-shadow-color: rgba(0, 0, 0, 0.2);
+    --chatbox-background: #21242f;
+    --input-background: #303545;
+    --send-button-bg: #4361EE;
+    --send-button-hover-bg: #3655e0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "IBM Plex Sans", sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+h1 {
+    margin: 30px 0;
+    font-size: 2.5em;
+}
+
+h2 {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font-weight: 600;
+    text-align: center;
+}
+
+form {
+    background-color: var(--chatbox-background);
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px var(--box-shadow-color);
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 8px;
+    background-color: var(--input-background);
+    color: var(--text-color);
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+input::placeholder {
+    color: #bbb;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 8px;
+    background-color: var(--send-button-bg);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+button:hover {
+    background-color: var(--send-button-hover-bg);
+}
+
+.auth_options {
+    margin-top: 20px;
+}
+
+.auth_options p {
+    font-size: 1em;
+    text-align: center;
+}
+
+a {
+    color: var(--send-button-bg);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 480px) {
+    form {
+        padding: 24px;
+        max-width: 90%;
+    }
+
+    input,
+    select,
+    button {
+        font-size: 18px;
+        padding: 14px;
+    }
+}

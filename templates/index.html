@@ -11,12 +11,17 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap">
 </head>
 <body>
+    <!-- Mobile Sidebar Toggle Button -->
+    <button id="sidebar-toggle" class="mobile-only">☰</button>
+
     <div id="chat-layout">
         <!-- Sidebar -->
         <div id="sidebar">
             <div id="user-info">
-                <p><strong>{{ email }}</strong></p>
-                <p>Role: {{ role }}</p>
+                {% if email != "guest@example.com" %}
+                    <p><strong>{{ email.split('@')[0] }}</strong></p>
+                {% endif %}
+                <p><b>Role: </b>{{ role }}</p>
             </div>
             <div id="logout-section">
                 <button id="logout-button">Logout</button>
@@ -27,7 +32,7 @@
             <h1>Essence Coach</h1>
             <p>This chatbot is designed to help you better understand the <a href="https://www.essify.com/essence" target="_blank">Essence</a> standard. Ask any question you want.</p>
             
-            <div id="selection-area">
+            <div id="selection-area" style="display: none;">
                 <div class="selection-group">
                     <label for="role">Your Role:</label>
                     <select id="role">

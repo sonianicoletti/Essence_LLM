@@ -2,12 +2,17 @@
 <html>
 <head>
     <title>Register</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/auth.css') }}">
 </head>
 <body>
-    <h2>Register</h2>
+    <h1>Essence Coach</h1>
     <form id="registerForm">
+        <h2>Register</h2>
         <input type="email" id="email" placeholder="Email" required><br>
         <input type="password" id="password" placeholder="Password" required><br>
+        
         <select id="role" required>
             <option value="" disabled selected>Select your role</option>
             <option value="Scrum Master">Scrum Master</option>
@@ -17,28 +22,44 @@
             <option value="Professor/Researcher">Professor/Researcher</option>
             <option value="Other">Other</option>
         </select><br>
+        
         <button type="submit">Register</button>
     </form>
-    <p>Already have an account? <a href="/login">Login here</a></p>
+    <div class="auth_options">
+        <p>Already have an account? <a href="/login">Login here</a></p>
+    </div>
 
     <script>
         document.getElementById('registerForm').addEventListener('submit', async (e) => {
             e.preventDefault();
-            const email = document.getElementById('email').value;
+            
+            const email = document.getElementById('email').value.trim();
             const password = document.getElementById('password').value;
             const role = document.getElementById('role').value;
 
-            const res = await fetch('/register', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ email, password, role })
-            });
+            // Basic check before sending
+            if (!email || !password || !role) {
+                alert("Please fill in all fields.");
+                return;
+            }
 
-            const result = await res.text();
-            if (res.ok) {
-                window.location.href = '/login';
-            } else {
-                alert(result);
+            try {
+                const res = await fetch('/register', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ email, password, role })
+                });
+
+                const result = await res.text();
+                if (res.ok) {
+                    alert("Registration successful! You can now log in.");
+                    window.location.href = '/login';
+                } else {
+                    alert(result);
+                }
+            } catch (error) {
+                console.error("Registration error:", error);
+                alert("An error occurred. Please try again later.");
             }
         });
     </script>
